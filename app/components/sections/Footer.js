@@ -1,136 +1,96 @@
 'use client';
+
 import Image from 'next/image';
 import React from 'react';
+import Link from 'next/link';
 
 const Footer = () => {
-  const footerNavs = [
-    {
-      href: 'javascript:void()',
-      name: 'About'
-    },
-    {
-      href: 'javascript:void()',
-      name: 'Blog'
-    },
-    {
-      href: 'javascript:void()',
-      name: ''
-    },
-    {
-      href: 'javascript:void()',
-      name: 'Team'
-    },
-    {
-      href: 'javascript:void()',
-      name: 'Careers'
-    },
-
-    {
-      href: 'javascript:void()',
-      name: 'Support'
-    }
+  const anasayfaNavs = [
+    { title: 'Hakkımızda', path: '/hakkimizda' },
+    { title: 'Hizmetler', path: '/hizmetler' },
+    { title: 'Referanslar', path: '/referanslar' },
+    { title: 'Galeri', path: '/galeri' },
+    { title: 'İletişim', path: '/iletisim' }
   ];
+
   return (
-    <footer className="text-gray-500 px-4 py-5 max-w-screen-xl md:px-8">
-      <div className="max-w-lg sm:mx-auto sm:text-center">
-        <Image src="/inci-isg-logo.png" className="w-32 sm:mx-auto" width={128} height={128} alt="inci isg logo" />
-        <p className="leading-relaxed mt-2 text-[15px]">
-          Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-          book.
-        </p>
-      </div>
-      <ul className="items-center justify-center mt-8 space-y-5 sm:flex sm:space-x-4 sm:space-y-0">
-        {footerNavs.map((item, idx) => (
-          <li className=" hover:text-gray-800" key={idx}>
-            <a href={item.href}>{item.name}</a>
-          </li>
-        ))}
-      </ul>
-      <div className="mt-8 items-center justify-between sm:flex">
-        <div className="mt-4 sm:mt-0">&copy; 2022 Float UI All rights reserved.</div>
-        <div className="mt-6 sm:mt-0">
-          <ul className="flex items-center space-x-4">
-            <li className="w-10 h-10 border rounded-full flex items-center justify-center">
-              <a href="javascript:void()">
-                <svg className="w-5 h-5 duration-150 hover:text-gray-500" fill="currentColor" viewBox="0 0 48 48">
-                  <g clip-path="url(#clip0_17_80)">
-                    <path
-                      fill="currentColor"
-                      d="M15.1 43.5c18.11 0 28.017-15.006 28.017-28.016 0-.422-.01-.853-.029-1.275A19.998 19.998 0 0048 9.11c-1.795.798-3.7 1.32-5.652 1.546a9.9 9.9 0 004.33-5.445 19.794 19.794 0 01-6.251 2.39 9.86 9.86 0 00-16.788 8.979A27.97 27.97 0 013.346 6.299 9.859 9.859 0 006.393 19.44a9.86 9.86 0 01-4.462-1.228v.122a9.844 9.844 0 007.901 9.656 9.788 9.788 0 01-4.442.169 9.867 9.867 0 009.195 6.843A19.75 19.75 0 010 39.078 27.937 27.937 0 0015.1 43.5z"
-                    />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_17_80">
-                      <path fill="currentColor" d="M0 0h48v48H0z" />
-                    </clipPath>
-                  </defs>
-                </svg>
-              </a>
-            </li>
+    <footer className="bg-gray-950 text-gray-400 pt-16 pb-8 border-t border-gray-900">
+      <div className="max-w-screen-xl mx-auto px-4 md:px-8">
+        {/* Üst Grid Alanı */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 pb-12 border-b border-gray-900">
+          {/* 1. Sütun: Logo ve Kısa Tanım */}
+          <div className="space-y-4">
+            <Image
+              src="/inci-isg-logo.png"
+              width={140}
+              height={60}
+              alt="inci isg logo"
+              className="invert object-contain" // Koyu zeminde logonun beyaz görünmesi için
+            />
+            <p className="text-sm leading-relaxed text-gray-400">
+              İzmir merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak, iş kazalarını proaktif çözümlerle önlemek amacıyla hizmet veriyoruz.
+            </p>
+          </div>
 
-            <li className="w-10 h-10 border rounded-full flex items-center justify-center">
-              <a href="javascript:void()">
-                <svg className="w-5 h-5 duration-150 hover:text-gray-500" fill="none" viewBox="0 0 48 48">
-                  <g clip-path="url(#clip0_17_68)">
-                    <path
-                      fill="currentColor"
-                      d="M44.447 0H3.544C1.584 0 0 1.547 0 3.46V44.53C0 46.444 1.584 48 3.544 48h40.903C46.407 48 48 46.444 48 44.54V3.46C48 1.546 46.406 0 44.447 0zM14.24 40.903H7.116V17.991h7.125v22.912zM10.678 14.87a4.127 4.127 0 01-4.134-4.125 4.127 4.127 0 014.134-4.125 4.125 4.125 0 010 8.25zm30.225 26.034h-7.115V29.766c0-2.653-.047-6.075-3.704-6.075-3.703 0-4.265 2.896-4.265 5.887v11.325h-7.107V17.991h6.826v3.13h.093c.947-1.8 3.272-3.702 6.731-3.702 7.21 0 8.541 4.744 8.541 10.912v12.572z"
-                    />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_17_68">
-                      <path fill="currentColor" d="M0 0h48v48H0z" />
-                    </clipPath>
-                  </defs>
-                </svg>
-              </a>
-            </li>
+          <div className="space-y-4">
+            <h4 className="text-white font-semibold text-sm tracking-wider">HIZLI ERİŞİM</h4>
+            <ul className="space-y-2.5 text-sm">
+              {anasayfaNavs.map((item, idx) => (
+                <li key={idx}>
+                  <Link href={item.path} className="hover:text-blue-500 transition-colors duration-200 block py-1">
+                    {item.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
 
-            <li className="w-10 h-10 border rounded-full flex items-center justify-center">
-              <a href="javascript:void()">
-                <svg className="w-5 h-5 duration-150 hover:text-gray-500" fill="currentColor" viewBox="0 0 48 48">
-                  <g clip-path="url(#clip0_17_80)">
-                    <path
-                      fill="currentColor"
-                      d="M15.1 43.5c18.11 0 28.017-15.006 28.017-28.016 0-.422-.01-.853-.029-1.275A19.998 19.998 0 0048 9.11c-1.795.798-3.7 1.32-5.652 1.546a9.9 9.9 0 004.33-5.445 19.794 19.794 0 01-6.251 2.39 9.86 9.86 0 00-16.788 8.979A27.97 27.97 0 013.346 6.299 9.859 9.859 0 006.393 19.44a9.86 9.86 0 01-4.462-1.228v.122a9.844 9.844 0 007.901 9.656 9.788 9.788 0 01-4.442.169 9.867 9.867 0 009.195 6.843A19.75 19.75 0 010 39.078 27.937 27.937 0 0015.1 43.5z"
-                    />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_17_80">
-                      <path fill="currentColor" d="M0 0h48v48H0z" />
-                    </clipPath>
-                  </defs>
-                </svg>
-              </a>
-            </li>
+          <div className="space-y-4 text-sm">
+            <h4 className="text-white font-semibold text-sm tracking-wider">İLETİŞİM BİLGİLERİ</h4>
+            <ul className="space-y-3">
+              <li className="flex items-start gap-x-3">
+                <span className="text-blue-500 mt-0.5">📍</span>
+                <span>Adalet Mah. Anadolu Cad. No: 41, Megapol Tower, Kat: 10, Bayraklı / İzmir</span>
+              </li>
+              <li className="flex items-center gap-x-3">
+                <span className="text-blue-500">📞</span>
+                <a href="tel:+902324616070" className="hover:text-white transition-colors">
+                  +90 (232) 461 60 70
+                </a>
+              </li>
+              <li className="flex items-center gap-x-3">
+                <span className="text-blue-500">✉️</span>
+                <a href="mailto:info@inciisgdanismanlik.com" className="hover:text-white transition-colors">
+                  info@inciisgdanismanlik.com
+                </a>
+              </li>
+              <li className="flex items-center gap-x-3 text-gray-500  border-t border-gray-900 pt-2 mt-2">
+                <span>🕒 Pzt - Cmt: 09:00 - 18:00</span>
+              </li>
+            </ul>
+          </div>
+        </div>
 
-            <li className="w-10 h-10 border rounded-full flex items-center justify-center">
-              <a href="javascript:void()">
-                <svg className="w-5 h-5 duration-150 hover:text-gray-500" fill="none" viewBox="0 0 48 48">
-                  <g clip-path="url(#clip0_17_68)">
-                    <path
-                      fill="currentColor"
-                      d="M44.447 0H3.544C1.584 0 0 1.547 0 3.46V44.53C0 46.444 1.584 48 3.544 48h40.903C46.407 48 48 46.444 48 44.54V3.46C48 1.546 46.406 0 44.447 0zM14.24 40.903H7.116V17.991h7.125v22.912zM10.678 14.87a4.127 4.127 0 01-4.134-4.125 4.127 4.127 0 014.134-4.125 4.125 4.125 0 010 8.25zm30.225 26.034h-7.115V29.766c0-2.653-.047-6.075-3.704-6.075-3.703 0-4.265 2.896-4.265 5.887v11.325h-7.107V17.991h6.826v3.13h.093c.947-1.8 3.272-3.702 6.731-3.702 7.21 0 8.541 4.744 8.541 10.912v12.572z"
-                    />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_17_68">
-                      <path fill="currentColor" d="M0 0h48v48H0z" />
-                    </clipPath>
-                  </defs>
-                </svg>
-              </a>
-            </li>
-          </ul>
+        {/* Alt Telif ve Sosyal Medya Alanı */}
+        <div className="mt-8 flex flex-col-reverse sm:flex-row items-center justify-between gap-y-4 text-xs text-gray-500">
+          <div>&copy; {new Date().getFullYear()} İnci İSG Danışmanlık. Tüm Hakları Saklıdır.</div>
+
+          {/* Sosyal Medya İkonları (Linkedin Kurumsal Odaklı Kaldı) */}
+          <div className="flex items-center space-x-4">
+            <a
+              href="https://linkedin.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-8 h-8 rounded-lg bg-gray-900 hover:bg-blue-600 hover:text-white flex items-center justify-center transition-all duration-200"
+              aria-label="Linkedin"
+            >
+              <svg className="w-4 h-4 fill-currentColor" viewBox="0 0 24 24">
+                <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+              </svg>
+            </a>
+          </div>
         </div>
       </div>
-      <style jsx>{`
-        .svg-icon path,
-        .svg-icon polygon,
-        .svg-icon rect {
-          fill: currentColor;
-        }
-      `}</style>
     </footer>
   );
 };

@@ -1,25 +1,130 @@
-import { galeriResimleri } from '../../data/mockData';
+'use client';
+
+import { useState } from 'react';
+
+// Örnek Veri Yapısı (Kategoriler eklendi)
+const galeriVerisi = [
+  { id: 1, category: 'egitim', title: 'İlk Yardım Eğitimi', url: 'https://images.unsplash.com/photo-1516550893923-42d28e5677af?q=80&w=600' },
+  { id: 2, category: 'denetim', title: 'Saha İSG Denetimi', url: 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=600' },
+  { id: 3, category: 'tatbikat', title: 'Yangın Tatbikatı', url: 'https://images.unsplash.com/photo-1508873535684-277a3cbcc4e8?q=80&w=600' },
+  { id: 4, category: 'egitim', title: 'Yüksekte Çalışma Eğitimi', url: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=600' },
+  { id: 5, category: 'denetim', title: 'Kişisel Koruyucu Donanım Kontrolü', url: 'https://images.unsplash.com/photo-1581094288338-2314dddb7ece?q=80&w=600' },
+  { id: 6, category: 'tatbikat', title: 'Acil Durum Tahliye Planı', url: 'https://images.unsplash.com/photo-1605647540924-852290f6b0d5?q=80&w=600' }
+];
+
+const kategoriler = [
+  { id: 'hepsi', label: 'Tümü' },
+  { id: 'egitim', label: 'Eğitimler' },
+  { id: 'denetim', label: 'Saha Denetimleri' },
+  { id: 'tatbikat', label: 'Tatbikatlar' }
+];
 
 export default function GaleriPage() {
+  const [activeFilter, setActiveFilter] = useState('hepsi');
+  const [lightboxIndex, setLightboxIndex] = useState(null); // Tıklanan resmin index'ini tutar
+
+  // 1. Filtreleme Mantığı
+  const filteredImages = activeFilter === 'hepsi' ? galeriVerisi : galeriVerisi.filter(img => img.category === activeFilter);
+
+  // 2. Slide (Sağa-Sola Kaydırma) Fonksiyonları
+  const sonrakiResim = e => {
+    e.stopPropagation(); // Lightbox'ın kapanmasını engeller
+    setLightboxIndex(prevIndex => (prevIndex + 1) % filteredImages.length);
+  };
+
+  const oncekiResim = e => {
+    e.stopPropagation();
+    setLightboxIndex(prevIndex => (prevIndex - 1 + filteredImages.length) % filteredImages.length);
+  };
+
   return (
     <div className="bg-white min-h-screen py-12">
       <div className="container mx-auto px-6">
+        {/* Üst Başlık */}
         <div className="text-center max-w-2xl mx-auto mb-12" data-aos="fade-up">
           <h1 className="text-3xl font-bold text-gray-800 sm:text-4xl">Fotoğraf Galerisi</h1>
-          <p className="mt-4 text-gray-600">Saha denetimleri, tatbikatlar, ilk yardım eğitimleri ve çalışma ortamlarından kareler.</p>
+          <p className="mt-4 text-gray-600">Gerçekleştirdiğimiz eğitimler, saha denetimleri ve acil durum tatbikatlarından kareler.</p>
         </div>
 
+        {/* Filtre Butonları */}
+        <div className="flex flex-wrap justify-center gap-3 mb-12" data-aos="fade-up">
+          {kategoriler.map(kat => (
+            <button
+              key={kat.id}
+              onClick={() => {
+                setActiveFilter(kat.id);
+                setLightboxIndex(null);
+              }}
+              className={`px-5 py-2.5 rounded-xl text-sm font-semibold transition-all duration-200 ${
+                activeFilter === kat.id ? 'bg-blue-600 text-white shadow-md shadow-blue-600/20' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              {kat.label}
+            </button>
+          ))}
+        </div>
+
+        {/* Resim Grid Yapısı */}
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 max-w-6xl mx-auto">
-          {galeriResimleri.map(img => (
-            <div key={img.id} className="group relative overflow-hidden rounded-xl bg-gray-100 shadow-sm" data-aos="fade-up">
-              <img src={img.url} alt={img.title} className="h-64 w-full object-cover transition-transform duration-500 group-hover:scale-110" />
-              {/* Resmin üzerine gelince beliren şık karartma efekti */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-4">
-                <p className="text-white font-medium text-lg">{img.title}</p>
+          {filteredImages.map((img, idx) => (
+            <div
+              key={img.id}
+              onClick={() => setLightboxIndex(idx)} // Resme tıklanınca Lightbox'ı aç
+              className="group relative overflow-hidden rounded-2xl bg-gray-100 shadow-sm cursor-pointer"
+              data-aos="fade-up"
+            >
+              <img src={img.url} alt={img.title} className="h-64 w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
+                <div>
+                  <span className="text-xs text-blue-400 font-medium uppercase tracking-wider">Büyütmek İçin Tıklayın</span>
+                  <p className="text-white font-semibold text-lg mt-1">{img.title}</p>
+                </div>
               </div>
             </div>
           ))}
         </div>
+
+        {/* 3. Gelişmiş Lightbox & Slider Alanı */}
+        {lightboxIndex !== null && (
+          <div
+            className="fixed inset-0 bg-black/95 z-50 flex items-center justify-center p-4 backdrop-blur-sm select-none animate-fadeIn"
+            onClick={() => setLightboxIndex(null)} // Arka plana tıklanınca kapat
+          >
+            {/* Kapat Butonu */}
+            <button className="absolute top-6 right-6 text-white/70 hover:text-white text-3xl font-light p-2" onClick={() => setLightboxIndex(null)}>
+              ✕
+            </button>
+
+            {/* Sol Ok Butonu */}
+            <button
+              className="absolute left-4 md:left-8 bg-white/10 hover:bg-white/20 text-white p-3 md:p-4 rounded-full transition-colors text-xl font-bold"
+              onClick={oncekiResim}
+            >
+              ‹
+            </button>
+
+            {/* Büyük Resim Konteyneri */}
+            <div className="max-w-4xl max-h-[80vh] flex flex-col items-center">
+              <img
+                src={filteredImages[lightboxIndex].url}
+                alt={filteredImages[lightboxIndex].title}
+                className="max-w-full max-h-[75vh] object-contain rounded-lg shadow-2xl transition-all duration-300"
+              />
+              {/* Alt Bilgi Metni */}
+              <p className="text-white/90 text-lg font-medium mt-4 text-center">{filteredImages[lightboxIndex].title}</p>
+              <span className="text-white/40 text-xs mt-1">
+                {lightboxIndex + 1} / {filteredImages.length}
+              </span>
+            </div>
+
+            <button
+              className="absolute right-4 md:right-8 bg-white/10 hover:bg-white/20 text-white p-3 md:p-4 rounded-full transition-colors text-xl font-bold"
+              onClick={sonrakiResim}
+            >
+              ›
+            </button>
+          </div>
+        )}
       </div>
     </div>
   );

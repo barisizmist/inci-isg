@@ -1,71 +1,119 @@
 'use client';
-import React from 'react';
+
+import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
-import { useState, useEffect } from 'react';
 import Link from 'next/link';
+
 const Header = () => {
   const [state, setState] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
 
   const navigation = [
-    { title: 'Referanslar', path: 'referanslar' },
-    { title: 'Galeri', path: 'galeri' },
-    { title: 'Blog', path: 'blog' },
-    { title: 'İletişim', path: 'contact' }
+    { title: 'HAKKIMIZDA', path: '/hakkimizda' },
+    { title: 'HİZMETLER', path: '/hizmetler' },
+    { title: 'REFERANSLAR', path: '/referanslar' },
+    { title: 'GALERİ', path: '/galeri' },
+    { title: 'BLOG', path: '/blog' },
+    { title: 'İLETİŞİM', path: '/iletisim' }
   ];
-  const Brand = () => (
-    <div className="flex items-center justify-between py-5 md:block">
-      <Link href="/" className="flex items-center gap-x-2">
-        <Image src="/inci-isg-logo.png" width={120} height={50} alt="inci isg logo" />
-      </Link>
-      <div className="md:hidden">
-        <button className="menu-btn text-gray-400 hover:text-gray-300" onClick={() => setState(!state)}>
-          {state ? (
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
-              <path
-                fillRule="evenodd"
-                d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
-                clipRule="evenodd"
-              />
-            </svg>
-          ) : (
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-            </svg>
-          )}
-        </button>
-      </div>
-    </div>
-  );
+
+  // Sayfa kaydırıldıkça header stilini değiştirmek için scroll dinleyicisi
   useEffect(() => {
-    document.onclick = e => {
-      const target = e.target;
-      if (!target.closest('.menu-btn')) setState(false);
+    const handleScroll = () => {
+      if (window.scrollY > 20) {
+        setIsScrolled(true);
+      } else {
+        setIsScrolled(false);
+      }
     };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  // Mobil menü açıkken arkadaki sayfanın kaymasını engelleme (UX Dokunuşu)
+  useEffect(() => {
+    if (state) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'unset';
+    }
+  }, [state]);
+
   return (
-    <header>
-      <div className={`md:hidden ${state ? 'mx-2 pb-5' : 'hidden'}`}>
-        <Brand />
-      </div>
-      <nav
-        className={`pb-5 md:text-sm ${state ? 'absolute z-20 top-0 inset-x-0 bg-gray-800 rounded-xl mx-2 mt-2 md:mx-0 md:mt-0 md:relative md:bg-transparent sticky top-0 z-50 w-full bg-white/70 backdrop-blur-md border-b border-gray-100 transition-all duration-300' : ''}`}
-      >
-        <div className="gap-x-14 items-center max-w-screen-xl mx-auto px-4 md:flex md:px-8">
-          <Brand />
-          <div className={`flex-1 items-center mt-8 md:mt-0 md:flex ${state ? 'block' : 'hidden'} `}>
-            <ul className="flex-1 justify-end items-center space-y-6 md:flex md:space-x-6 md:space-y-0">
-              {navigation.map((item, idx) => {
-                return (
-                  <li key={idx} className="text-gray-300 hover:text-gray-400">
-                    <Link href={item.path} className="block">
-                      {item.title}
-                    </Link>
-                  </li>
-                );
-              })}
-              <li></li>
+    <header
+      className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${
+        isScrolled ? 'bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-gray-100 shadow-sm py-3' : 'bg-transparent py-5'
+      }`}
+    >
+      <nav className="max-w-screen-xl mx-auto px-4 md:px-8">
+        <div className="flex items-center justify-between">
+          {/* Logo ve Marka */}
+          <Link href="/" className="flex items-center gap-x-2 z-50">
+            <Image src="/inci-isg-logo.png" width={130} height={55} alt="inci isg logo" className="object-contain" />
+          </Link>
+
+          {/* Masaüstü Navigasyon Linkleri */}
+          <div className="hidden md:block">
+            <ul className="flex items-center space-x-8">
+              {navigation.map((item, idx) => (
+                <li key={idx}>
+                  <Link
+                    href={item.path}
+                    className={`relative text-sm font-medium tracking-wide uppercase py-2 transition-all duration-300 group ${
+                      isScrolled ? 'text-gray-700 hover:text-blue-600' : 'text-white/90 hover:text-white drop-shadow-sm'
+                    }`}
+                  >
+                    {item.title}
+
+                    {/* Şık Sürmeli Hover Çizgisi Efecti */}
+                    <span className={`absolute bottom-0 left-0 w-0 h-[2px] transition-all duration-300 group-hover:w-full ${isScrolled ? 'bg-blue-600' : 'bg-white'}`} />
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
+
+          {/* Mobil Hamburger Butonu (Z-index ile menünün üstünde kalması sağlandı) */}
+          <div className="flex items-center md:hidden z-50">
+            <button
+              className={`focus:outline-none p-2 transition-colors duration-300 ${state || isScrolled ? 'text-gray-700 hover:text-gray-900' : 'text-white hover:text-gray-200'}`}
+              onClick={() => setState(!state)}
+              aria-label="Menüyü Aç/Kapat"
+            >
+              {state ? (
+                // Çarpı İkonu
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                // Hamburger İkonu
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              )}
+            </button>
+          </div>
+        </div>
+
+        {/* Mobil Tam Ekran Popover Menü */}
+        <div
+          className={`fixed inset-0 bg-white z-40 flex flex-col justify-center p-8 transition-all duration-300 md:hidden ${
+            state ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+          }`}
+        >
+          <ul className="space-y-6 text-center">
+            {navigation.map((item, idx) => (
+              <li key={idx} data-aos={state ? 'fade-up' : ''} data-aos-delay={idx * 50}>
+                <Link
+                  href={item.path}
+                  onClick={() => setState(false)} // Linke tıklanınca menüyü kapat
+                  className="block text-2xl font-semibold text-gray-900 hover:text-blue-600 transition-colors"
+                >
+                  {item.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
         </div>
       </nav>
     </header>

@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
         <AosProvider>
           <Header />
-          {children}
+          <main className="pt-24">{children}</main>
           <Footer />
         </AosProvider>
       </body>
