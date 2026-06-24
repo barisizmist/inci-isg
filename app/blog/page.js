@@ -3,8 +3,8 @@ import { blogPosts } from '../../data/mockData'; // Verimizin yolu (klasör yap�
 
 export default function BlogPage() {
   return (
-    <div className="bg-gray-50 min-h-screen py-12">
-      <div className="container mx-auto px-6">
+    <div className="bg-gray-50 min-h-screen pt-28">
+      <div className="container mx-auto px-6 mt-10">
         <div className="text-center max-w-2xl mx-auto mb-16" data-aos="fade-up">
           <h1 className="text-3xl font-bold text-gray-800 sm:text-4xl">İSG Bilgi Merkezi & Blog</h1>
           <p className="mt-4 text-gray-600">İş sağlığı ve güvenliği dünyasından en güncel mevzuatlar, rehberler ve uzman tavsiyeleri.</p>

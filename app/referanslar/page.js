@@ -18,8 +18,8 @@ export default function ReferanslarPage() {
   ];
 
   return (
-    <div className="bg-gray-50 min-h-screen py-16">
-      <div className="container mx-auto px-6">
+    <div className="bg-gray-50 min-h-screen pt-28">
+      <div className="container mx-auto px-6 mt-5">
         {/* Üst Başlık Alanı */}
         <div className="text-center max-w-3xl mx-auto mb-16" data-aos="fade-up">
           <span className="text-blue-600 font-semibold tracking-wider uppercase text-sm">Referanslarımız</span>
