@@ -3,6 +3,7 @@ import './globals.css';
 import Footer from './components/sections/Footer';
 import AosProvider from './components/AosProvider';
 import Header from './components/sections/Header';
+import MainLayoutWrapper from './components/MainLayoutWrapper';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -25,7 +26,7 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
         <AosProvider>
           <Header />
-          <main className="pt-24">{children}</main>
+          <MainLayoutWrapper>{children}</MainLayoutWrapper>
           <Footer />
         </AosProvider>
       </body>
