@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
 
-const Hero = () => {
+const Hero = ({ aos }) => {
   const [state, setState] = useState(false);
 
   // Replace javascript:void(0) paths with your paths
@@ -45,7 +45,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <div className="bg-gray-900">
+    <div className="bg-gray-900" data-aos={aos}>
       <header>
         <div className={`md:hidden ${state ? 'mx-2 pb-5' : 'hidden'}`}>
           <Brand />

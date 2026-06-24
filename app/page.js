@@ -1,13 +1,23 @@
-import Image from 'next/image';
+'use client';
 import Hero from './components/sections/Hero';
+import Cta from './components/sections/Cta';
+import Team from './components/sections/Team';
+import { useEffect } from 'react';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 export default function Home() {
+  useEffect(() => {
+    AOS.init({
+      duration: 800, // Animasyon süresi (ms)
+      once: true // Aşağı kaydırıp yukarı çıkınca tekrar çalışmasın (performans için)
+    });
+  }, []);
   return (
-    <Hero />
-    // <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-    /* <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image className="dark:invert" src="/next.svg" alt="Next.js logo" width={100} height={20} priority />
-      </main> */
-    // </div>
+    <div>
+      <Hero aos="fade-down" />
+      <Cta />
+      <Team />
+    </div>
   );
 }
