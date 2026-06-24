@@ -9,7 +9,7 @@ export default function HakkimizdaPage() {
   ];
 
   return (
-    <div className="min-h-screen pt-28">
+    <div className="min-h-screen">
       {/* 1. Hero Başlık Alanı */}
       <section className="relative bg-gray-900 py-20 text-center text-white overflow-hidden">
         <div className="absolute inset-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070')] bg-cover bg-center"></div>

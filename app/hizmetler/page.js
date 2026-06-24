@@ -43,8 +43,8 @@ export default function HizmetlerPage() {
   ];
 
   return (
-    <div className="bg-gray-50 min-h-screen pt-28 lg:py-24">
-      <div className="container mx-auto px-6 mt-10">
+    <div className="bg-gray-50 min-h-screen py-16 lg:py-24">
+      <div className="container mx-auto px-6">
         {/* 1. Üst Başlık Alanı */}
         <div className="text-center max-w-3xl mx-auto mb-20" data-aos="fade-up">
           <span className="text-blue-600 font-semibold tracking-wider uppercase text-sm">Profesyonel Çözümler</span>

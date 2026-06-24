@@ -12,9 +12,9 @@ export default async function BlogDetail({ params }) {
   }
 
   return (
-    <article className="bg-white min-h-screen pt-28">
+    <article className="bg-white min-h-screen py-16">
       {/* ... Geri kalan HTML kodları tamamen aynı kalacak ... */}
-      <div className="max-w-3xl mx-auto px-6 mt-10">
+      <div className="max-w-3xl mx-auto px-6">
         <Link href="/blog" className="text-sm text-blue-600 hover:underline font-medium">
           ← Tüm Yazılara Dön
         </Link>
