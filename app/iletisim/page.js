@@ -38,13 +38,13 @@ const Contact = () => {
   };
 
   return (
-    <main className="min-h-screen bg-slate-50 text-gray-800 py-12 sm:py-20 px-4 sm:px-6 lg:px-8">
+    <main className="min-h-screen  py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         {/* Üst Başlık Grubu (Tüm cihazlarda ferah bir karşılama) */}
-        <div className="max-w-2xl mb-12 sm:mb-16 space-y-3">
-          <span className="text-blue-600 font-bold text-xs uppercase tracking-widest block">İletişim Paneli</span>
-          <h1 className="text-gray-900 text-3xl font-extrabold tracking-tight sm:text-4xl md:text-5xl">Bizimle İletişime Geçin</h1>
-          <p className="text-gray-500 text-base sm:text-lg leading-relaxed">
+        <div className="max-w-2xl mb-10 space-y-3">
+          <span className="text-blue-600 font-bold text-xs uppercase tracking-widest block">İLETİŞİM Paneli</span>
+          <h1 className="text-3xl font-extrabold tracking-tight sm:text-4xl md:text-5xl">Bizimle İletişime Geçin</h1>
+          <p className="text-base sm:text-lg leading-relaxed">
             Hizmetlerimiz hakkında detaylı bilgi almak, uzman kadromuzla görüşmek veya kurumsal teklif talebinde bulunmak için bize ulaşın.
           </p>
         </div>
@@ -53,26 +53,13 @@ const Contact = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-start">
           {/* SOL TARAFI: Görsel, Kurumsal Bilgiler ve Harita (lg:col-span-5) */}
           <div className="lg:col-span-5 space-y-8 w-full">
-            {/* 1. İSG Temalı Görsel Kartı (Mobilde de harika ölçeklenir) */}
-            <div className="relative h-52 sm:h-64 rounded-3xl overflow-hidden shadow-md group">
-              <img
-                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=1200"
-                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                alt="İnci İSG İş Sağlığı ve Güvenliği"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-gray-950 via-gray-950/30 to-transparent flex flex-col justify-end p-6">
-                <span className="text-blue-400 font-semibold uppercase tracking-wider text-xs">İnci İSG Danışmanlık</span>
-                <h3 className="text-white text-xl font-bold tracking-tight">Önce İnsan, Önce İş Güvenliği</h3>
-              </div>
-            </div>
-
             {/* 2. Kurumsal İletişim Bilgileri Alanı */}
-            <div className="bg-white border border-gray-200/60 rounded-3xl p-6 sm:p-8 shadow-sm space-y-6">
-              <h4 className="text-gray-900 font-bold text-lg border-b border-gray-100 pb-3">İletişim Bilgilerimiz</h4>
+            <div className="border border-gray-200/60 rounded-3xl p-6 sm:p-8 shadow-sm space-y-6">
+              <h4 className="font-bold text-lg border-b border-gray-200/60 pb-3">İletişim Bilgilerimiz</h4>
 
               <div className="space-y-4">
                 {/* Telefon */}
-                <a href="tel:+902320000000" className="flex items-start gap-4 p-3 rounded-2xl hover:bg-slate-50 transition-colors group">
+                <a href="tel:+902320000000" className="flex items-start gap-4 p-3 rounded-2xl transition-colors group">
                   <div className="flex-shrink-0 w-10 h-10 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center group-hover:bg-blue-600 group-hover:text-white transition-colors">
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                       <path
@@ -84,12 +71,12 @@ const Contact = () => {
                   </div>
                   <div>
                     <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider block">Telefon</span>
-                    <span className="text-gray-800 font-semibold text-sm">+90 (232) 000 00 00</span>
+                    <span className=" font-semibold text-sm">+90 (232) 000 00 00</span>
                   </div>
                 </a>
 
                 {/* E-Posta */}
-                <a href="mailto:info@inciisg.com" className="flex items-start gap-4 p-3 rounded-2xl hover:bg-slate-50 transition-colors group">
+                <a href="mailto:info@inciisg.com" className="flex items-start gap-4 p-3 rounded-2xl transition-colors group">
                   <div className="flex-shrink-0 w-10 h-10 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center group-hover:bg-blue-600 group-hover:text-white transition-colors">
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
@@ -97,12 +84,12 @@ const Contact = () => {
                   </div>
                   <div>
                     <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider block">E-Posta</span>
-                    <span className="text-gray-800 font-semibold text-sm">info@inciisg.com</span>
+                    <span className=" font-semibold text-sm">info@inciisg.com</span>
                   </div>
                 </a>
 
                 {/* Adres */}
-                <div className="flex items-start gap-4 p-3 rounded-2xl hover:bg-slate-50 transition-colors group">
+                <div className="flex items-start gap-4 p-3 rounded-2xl transition-colors group">
                   <div className="flex-shrink-0 w-10 h-10 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center group-hover:bg-blue-600 group-hover:text-white transition-colors">
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
@@ -111,14 +98,14 @@ const Contact = () => {
                   </div>
                   <div>
                     <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider block">Merkez Ofis</span>
-                    <p className="text-gray-700 font-medium text-sm leading-relaxed">Megapol Tower, Adalet Mah. Anadolu Cad. No:41 Bayraklı / İzmir</p>
+                    <p className=" font-medium text-sm leading-relaxed">Megapol Tower, Adalet Mah. Anadolu Cad. No:41 Bayraklı / İzmir</p>
                   </div>
                 </div>
               </div>
             </div>
 
             {/* 3. Dinamik Harita Alanı (Mobilde de aktif ve ferah yükseklikte) */}
-            <div className="h-64 sm:h-72 rounded-3xl overflow-hidden border border-gray-200/80 shadow-sm relative">
+            <div className="h-86  rounded-3xl overflow-hidden border border-gray-200/80 shadow-sm relative">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3124.646876176378!2d27.16543417655073!3d38.45520287182205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b9991ca6399677%3A0x6e8e833446927dfa!2sMegapol%20Tower!5e0!3m2!1str!2str!4v1710000000000"
                 className="w-full h-full border-0 absolute inset-0 m-0 p-0"
@@ -131,8 +118,8 @@ const Contact = () => {
           </div>
 
           {/* SAĞ TARAFI: Genişletilmiş ve Rahatlatılmış Form Paneli (lg:col-span-7) */}
-          <div className="lg:col-span-7 bg-white border border-gray-200/60 rounded-3xl p-6 sm:p-10 shadow-sm w-full">
-            <h3 className="text-gray-900 font-bold text-xl mb-6 border-b border-gray-100 pb-4">Mesaj Gönderin</h3>
+          <div className="lg:col-span-7 border border-gray-200/60 rounded-3xl p-6 sm:p-10 shadow-sm w-full">
+            <h3 className=" font-bold text-xl mb-6 border-b border-gray-100 pb-4">Mesaj Gönderin</h3>
 
             <form onSubmit={handleSubmit} className="space-y-6">
               {/* Web3Forms Gizli Inputları (Birebir korundu) */}
@@ -142,37 +129,35 @@ const Contact = () => {
               {/* İsim & E-posta Grubu (Büyük ekranlarda yan yana, mobilde alt alta gelerek ferahlık sağlar) */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                 <div className="space-y-1.5">
-                  <label className="text-xs font-bold text-gray-700 uppercase tracking-wider">Adınız Soyadınız</label>
+                  <label className="text-xs font-bold uppercase tracking-wider">Adınız Soyadınız</label>
                   <input
                     type="text"
                     name="name"
                     required
                     placeholder="Ahmet Yılmaz"
-                    className="w-full px-4 py-3 text-gray-900 bg-white outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 placeholder-gray-400 text-sm"
+                    className="w-full px-4 py-3  outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 placeholder-gray-400 text-sm"
                   />
                 </div>
 
                 <div className="space-y-1.5">
-                  <label className="text-xs font-bold text-gray-700 uppercase tracking-wider">E-Posta Adresiniz</label>
+                  <label className="text-xs font-bold  uppercase tracking-wider">E-Posta Adresiniz</label>
                   <input
                     type="email"
                     name="email"
                     required
                     placeholder="ornek@firma.com"
-                    className="w-full px-4 py-3 text-gray-900 bg-white outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 placeholder-gray-400 text-sm"
+                    className="w-full px-4 py-3  outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 placeholder-gray-400 text-sm"
                   />
                 </div>
               </div>
 
               {/* Telefon Numarası Alanı */}
               <div className="space-y-1.5">
-                <label className="text-xs font-bold text-gray-700 uppercase tracking-wider">Telefon Numaranız</label>
+                <label className="text-xs font-bold  uppercase tracking-wider">Telefon Numaranız</label>
                 <div className="relative">
                   <div className="absolute inset-y-0 left-3 my-auto h-6 flex items-center border-r border-gray-200 pr-2">
                     <select className="text-xs font-semibold text-gray-600 bg-transparent outline-none rounded-lg h-full cursor-pointer">
-                      <option>TR</option>
-                      <option>US</option>
-                      <option>DE</option>
+                      <option>+90</option>
                     </select>
                   </div>
                   <input
@@ -180,25 +165,25 @@ const Contact = () => {
                     name="phone"
                     placeholder="5xx xxx xxxx"
                     required
-                    className="w-full pl-[4.8rem] pr-4 py-3 bg-white outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 text-sm"
+                    className="w-full pl-[4.8rem] pr-4 py-3 outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 text-sm"
                   />
                 </div>
               </div>
 
               {/* Hizmet Seçim Alanı */}
               <div className="space-y-2">
-                <label className="text-xs font-bold text-gray-700 uppercase tracking-wider block">İlgilendiğiniz Hizmetler</label>
+                <label className="text-xs font-bold  uppercase tracking-wider block">İlgilendiğiniz Hizmetler</label>
                 <ul className="grid gap-3 grid-cols-1 sm:grid-cols-2 pt-1">
                   {servicesItems.map((item, idx) => (
-                    <li key={idx} className="flex items-center gap-x-3 text-xs bg-slate-50 border border-slate-100 px-3 py-3 rounded-xl hover:bg-slate-100/70 transition-colors">
+                    <li key={idx} className="flex items-center gap-x-3 text-xs border border-slate-100 px-3 py-3 rounded-xl hover:bg-slate-100/70 transition-colors">
                       <div className="relative flex items-center">
                         <input id={`service-${idx}`} type="checkbox" name={`Servis - ${item}`} className="checkbox-item peer hidden" />
                         <label
                           htmlFor={`service-${idx}`}
-                          className="relative flex w-5 h-5 bg-white peer-checked:bg-blue-600 rounded-md border border-gray-300 ring-offset-2 ring-blue-500 duration-150 peer-active:ring cursor-pointer after:absolute after:inset-x-0 after:top-[3px] after:m-auto after:w-1.5 after:h-2.5 after:border-r-2 after:border-b-2 after:border-white after:rotate-45"
+                          className="relative flex w-5 h-5  peer-checked:bg-blue-600 rounded-md border border-gray-300 ring-offset-2 ring-blue-500 duration-150 peer-active:ring cursor-pointer after:absolute after:inset-x-0 after:top-[3px] after:m-auto after:w-1.5 after:h-2.5 after:border-r-2 after:border-b-2 after:border-white after:rotate-45"
                         ></label>
                       </div>
-                      <label htmlFor={`service-${idx}`} className="cursor-pointer select-none text-gray-700 font-medium">
+                      <label htmlFor={`service-${idx}`} className="cursor-pointer select-none  font-medium">
                         {item}
                       </label>
                     </li>
@@ -208,12 +193,12 @@ const Contact = () => {
 
               {/* Mesaj Alanı */}
               <div className="space-y-1.5">
-                <label className="text-xs font-bold text-gray-700 uppercase tracking-wider">Mesajınız</label>
+                <label className="text-xs font-bold uppercase tracking-wider">Mesajınız</label>
                 <textarea
                   name="message"
                   required
                   placeholder="Talebinizi veya sorularınızı buraya detaylıca yazabilirsiniz..."
-                  className="w-full h-36 px-4 py-3 resize-none bg-white outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 placeholder-gray-400 text-sm"
+                  className="w-full h-36 px-4 py-3 resize-none outline-none border border-gray-200 focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 shadow-sm rounded-xl transition-all duration-200 placeholder-gray-400 text-sm"
                 ></textarea>
               </div>
 

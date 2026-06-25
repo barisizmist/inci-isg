@@ -18,44 +18,56 @@ export default function ReferanslarPage() {
   ];
 
   return (
-    <div className="bg-gray-50 min-h-screen py-16">
+    <div className="min-h-screen bg-background py-16 transition-colors duration-300">
       <div className="container mx-auto px-6">
-        {/* Üst Başlık Alanı */}
+        {/* Üst Başlık */}
         <div className="text-center max-w-3xl mx-auto mb-16" data-aos="fade-up">
-          <span className="text-blue-600 font-semibold tracking-wider uppercase text-sm">Referanslarımız</span>
-          <h1 className="text-3xl font-extrabold text-gray-900 sm:text-4xl mt-2 tracking-tight">Bize Güvenen Markalar</h1>
-          <p className="mt-4 text-lg text-gray-600 leading-relaxed">
-            Türkiye genelinde farklı sektörlerden lider firmalara iş sağlığı ve güvenliği süreçlerinde proaktif çözümlerimizle yol arkadaşlığı yapıyoruz.
-          </p>
+          <span className="text-blue-600 dark:text-blue-400 font-semibold tracking-wider uppercase text-sm">Referanslarımız</span>
+          <h1 className="text-3xl font-extrabold text-foreground sm:text-4xl mt-2 tracking-tight">Bize Güvenen Markalar</h1>
         </div>
 
+        {/* Referans Logoları */}
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 gap-6 max-w-5xl mx-auto mb-20">
-          {referanslar.map((ref, idx) => {
-            const isWhiteLogo = ref.id === 6;
-
-            return (
-              <div
-                key={ref.id}
-                data-aos="fade-up"
-                data-aos-delay={idx * 50}
-                className={`flex justify-center items-center p-8 rounded-2xl border transition-all duration-300 h-32 overflow-hidden group hover:shadow-md ${
-                  isWhiteLogo ? 'bg-gray-900 border-gray-800 hover:bg-gray-950' : 'bg-slate-50/60 border-gray-100/70 hover:bg-white hover:border-blue-500/20'
-                }`}
-              >
-                <img className="max-h-14 w-full object-contain transition-transform duration-500 ease-out scale-95 group-hover:scale-105" src={ref.logo} alt={ref.name} />
-              </div>
-            );
-          })}
+          {referanslar.map((ref, idx) => (
+            <div
+              key={ref.id}
+              data-aos="fade-up"
+              data-aos-delay={idx * 50}
+              className="
+            flex justify-center items-center p-8 h-32 overflow-hidden rounded-2xl group
+            bg-card
+            border border-gray-200/80
+            hover:bg-accent
+            hover:border-border
+            hover:shadow-md
+            transition-all duration-300
+          "
+            >
+              <img
+                className="max-h-14 w-full object-contain transition-transform duration-300 ease-out scale-95 group-hover:scale-100 dark:brightness-90"
+                src={ref.logo}
+                alt={ref.name}
+              />
+            </div>
+          ))}
         </div>
 
-        {/* Sektörel Çeşitlilik Alanı (Güven tazeleyen ekstra bölüm) */}
-        <div className="max-w-4xl mx-auto border-t border-gray-200/60 pt-16 text-center" data-aos="fade-up">
-          <h3 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-8">Hizmet Sağladığımız Başlıca Sektörler</h3>
+        {/* Sektörler */}
+        <div className="max-w-4xl mx-auto pt-16 text-center border-t border-gray-200/80" data-aos="fade-up">
+          <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-8">Hizmet Sağladığımız Başlıca Sektörler</h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {sektorler.map((sektor, index) => (
               <div
                 key={index}
-                className="bg-gray-100/60 border border-gray-200/30 rounded-xl py-4 px-6 flex items-center justify-center gap-x-3 text-gray-700 font-medium text-sm hover:bg-white hover:shadow-sm transition-all duration-200"
+                className="
+              bg-card
+              border border-gray-200/80
+              hover:bg-accent
+              hover:border-border
+              rounded-2xl py-4 px-6 flex items-center justify-center gap-x-3
+              text-foreground font-medium text-sm
+              transition-all duration-300
+            "
               >
                 <span>{sektor.ikon}</span>
                 <span>{sektor.isim}</span>

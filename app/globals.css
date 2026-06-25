@@ -7,10 +7,26 @@
   --foreground: #171717;
 }
 
-/* Sizin manuel CSS'iniz yerine data-theme kullanacağız */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
 [data-theme='dark'] {
-  --background: #0a0a0a;
-  --foreground: #ededed;
+  /* Tam siyah değil, çok koyu bir gri tonu */
+  --background: #0f172a;
+  /* Yazılar için de biraz daha yumuşak bir ton */
+  --foreground: #f1f5f9;
+  --overlay-color: rgba(0, 0, 0, 0.7); /* Koyu modda daha yoğun geçiş */
+}
+
+[data-theme='light'] {
+  --overlay-color: rgba(0, 0, 0, 0.4); /* Işık modunda koyu geçiş */
 }
 
 body {

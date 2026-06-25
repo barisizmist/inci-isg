@@ -46,8 +46,7 @@ const Hero = () => {
         />
       ))}
 
-      {/* Gradyan Overlay - Tema değişkenleriyle uyumlu */}
-      <div className="absolute inset-0 bg-gradient-to-r from-background via-background/60 to-transparent z-10" />
+      <div className="absolute inset-0 bg-gradient-to-r from-background via-black/20 to-transparent z-10" />
 
       {/* İçerik */}
       <div className="relative z-20 max-w-screen-xl mx-auto px-4 md:px-8 text-center sm:text-left w-full">

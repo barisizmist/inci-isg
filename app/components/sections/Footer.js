@@ -14,10 +14,10 @@ const Footer = () => {
   ];
 
   return (
-    <footer className="bg-background text-foreground transition-colors duration-300 border-t border-gray-100 dark:border-gray-900 pt-16 pb-8 transition-colors duration-300">
+    <footer className="bg-background text-foreground transition-colors duration-300 border-t border-gray-200/80 pt-16 pb-8 transition-colors duration-300">
       <div className="max-w-screen-xl mx-auto px-4 md:px-8">
         {/* Üst Grid Alanı */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 pb-12 border-b border-gray-100 dark:border-gray-900">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 pb-12 border-b  border-gray-200/80">
           <div className="space-y-4">
             <Image
               src="/inci-isg-logo.png"
@@ -27,17 +27,17 @@ const Footer = () => {
               // Dark mode'da invert et, light mode'da olduğu gibi bırak
               className="dark:invert object-contain"
             />
-            <p className="text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+            <p className="text-sm leading-relaxed">
               İzmir merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak, iş kazalarını proaktif çözümlerle önlemek amacıyla hizmet veriyoruz.
             </p>
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-gray-900 dark:text-white font-semibold text-sm tracking-wider">HIZLI ERİŞİM</h4>
-            <ul className="space-y-2.5 text-sm text-gray-600 dark:text-gray-400">
+            <h4 className="font-semibold text-sm tracking-wider">HIZLI ERİŞİM</h4>
+            <ul className="space-y-2.5 text-sm">
               {anasayfaNavs.map((item, idx) => (
                 <li key={idx}>
-                  <Link href={item.path} className="hover:text-blue-600 dark:hover:text-blue-500 transition-colors duration-200 block py-1">
+                  <Link href={item.path} className="hover:text-blue-600 block py-1">
                     {item.title}
                   </Link>
                 </li>
@@ -45,8 +45,8 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="space-y-4 text-sm text-gray-600 dark:text-gray-400">
-            <h4 className="text-gray-900 dark:text-white font-semibold text-sm tracking-wider">İLETİŞİM BİLGİLERİ</h4>
+          <div className="space-y-4 text-sm ">
+            <h4 className="font-semibold text-sm tracking-wider">İLETİŞİM BİLGİLERİ</h4>
             <ul className="space-y-3">
               <li className="flex items-start gap-x-3">
                 <span className="text-blue-500 mt-0.5">📍</span>
@@ -54,13 +54,13 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-x-3">
                 <span className="text-blue-500">📞</span>
-                <a href="tel:+902324616070" className="hover:text-blue-600 dark:hover:text-white transition-colors">
+                <a href="tel:+902324616070" className="hover:text-blue-600">
                   +90 (232) 461 60 70
                 </a>
               </li>
               <li className="flex items-center gap-x-3">
                 <span className="text-blue-500">✉️</span>
-                <a href="mailto:info@inciisgdanismanlik.com" className="hover:text-blue-600 dark:hover:text-white transition-colors">
+                <a href="mailto:info@inciisgdanismanlik.com" className="hover:text-blue-600">
                   info@inciisgdanismanlik.com
                 </a>
               </li>

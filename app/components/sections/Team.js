@@ -25,37 +25,13 @@ const Team = () => {
       desc: 'Lorem Ipsum is simply dummy text of the printing and typesettin industry.',
       linkedin: 'javascript:void(0)',
       twitter: 'javascript:void(0)'
-    },
-    {
-      avatar: 'https://randomuser.me/api/portraits/women/63.jpg',
-      name: 'Lysa sandiago',
-      title: 'Head of designers',
-      desc: 'Lorem Ipsum is simply dummy text of the printing and typesettin industry.',
-      linkedin: 'javascript:void(0)',
-      twitter: 'javascript:void(0)'
-    },
-    {
-      avatar: 'https://randomuser.me/api/portraits/men/86.jpg',
-      name: 'Daniel martin',
-      title: 'Product designer',
-      desc: 'Lorem Ipsum is simply dummy text of the printing and typesettin industry.',
-      linkedin: 'javascript:void(0)',
-      twitter: 'javascript:void(0)'
-    },
-    {
-      avatar: 'https://randomuser.me/api/portraits/men/46.jpg',
-      name: 'Vicky tanson',
-      title: 'Product manager',
-      desc: 'Lorem Ipsum is simply dummy text of the printing and typesettin industry.',
-      linkedin: 'javascript:void(0)',
-      twitter: 'javascript:void(0)'
     }
   ];
   return (
     <section className="py-14">
       <div className="max-w-screen-xl mx-auto px-4 text-center md:px-8">
         <div className="max-w-xl mx-auto">
-          <h3 className="text-gray-800 text-3xl font-semibold sm:text-4xl">Meet our team</h3>
+          <h3 className="text-3xl font-semibold sm:text-4xl">Meet our team</h3>
           <p className="text-gray-600 mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy.</p>
         </div>
         <div className="mt-12">
