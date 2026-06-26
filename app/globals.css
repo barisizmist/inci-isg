@@ -35,3 +35,11 @@ body {
   background: var(--background);
   color: var(--foreground);
 }
+
+/* Mobilde AOS devre dışıyken data-aos elemanlarının görünmez kalmasını engelle */
+@media (max-width: 767px) {
+  [data-aos] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
