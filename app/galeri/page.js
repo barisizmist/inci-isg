@@ -62,7 +62,7 @@ export default function GaleriPage() {
         {/* Üst Başlık */}
         <div className="text-center max-w-2xl mx-auto mb-12" data-aos="fade-up">
           <h1 className="text-3xl font-bold text-foreground sm:text-4xl">Fotoğraf Galerisi</h1>
-          <p className="mt-4 text-muted-foreground">Gerçekleştirdiğimiz eğitimler, saha denetimleri ve acil durum tatbikatlarından kareler.</p>
+          <p className="mt-4 leading-relaxed text-foreground/80">Gerçekleştirdiğimiz eğitimler, saha denetimleri ve acil durum tatbikatlarından kareler.</p>
         </div>
 
         {/* Filtre Butonları */}

@@ -25,7 +25,7 @@ export default function About() {
         <div className="relative max-w-3xl mx-auto px-6" data-aos="fade-up">
           <span className="text-blue-400 font-semibold tracking-wider uppercase text-sm">Kurumsal</span>
           <h1 className="text-4xl font-extrabold sm:text-5xl mt-2 tracking-tight">İnci İSG Danışmanlık</h1>
-          <p className="mt-4 text-lg text-gray-200 leading-relaxed">Geleceği güvenle inşa etmek, riskleri proaktif yaklaşımlarla sıfıra indirmek için çalışıyoruz.</p>
+          <p className="mt-4 leading-relaxed text-foreground/80">Geleceği güvenle inşa etmek, riskleri proaktif yaklaşımlarla sıfıra indirmek için çalışıyoruz.</p>
         </div>
       </section>
 
@@ -34,11 +34,11 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6" data-aos="fade-right">
             <h2 className="text-3xl font-bold text-foreground sm:text-4xl">Biz Kimiz?</h2>
-            <p className="leading-relaxed text-lg">
+            <p className="leading-relaxed text-foreground/80">
               İnci İSG Danışmanlık olarak, kurulduğumuz günden bu yana İstanbul merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak amacıyla
               hizmet veriyoruz.
             </p>
-            <p className="leading-relaxed">
+            <p className="leading-relaxed text-foreground/80">
               A, B ve C sınıfı uzman kadromuz, işyeri hekimlerimiz ve deneyimli sağlık personelimizle, işletmelerin yasal mevzuatlara uyum sağlama süreçlerini uçtan uca
               yönetiyoruz.
             </p>
@@ -94,7 +94,7 @@ export default function About() {
             >
               <div className="w-12 h-12 bg-blue-50 dark:bg-blue-900/30 text-blue-600 rounded-xl flex items-center justify-center mb-6 text-xl font-bold">{item.icon}</div>
               <h3 className="text-2xl font-bold text-foreground mb-4">{item.title}</h3>
-              <p className="leading-relaxed">{item.desc}</p>
+              <p className="leading-relaxed text-foreground/80">{item.desc}</p>
             </div>
           ))}
         </div>

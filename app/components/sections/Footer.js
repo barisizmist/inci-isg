@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 pb-12 border-b  border-gray-200/80">
           <div className="space-y-4">
             <Image src="/inci-isg-logo.png" width={100} height={43} alt="inci isg logo" loading="eager" className="dark:invert object-contain w-auto h-auto" />
-            <p className="text-sm leading-relaxed">
+            <p className="leading-relaxed text-foreground/80">
               İstanbul merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak, iş kazalarını proaktif çözümlerle önlemek amacıyla hizmet
               veriyoruz.
             </p>
@@ -26,7 +26,7 @@ const Footer = () => {
             <ul className="space-y-2.5 text-sm">
               {anasayfaNavs.map((item, idx) => (
                 <li key={idx}>
-                  <Link href={item.path} className="hover:text-blue-600 block py-1">
+                  <Link href={item.path} className="leading-relaxed text-foreground/80 hover:text-blue-600 block py-1">
                     {item.title}
                   </Link>
                 </li>
@@ -38,24 +38,24 @@ const Footer = () => {
             <h4 className="font-semibold text-sm tracking-wider">İLETİŞİM BİLGİLERİ</h4>
             <ul className="space-y-3">
               <li className="flex items-start gap-x-3">
-                <span className="text-blue-500 mt-0.5">📍</span>
-                <span>Adalet Mah. Anadolu Cad. No: 41, Megapol Tower, Kat: 10, Bayraklı / İstanbul</span>
+                <span className="mt-0.5">📍</span>
+                <span className="leading-relaxed text-foreground/80">Adalet Mah. Anadolu Cad. No: 41, Megapol Tower, Kat: 10, Bayraklı / İstanbul</span>
               </li>
               <li className="flex items-center gap-x-3">
                 <span className="text-blue-500">📞</span>
-                <a href="tel:+902324616070" className="hover:text-blue-600">
+                <a href="tel:+902324616070" className="leading-relaxed text-foreground/80 hover:text-blue-600">
                   +90 (232) 461 60 70
                 </a>
               </li>
               <li className="flex items-center gap-x-3">
                 <span className="text-blue-500">✉️</span>
-                <a href="mailto:info@inciisgdanismanlik.com" className="hover:text-blue-600">
+                <a href="mailto:info@inciisgdanismanlik.com" className="leading-relaxed text-foreground/80 hover:text-blue-600">
                   info@inciisgdanismanlik.com
                 </a>
               </li>
               <li className="flex items-center gap-x-3">
                 <span className="text-blue-500">🕐</span>
-                <span>Pzt. - Cmt. 09:00 - 18:00</span>
+                <span className="leading-relaxed text-foreground/80">Pzt. - Cmt. 09:00 - 18:00</span>
               </li>
             </ul>
           </div>

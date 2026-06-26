@@ -112,7 +112,7 @@ const Hero = () => {
 
           <h1 className="text-4xl text-foreground font-extrabold tracking-tight sm:text-5xl lg:text-6xl leading-tight">{slides[currentSlide].title}</h1>
 
-          <p className="text-lg text-foreground/80 leading-relaxed max-w-2xl">{slides[currentSlide].desc}</p>
+          <p className="leading-relaxed text-foreground/80 max-w-2xl">{slides[currentSlide].desc}</p>
 
           <div className="flex flex-col sm:flex-row items-center gap-4 pt-4">
             <Link

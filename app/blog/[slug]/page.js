@@ -58,7 +58,7 @@ export default async function BlogDetail({ params }) {
             {/* 2. Gradientli İletişim Kartı (CTA) */}
             <div className="bg-gradient-to-br from-blue-600 to-indigo-700 p-8 rounded-3xl text-white text-center shadow-2xl">
               <h4 className="font-bold text-xl mb-2">Uzman Desteğine mi İhtiyacınız Var?</h4>
-              <p className="text-blue-100 text-sm mb-6">İSG süreçlerinizi profesyonel kadromuzla yönetin.</p>
+              <p className="leading-relaxed text-foreground/80 mb-6">İSG süreçlerinizi profesyonel kadromuzla yönetin.</p>
               <Link href="/iletisim" className="block w-full bg-white text-blue-700 font-bold py-3 rounded-xl hover:bg-blue-50 transition-all">
                 Teklif Al
               </Link>

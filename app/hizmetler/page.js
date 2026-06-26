@@ -49,7 +49,7 @@ export default function HizmetlerPage() {
         <div className="text-center max-w-3xl mx-auto mb-20" data-aos="fade-down">
           <span className="text-blue-600 dark:text-blue-400 font-semibold tracking-wider uppercase text-sm">Profesyonel Çözümler</span>
           <h1 className="text-3xl font-bold text-foreground sm:text-4xl mt-2 tracking-tight">Hizmet Alanlarımız</h1>
-          <p className="mt-4 text-lg text-muted-foreground leading-relaxed">
+          <p className="mt-4 leading-relaxed text-foreground/80">
             6331 sayılı kanun kapsamındaki tüm yasal yükümlülüklerinizi eksiksiz yerine getiriyor, iş yerinizi daha güvenli hale getiriyoruz.
           </p>
         </div>
@@ -69,7 +69,7 @@ export default function HizmetlerPage() {
                   {hizmet.icon}
                 </div>
                 <h3 className="text-xl font-bold text-foreground mb-3 tracking-tight">{hizmet.title}</h3>
-                <p className="text-muted-foreground text-sm leading-relaxed mb-6">{hizmet.desc}</p>
+                <p className="leading-relaxed text-foreground/80 mb-6">{hizmet.desc}</p>
               </div>
 
               <div className="border-t border-border pt-4">
@@ -94,7 +94,7 @@ export default function HizmetlerPage() {
 
           <div className="relative z-10">
             <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-foreground">İş Yeriniz İçin Risk Analizi Yaptırdınız mı?</h2>
-            <p className="mt-4 max-w-xl mx-auto text-sm md:text-base leading-relaxed">
+            <p className="mt-4 max-w-xl mx-auto leading-relaxed text-foreground/80">
               Yasal yaptırımlarla karşılaşmamak ve en önemlisi çalışanlarınızı korumak için hemen uzmanlarımızla görüşün.
             </p>
             <div className="mt-8">

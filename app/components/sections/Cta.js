@@ -19,7 +19,7 @@ const Cta = () => {
           <div className="max-w-xl px-4 space-y-3 mt-6 sm:px-0 md:mt-0 lg:max-w-2xl">
             <h3 className="text-blue-600 font-semibold">Neden İnci İSG?</h3>
             <p className="text-3xl font-semibold sm:text-4xl">Sıfır İş Kazası Vizyonuyla Güvenli İşyerleri Oluşturuyoruz</p>
-            <p className="mt-3 text-gray-600">
+            <p className="mt-3 leading-relaxed text-foreground/80">
               10+ yıllık deneyimimiz, A, B ve C sınıfı uzman kadromuz, işyeri hekimlerimiz ve sağlık personelimizle birlikte işletmenizin tüm İSG ihtiyaçlarını karşılamak üzere
               yanınızdayız. Sadece mevzuata uyum değil, kurumsal kültür geliştirilmesi ve sürdürülebilir güvenlik ortamı oluşturması amacıyla çalışıyoruz.
             </p>

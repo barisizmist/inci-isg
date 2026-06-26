@@ -44,7 +44,7 @@ const Contact = () => {
         <div className="max-w-2xl mb-10 space-y-3">
           <span className="text-blue-600 font-bold text-xs uppercase tracking-widest block">İLETİŞİM Paneli</span>
           <h1 className="text-3xl font-extrabold tracking-tight sm:text-4xl md:text-5xl">Bizimle İletişime Geçin</h1>
-          <p className="text-base sm:text-lg leading-relaxed">
+          <p className="leading-relaxed text-foreground/80">
             Hizmetlerimiz hakkında detaylı bilgi almak, uzman kadromuzla görüşmek veya kurumsal teklif talebinde bulunmak için bize ulaşın.
           </p>
         </div>
@@ -98,7 +98,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider block">Merkez Ofis</span>
-                    <p className=" font-medium text-sm leading-relaxed">Megapol Tower, Adalet Mah. Anadolu Cad. No:41 Bayraklı / İstanbul</p>
+                    <p className="leading-relaxed text-foreground/80">Megapol Tower, Adalet Mah. Anadolu Cad. No:41 Bayraklı / İstanbul</p>
                   </div>
                 </div>
 
@@ -111,8 +111,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider block">Çalışma Saatleri</span>
-                    <p className="font-medium text-sm">Pazartesi - Cumartesi</p>
-                    <p className="font-medium text-sm">09:00 - 18:00</p>
+                    <p className="leading-relaxed text-foreground/80">Pazartesi - Cumartesi</p>
+                    <p className="leading-relaxed text-foreground/80">09:00 - 18:00</p>
                   </div>
                 </div>
               </div>

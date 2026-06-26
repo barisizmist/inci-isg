@@ -9,7 +9,7 @@ export default function BlogPage() {
         {/* Üst Başlık */}
         <div className="text-center max-w-2xl mx-auto mb-16" data-aos="fade-up">
           <h1 className="text-3xl font-bold text-foreground sm:text-4xl">İSG Bilgi Merkezi & Blog</h1>
-          <p className="mt-4 text-muted-foreground">İş sağlığı ve güvenliği dünyasından en güncel mevzuatlar, rehberler ve uzman tavsiyeleri.</p>
+          <p className="mt-4 leading-relaxed text-foreground/80">İş sağlığı ve güvenliği dünyasından en güncel mevzuatlar, rehberler ve uzman tavsiyeleri.</p>
         </div>
 
         {/* Blog Grid Yapısı */}
@@ -34,7 +34,7 @@ export default function BlogPage() {
                 <h2 className="text-xl font-bold text-foreground mt-2 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                   <Link href={`/blog/${post.slug}`}>{post.title}</Link>
                 </h2>
-                <p className="mt-3 text-muted-foreground text-sm leading-relaxed line-clamp-3">{post.summary}</p>
+                <p className="mt-3 leading-relaxed text-foreground/80 line-clamp-3">{post.summary}</p>
 
                 <div className="mt-6">
                   <Link
