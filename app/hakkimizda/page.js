@@ -1,5 +1,7 @@
 'use client';
 
+import Image from 'next/image';
+
 export default function About() {
   const istatistikler = [
     { value: '10+', label: 'Yıllık Deneyim' },
@@ -35,10 +37,13 @@ export default function About() {
             </p>
           </div>
           <div className="relative" data-aos="fade-left">
-            <img
-              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070"
+            <Image
+              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=800"
               alt="İSG Denetim ve Ekip"
+              width={600}
+              height={400}
               className="rounded-2xl shadow-xl w-full h-[400px] object-cover dark:brightness-90"
+              loading="lazy"
             />
             <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-blue-600/20 rounded-full -z-10 blur-xl"></div>
           </div>

@@ -1,5 +1,7 @@
 'use client';
 
+import Image from 'next/image';
+
 export default function ReferanslarPage() {
   const referanslar = [
     { id: 1, name: 'Firma 1', logo: '/references/reference_logo_1.png' },
@@ -43,10 +45,13 @@ export default function ReferanslarPage() {
             transition-all duration-300
           "
             >
-              <img
+              <Image
+                width={200}
+                height={56}
                 className="max-h-14 w-full object-contain transition-transform duration-300 ease-out scale-95 group-hover:scale-100 dark:brightness-90"
                 src={ref.logo}
                 alt={ref.name}
+                loading="lazy"
               />
             </div>
           ))}

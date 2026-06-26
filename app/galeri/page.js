@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 // Örnek Veri Yapısı (Kategoriler eklendi)
 const galeriVerisi = [
@@ -93,7 +94,14 @@ export default function GaleriPage() {
               className="group relative overflow-hidden rounded-3xl bg-card shadow-sm cursor-pointer transition-all duration-500 hover:shadow-xl"
               data-aos="fade-up"
             >
-              <img src={img.url} alt={img.title} className="h-64 w-full object-cover transition-transform duration-700 group-hover:scale-110" />
+              <Image
+                src={img.url}
+                alt={img.title}
+                width={600}
+                height={400}
+                className="h-64 w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                loading="lazy"
+              />
               <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
                 <div>
                   <span className="text-xs text-blue-300 font-medium uppercase tracking-wider">Büyütmek İçin Tıklayın</span>
@@ -125,7 +133,14 @@ export default function GaleriPage() {
 
             {/* Orta Resim Alanı */}
             <div className="max-w-4xl max-h-[80vh] flex flex-col items-center" onClick={e => e.stopPropagation()}>
-              <img src={filteredImages[lightboxIndex]?.url} alt={filteredImages[lightboxIndex]?.title} className="max-w-full max-h-[70vh] object-contain rounded-2xl shadow-2xl" />
+              <Image
+                src={filteredImages[lightboxIndex]?.url}
+                alt={filteredImages[lightboxIndex]?.title}
+                width={1000}
+                height={700}
+                className="max-w-full max-h-[70vh] object-contain rounded-2xl shadow-2xl"
+                loading="eager"
+              />
               <p className="text-foreground text-lg font-medium mt-4 text-center">{filteredImages[lightboxIndex]?.title}</p>
               <span className="text-muted-foreground text-xs mt-1">
                 {lightboxIndex + 1} / {filteredImages.length}

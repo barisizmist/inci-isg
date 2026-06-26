@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { blogPosts } from '../../data/mockData'; // Verimizin yolu (klasör yapına göre ayarla)
 
 export default function BlogPage() {
@@ -17,7 +18,14 @@ export default function BlogPage() {
             <article key={post.id} className="bg-card rounded-3xl overflow-hidden shadow-sm transition-all duration-500 hover:shadow-xl hover:-translate-y-1" data-aos="fade-up">
               {/* Görsel */}
               <div className="h-48 overflow-hidden">
-                <img src={post.image} alt={post.title} className="w-full h-full object-cover transition-transform duration-700 hover:scale-105" />
+                <Image
+                  src={post.image}
+                  alt={post.title}
+                  width={500}
+                  height={300}
+                  className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
+                  loading="lazy"
+                />
               </div>
 
               {/* İçerik */}

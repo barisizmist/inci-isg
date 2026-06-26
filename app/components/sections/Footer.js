@@ -3,15 +3,10 @@
 import Image from 'next/image';
 import React from 'react';
 import Link from 'next/link';
+import { footerNavLinks } from '@/config/navigation';
 
 const Footer = () => {
-  const anasayfaNavs = [
-    { title: 'Hakkımızda', path: '/hakkimizda' },
-    { title: 'Hizmetler', path: '/hizmetler' },
-    { title: 'Referanslar', path: '/referanslar' },
-    { title: 'Galeri', path: '/galeri' },
-    { title: 'İletişim', path: '/iletisim' }
-  ];
+  const anasayfaNavs = footerNavLinks;
 
   return (
     <footer className="bg-background text-foreground transition-colors duration-300 border-t border-gray-200/80 pt-16 pb-8 transition-colors duration-300">

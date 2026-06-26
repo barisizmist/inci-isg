@@ -1,6 +1,7 @@
 import { blogPosts } from '../../../data/mockData';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default async function BlogDetail({ params }) {
   const { slug } = await params;
@@ -24,7 +25,7 @@ export default async function BlogDetail({ params }) {
               <h1 className="text-3xl md:text-5xl font-extrabold text-foreground mt-3 leading-tight tracking-tight">{post.title}</h1>
             </header>
 
-            <img src={post.image} alt={post.title} className="w-full h-80 object-cover rounded-3xl mt-8 shadow-lg" />
+            <Image src={post.image} alt={post.title} width={800} height={450} className="w-full h-80 object-cover rounded-3xl mt-8 shadow-lg" loading="eager" priority />
 
             <div className="prose dark:prose-invert prose-lg mt-10 max-w-none text-muted-foreground leading-relaxed">
               {/* İçerik buraya gelecek */}
@@ -43,7 +44,7 @@ export default async function BlogDetail({ params }) {
                   .map(p => (
                     <Link href={`/blog/${p.slug}`} key={p.id} className="group block">
                       <div className="flex gap-4">
-                        <img src={p.image} className="w-20 h-20 rounded-xl object-cover" alt="" />
+                        <Image src={p.image} width={80} height={80} className="w-20 h-20 rounded-xl object-cover" alt={p.title} loading="lazy" />
                         <div>
                           <h4 className="font-semibold text-foreground group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors line-clamp-2">{p.title}</h4>
                           <span className="text-xs text-muted-foreground">{p.date}</span>

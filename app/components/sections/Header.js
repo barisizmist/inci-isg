@@ -4,19 +4,13 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import ThemeToggle from '../ThemeToggle';
+import { navigationLinks } from '@/config/navigation';
 
 const Header = () => {
   const [state, setState] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
 
-  const navigation = [
-    { title: 'HAKKIMIZDA', path: '/hakkimizda' },
-    { title: 'HİZMETLER', path: '/hizmetler' },
-    { title: 'REFERANSLAR', path: '/referanslar' },
-    { title: 'GALERİ', path: '/galeri' },
-    { title: 'BLOG', path: '/blog' },
-    { title: 'İLETİŞİM', path: '/iletisim' }
-  ];
+  const navigation = navigationLinks;
 
   useEffect(() => {
     const handleScroll = () => {
