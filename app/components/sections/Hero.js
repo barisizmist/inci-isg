@@ -19,11 +19,6 @@ const Hero = () => {
       image: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1200&fit=crop',
       title: 'Mevzuata Uygun Tam Kapsamlı İSG Hizmetleri',
       desc: 'A, B ve C sınıfı uzman kadromuz ve tecrübeli işyeri hekimlerimizle, 6331 sayılı kanun kapsamındaki tüm yasal yükümlülüklerinizi eksiksiz yönetiyoruz.'
-    },
-    {
-      image: 'https://images.unsplash.com/photo-1605647540924-852290f6b0d5?q=80&w=1200&fit=crop',
-      title: 'Profesyonel İSG ve Yangın Eğitimleri',
-      desc: 'Çalışanlarınızın acil durumlara karşı her an hazırlıklı olması için uygulamalı yangın söndürme, tahliye tatbikatları ve temel İSG eğitimleri veriyoruz.'
     }
   ];
 
