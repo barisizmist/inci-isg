@@ -1,10 +1,13 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
 
 const Hero = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
+  const touchStartRef = useRef(0);
+  const isMouseDownRef = useRef(false);
+  const sliderRef = useRef(null);
 
   const slides = [
     {
@@ -31,8 +34,65 @@ const Hero = () => {
     return () => clearInterval(timer);
   }, [slides.length]);
 
+  const nextSlide = useCallback(() => {
+    setCurrentSlide(prev => (prev + 1) % slides.length);
+  }, []);
+
+  const prevSlide = useCallback(() => {
+    setCurrentSlide(prev => (prev - 1 + slides.length) % slides.length);
+  }, []);
+
+  const handleSwipe = useCallback(
+    (start, end) => {
+      if (start === 0 || end === 0) return;
+
+      const distance = start - end;
+      if (distance > 50) {
+        nextSlide();
+      } else if (distance < -50) {
+        prevSlide();
+      }
+    },
+    [nextSlide, prevSlide]
+  );
+
+  const handleTouchStart = useCallback(e => {
+    touchStartRef.current = e.targetTouches[0].clientX;
+  }, []);
+
+  const handleTouchEnd = useCallback(
+    e => {
+      handleSwipe(touchStartRef.current, e.changedTouches[0].clientX);
+      touchStartRef.current = 0;
+    },
+    [handleSwipe]
+  );
+
+  const handleMouseDown = useCallback(e => {
+    isMouseDownRef.current = true;
+    touchStartRef.current = e.clientX;
+  }, []);
+
+  const handleMouseUp = useCallback(
+    e => {
+      if (!isMouseDownRef.current) return;
+      isMouseDownRef.current = false;
+      handleSwipe(touchStartRef.current, e.clientX);
+      touchStartRef.current = 0;
+    },
+    [handleSwipe]
+  );
+
   return (
-    <div className="relative w-full h-[85vh] sm:h-screen bg-background overflow-hidden flex items-center justify-center">
+    <div
+      ref={sliderRef}
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}
+      onMouseLeave={handleMouseUp}
+      className="relative w-full h-screen bg-background overflow-hidden flex items-center justify-center pt-0 md:pt-24 cursor-grab active:cursor-grabbing"
+    >
       {/* Slider Görselleri */}
       {slides.map((slide, idx) => (
         <div
@@ -52,7 +112,7 @@ const Hero = () => {
       <div className="relative z-20 max-w-screen-xl mx-auto px-4 md:px-8 text-center sm:text-left w-full">
         <div className="space-y-6 max-w-3xl">
           <span className="inline-flex items-center gap-x-2 bg-blue-600/20 text-blue-500 text-xs font-semibold tracking-wider uppercase px-3 py-1 rounded-full border border-blue-500/30">
-            🛡️ İzmir İSG Danışmanlık Hizmetleri
+            🛡️ İstanbul İSG Danışmanlık Hizmetleri
           </span>
 
           <h1 className="text-4xl text-foreground font-extrabold tracking-tight sm:text-5xl lg:text-6xl leading-tight">{slides[currentSlide].title}</h1>

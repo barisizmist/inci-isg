@@ -13,8 +13,15 @@ export default function About() {
   return (
     <div className="min-h-screen bg-background text-foreground transition-colors duration-300">
       {/* 1. Hero Başlık Alanı */}
-      <section className="relative bg-slate-900 py-20 text-center text-white overflow-hidden">
-        <div className="absolute inset-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070')] bg-cover bg-center"></div>
+      <section className="relative bg-gradient-to-b from-slate-900 to-slate-800 py-20 text-center text-white overflow-hidden">
+        <div
+          className="absolute inset-0 opacity-10"
+          style={{
+            backgroundImage: `url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=400')`,
+            backgroundSize: 'cover',
+            backgroundPosition: 'center'
+          }}
+        ></div>
         <div className="relative max-w-3xl mx-auto px-6" data-aos="fade-up">
           <span className="text-blue-400 font-semibold tracking-wider uppercase text-sm">Kurumsal</span>
           <h1 className="text-4xl font-extrabold sm:text-5xl mt-2 tracking-tight">İnci İSG Danışmanlık</h1>
@@ -28,7 +35,7 @@ export default function About() {
           <div className="space-y-6" data-aos="fade-right">
             <h2 className="text-3xl font-bold text-foreground sm:text-4xl">Biz Kimiz?</h2>
             <p className="leading-relaxed text-lg">
-              İnci İSG Danışmanlık olarak, kurulduğumuz günden bu yana İzmir merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak amacıyla
+              İnci İSG Danışmanlık olarak, kurulduğumuz günden bu yana İstanbul merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak amacıyla
               hizmet veriyoruz.
             </p>
             <p className="leading-relaxed">
@@ -42,7 +49,7 @@ export default function About() {
               alt="İSG Denetim ve Ekip"
               width={600}
               height={400}
-              className="rounded-2xl shadow-xl w-full h-[400px] object-cover dark:brightness-90"
+              className="rounded-2xl shadow-xl w-full h-auto object-cover dark:brightness-90"
               loading="lazy"
             />
             <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-blue-600/20 rounded-full -z-10 blur-xl"></div>

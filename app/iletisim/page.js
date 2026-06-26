@@ -98,7 +98,21 @@ const Contact = () => {
                   </div>
                   <div>
                     <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider block">Merkez Ofis</span>
-                    <p className=" font-medium text-sm leading-relaxed">Megapol Tower, Adalet Mah. Anadolu Cad. No:41 Bayraklı / İzmir</p>
+                    <p className=" font-medium text-sm leading-relaxed">Megapol Tower, Adalet Mah. Anadolu Cad. No:41 Bayraklı / İstanbul</p>
+                  </div>
+                </div>
+
+                {/* Çalışma Saatleri */}
+                <div className="flex items-start gap-4 p-3 rounded-2xl transition-colors group">
+                  <div className="flex-shrink-0 w-10 h-10 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center group-hover:bg-blue-600 group-hover:text-white transition-colors">
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                  </div>
+                  <div>
+                    <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider block">Çalışma Saatleri</span>
+                    <p className="font-medium text-sm">Pazartesi - Cumartesi</p>
+                    <p className="font-medium text-sm">09:00 - 18:00</p>
                   </div>
                 </div>
               </div>

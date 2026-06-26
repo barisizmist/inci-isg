@@ -11,7 +11,7 @@ const Cta = () => {
               src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=800&fit=crop"
               width={600}
               height={500}
-              className="md:max-w-lg sm:rounded-lg"
+              className="md:max-w-lg sm:rounded-lg w-auto h-auto"
               alt="İş sağlığı ve güvenliği danışmanlık hizmetleri"
               loading="lazy"
             />

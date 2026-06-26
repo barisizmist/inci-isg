@@ -23,7 +23,7 @@ export default function BlogPage() {
                   alt={post.title}
                   width={500}
                   height={300}
-                  className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
+                  className="w-full h-auto object-cover transition-transform duration-700 hover:scale-105"
                   loading="lazy"
                 />
               </div>

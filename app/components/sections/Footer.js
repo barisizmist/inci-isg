@@ -14,16 +14,10 @@ const Footer = () => {
         {/* Üst Grid Alanı */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 pb-12 border-b  border-gray-200/80">
           <div className="space-y-4">
-            <Image
-              src="/inci-isg-logo.png"
-              width={140}
-              height={60}
-              alt="inci isg logo"
-              // Dark mode'da invert et, light mode'da olduğu gibi bırak
-              className="dark:invert object-contain"
-            />
+            <Image src="/inci-isg-logo.png" width={100} height={43} alt="inci isg logo" loading="eager" className="dark:invert object-contain w-auto h-auto" />
             <p className="text-sm leading-relaxed">
-              İzmir merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak, iş kazalarını proaktif çözümlerle önlemek amacıyla hizmet veriyoruz.
+              İstanbul merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak, iş kazalarını proaktif çözümlerle önlemek amacıyla hizmet
+              veriyoruz.
             </p>
           </div>
 
@@ -45,7 +39,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-start gap-x-3">
                 <span className="text-blue-500 mt-0.5">📍</span>
-                <span>Adalet Mah. Anadolu Cad. No: 41, Megapol Tower, Kat: 10, Bayraklı / İzmir</span>
+                <span>Adalet Mah. Anadolu Cad. No: 41, Megapol Tower, Kat: 10, Bayraklı / İstanbul</span>
               </li>
               <li className="flex items-center gap-x-3">
                 <span className="text-blue-500">📞</span>
@@ -58,6 +52,10 @@ const Footer = () => {
                 <a href="mailto:info@inciisgdanismanlik.com" className="hover:text-blue-600">
                   info@inciisgdanismanlik.com
                 </a>
+              </li>
+              <li className="flex items-center gap-x-3">
+                <span className="text-blue-500">🕐</span>
+                <span>Pzt. - Cmt. 09:00 - 18:00</span>
               </li>
             </ul>
           </div>

@@ -91,7 +91,7 @@ export default function GaleriPage() {
             <div
               key={img.id}
               onClick={() => setLightboxIndex(idx)}
-              className="group relative overflow-hidden rounded-3xl bg-card shadow-sm cursor-pointer transition-all duration-500 hover:shadow-xl"
+              className="group relative overflow-hidden rounded-3xl bg-card shadow-sm cursor-pointer transition-all duration-500 hover:shadow-xl aspect-[3/2]"
               data-aos="fade-up"
             >
               <Image
@@ -99,7 +99,7 @@ export default function GaleriPage() {
                 alt={img.title}
                 width={600}
                 height={400}
-                className="h-64 w-full object-cover transition-transform duration-700 group-hover:scale-110"
+                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 loading="lazy"
               />
               <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">

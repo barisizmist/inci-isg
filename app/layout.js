@@ -18,9 +18,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'İnci İSG Danışmanlık | İzmir Merkez İş Sağlığı Güvenliği',
-  description: 'İzmir merkezli, Türkiye genelinde hizmet veren profesyonel İSG danışmanlığı. Risk yönetimi, mevzuat uyumu ve çalışan güvenliği için uzman hizmetler.',
-  keywords: 'İSG, iş sağlığı güvenliği, danışmanlık, İzmir, risk yönetimi, eğitim',
+  title: 'İnci İSG Danışmanlık | İstanbul Merkez İş Sağlığı Güvenliği',
+  description: 'İstanbul merkezli, Türkiye genelinde hizmet veren profesyonel İSG danışmanlığı. Risk yönetimi, mevzuat uyumu ve çalışan güvenliği için uzman hizmetler.',
+  keywords: 'İSG, iş sağlığı güvenliği, danışmanlık, İstanbul, risk yönetimi, eğitim',
   authors: [{ name: 'İnci İSG Danışmanlık' }],
   openGraph: {
     type: 'website',

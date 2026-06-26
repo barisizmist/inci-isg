@@ -45,7 +45,7 @@ const Header = () => {
       <nav className="max-w-screen-xl mx-auto px-4 md:px-8 h-20 flex items-center justify-between relative z-50 bg-transparent">
         {/* Logo */}
         <Link href="/" onClick={() => setState(false)} className="flex items-center gap-x-2 z-50">
-          <Image src="/inci-isg-logo.png" width={130} height={55} alt="inci isg logo" className="object-contain" />
+          <Image src="/inci-isg-logo.png" width={80} height={34} alt="inci isg logo" loading="eager" className="object-contain w-auto h-auto" />
         </Link>
 
         {/* Masaüstü Navigasyon */}

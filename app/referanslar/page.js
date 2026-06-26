@@ -48,7 +48,7 @@ export default function ReferanslarPage() {
               <Image
                 width={200}
                 height={56}
-                className="max-h-14 w-full object-contain transition-transform duration-300 ease-out scale-95 group-hover:scale-100 dark:brightness-90"
+                className="max-h-14 w-auto h-auto object-contain transition-transform duration-300 ease-out scale-95 group-hover:scale-100 dark:brightness-90"
                 src={ref.logo}
                 alt={ref.name}
                 loading="lazy"
