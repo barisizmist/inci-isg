@@ -1,5 +1,5 @@
 'use client';
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Contact = () => {
   const servicesItems = ['Yüksekte Çalışma Eğitimi', 'İşaretçi & Sapancı Eğitimi', 'Acil Durum Tatbikatı & Eğitimleri', 'Makina Periyodik Muayeneleri'];
