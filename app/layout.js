@@ -18,6 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
+  metadataBase: new URL('https://inciisgdanismanlik.com'),
   title: 'İnci İSG Danışmanlık | İstanbul Merkez İş Sağlığı Güvenliği',
   description: 'İstanbul merkezli, Türkiye genelinde hizmet veren profesyonel İSG danışmanlığı. Risk yönetimi, mevzuat uyumu ve çalışan güvenliği için uzman hizmetler.',
   keywords: 'İSG, iş sağlığı güvenliği, danışmanlık, İstanbul, risk yönetimi, eğitim',

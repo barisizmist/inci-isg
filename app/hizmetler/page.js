@@ -7,38 +7,56 @@ export default function HizmetlerPage() {
     {
       id: 1,
       icon: '🛡️',
-      title: 'İş Güvenliği Uzmanlığı Hizmetleri',
-      desc: 'İş yerinizin tehlike sınıfına uygun (A, B, C sınıfı) uzman görevlendirilmesi, yasal denetimlere hazırlık ve kurumsal rehberlik süreçleri.'
+      title: 'İş Güvenliği Uzmanlığı ve İşyeri Hekimliği',
+      desc: 'İş yerinizin tehlike sınıfına uygun (A, B, C sınıfı) uzman görevlendirilmesi, yasal denetimlere hazırlık ve kurumsal rehberlik süreçleri. Çalışanların işe giriş ve periyodik sağlık muayenelerinin yapılması, meslek hastalıklarının takibi ve yasal sağlık raporlamaları.'
     },
     {
       id: 2,
-      icon: '🩺',
-      title: 'İşyeri Hekimliği ve Sağlık Hizmetleri',
-      desc: 'Çalışanların işe giriş ve periyodik sağlık muayenelerinin yapılması, meslek hastalıklarının takibi ve yasal sağlık raporlamaları.'
+      icon: '🚨',
+      title: 'Risk Değerlendirmesi ve Acil Durum Planları',
+      desc: 'İşletmedeki tüm operasyonel risklerin belirlenmesi, analiz edilmesi ve tehlikeleri kaynağında yok edecek proaktif eylem planları. Deprem, yangın, sel gibi senaryolara karşı ekiplerin kurulması, tahliye plan krokilerinin ve kaçış stratejilerinin hazırlanması.'
     },
     {
       id: 3,
-      icon: '📊',
-      title: 'Risk Değerlendirmesi ve Analizi',
-      desc: 'İşletmedeki tüm operasyonel risklerin belirlenmesi, analiz edilmesi ve tehlikeleri kaynağında yok edecek proaktif eylem planları.'
-    },
-    {
-      id: 4,
       icon: '🔥',
       title: 'İSG ve Yangın Eğitimi Hizmetleri',
       desc: 'Mevzuata uygun temel İSG eğitimleri, çalışan temsilcisi eğitimleri, acil durum ve uygulamalı yangın söndürme tatbikatları.'
     },
     {
-      id: 5,
-      icon: '🚨',
-      title: 'Acil Durum Planlarının Hazırlanması',
-      desc: 'Deprem, yangın, sel gibi senaryolara karşı ekiplerin kurulması, tahliye plan krokilerinin ve kaçış stratejilerinin hazırlanması.'
-    },
-    {
-      id: 6,
+      id: 4,
       icon: '📐',
       title: 'Ortam Ölçümleri ve Periyodik Kontroller',
       desc: 'Gürültü, toz, aydınlatma gibi iş hijyeni ölçümleri ile basınçlı kaplar ve kaldırma araçlarının periyodik teknik kontrolleri.'
+    },
+    {
+      id: 5,
+      icon: '🏗️',
+      title: 'Yüksekte Güvenli Çalışma Eğitimleri',
+      desc: 'Yüksekte çalışma ekipmanları kullanımı, güvenlik önlemleri ve uygulamalı eğitimler.'
+    },
+    {
+      id: 6,
+      icon: '🚦',
+      title: 'İşaretçi ve Sapancı Eğitimleri',
+      desc: 'Kaldırma ve taşıma işlemlerinde güvenli işaretleme ve sapancılık eğitimleri.'
+    },
+    {
+      id: 7,
+      icon: '🆘',
+      title: 'Arama Kurtarma ve Koruma (Tahliye) Ekipleri Eğitimi',
+      desc: 'Acil durumlarda etkili müdahale için arama kurtarma ve tahliye ekipleri eğitimleri.'
+    },
+    {
+      id: 8,
+      icon: '🚨',
+      title: 'Acil Durum ve Yangın Tatbikatları',
+      desc: 'Gerçekçi senaryolarla acil durum ve yangın tatbikatları, ekip uyumunu artırma.'
+    },
+    {
+      id: 9,
+      icon: '🏥',
+      title: 'İlk Yardım Eğitimleri',
+      desc: 'Çalışanlara temel ilk yardım bilgisi ve uygulamalı eğitimler verilmesi.'
     }
   ];
 
