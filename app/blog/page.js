@@ -15,7 +15,11 @@ export default function BlogPage() {
         {/* Blog Grid Yapısı */}
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-2 max-w-5xl mx-auto">
           {blogPosts.map(post => (
-            <article key={post.id} className="bg-card rounded-3xl overflow-hidden shadow-sm transition-all duration-500 hover:shadow-xl hover:-translate-y-1" data-aos="fade-up">
+            <article
+              key={post.id}
+              className="bg-card rounded-3xl overflow-hidden shadow-sm transition-all duration-500 hover:shadow-xl hover:-translate-y-1 aos-card"
+              data-aos="fade-up"
+            >
               {/* Görsel */}
               <div className="h-48 overflow-hidden">
                 <Image
