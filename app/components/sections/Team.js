@@ -1,40 +1,47 @@
-
+import { testimonials, certificates, isoDocuments } from '@/data/mockData';
 
 const Team = () => {
-  const expertise = [
-    {
-      icon: '🛡️',
-      title: 'İş Güvenliği Uzmanı',
-      description: 'A, B, C sınıfı uzmanlar tarafından işyeri denetimleri ve riskler değerlendirmesi'
-    },
-    {
-      icon: '🩺',
-      title: 'İşyeri Hekimi',
-      description: 'Çalışan sağlığının takibi, periyodik muayeneler ve mesleki hastalık önlenmesi'
-    },
-    {
-      icon: '🎓',
-      title: 'İSG Eğitmeni',
-      description: 'Mevzuata uygun profesyonel İSG, yangın ve acil durum eğitimleri'
-    }
-  ];
-
   return (
-    <section className="py-14">
-      <div className="max-w-screen-xl mx-auto px-4 text-center md:px-8">
-        <div className="max-w-xl mx-auto">
-          <h3 className="text-3xl font-semibold sm:text-4xl">Deneyimli Uzman Kadromuz</h3>
-          <p className="text-foreground/80 leading-relaxed mt-3">10+ yıllık deneyim, mevzuat bilgisi ve proaktif yaklaşımla işyerlerinizin güvenliğini sağlamlaştırıyoruz.</p>
+    <section className="pb-16 md:pb-20">
+      <div className="max-w-screen-xl mx-auto px-4 md:px-8 space-y-10">
+        <div className="surface-card p-6 md:p-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <div>
+              <p className="text-xs uppercase tracking-[0.18em] text-[var(--brand)]">Sertifikalar</p>
+              <h3 className="text-3xl mt-2">Öne Çıkan Programlar</h3>
+              <div className="mt-4 grid sm:grid-cols-2 gap-3">
+                {certificates.slice(0, 4).map(item => (
+                  <div key={item.id} className="rounded-xl bg-background border border-foreground/10 p-3">
+                    <p className="font-semibold text-sm">{item.title}</p>
+                    <p className="text-xs text-foreground/60 mt-1">{item.price}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            <div>
+              <p className="text-xs uppercase tracking-[0.18em] text-[var(--brand)]">Belgelendirme</p>
+              <h3 className="text-3xl mt-2">ISO Çözümleri</h3>
+              <div className="mt-4 grid sm:grid-cols-2 gap-3">
+                {isoDocuments.slice(0, 4).map(item => (
+                  <div key={item.id} className="rounded-xl bg-background border border-foreground/10 p-3">
+                    <p className="font-semibold text-sm">{item.code}</p>
+                    <p className="text-xs text-foreground/60 mt-1">{item.title}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
         </div>
-        <div className="mt-12">
-          <ul className="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
-            {expertise.map((item, idx) => (
-              <li key={idx}>
-                <div className="text-5xl mx-auto mb-4">{item.icon}</div>
-                <div className="mt-2">
-                  <h4 className="font-semibold sm:text-lg">{item.title}</h4>
-                  <p className="text-foreground/80 leading-relaxed mt-2">{item.description}</p>
-                </div>
+
+        <div>
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--brand)] mb-3">Katılımcı Deneyimi</p>
+          <ul className="grid gap-4 md:grid-cols-3">
+            {testimonials.map(item => (
+              <li key={item.id} className="surface-card p-5">
+                <p className="text-foreground/80 leading-relaxed">&ldquo;{item.text}&rdquo;</p>
+                <p className="mt-4 text-sm font-semibold">{item.name}</p>
+                <p className="text-xs text-foreground/60">{item.role}</p>
               </li>
             ))}
           </ul>

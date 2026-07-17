@@ -4,29 +4,37 @@ import Image from 'next/image';
 
 import Link from 'next/link';
 import { footerNavLinks } from '@/config/navigation';
+import { cityList } from '@/data/mockData';
 
 const Footer = () => {
   const anasayfaNavs = footerNavLinks;
 
   return (
-    <footer className="bg-background text-foreground transition-colors duration-300 border-t border-gray-200/80 pt-16 pb-8 transition-colors duration-300">
+    <footer className="bg-[var(--surface)] text-foreground border-t border-foreground/10 pt-16 pb-8">
       <div className="max-w-screen-xl mx-auto px-4 md:px-8">
-        {/* Üst Grid Alanı */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 pb-12 border-b  border-gray-200/80">
+        <div className="grid grid-cols-1 lg:grid-cols-4 gap-12 pb-12 border-b border-foreground/10">
           <div className="space-y-4">
-            <Image src="/inci-isg-logo.png" width={100} height={43} alt="inci isg logo" loading="eager" className="dark:invert object-contain w-auto h-auto" />
+            <Image src="/inci-isg-logo.png" width={100} height={43} alt="inci akademi logo" loading="eager" className="object-contain w-auto h-auto" />
+            <p className="text-[11px] uppercase tracking-[0.2em] text-foreground/60">Türkiye'nin Her Yerinden Eğitime Katılın</p>
             <p className="leading-relaxed text-foreground/80">
-              İstanbul merkezli olmak üzere Türkiye genelinde iş sağlığı ve güvenliği kültürünü yaygınlaştırmak, iş kazalarını proaktif çözümlerle önlemek amacıyla hizmet
-              veriyoruz.
+              İnci Akademi, online eğitim, belgelendirme ve sertifikasyon süreçlerini sadeleştirir. Hızlı kayıt, güvenli ödeme ve güçlü danışman desteği ile süreçleri uçtan uca
+              yönetir.
             </p>
+            <div className="flex flex-wrap gap-2 pt-1">
+              {['E-Devlet Sorgulanabilir', 'Üniversite İş Birliği', 'Hızlı ve Online'].map(tag => (
+                <span key={tag} className="text-[10px] uppercase tracking-[0.14em] px-2 py-1 rounded-full bg-background text-foreground/75 border border-foreground/10">
+                  {tag}
+                </span>
+              ))}
+            </div>
           </div>
 
           <div className="space-y-4">
-            <h4 className="font-semibold text-sm tracking-wider">HIZLI ERİŞİM</h4>
+            <h4 className="font-semibold text-sm tracking-wider">MENÜ</h4>
             <ul className="space-y-2.5 text-sm">
-              {anasayfaNavs.map((item, idx) => (
-                <li key={idx}>
-                  <Link href={item.path} className="leading-relaxed text-foreground/80 hover:text-blue-600 block py-1">
+              {anasayfaNavs.map(item => (
+                <li key={item.path}>
+                  <Link href={item.path} className="leading-relaxed text-foreground/80 hover:text-[var(--brand)] block py-1">
                     {item.title}
                   </Link>
                 </li>
@@ -34,40 +42,58 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="space-y-4 text-sm ">
-            <h4 className="font-semibold text-sm tracking-wider">İLETİŞİM BİLGİLERİ</h4>
+          <div className="space-y-4 text-sm">
+            <h4 className="font-semibold text-sm tracking-wider">HİZMETLER</h4>
+            <ul className="space-y-2.5 text-foreground/80">
+              <li>Online Sertifika Programları</li>
+              <li>İş Makinesi Operatör Eğitimleri</li>
+              <li>ISO Belgelendirme Danışmanlığı</li>
+              <li>Kurumsal Eğitim Paketleri</li>
+            </ul>
+          </div>
+
+          <div className="space-y-4 text-sm">
+            <h4 className="font-semibold text-sm tracking-wider">İLETİŞİM</h4>
             <ul className="space-y-3">
               <li className="flex items-start gap-x-3">
                 <span className="mt-0.5">📍</span>
-                <span className="leading-relaxed text-foreground/80">Adalet Mah. Anadolu Cad. No: 41, Megapol Tower, Kat: 10, Bayraklı / İstanbul</span>
+                <span className="leading-relaxed text-foreground/80">Pendik İstanbul, Kavakpınar Mahallesi, Cemil Meriç Caddesi</span>
               </li>
               <li className="flex items-center gap-x-3">
-                <span className="text-blue-500">📞</span>
-                <a href="tel:+905383286995" className="leading-relaxed text-foreground/80 hover:text-blue-600">
-                  +90 538 328 69 95
+                <span className="text-[var(--brand)]">📞</span>
+                <a href="tel:+905466893488" className="leading-relaxed text-foreground/80 hover:text-[var(--brand)]">
+                  +90 546 689 34 88
                 </a>
               </li>
               <li className="flex items-center gap-x-3">
-                <span className="text-blue-500">✉️</span>
-                <a href="mailto:info@inciisgdanismanlik.com" className="leading-relaxed text-foreground/80 hover:text-blue-600">
-                  info@inciisgdanismanlik.com
+                <span className="text-[var(--brand)]">✉️</span>
+                <a href="mailto:info@inciakademi.com" className="leading-relaxed text-foreground/80 hover:text-[var(--brand)]">
+                  info@inciakademi.com
                 </a>
               </li>
               <li className="flex items-center gap-x-3">
-                <span className="text-blue-500">🕐</span>
+                <span className="text-[var(--brand)]">🕐</span>
                 <span className="leading-relaxed text-foreground/80">Pzt. - Cmt. 09:00 - 18:00</span>
               </li>
             </ul>
           </div>
         </div>
 
-        {/* Alt Kısım */}
-        <div className="mt-8 flex flex-col-reverse sm:flex-row items-center justify-between gap-y-4 text-xs text-gray-500">
-          <div>&copy; {new Date().getFullYear()} İnci İSG Danışmanlık.</div>
+        <div className="mt-8 pb-8 border-b border-foreground/10">
+          <h5 className="text-xs uppercase tracking-[0.18em] text-foreground/60 mb-3">Yoğun Katılım Olan Şehirler</h5>
+          <div className="flex flex-wrap gap-2">
+            {cityList.map(city => (
+              <span key={city} className="px-3 py-1 rounded-full text-xs bg-background border border-foreground/10 text-foreground/75">
+                {city}
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <div className="mt-8 flex flex-col-reverse sm:flex-row items-center justify-between gap-y-4 text-xs text-foreground/60">
+          <div>&copy; {new Date().getFullYear()} İnci Akademi. Tüm hakları saklıdır.</div>
 
           <div className="flex items-center space-x-4">
-            {/* Sosyal Medya ikonlarını dark:bg-gray-800 ile daha yumuşak hale getirdik */}
-            {/* Sosyal Medya İkonları */}
             <div className="flex items-center space-x-4">
               {[
                 {
@@ -91,7 +117,7 @@ const Footer = () => {
                   href={`https://${social.label.toLowerCase()}.com`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className={`w-9 h-9 rounded-xl bg-gray-100 dark:bg-gray-900 text-gray-600 dark:text-gray-300 ${social.color} hover:text-white flex items-center justify-center transition-all duration-300 shadow-sm hover:shadow-lg`}
+                  className={`w-9 h-9 rounded-xl bg-background text-foreground/70 ${social.color} hover:text-white flex items-center justify-center transition-all duration-300 shadow-sm hover:shadow-lg`}
                   aria-label={social.label}
                 >
                   <svg className="w-4 h-4 fill-current" viewBox="0 0 24 24">

@@ -1,18 +1,19 @@
 'use client';
 
 import Image from 'next/image';
+import { cityList } from '@/data/mockData';
 
 export default function About() {
   const istatistikler = [
-    { value: '10+', label: 'Yıllık Deneyim' },
-    { value: '500+', label: 'Hizmet Verilen Firma' },
-    { value: '20K+', label: 'Eğitilen Çalışan' },
-    { value: 'A,B,C', label: 'Sınıfı Uzman Kadrosu' }
+    { value: '121+', label: 'Kategori' },
+    { value: '1000+', label: 'Program' },
+    { value: '81', label: 'İl Erişimi' },
+    { value: '7/24', label: 'Online Erişim' }
   ];
 
   return (
-    <div className="min-h-screen bg-background text-foreground transition-colors duration-300">
-      <section className="relative bg-gradient-to-b from-slate-900 to-slate-800 py-20 text-center text-white overflow-hidden">
+    <div className="min-h-screen bg-background text-foreground">
+      <section className="relative bg-gradient-to-b from-[#0c1628] to-[#13243d] py-20 text-center text-white overflow-hidden">
         <div
           className="absolute inset-0 opacity-10"
           style={{
@@ -22,9 +23,11 @@ export default function About() {
           }}
         ></div>
         <div className="relative max-w-3xl mx-auto px-6" data-aos="fade-up">
-          <span className="text-blue-400 font-semibold tracking-wider uppercase text-sm">Kurumsal</span>
-          <h1 className="text-4xl font-extrabold sm:text-5xl mt-2 tracking-tight">İnci İSG Danışmanlık</h1>
-          <p className="mt-4 leading-relaxed text-foreground/80">Geleceği güvenle inşa etmek, riskleri proaktif yaklaşımlarla sıfıra indirmek için çalışıyoruz.</p>
+          <span className="text-[var(--accent)] font-semibold tracking-[0.16em] uppercase text-xs">Kurumsal</span>
+          <h1 className="text-4xl font-extrabold sm:text-5xl mt-2 tracking-tight">İnci Akademi Hakkında</h1>
+          <p className="mt-4 leading-relaxed text-white/80">
+            Online eğitim, sertifikasyon ve belgelendirme süreçlerini daha erişilebilir hale getiren yeni nesil eğitim platformu.
+          </p>
         </div>
       </section>
 
@@ -46,46 +49,38 @@ export default function About() {
 
           <div className="space-y-6">
             <p className="leading-relaxed text-foreground/80">
-              İNCİ İSG Eğitim ve Danışmanlık, iş sağlığı ve güvenliği alanında işletmelerin yasal yükümlülüklerini yerine getirmelerine destek olmak, güvenli çalışma kültürünü
-              yaygınlaştırmak ve çalışanların bilinç düzeyini artırmak amacıyla kurulmuştur.
+              İnci Akademi, bireysel katılımcılar ve kurumlar için eğitim ve sertifikasyon süreçlerini uçtan uca yöneten, erişilebilir ve ölçülebilir bir hizmet modeliyle
+              yapılandırılmıştır. Program seçimi, başvuru, ödeme ve belge doğrulama adımları tek platformda bütünleşik olarak yürütülür.
             </p>
             <p className="leading-relaxed text-foreground/80">
-              Alanında uzman ve deneyimli kadromuzla; kamu kurumları, özel sektör kuruluşları, eğitim kurumları ve bireysel katılımcılara yönelik profesyonel eğitim ve danışmanlık
-              hizmetleri sunmaktayız. Hizmet anlayışımızın temelinde kalite, güven, sürdürülebilirlik ve müşteri memnuniyeti yer almaktadır.
+              Operasyon modelimiz; hızlı danışman geri dönüşü, doğru program eşleştirme ve süreç boyunca şeffaf bilgilendirme prensibine dayanır. Hedefimiz yalnızca belge üretmek
+              değil, katılımcı yetkinliğini artırmak ve kurumların operasyonel sürdürülebilirliğine katkı sunmaktır.
             </p>
             <p className="leading-relaxed text-foreground/80">
-              Başta İş Sağlığı ve Güvenliği Eğitimleri olmak üzere; yangın güvenliği eğitimleri, acil durum ekip eğitimleri, tahliye ve yangın tatbikatları, ilk yardım farkındalık
-              eğitimleri, risk değerlendirme danışmanlığı, acil durum planlarının hazırlanması ve işletmelere özel İSG çözümleri sunarak kurumların güvenli çalışma ortamları
-              oluşturmasına katkı sağlamaktayız.
+              Sertifika programları, iş makinesi eğitimleri, ISO belgelendirme danışmanlığı ve kurumsal modüllerle geniş bir yelpazede çözüm sunuyoruz. Tüm akış dijital olarak
+              yönetildiği için Türkiye'nin her yerinden erişilebilir bir yapı sağlıyoruz.
             </p>
             <p className="leading-relaxed text-foreground/80">
-              Teknolojik gelişmeleri ve güncel mevzuatı yakından takip ederek eğitim içeriklerimizi sürekli güncelliyor, teorik bilgiyi uygulamalı eğitimlerle destekleyerek kalıcı
-              öğrenmeyi hedefliyoruz. Her işletmenin ihtiyaçlarının farklı olduğunun bilinciyle hareket ediyor, kurumlara özel çözümler geliştiriyoruz.
+              Eğitim içeriklerini güncel mevzuat ve saha ihtiyaçlarına göre sürekli yeniliyor; gerektiğinde kurumlara özel planlar çıkarıyoruz. Böylece süreçler yalnızca hızlı
+              değil, sürdürülebilir bir kalite standardında yürütülüyor.
             </p>
-            <p className="leading-relaxed text-foreground/80">
-              İNCİ İSG Eğitim ve Danışmanlık olarak hedefimiz; yalnızca yasal zorunlulukların yerine getirilmesini sağlamak değil, aynı zamanda iş kazalarının ve meslek
-              hastalıklarının önlenmesine katkı sağlayan güçlü bir güvenlik kültürü oluşturmaktır.
-            </p>
-            <p className="leading-relaxed text-foreground/80">
-              Güvenli çalışma ortamları oluşturmak, çalışanların yaşamını korumak ve işletmelerin sürdürülebilir başarısına katkı sağlamak için bilgi, deneyim ve çözüm odaklı
-              yaklaşımımızla hizmet vermeye devam ediyoruz.
-            </p>
+            <p className="leading-relaxed text-foreground/80">İnci Akademi'nin odağı: doğru program, doğru hız, doğru sonuç.</p>
             <p className="leading-relaxed text-foreground/80 font-semibold text-blue-600 dark:text-blue-400">
-              İNCİ İSG Eğitim ve Danışmanlık
+              İNCI AKADEMİ
               <br />
-              &ldquo;Güvenli İş Yerleri, Güçlü Yarınlar.&rdquo;
+              &ldquo;Online Eğitim, Somut Yetkinlik.&rdquo;
             </p>
           </div>
         </div>
       </section>
 
-      <section className="from-blue-50 to-white py-12 border-y border-slate-200">
+      <section className="py-12 border-y border-slate-200/60">
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             {istatistikler.map((item, idx) => (
-              <div key={idx} data-aos="zoom-in" data-aos-delay={idx * 100}>
-                <div className="text-4xl font-extrabold text-blue-600 sm:text-5xl">{item.value}</div>
-                <div className="mt-2 text-sm font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">{item.label}</div>
+              <div key={item.label} data-aos="zoom-in" data-aos-delay={idx * 100}>
+                <div className="text-4xl font-extrabold text-[var(--brand)] sm:text-5xl">{item.value}</div>
+                <div className="mt-2 text-sm font-medium text-foreground/65 uppercase tracking-wider">{item.label}</div>
               </div>
             ))}
           </div>
@@ -97,26 +92,37 @@ export default function About() {
           {[
             {
               title: 'Misyonumuz',
-              desc: 'İş kazalarını ve meslek hastalıklarını öngörülebilir ve önlenebilir kılmak; işletmelerde sürdürülebilir, güvenli ve sağlıklı çalışma ortamları inşa etmektir.',
+              desc: 'Eğitim ve belgelendirme süreçlerini herkes için erişilebilir, şeffaf ve yönetilebilir hale getirmek.',
               icon: '🎯'
             },
             {
               title: 'Vizyonumuz',
-              desc: 'Proaktif yaklaşımımız ve yenilikçi çözümlerimizle, sektörde güvenilirliğin ve kalitenin simgesi olan lider bir İSG danışmanlık markası olmak.',
+              desc: 'Türkiye’de online eğitim ve sertifikasyonda en güvenilen, en pratik ve en yüksek memnuniyetli platformlardan biri olmak.',
               icon: '👁️'
             }
           ].map((item, idx) => (
             <div
-              key={idx}
+              key={item.title}
               className="border border-slate-100 p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300"
               data-aos="fade-up"
               data-aos-delay={idx * 100}
             >
-              <div className="w-12 h-12 bg-blue-50 dark:bg-blue-900/30 text-blue-600 rounded-xl flex items-center justify-center mb-6 text-xl font-bold">{item.icon}</div>
+              <div className="w-12 h-12 bg-cyan-50 text-[var(--brand)] rounded-xl flex items-center justify-center mb-6 text-xl font-bold">{item.icon}</div>
               <h3 className="text-2xl font-bold text-foreground mb-4">{item.title}</h3>
               <p className="leading-relaxed text-foreground/80">{item.desc}</p>
             </div>
           ))}
+        </div>
+
+        <div className="mt-8 surface-card p-6">
+          <h4 className="text-xl">Şehir Kapsamı</h4>
+          <div className="mt-4 flex flex-wrap gap-2">
+            {cityList.map(city => (
+              <span key={city} className="px-3 py-1 rounded-full text-xs bg-background border border-foreground/10 text-foreground/75">
+                {city}
+              </span>
+            ))}
+          </div>
         </div>
       </section>
     </div>
