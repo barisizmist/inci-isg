@@ -1,4 +1,4 @@
-import { Manrope, Fraunces } from 'next/font/google';
+import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 import 'aos/dist/aos.css';
 import Footer from './components/sections/Footer';
@@ -7,49 +7,49 @@ import Header from './components/sections/Header';
 import MainLayoutWrapper from './components/MainLayoutWrapper';
 import { Providers } from './providers';
 
-const manrope = Manrope({
-  variable: '--font-manrope',
+const geistSans = Geist({
+  variable: '--font-geist-sans',
   subsets: ['latin']
 });
 
-const fraunces = Fraunces({
-  variable: '--font-fraunces',
+const geistMono = Geist_Mono({
+  variable: '--font-geist-mono',
   subsets: ['latin']
 });
 
 export const metadata = {
-  metadataBase: new URL('https://inciakademi.com'),
-  title: 'İnci Akademi | Online Eğitim, Sertifika ve Belgelendirme',
-  description: 'Türkiye genelinde online eğitim, e-devlet sorgulanabilir sertifika programları, iş makinesi operatör eğitimleri ve ISO belgelendirme çözümleri.',
-  keywords: 'online eğitim, sertifika, belgelendirme, iş makinesi, iso, e-devlet onaylı',
-  authors: [{ name: 'İnci Akademi' }],
+  metadataBase: new URL('https://inciisgdanismanlik.com'),
+  title: 'İnci İSG Danışmanlık | İstanbul Merkez İş Sağlığı Güvenliği',
+  description: 'İstanbul merkezli, Türkiye genelinde hizmet veren profesyonel İSG danışmanlığı. Risk yönetimi, mevzuat uyumu ve çalışan güvenliği için uzman hizmetler.',
+  keywords: 'İSG, iş sağlığı güvenliği, danışmanlık, İstanbul, risk yönetimi, eğitim',
+  authors: [{ name: 'İnci İSG Danışmanlık' }],
   openGraph: {
     type: 'website',
     locale: 'tr_TR',
-    url: 'https://inciakademi.com',
-    siteName: 'İnci Akademi',
-    title: 'İnci Akademi | Geleceğin İçin Sertifikanı Al',
-    description: 'Online eğitim, sertifika ve belgelendirme süreçlerinde hızlı ve güvenilir çözüm ortağınız.',
+    url: 'https://inciisgdanismanlik.com',
+    siteName: 'İnci İSG Danışmanlık',
+    title: 'İnci İSG Danışmanlık | Profesyonel İş Sağlığı Güvenliği Hizmetleri',
+    description: 'Güvenli çalışma ortamları ve sağlıklı yarınlar için İnci İSG Danışmanlık ile çalışın.',
     images: [
       {
         url: '/inci-isg-og-image.png',
         width: 1200,
         height: 630,
-        alt: 'İnci Akademi'
+        alt: 'İnci İSG Danışmanlık'
       }
     ]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'İnci Akademi',
-    description: 'Online eğitim, sertifika ve belgelendirme platformu',
+    title: 'İnci İSG Danışmanlık',
+    description: "Türkiye'de profesyonel İş Sağlığı Güvenliği danışmanlığı",
     images: ['/inci-isg-og-image.png']
   }
 };
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="tr" className={`${manrope.variable} ${fraunces.variable} h-full antialiased`} suppressHydrationWarning>
+    <html lang="tr" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`} suppressHydrationWarning>
       <head />
       <body className="min-h-full flex flex-col">
         <Providers>
