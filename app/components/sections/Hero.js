@@ -116,7 +116,7 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row items-center gap-4 pt-4">
             <Link
-              href="/hizmetler"
+              href="/egitimler"
               className="flex items-center justify-center gap-x-2 py-3.5 px-6 w-full sm:w-auto text-sm text-white font-bold bg-blue-600 hover:bg-blue-700 transition-all duration-150 rounded-xl"
             >
               Hizmetlerimizi İnceleyin
