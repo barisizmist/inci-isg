@@ -110,7 +110,7 @@ export default function SertifikaHeroFilter({
   sortBy,
   setSortBy,
   kategoriler = [],
-  totalCount = 1086,
+  totalCount = 0,
   onReset
 }) {
   const [activeBadge, setActiveBadge] = useState(null);
@@ -130,8 +130,7 @@ export default function SertifikaHeroFilter({
   };
 
   return (
-    <div className="w-full mb-10">
-      <div className="container mx-auto max-w-7xl pt-8 pb-6 px-4 sm:px-6">
+    <div className="w-full mb-10 pt-8 pb-6">
         {/* Hero İçerik */}
         <div className="mb-8">
           <p
@@ -167,7 +166,7 @@ export default function SertifikaHeroFilter({
                   color: 'var(--foreground)',
                 }}
               >
-                {isAll ? '96' : totalCount}
+                {isAll ? kategoriler.length : totalCount}
               </span>
               <span
                 className="text-xs font-medium"
@@ -188,7 +187,7 @@ export default function SertifikaHeroFilter({
                   color: 'var(--foreground)',
                 }}
               >
-                {isAll ? '1.086' : totalCount}
+                {totalCount.toLocaleString('tr-TR')}
               </span>
               <span
                 className="text-xs font-medium"
@@ -270,39 +269,63 @@ export default function SertifikaHeroFilter({
           {/* Dropdown'lar — mobilde alt alta, masaustude yan yana */}
           <div className="flex flex-col md:flex-row md:items-center gap-2 w-full md:w-auto">
             {/* Kategori Dropdown */}
-            <select
-              value={selectedCategory}
-              onChange={e => setSelectedCategory(e.target.value)}
-              className="w-full md:w-auto py-2.5 px-3 rounded-lg border text-sm focus:outline-none cursor-pointer min-w-0"
-              style={{
-                backgroundColor: 'var(--background)',
-                borderColor: 'color-mix(in srgb, var(--foreground) 10%, transparent)',
-                color: 'var(--foreground)',
-              }}
-            >
-              <option value="hepsi">Kategori</option>
-              {kategoriler.map(kat => (
-                <option key={kat.id} value={kat.id}>
-                  {kat.label}
-                </option>
-              ))}
-            </select>
+            <div className="relative w-full md:w-auto">
+              <select
+                value={selectedCategory}
+                onChange={e => setSelectedCategory(e.target.value)}
+                className="w-full md:w-auto py-2.5 pl-3 pr-9 rounded-lg border text-sm focus:outline-none cursor-pointer min-w-0 appearance-none"
+                style={{
+                  backgroundColor: 'var(--background)',
+                  borderColor: 'color-mix(in srgb, var(--foreground) 10%, transparent)',
+                  color: 'var(--foreground)',
+                }}
+              >
+                <option value="hepsi">Kategori</option>
+                {kategoriler.map(kat => (
+                  <option key={kat.id} value={kat.id}>
+                    {kat.label}
+                  </option>
+                ))}
+              </select>
+              <svg
+                className="absolute right-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 pointer-events-none transition-transform duration-200"
+                style={{ color: 'color-mix(in srgb, var(--foreground) 50%, transparent)' }}
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                strokeWidth="2.5"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" d="M6 9l6 6 6-6" />
+              </svg>
+            </div>
 
             {/* Sıralama Dropdown */}
-            <select
-              value={sortBy}
-              onChange={e => setSortBy(e.target.value)}
-              className="w-full md:w-auto py-2.5 px-3 rounded-lg border text-sm focus:outline-none cursor-pointer min-w-0"
-              style={{
-                backgroundColor: 'var(--background)',
-                borderColor: 'color-mix(in srgb, var(--foreground) 10%, transparent)',
-                color: 'var(--foreground)',
-              }}
-            >
-              <option value="one-cikanlar">Sırala</option>
-              <option value="yeni">En Yeniler</option>
-              <option value="a-z">A&apos;dan Z&apos;ye</option>
-            </select>
+            <div className="relative w-full md:w-auto">
+              <select
+                value={sortBy}
+                onChange={e => setSortBy(e.target.value)}
+                className="w-full md:w-auto py-2.5 pl-3 pr-9 rounded-lg border text-sm focus:outline-none cursor-pointer min-w-0 appearance-none"
+                style={{
+                  backgroundColor: 'var(--background)',
+                  borderColor: 'color-mix(in srgb, var(--foreground) 10%, transparent)',
+                  color: 'var(--foreground)',
+                }}
+              >
+                <option value="one-cikanlar">Sırala</option>
+                <option value="yeni">En Yeniler</option>
+                <option value="a-z">A&apos;dan Z&apos;ye</option>
+              </select>
+              <svg
+                className="absolute right-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 pointer-events-none transition-transform duration-200"
+                style={{ color: 'color-mix(in srgb, var(--foreground) 50%, transparent)' }}
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                strokeWidth="2.5"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" d="M6 9l6 6 6-6" />
+              </svg>
+            </div>
 
             {/* Temizle — sadece mobilde */}
             <button
@@ -332,7 +355,7 @@ export default function SertifikaHeroFilter({
                 color: 'color-mix(in srgb, var(--foreground) 55%, transparent)',
               }}
             >
-              <strong style={{ color: 'var(--foreground)' }}>{totalCount}</strong> eğitim
+              <strong style={{ color: 'var(--foreground)' }}>{totalCount.toLocaleString('tr-TR')}</strong> eğitim
             </div>
 
             <button
@@ -357,7 +380,6 @@ export default function SertifikaHeroFilter({
           </div>
 
         </div>
-      </div>
     </div>
   );
 }

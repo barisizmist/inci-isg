@@ -14,11 +14,11 @@ export async function generateMetadata({ params }) {
   const cert = sertifikalarData.find(item => item.id === slug);
 
   if (!cert) {
-    return { title: 'Sertifika Bulunamadı | Nida Akademi' };
+    return { title: 'Sertifika Bulunamadı | İnci İSG' };
   }
 
   return {
-    title: `${cert.title} | Nida Akademi Sertifika Programı`,
+    title: `${cert.title} | İnci İSG Sertifika Programı`,
     description: cert.description
   };
 }

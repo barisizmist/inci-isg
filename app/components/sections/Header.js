@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import ThemeToggle from '../ThemeToggle';
 import { navigationLinks } from '@/config/navigation';
-import { sertifikaKategorileri } from '@/data/sertifikalarData';
+import { sertifikaKategorileri, sertifikalarData } from '@/data/sertifikalarData';
 import { egitimlerData } from '@/data/egitimlerData';
 
 const MEGA_MENU_CATEGORIES = sertifikaKategorileri;
@@ -31,15 +31,6 @@ const Header = () => {
     return () => { document.body.style.overflow = 'unset'; };
   }, [state]);
 
-  useEffect(() => {
-    if (isMegaMenuOpen) {
-      document.body.style.overflow = 'hidden';
-    } else if (!state) {
-      document.body.style.overflow = 'unset';
-    }
-    return () => { if (!state) document.body.style.overflow = 'unset'; };
-  }, [isMegaMenuOpen, state]);
-
   const handleMegaEnter = () => {
     clearTimeout(megaTimerRef.current);
     setIsMegaMenuOpen(true);
@@ -59,10 +50,10 @@ const Header = () => {
   return (
     <header
       className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${
-        state || isMegaMenuOpen || isEgitimOpen ? 'bg-background shadow-md' : isScrolled ? 'bg-background/95 backdrop-blur-md shadow-sm' : 'bg-transparent'
+        state ? 'bg-background shadow-md' : 'bg-transparent'
       }`}
     >
-      {!isScrolled && !state && !isMegaMenuOpen && !isEgitimOpen && <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-transparent h-24 -z-10" />}
+      {!state && <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-transparent h-24 -z-10" />}
 
       <nav className="max-w-screen-xl mx-auto px-4 md:px-8 h-20 flex items-center justify-between relative z-50">
         <Link href="/" onClick={() => setState(false)} className="flex items-center gap-x-2 z-50">
@@ -73,7 +64,7 @@ const Header = () => {
         <div className="hidden lg:flex items-center gap-x-8">
           <ul className="flex items-center space-x-8">
             {navigation.map((item, idx) => {
-              const isHeaderDark = isScrolled || isMegaMenuOpen || isEgitimOpen || state;
+              const isHeaderDark = state;
 
               if (item.path === '/sertifikalar' || item.isMegaMenu) {
                 return (
@@ -102,18 +93,15 @@ const Header = () => {
                       onMouseEnter={handleMegaEnter}
                     />
 
-                    {/* Mega Menü — fixed, tam ekran genişliğinde */}
+                    {/* Mega Menü — container genişliğinde, border her yerde görünür */}
                     <div
-                      className={`fixed inset-x-0 top-20 border-b border-border transition-all duration-200 ${
+                      className={`fixed top-20 left-1/2 -translate-x-1/2 w-[calc(100vw-2rem)] max-w-screen-xl rounded-xl border-x border-b shadow-xl transition-all duration-200 ${
                         isMegaMenuOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible -translate-y-1 pointer-events-none'
                       }`}
-                      style={{ backgroundColor: 'color-mix(in srgb, var(--background) 92%, transparent)', backdropFilter: 'blur(12px)' }}
+                      style={{ backgroundColor: 'color-mix(in srgb, var(--background) 95%, transparent)', backdropFilter: 'blur(12px)', borderColor: 'color-mix(in srgb, var(--foreground) 10%, transparent)' }}
                       onMouseEnter={handleMegaEnter}
                     >
-                      {/* Mavi accent çizgi */}
-                      <div className="h-[2px] bg-gradient-to-r from-blue-600 via-indigo-500 to-blue-600" />
-
-                      <div className="max-w-[1400px] mx-auto px-8 py-5">
+                      <div className="px-8 pt-5 pb-6">
                         {/* Üst: Başlık + Tümünü Gör */}
                         <div className="flex items-center justify-between mb-4">
                           <h3 className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground">Tüm Kategoriler</h3>
@@ -130,7 +118,7 @@ const Header = () => {
                         </div>
 
                         {/* Kategori Grid — tam genişlik, 5-6 kolon */}
-                        <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-x-5 gap-y-0">
+                        <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-x-5 gap-y-0 pb-8">
                           {MEGA_MENU_CATEGORIES.map(cat => (
                             <Link
                               key={cat.id}
@@ -145,18 +133,20 @@ const Header = () => {
                         </div>
 
                         {/* Alt */}
-                        <div className="mt-4 pt-3 border-t border-border flex items-center justify-between">
-                          <span className="text-[10px] text-muted-foreground">
-                            <span className="font-semibold text-foreground">{MEGA_MENU_CATEGORIES.length}</span> kategoride{' '}
-                            <span className="font-semibold text-foreground">1.086</span> eğitim
-                          </span>
-                          <Link
-                            href="/sertifikalar"
-                            onClick={() => setIsMegaMenuOpen(false)}
-                            className="text-[10px] text-muted-foreground hover:text-foreground transition-colors"
-                          >
-                            Aradığınız kategoriyi bulamadınız mı?
-                          </Link>
+                        <div>
+                          <div className="flex items-center justify-between">
+                            <span className="text-xs text-muted-foreground">
+                              <span className="font-semibold text-foreground">{MEGA_MENU_CATEGORIES.length}</span> kategoride{' '}
+                              <span className="font-semibold text-foreground">{sertifikalarData.length.toLocaleString('tr-TR')}</span> eğitim
+                            </span>
+                            <Link
+                              href="/sertifikalar"
+                              onClick={() => setIsMegaMenuOpen(false)}
+                              className="text-xs text-muted-foreground hover:text-foreground transition-colors"
+                            >
+                              Aradığınız kategoriyi bulamadınız mı?
+                            </Link>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -193,13 +183,12 @@ const Header = () => {
 
                     {/* Dropdown */}
                     <div
-                      className={`fixed left-1/2 -translate-x-1/2 top-20 w-[320px] rounded-xl border shadow-xl transition-all duration-200 ${
+                      className={`fixed left-1/2 -translate-x-1/2 top-20 w-[320px] rounded-xl shadow-xl transition-all duration-200 ${
                         isEgitimOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible -translate-y-1 pointer-events-none'
                       }`}
                       style={{ backgroundColor: 'color-mix(in srgb, var(--background) 95%, transparent)', backdropFilter: 'blur(12px)' }}
                       onMouseEnter={handleEgitimEnter}
                     >
-                      <div className="h-[2px] bg-gradient-to-r from-blue-600 via-indigo-500 to-blue-600 rounded-t-xl" />
                       <div className="p-3">
                         <h3 className="text-[10px] font-bold uppercase tracking-widest mb-2 px-2" style={{ color: 'color-mix(in srgb, var(--foreground) 40%, transparent)' }}>
                           Eğitimler
@@ -257,7 +246,7 @@ const Header = () => {
         <div className="flex items-center gap-x-4 lg:hidden z-50">
           <ThemeToggle />
           <button
-            className={`focus:outline-none p-2 transition-colors duration-300 ${state || isScrolled || isMegaMenuOpen ? 'text-foreground' : 'text-white drop-shadow-md'}`}
+            className={`focus:outline-none p-2 transition-colors duration-300 ${state ? 'text-foreground' : 'text-white drop-shadow-md'}`}
             onClick={() => setState(!state)}
             aria-label="Menüyü Aç/Kapat"
           >
@@ -283,27 +272,13 @@ const Header = () => {
             {navigation.map((item, idx) => (
               <li key={idx} className="w-full">
                 {item.hasDropdown ? (
-                  <div>
-                    <Link
-                      href={item.path}
-                      onClick={() => setState(false)}
-                      className="block text-lg font-bold tracking-wider text-foreground hover:text-blue-600 py-2.5 uppercase transition-colors"
-                    >
-                      {item.title}
-                    </Link>
-                    <div className="mt-1 space-y-1 pl-4">
-                      {egitimlerData.map((egitim) => (
-                        <Link
-                          key={egitim.id}
-                          href={`/egitimler/${egitim.slug}`}
-                          onClick={() => setState(false)}
-                          className="block text-xs font-medium py-1.5 text-foreground/60 hover:text-blue-600 transition-colors"
-                        >
-                          {egitim.title}
-                        </Link>
-                      ))}
-                    </div>
-                  </div>
+                  <Link
+                    href={item.path}
+                    onClick={() => setState(false)}
+                    className="block text-lg font-bold tracking-wider text-foreground hover:text-blue-600 py-2.5 uppercase transition-colors"
+                  >
+                    {item.title}
+                  </Link>
                 ) : (
                   <Link
                     href={item.path}

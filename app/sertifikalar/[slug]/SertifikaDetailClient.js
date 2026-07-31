@@ -9,17 +9,67 @@ const WHATSAPP_NUMBER = '905322355022';
 const TABS = [
   { id: 'description', label: 'Açıklama' },
   { id: 'faq', label: 'Sıkça Sorulanlar' },
-  { id: 'exam', label: 'Sınav' },
-  { id: 'reviews', label: 'Yorum' },
 ];
 
 const HIGHLIGHTS = [
-  { text: 'E-Devlet Onaylı' },
-  { text: 'Hızlı Teslimat' },
-  { text: 'Üniversite Onaylı' },
-  { text: 'Güvenli Ödeme' },
-  { text: 'Belge Doğrulama' },
-  { text: '7/24 Destek' },
+  {
+    text: 'E-Devlet Onaylı',
+    icon: (
+      <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M12 3.5s6 2.3 6 6.3c0 4.4-2.5 7.9-6 10.4-3.5-2.5-6-6-6-10.4 0-4 6-6.3 6-6.3Z" />
+        <path d="m9 12.2 2 2 4-4.2" />
+      </svg>
+    ),
+  },
+  {
+    text: 'Hızlı Teslimat',
+    icon: (
+      <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2" />
+        <path d="M15 18H9" />
+        <path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14" />
+        <circle cx="17" cy="18" r="2" />
+        <circle cx="7" cy="18" r="2" />
+      </svg>
+    ),
+  },
+  {
+    text: 'Üniversite Onaylı',
+    icon: (
+      <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z" />
+        <path d="M22 10v6" />
+        <path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5" />
+      </svg>
+    ),
+  },
+  {
+    text: 'Güvenli Ödeme',
+    icon: (
+      <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <rect width="18" height="11" x="3" y="11" rx="2" ry="2" />
+        <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+      </svg>
+    ),
+  },
+  {
+    text: 'Belge Doğrulama',
+    icon: (
+      <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+        <path d="M14 2v6h6" />
+        <path d="m9 15 2 2 4-4" />
+      </svg>
+    ),
+  },
+  {
+    text: '7/24 Destek',
+    icon: (
+      <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3" />
+      </svg>
+    ),
+  },
 ];
 
 const FAQ_ITEMS = [
@@ -112,31 +162,6 @@ export default function SertifikaDetailClient({ cert, relatedCerts }) {
                 {cert.title}
               </h1>
 
-              {/* Bilgi Kutusu */}
-              <div
-                className="rounded-xl p-5 mb-6 flex items-center justify-between flex-wrap gap-4"
-                style={{
-                  backgroundColor: 'color-mix(in srgb, var(--foreground) 4%, var(--background))',
-                  border: '1px solid color-mix(in srgb, var(--foreground) 8%, transparent)',
-                }}
-              >
-                <div className="flex items-center gap-3">
-                  <span className="text-sm font-medium" style={{ color: 'color-mix(in srgb, var(--foreground) 50%, transparent)' }}>Kayıt Ücreti</span>
-                  <span className="text-lg font-bold" style={{ color: 'var(--foreground)' }}>Bilgi Al</span>
-                </div>
-                {cert.code && (
-                  <span
-                    className="text-xs font-semibold px-3 py-1.5 rounded-lg"
-                    style={{
-                      backgroundColor: 'color-mix(in srgb, var(--foreground) 6%, var(--background))',
-                      color: 'color-mix(in srgb, var(--foreground) 55%, transparent)',
-                    }}
-                  >
-                    Kod: {cert.code}
-                  </span>
-                )}
-              </div>
-
               {/* Açıklama */}
               {cert.description && (
                 <p className="text-sm leading-relaxed mb-6" style={{ color: 'color-mix(in srgb, var(--foreground) 65%, transparent)' }}>
@@ -144,28 +169,10 @@ export default function SertifikaDetailClient({ cert, relatedCerts }) {
                 </p>
               )}
 
-              {/* Süre & Geçerlilik */}
-              {(cert.duration || cert.validity) && (
-                <div className="flex gap-6 mb-6 flex-wrap">
-                  {cert.duration && (
-                    <div>
-                      <span className="text-[10px] font-semibold uppercase tracking-wider block mb-1" style={{ color: 'color-mix(in srgb, var(--foreground) 40%, transparent)' }}>Süre</span>
-                      <span className="text-sm font-semibold" style={{ color: 'var(--foreground)' }}>{cert.duration}</span>
-                    </div>
-                  )}
-                  {cert.validity && (
-                    <div>
-                      <span className="text-[10px] font-semibold uppercase tracking-wider block mb-1" style={{ color: 'color-mix(in srgb, var(--foreground) 40%, transparent)' }}>Geçerlilik</span>
-                      <span className="text-sm font-semibold" style={{ color: 'var(--foreground)' }}>{cert.validity}</span>
-                    </div>
-                  )}
-                </div>
-              )}
-
               {/* Aksiyon Butonları */}
               <div className="grid grid-cols-3 gap-3 mb-6">
                 <Link
-                  href="#basvuru"
+                  href="/iletisim"
                   className="flex items-center justify-center gap-2 py-3 rounded-xl text-xs font-semibold transition-all"
                   style={{
                     backgroundColor: 'var(--foreground)',
@@ -214,7 +221,7 @@ export default function SertifikaDetailClient({ cert, relatedCerts }) {
                       color: 'color-mix(in srgb, var(--foreground) 65%, transparent)',
                     }}
                   >
-                    <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: '#25D366' }} />
+                    <span className="flex-shrink-0" style={{ color: '#25D366' }}>{h.icon}</span>
                     {h.text}
                   </div>
                 ))}
@@ -229,7 +236,7 @@ export default function SertifikaDetailClient({ cert, relatedCerts }) {
         <div className="max-w-7xl mx-auto">
           {/* Tab Navigasyonu */}
           <div
-            className="grid grid-cols-4 gap-2 mb-8 p-1 rounded-xl"
+            className="grid grid-cols-2 gap-2 mb-8 p-1 rounded-xl"
             style={{ backgroundColor: 'color-mix(in srgb, var(--foreground) 4%, var(--background))' }}
           >
             {TABS.map(tab => (
@@ -290,7 +297,6 @@ export default function SertifikaDetailClient({ cert, relatedCerts }) {
                     <div><strong style={{ color: 'var(--foreground)' }}>Sertifika:</strong> {cert.title}</div>
                     <div><strong style={{ color: 'var(--foreground)' }}>Kategori:</strong> {cert.categoryName || 'Belirtilmemiş'}</div>
                     {cert.code && <div><strong style={{ color: 'var(--foreground)' }}>Kod:</strong> {cert.code}</div>}
-                    {cert.duration && <div><strong style={{ color: 'var(--foreground)' }}>Süre:</strong> {cert.duration}</div>}
                   </div>
                 </div>
               </div>
@@ -335,61 +341,6 @@ export default function SertifikaDetailClient({ cert, relatedCerts }) {
             </div>
           )}
 
-          {activeTab === 'exam' && (
-            <div className="max-w-3xl text-center py-16 animate-fadeIn">
-              <div className="w-14 h-14 rounded-2xl mx-auto mb-4 flex items-center justify-center text-2xl" style={{ backgroundColor: 'color-mix(in srgb, var(--foreground) 6%, var(--background))' }}>📝</div>
-              <h3 className="text-base font-bold mb-2" style={{ color: 'var(--foreground)' }}>Sınav Bilgisi</h3>
-              <p className="text-xs" style={{ color: 'color-mix(in srgb, var(--foreground) 45%, transparent)' }}>
-                Bu sertifika programı için sınav bilgisi henüz belirlenmemiştir.
-              </p>
-            </div>
-          )}
-
-          {activeTab === 'reviews' && (
-            <div className="max-w-xl animate-fadeIn">
-              <div className="text-center py-8 mb-8" style={{ borderBottom: '1px solid color-mix(in srgb, var(--foreground) 8%, transparent)' }}>
-                <div className="w-14 h-14 rounded-2xl mx-auto mb-4 flex items-center justify-center text-2xl" style={{ backgroundColor: 'color-mix(in srgb, var(--foreground) 6%, var(--background))' }}>💬</div>
-                <h3 className="text-base font-bold mb-1" style={{ color: 'var(--foreground)' }}>Yorumlar</h3>
-                <p className="text-xs" style={{ color: 'color-mix(in srgb, var(--foreground) 45%, transparent)' }}>
-                  Henüz değerlendirme yapılmadı. İlk yorumu siz yapın!
-                </p>
-              </div>
-
-              {/* Yorum Formu */}
-              <div>
-                <h4 className="text-sm font-bold mb-4" style={{ color: 'var(--foreground)' }}>Yorum Yap</h4>
-                <div className="mb-3">
-                  <label className="block text-xs font-semibold mb-1.5" style={{ color: 'color-mix(in srgb, var(--foreground) 60%, transparent)' }}>Puan</label>
-                  <div className="flex gap-1 text-lg" style={{ color: '#f59e0b' }}>
-                    {[1,2,3,4,5].map(s => <span key={s} className="cursor-pointer">★</span>)}
-                  </div>
-                </div>
-                <div className="mb-4">
-                  <label className="block text-xs font-semibold mb-1.5" style={{ color: 'color-mix(in srgb, var(--foreground) 60%, transparent)' }}>Yorumunuz</label>
-                  <textarea
-                    rows={4}
-                    className="w-full p-3 rounded-xl text-xs resize-y focus:outline-none"
-                    style={{
-                      border: '1px solid color-mix(in srgb, var(--foreground) 10%, transparent)',
-                      backgroundColor: 'var(--background)',
-                      color: 'var(--foreground)',
-                    }}
-                    placeholder="Yorumunuzu yazın..."
-                  />
-                </div>
-                <button
-                  className="py-3 px-6 rounded-xl text-xs font-semibold cursor-pointer transition-all"
-                  style={{
-                    backgroundColor: 'var(--foreground)',
-                    color: 'var(--background)',
-                    border: 'none',
-                  }}
-                >
-                  Yorum Gönder
-                </button>
-              </div>
-            </div>
-          )}
         </div>
       </section>
 
