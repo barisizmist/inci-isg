@@ -1,22 +1,22 @@
 'use client';
 import { useTheme } from '@/app/providers';
-import { useEffect, useState } from 'react';
 
 export default function ThemeToggle() {
-  const { resolvedTheme, setTheme } = useTheme(); // 'theme' yerine 'resolvedTheme' kullandık
-  const [mounted, setMounted] = useState(false);
+  const { setTheme } = useTheme();
 
-  useEffect(() => setMounted(true), []);
-
-  if (!mounted) return null; // Yüklenene kadar hiçbir şey gösterme
+  const toggleTheme = () => {
+    const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    setTheme(next);
+  };
 
   return (
-    // ThemeToggle.jsx içindeki buton kısmı
     <button
-      onClick={() => setTheme(resolvedTheme === 'dark' ? 'light' : 'dark')}
+      onClick={toggleTheme}
+      aria-label="Tema değiştir"
       className="p-2 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-blue-100 dark:hover:bg-blue-900 transition-all duration-300"
     >
-      {resolvedTheme === 'dark' ? '☀️' : '🌙'}
+      <span className="block dark:hidden">🌙</span>
+      <span className="hidden dark:block">☀️</span>
     </button>
   );
 }

@@ -1,5 +1,6 @@
 
 import Image from 'next/image';
+import Link from 'next/link';
 
 const Cta = () => {
   return (
@@ -23,7 +24,7 @@ const Cta = () => {
               10+ yıllık deneyimimiz, A, B ve C sınıfı uzman kadromuz, işyeri hekimlerimiz ve sağlık personelimizle birlikte işletmenizin tüm İSG ihtiyaçlarını karşılamak üzere
               yanınızdayız. Sadece mevzuata uyum değil, kurumsal kültür geliştirilmesi ve sürdürülebilir güvenlik ortamı oluşturması amacıyla çalışıyoruz.
             </p>
-            <a href="/egitimler" className="inline-flex gap-x-1 items-center text-blue-600 hover:text-blue-500 duration-150 font-medium">
+            <Link href="/egitimler" className="inline-flex gap-x-1 items-center text-blue-600 hover:text-blue-500 duration-150 font-medium">
               Hizmetlerimizi Keşfet
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                 <path
@@ -32,7 +33,7 @@ const Cta = () => {
                   clipRule="evenodd"
                 />
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

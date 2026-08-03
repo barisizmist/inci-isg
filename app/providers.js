@@ -12,28 +12,29 @@ export function useTheme() {
   return useContext(ThemeContext);
 }
 
-export function Providers({ children }) {
-  const [theme, setThemeState] = useState('light');
-  const [mounted, setMounted] = useState(false);
+function getInitialTheme() {
+  if (typeof window === 'undefined') return 'light';
+  return document.documentElement.getAttribute('data-theme') || 'light';
+}
 
-  useEffect(() => {
-    const stored = localStorage.getItem('theme');
-    if (stored) {
-      setThemeState(stored);
-      document.documentElement.setAttribute('data-theme', stored);
-    } else {
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      const initial = prefersDark ? 'dark' : 'light';
-      setThemeState(initial);
-      document.documentElement.setAttribute('data-theme', initial);
-    }
-    setMounted(true);
-  }, []);
+export function Providers({ children }) {
+  const [theme, setThemeState] = useState(getInitialTheme);
 
   const setTheme = useCallback((newTheme) => {
     setThemeState(newTheme);
     localStorage.setItem('theme', newTheme);
     document.documentElement.setAttribute('data-theme', newTheme);
+  }, []);
+
+  useEffect(() => {
+    const onStorage = (e) => {
+      if (e.key === 'theme' && e.newValue) {
+        setThemeState(e.newValue);
+        document.documentElement.setAttribute('data-theme', e.newValue);
+      }
+    };
+    window.addEventListener('storage', onStorage);
+    return () => window.removeEventListener('storage', onStorage);
   }, []);
 
   return (

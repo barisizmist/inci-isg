@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function SertifikaCard({ cert, onSelect }) {
   return (
@@ -25,10 +26,12 @@ export default function SertifikaCard({ cert, onSelect }) {
           backgroundColor: 'color-mix(in srgb, var(--foreground) 4%, var(--background))',
         }}
       >
-        <img
+        <Image
           src={cert.image || '/images/cert-placeholder.jpg'}
           alt={cert.title}
-          className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+          fill
+          sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+          className="object-cover transition-transform duration-500 group-hover:scale-105"
           loading="lazy"
           decoding="async"
         />

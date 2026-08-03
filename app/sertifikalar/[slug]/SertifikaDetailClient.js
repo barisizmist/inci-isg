@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import SertifikaCard from '@/app/components/sertifika/SertifikaCard';
 
 const WHATSAPP_NUMBER = '905322355022';
@@ -134,10 +135,13 @@ export default function SertifikaDetailClient({ cert, relatedCerts }) {
             {/* Görsel */}
             <div className="detail-sticky-image sticky" style={{ top: 100 }}>
               <div className="relative rounded-xl overflow-hidden" style={{ aspectRatio: '4/3' }}>
-                <img
+                <Image
                   src={cert.image}
                   alt={cert.title}
-                  className="w-full h-full object-cover block"
+                  fill
+                  priority
+                  sizes="(max-width: 768px) 100vw, 40vw"
+                  className="object-cover block"
                 />
                 {cert.categoryName && (
                   <span

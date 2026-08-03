@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 const WHATSAPP_NUMBER = '905322355022';
 
@@ -38,7 +39,7 @@ export default function SertifikaModal({ cert, onClose }) {
 
         {/* Görsel */}
         <div className="relative overflow-hidden" style={{ borderRadius: '1rem 1rem 0 0', aspectRatio: '16/9' }}>
-          <img src={cert.image} alt={cert.title} className="w-full h-full object-cover block" />
+          <Image src={cert.image} alt={cert.title} fill sizes="(max-width: 672px) 100vw, 42rem" className="object-cover block" />
           {cert.categoryName && (
             <span
               className="absolute top-3 left-3 px-3 py-1.5 rounded-lg text-[10px] font-semibold backdrop-blur-sm"

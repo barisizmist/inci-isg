@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import ThemeToggle from '../ThemeToggle';
 import { navigationLinks } from '@/config/navigation';
-import { sertifikaKategorileri, sertifikalarData } from '@/data/sertifikalarData';
+import { sertifikaKategorileri, SERTIFIKA_SAYISI } from '@/data/sertifikaMeta';
 import { egitimlerData } from '@/data/egitimlerData';
 
 const MEGA_MENU_CATEGORIES = sertifikaKategorileri;
@@ -137,7 +137,7 @@ const Header = () => {
                           <div className="flex items-center justify-between">
                             <span className="text-xs text-muted-foreground">
                               <span className="font-semibold text-foreground">{MEGA_MENU_CATEGORIES.length}</span> kategoride{' '}
-                              <span className="font-semibold text-foreground">{sertifikalarData.length.toLocaleString('tr-TR')}</span> eğitim
+                              <span className="font-semibold text-foreground">{SERTIFIKA_SAYISI.toLocaleString('tr-TR')}</span> eğitim
                             </span>
                             <Link
                               href="/sertifikalar"

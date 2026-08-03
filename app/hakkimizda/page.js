@@ -24,7 +24,7 @@ export default function About() {
         <div className="relative max-w-3xl mx-auto px-6" data-aos="fade-up">
           <span className="text-blue-400 font-semibold tracking-wider uppercase text-sm">Kurumsal</span>
           <h1 className="text-4xl font-extrabold sm:text-5xl mt-2 tracking-tight">İnci İSG Danışmanlık</h1>
-          <p className="mt-4 leading-relaxed text-foreground/80">Geleceği güvenle inşa etmek, riskleri proaktif yaklaşımlarla sıfıra indirmek için çalışıyoruz.</p>
+          <p className="mt-4 leading-relaxed">Geleceği güvenle inşa etmek, riskleri proaktif yaklaşımlarla sıfıra indirmek için çalışıyoruz.</p>
         </div>
       </section>
 
