@@ -43,3 +43,5 @@ next-env.d.ts
 /scripts
 opencode.json
 script.js
+.superpowers
+docs

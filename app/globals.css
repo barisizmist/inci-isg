@@ -26,7 +26,7 @@
 }
 
 [data-theme='light'] {
-  --overlay-color: rgba(0, 0, 0, 0.4); /* Işık modunda koyu geçiş */
+  --overlay-color: rgba(0, 0, 0, 0.4); /* I�Y��k modunda koyu ge��i�Y */
 }
 
 body {
@@ -56,4 +56,12 @@ body {
   box-shadow:
     0 20px 25px -5px rgb(0 0 0 / 0.1),
     0 8px 10px -6px rgb(0 0 0 / 0.1) !important;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
