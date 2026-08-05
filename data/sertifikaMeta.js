@@ -13,7 +13,7 @@ export const sertifikaKategorileri = [
   },
   {
     "id": "aile-ve-tuketici-bilimleri-ozel-egitimler",
-    "label": "Aile Ve Tüketici Bilimleri (Özel Eğitimler)"
+    "label": "Aile ve Tüketici Bilimleri (Özel Eğitimler)"
   },
   {
     "id": "ayakkabi-ve-saraciye-teknolojisi-ozel-egitim",
@@ -37,7 +37,7 @@ export const sertifikaKategorileri = [
   },
   {
     "id": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "label": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)"
+    "label": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)"
   },
   {
     "id": "denizcilik-ozel-egitim",
@@ -57,11 +57,11 @@ export const sertifikaKategorileri = [
   },
   {
     "id": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "label": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)"
+    "label": "Elektrik Elektronik Teknolojisi (Özel Eğitim)"
   },
   {
     "id": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
-    "label": "Elektrik-Elektronik Teknolojisi (Tehlikeli İşler)"
+    "label": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)"
   },
   {
     "id": "endustriyel-otomasyon-teknolojileri-ozel-egitim",
@@ -101,7 +101,7 @@ export const sertifikaKategorileri = [
   },
   {
     "id": "hasta-ve-yasli-hizmetleri-ozel-egitim",
-    "label": "Hasta Ve Yaşlı Hizmetleri (Özel Eğitim)"
+    "label": "Hasta ve Yaşlı Hizmetleri (Özel Eğitim)"
   },
   {
     "id": "hayvan-yetistiriciligi-ve-sagligi",
@@ -205,4 +205,4 @@ export const sertifikaKategorileri = [
   }
 ];
 
-export const SERTIFIKA_SAYISI = 996;
+export const SERTIFIKA_SAYISI = 582;

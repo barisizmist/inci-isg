@@ -1,22 +1,12 @@
 export const sertifikaCards = [
   {
-    "id": "havuz-suyu-operatorlugu",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Havuz Suyu Operatörlüğü",
-    "code": "CERT-1000",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1768321902691-082df3e874cf?w=600&h=400&fit=crop",
-    "description": "Havuz suyu operatörlüğü eğitimiyle sertifika alın, İnci İSG ile sağlıklı ve güvenli havuz yönetimi becerileri kazanın."
-  },
-  {
     "id": "dondurma-uretim-elemani",
     "category": "gida-teknolojisi-ozel-egitim",
     "categoryName": "Gıda Teknolojisi (Özel Eğitim)",
     "title": "Dondurma Üretim Elemanı",
     "code": "CERT-1001",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1560008581-09826d1de69e?w=600&h=400&fit=crop",
     "description": "Dondurma Üretim Elemanı eğitimiyle tatlı sektöründe bilgi sahibi olun, sertifikayla gıda üretim tesislerinde istihdam olanağı kazanın."
   },
   {
@@ -48,46 +38,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=600&h=400&fit=crop",
     "description": "Hijyen belgesi nasıl alınır, nereden başvuru yapılır, e-Devlet sorgulama, ücret detayları ve daha fazlası! MEB onaylı online hijyen eğitimi ile hemen belgenizi alın. Güvenilir, hızlı ve yasal çözüm için İnci İSG."
-  },
-  {
-    "id": "ayakkabi-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Ayakkabı Üretimi",
-    "code": "CERT-1005",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
-    "description": "Ayakkabı üretimi sertifikası, tasarım, malzeme ve üretim süreçlerinde uzmanlık sağlayan, kalite ve standartları belgeleyen bir yetkinlik belgesidir."
-  },
-  {
-    "id": "ayakkabi-modelistligi",
-    "category": "ayakkabi-ve-saraciye-teknolojisi-ozel-egitim",
-    "categoryName": "Ayakkabı ve Saraciye Teknolojisi (Özel Eğitim)",
-    "title": "Ayakkabı Modelistliği",
-    "code": "CERT-1006",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&h=400&fit=crop",
-    "description": "Ayakkabı modelistliği, tasarımların üretime uygun kalıplarını hazırlayan, prototip geliştiren ve kaliteyi artıran uzmanlık dalıdır."
-  },
-  {
-    "id": "saraciye-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Saraciye Üretimi",
-    "code": "CERT-1007",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Saraciye üretimi, deri ve tekstil malzemelerinden çanta, kemer, cüzdan gibi aksesuarların tasarımı ve üretimini içerir."
-  },
-  {
-    "id": "saraciye-modelistligi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Saraciye Modelistliği",
-    "code": "CERT-1008",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600&h=400&fit=crop",
-    "description": "\"Saraciye modelistliği, çanta, cüzdan, kemer gibi ürünlerin tasarımını ve üretimini planlayan uzmanlık alanıdır. Sertifika ve eğitim fırsatları.\""
   },
   {
     "id": "bilgisayar-teknik-servisi",
@@ -130,36 +80,6 @@ export const sertifikaCards = [
     "description": "\"Web programcılığı, kullanıcı dostu ve işlevsel web siteleri geliştiren, hem frontend hem de backend teknolojileriyle çalışan bir yazılım alanıdır.\""
   },
   {
-    "id": "yonetici-sekreterligi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Yönetici Sekreterliği",
-    "code": "CERT-1013",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
-    "description": "\"Yönetici sekreterliği, etkili iletişim, planlama ve organizasyon becerileri gerektiren, yöneticilere destek sağlayan profesyonel bir meslek dalıdır.\""
-  },
-  {
-    "id": "el-dokuma",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
-    "title": "El Dokuma",
-    "code": "CERT-1014",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&h=400&fit=crop",
-    "description": "El dokuma, doğal ipliklerle yapılan halı, kilim ve kumaş üretiminde geleneksel sanatın ve dayanıklılığın birleşimidir.\""
-  },
-  {
-    "id": "el-ve-makine-nakisi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "El ve Makine Nakışı",
-    "code": "CERT-1017",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
-    "description": "\"El ve makine nakışı, kumaşlara estetik ve işlevsel desenler işleyerek, tekstil ürünlerini sanatsal bir boyuta taşıyan bir sanattır.\""
-  },
-  {
     "id": "asansor-sistemleri",
     "category": "elektrik-elektronik-teknolojisi",
     "categoryName": "Elektrik Elektronik Teknolojisi",
@@ -181,8 +101,8 @@ export const sertifikaCards = [
   },
   {
     "id": "buro-makineleri-teknik-servisi",
-    "category": "yiyecek-ve-icecek-hizmetleri",
-    "categoryName": "Yiyecek ve İçecek Hizmetleri",
+    "category": "elektrik-elektronik-teknolojisi",
+    "categoryName": "Elektrik Elektronik Teknolojisi",
     "title": "Büro Makineleri Teknik Servisi",
     "code": "CERT-1022",
     "duration": "120 Saat",
@@ -198,16 +118,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
     "description": "Elektrik Tesisatı ve Pano Montörlüğü, elektrik sistemlerinin kurulumu, onarımı ve pano montajı için uzmanlık gerektiren bir alandır."
-  },
-  {
-    "id": "elektrikli-ev-aletleri-teknik-servisi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Elektrikli Ev Aletleri Teknik Servisi",
-    "code": "CERT-1024",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1642797735471-3e90055c5ff9?w=600&h=400&fit=crop",
-    "description": "Elektrikli ev aletleri teknik servisi, elektrikli cihazların arıza tespiti, onarımı ve bakımı konusunda profesyonel hizmet sunar."
   },
   {
     "id": "endustriyel-bakim-onarim",
@@ -410,46 +320,6 @@ export const sertifikaCards = [
     "description": "Gıda sertifikası, gıda ürünlerinin belirlenen hijyen koşullarına ve saklama standartlarına uygunluğunu belgelendiren resmi bir evraktır. Bu belge, ürünlerin market raflarına çıkmadan önce gerekli düzenlemelere uygun şekilde denetlendiğini ve güvenli bir şekilde sunulduğunu kanıtlar."
   },
   {
-    "id": "grafik",
-    "category": "matbaa-teknolojisi",
-    "categoryName": "Matbaa Teknolojisi",
-    "title": "Grafik",
-    "code": "CERT-1045",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=600&h=400&fit=crop",
-    "description": "Grafik tasarım, görsel iletişim amacıyla renk, metin ve görsellerin bir araya getirilerek estetik düzenlemeler yapılmasıdır."
-  },
-  {
-    "id": "cilt-bakimi-ve-makyaj",
-    "category": "matbaa-teknolojisi",
-    "categoryName": "Matbaa Teknolojisi",
-    "title": "Cilt Bakımı ve Makyaj",
-    "code": "CERT-1048",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
-    "description": "Cilt bakımı ve makyaj teknikleri, sağlıklı bir görünüm için sertifikalı eğitimler ve doğru ürün seçimlerini kapsar."
-  },
-  {
-    "id": "kadin-kuaforlugu",
-    "category": "guzellik-ve-sac-bakim-hizmetleri-ozel-egitim",
-    "categoryName": "Güzellik ve Saç Bakım Hizmetleri (Özel Eğitim)",
-    "title": "Kadın Kuaförlüğü",
-    "code": "CERT-1049",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=600&h=400&fit=crop",
-    "description": "Kadın kuaförlüğü, saç tasarımı, bakım ve renklendirme hizmetleriyle güzellik ve özgüven kazandıran profesyonel bir sektördür."
-  },
-  {
-    "id": "erkek-kuaforlugu",
-    "category": "guzellik-ve-sac-bakim-hizmetleri-ozel-egitim",
-    "categoryName": "Güzellik ve Saç Bakım Hizmetleri (Özel Eğitim)",
-    "title": "Erkek Kuaförlüğü",
-    "code": "CERT-1050",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=600&h=400&fit=crop",
-    "description": "Erkek kuaförlüğü ustalık ve kalfalık belgesi, kuaförlük mesleğinde yetkinliğinizi kanıtlar. Mesleki gelişim için bu belgeleri almanız önemlidir."
-  },
-  {
     "id": "harita-kadastro",
     "category": "harita-tapu-kadastro",
     "categoryName": "Harita Tapu Kadastro",
@@ -471,8 +341,8 @@ export const sertifikaCards = [
   },
   {
     "id": "yangin-egitimi",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
+    "category": "one-cikanlar",
+    "categoryName": "Öne Çıkanlar",
     "title": "Yangın Eğitimi",
     "code": "CERT-1053",
     "duration": "120 Saat",
@@ -538,16 +408,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&h=400&fit=crop",
     "description": "Hasta Kayıt Kabul Sertifikası ile tıbbi sekreter olabilirsiniz. Online eğitim fırsatıyla devlet ve özel hastanelerde çalışabilirsiniz. Hemen Başvuru Yap"
-  },
-  {
-    "id": "orman-yanginlarina-mudahale",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Orman Yangınlarına Müdahale",
-    "code": "CERT-1060",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Orman yangınlarına müdahale kursu ile yangın söndürme ve önleme becerileri kazanın, 56 saatlik eğitimle sertifika / Belge alın."
   },
   {
     "id": "kucukbas-hayvan-yetistiriciligi",
@@ -748,56 +608,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
     "description": "İç mekan dekorasyonu kursu ile tasarım, renk, malzeme seçimi ve düzenleme teknikleriyle modern ve şık mekanlar yaratabilirsiniz."
-  },
-  {
-    "id": "boya-uretimi-ve-kontrolu",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Boya Üretimi Ve Kontrolü",
-    "code": "CERT-1082",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
-    "description": "Boya üretimi kursu ile boya hammaddeleri, üretim teknikleri, kalite standartları ve uygulama yöntemleri hakkında detaylı bilgi sahibi olabilirsiniz."
-  },
-  {
-    "id": "deri-isleme",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Deri İşleme",
-    "code": "CERT-1083",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&h=400&fit=crop",
-    "description": "Deri işleme kursu, deri üretimi, tabaklama, renklendirme ve kalite kontrol süreçleri hakkında detaylı bilgi edinmek isteyenler için idealdir"
-  },
-  {
-    "id": "cimento-ve-yapi-kimyasallari",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Çimento ve Yapı Kimyasalları",
-    "code": "CERT-1084",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
-    "description": "Çimento ve yapı kimyasalları kursu, katkı maddeleri, üretim teknikleri ve kalite standartları hakkında detaylı bilgi edinmek isteyenler için idealdir."
-  },
-  {
-    "id": "kgit-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kâğıt Üretimi",
-    "code": "CERT-1085",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
-    "description": "Kağıt üretimi kursu ile hamur hazırlama, kağıt makineleri, kalite kontrol süreçleri ve çevre dostu üretim teknikleri hakkında bilgi edinin."
-  },
-  {
-    "id": "temizlik-kozmetik-ve-parfumeri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Temizlik Kozmetik ve Parfümeri",
-    "code": "CERT-1086",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600&h=400&fit=crop",
-    "description": "Temizlik Kozmetik ve Parfümeri ürünleri üretimi eğitimi, formülasyon, üretim teknikleri ve kalite kontrol sistemlerini öğrenmek isteyenler için idealdir."
   },
   {
     "id": "on-buro",
@@ -1170,146 +980,6 @@ export const sertifikaCards = [
     "description": "Sac işleri eğitimi, sac levha kesme, bükme, şekillendirme ve montaj tekniklerini öğrenmek isteyenler için kapsamlı bir eğitim sunar."
   },
   {
-    "id": "dokum",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
-    "title": "Döküm",
-    "code": "CERT-1124",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
-    "description": "Döküm eğitimi, erimiş metalin döküm kalıplarına dökülmesi, şekil verilmesi ve kalite kontrol süreçlerini kapsar."
-  },
-  {
-    "id": "izabe",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
-    "title": "İzabe",
-    "code": "CERT-1125",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&h=400&fit=crop",
-    "description": "İzabe eğitimi, maden cevherlerinden metal elde etme süreçlerini, yüksek sıcaklık uygulamaları ve arıtma tekniklerini kapsar."
-  },
-  {
-    "id": "mobilya-susleme-sanatlari",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Mobilya Süsleme Sanatları",
-    "code": "CERT-1126",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&h=400&fit=crop",
-    "description": "Mobilya süsleme sanatları kursu, oymacılık, vernikleme, kakma ve boyama teknikleriyle mobilyalara sanatsal dokunuşlar kazandırmayı öğretir."
-  },
-  {
-    "id": "ic-mekn-ve-mobilya-teknolojisi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "İç Mekân Ve Mobilya Teknolojisi",
-    "code": "CERT-1127",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=600&h=400&fit=crop",
-    "description": "İç mekân ve mobilya teknolojisi kursu, dekorasyon trendleri, mobilya tasarımı ve üretim süreçleri hakkında kapsamlı bilgi sunar."
-  },
-  {
-    "id": "ahsap-dograma-teknolojisi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Ahşap Doğrama Teknolojisi",
-    "code": "CERT-1128",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
-    "description": "Ahşap doğrama teknolojisi kursu, ahşap işleme, doğrama teknikleri, kapı, pencere ve mobilya üretimi alanında uzmanlık kazandırır."
-  },
-  {
-    "id": "mobilya-iskeleti-ve-dosemesi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Mobilya İskeleti Ve Döşemesi",
-    "code": "CERT-1129",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Mobilya iskeleti ve döşemesi kursu, sağlam mobilya iskeleti yapımı, döşeme teknikleri, kumaş kaplama ve tamirat becerileri kazandırır."
-  },
-  {
-    "id": "oto-dosemeciligi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Oto Döşemeciliği",
-    "code": "CERT-1130",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop",
-    "description": "Oto döşemeciliği kursu, araç koltuk döşemesi, tavan kaplama, deri ve kumaş kullanımı, iç mekân yenileme tekniklerini öğretir."
-  },
-  {
-    "id": "modelistlik",
-    "category": "ayakkabi-ve-saraciye-teknolojisi-ozel-egitim",
-    "categoryName": "Ayakkabı ve Saraciye Teknolojisi (Özel Eğitim)",
-    "title": "Modelistlik",
-    "code": "CERT-1131",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&h=400&fit=crop",
-    "description": "Modelistlik kursu, giysi tasarımı, kalıp çıkarma, dikiş teknikleri ve moda üretimi konularında profesyonel beceriler kazandırır."
-  },
-  {
-    "id": "hazir-giyim-model-makineciligi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Hazır Giyim Model Makineciliği",
-    "code": "CERT-1135",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop",
-    "description": "Hazır giyim model makineciliği kursu, giysi üretim makinelerinin çalıştırılması, bakımı ve model oluşturma konularında profesyonel beceri kazandırır."
-  },
-  {
-    "id": "kesim",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Kesim",
-    "code": "CERT-1137",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop",
-    "description": "Kesim eğitimi, doğru kesim teknikleri, kumaş kullanımı ve üretim süreçleri hakkında uzmanlık kazandırarak profesyonel giyim üretimi sağlar."
-  },
-  {
-    "id": "konfeksiyon-makineleri-bakim",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Konfeksiyon Makineleri Bakım",
-    "code": "CERT-1141",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&h=400&fit=crop",
-    "description": "Konfeksiyon makineleri bakım onarımı eğitimi, konfeksiyon makinelerinin bakımı, onarımı ve işletme verimliliğini artırmaya yönelik uygulamalar içerir."
-  },
-  {
-    "id": "otomotiv-elektromekanik",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Otomotiv Elektromekanik",
-    "code": "CERT-1142",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&h=400&fit=crop",
-    "description": "Otomotiv elektromekanik eğitimi, araçların elektriksel ve mekanik sistemlerini anlamanızı sağlayarak bakım, onarım ve geliştirme becerileri kazandırır."
-  },
-  {
-    "id": "is-makineleri",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "İş Makineleri",
-    "code": "CERT-1143",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&h=400&fit=crop",
-    "description": "İş makineleri eğitimi, inşaat ve sanayi sektöründe kullanılan makinelerin bakım, onarım ve verimli kullanım becerilerini kazandırır."
-  },
-  {
-    "id": "otomotiv-govde",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Otomotiv Gövde",
-    "code": "CERT-1144",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&h=400&fit=crop",
-    "description": "Otomotiv gövde kursu ile araç kaporta tamiri, şasi düzenleme, boyama ve gövde onarımı konularında uzmanlık kazanın."
-  },
-  {
     "id": "otomotiv-boya",
     "category": "metal-teknolojisi",
     "categoryName": "Metal Teknolojisi",
@@ -1318,476 +988,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
     "description": "Otomotiv boya kursu ile araç boyama, renk düzenleme, kaplama teknikleri ve yüzey hazırlığı konularında uzmanlık kazanın."
-  },
-  {
-    "id": "otomotiv-mekanikerligi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Otomotiv Mekanikerliği",
-    "code": "CERT-1146",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Otomotiv mekanikerliği kursu ile araç motoru, aktarma organları, elektronik sistemler ve arıza teşhisi konularında uzmanlaşın."
-  },
-  {
-    "id": "dizel-yakit-pompasi-ve-enjektor",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Dizel Yakıt Pompası ve Enjektör",
-    "code": "CERT-1147",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
-    "description": "Dizel Yakıt Pompası ve Enjektörr ayarcılığı kursu, dizel motorun verimli çalışması için yakıt sistemi ayarlamayı öğretir."
-  },
-  {
-    "id": "motosiklet-tamirciligi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Motosiklet Tamirciliği",
-    "code": "CERT-1148",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop",
-    "description": "Motosiklet tamirciliği kursu, motosikletlerin motoru, şanzımanı ve elektrik sistemlerinin bakım ve onarımını öğretir."
-  },
-  {
-    "id": "bilgisayarli-muhasebe",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Bilgisayarlı Muhasebe",
-    "code": "CERT-1149",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
-    "description": "Bilgisayarlı muhasebe kursu, muhasebe işlemlerini dijital platformlar üzerinden nasıl gerçekleştireceğinizi ve raporları nasıl oluşturacağınızı öğretir."
-  },
-  {
-    "id": "on-duzen-ayarciligi-ve-lastikcilik",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Ön Düzen Ayarcılığı ve Lastikçilik",
-    "code": "CERT-1150",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-    "description": "Ön düzen ayarcılığı ve lastikçilik kursu, araçların lastiklerini değiştirip ayarlarını yapmayı öğrenmenizi sağlar."
-  },
-  {
-    "id": "lpg-sistemleri-bakim-ve-onarim",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "LPG Sistemleri Bakım ve Onarım",
-    "code": "CERT-1151",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&h=400&fit=crop",
-    "description": "Motorlu araçlar LPG sistemleri bakım ve onarımcılığı kursu, araçların LPG sistemlerini doğru bir şekilde bakım ve onarım yapmayı öğretir."
-  },
-  {
-    "id": "otomotiv-motor-yenilestiriciligi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Otomotiv Motor Yenileştiriciliği",
-    "code": "CERT-1152",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Otomotiv motor yenileştiriciliği kursu ile motor onarımı, yeniden yapımı, performans iyileştirme ve arıza tespiti konularında bilgi kazanın."
-  },
-  {
-    "id": "emlak-komisyonculugu",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Emlak Komisyonculuğu",
-    "code": "CERT-1153",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop",
-    "description": "Emlak komisyonculuğu kursu, gayrimenkul ticaretinde uzmanlaşmak isteyenlere, alım-satım ve kiralama süreçlerini profesyonelce yönetme yeteneği kazandırır."
-  },
-  {
-    "id": "satis-elemanligi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Satış Elemanlığı",
-    "code": "CERT-1156",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
-    "description": "Satış elemanlığı kursu, etkili satış teknikleri, müşteri ilişkileri yönetimi ve pazarlama becerileri kazandırarak satış kariyerini güçlendirir."
-  },
-  {
-    "id": "sigortacilik",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Sigortacılık",
-    "code": "CERT-1159",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
-    "description": "Sigortacılık kursu, sigorta poliçeleri, risk yönetimi ve müşteri ilişkileri gibi temel konularda bilgi ve beceri kazandırır."
-  },
-  {
-    "id": "plastik-isleme",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik İşleme",
-    "code": "CERT-1160",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
-    "description": "Plastik işleme kursu, plastik malzeme teknolojilerini, şekillendirme tekniklerini ve üretim süreçlerini öğreterek sektöre nitelikli iş gücü kazandırır."
-  },
-  {
-    "id": "alci-model-kalip",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Alçı Model Kalıp",
-    "code": "CERT-1161",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430267658-6d281d8bbc33?w=600&h=400&fit=crop",
-    "description": "Alçı model kalıp kursu, alçı ile kalıp yapma tekniklerini ve sanatsal modelleme becerilerini öğretir, endüstriyel ve sanatsal üretim sağlar."
-  },
-  {
-    "id": "plastik-kalip",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Kalıp",
-    "code": "CERT-1162",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1771868453049-b7b4a4680b5c?w=600&h=400&fit=crop",
-    "description": "Plastik kalıp kursu, kalıp üretim teknikleri, tasarım prensipleri ve plastik işleme süreçleri ile sektörde nitelikli iş gücü yetiştirir."
-  },
-  {
-    "id": "cinicilik",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Çinicilik",
-    "code": "CERT-1163",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=600&h=400&fit=crop",
-    "description": "Çinicilik kursu, çini yapımı, desen oluşturma ve seramik fırınlama tekniklerini öğretir, sanat ve üretim becerileri kazandırır."
-  },
-  {
-    "id": "sir-ustu-dekorlama",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Sır Üstü Dekorlama",
-    "code": "CERT-1164",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=600&h=400&fit=crop",
-    "description": "Sır üstü dekorlama kursu, seramik yüzeylere estetik desenler ve renkler kazandırma, seramik sanatında yaratıcı tasarımlar yapma becerisi sunar."
-  },
-  {
-    "id": "dekoratif-cam",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Dekoratif Cam",
-    "code": "CERT-1165",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Dekoratif cam kursu, cam işleme, tasarım yapma ve estetik cam ürünleri üretme becerisi kazandırır, sanatsal yetenekleri geliştirir."
-  },
-  {
-    "id": "endustriyel-cam",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Endüstriyel Cam",
-    "code": "CERT-1166",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-    "description": "Endüstriyel cam kursu, cam üretimi, şekillendirme, kesme ve işleme süreçlerini kapsar, cam sektöründe uzmanlaşma sağlar."
-  },
-  {
-    "id": "serbest-seramik-sekillendirme",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Serbest Seramik Şekillendirme",
-    "code": "CERT-1167",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
-    "description": "Serbest seramik şekillendirme eğitimi, seramik hamuru ile özgün tasarımlar yapmayı, el becerilerini geliştirmeyi ve yaratıcı projeler üretmeyi öğretir."
-  },
-  {
-    "id": "bagcilik",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bağcılık",
-    "code": "CERT-1168",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&h=400&fit=crop",
-    "description": "Bağcılık kursu, üzüm yetiştiriciliği, bağ bakımı, hasat ve üzüm işleme tekniklerini öğretir, verimli bağlar kurmanıza yardımcı olur."
-  },
-  {
-    "id": "tornada-form-sekillendirme",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Tornada Form Şekillendirme",
-    "code": "CERT-1169",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
-    "description": "Tornada form şekillendirme kursu, seramik çamuruna tornada şekil verme, el becerilerini geliştirme ve yaratıcı seramik tasarımlar yapma imkânı sunar."
-  },
-  {
-    "id": "bahcivanlik",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bahçivanlık",
-    "code": "CERT-1170",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=600&h=400&fit=crop",
-    "description": "Bahçivanlık kursu, bahçe düzenlemesi, bitki bakımı, toprak işleme ve organik tarım konularında pratik bilgiler sunar."
-  },
-  {
-    "id": "cay-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Çay Yetiştiriciliği",
-    "code": "CERT-1171",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&h=400&fit=crop",
-    "description": "Çay yetiştiriciliği kursu, çay bitkisi bakımı, toprak hazırlığı, hasat ve üretim yöntemleri konularında uzmanlık sağlar."
-  },
-  {
-    "id": "meyve-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Meyve Yetiştiriciliği",
-    "code": "CERT-1172",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
-    "description": "Meyve yetiştiriciliği kursu, farklı meyve türlerinin yetiştirilmesi, bakım, sulama, gübreleme ve verim artırma tekniklerini kapsar."
-  },
-  {
-    "id": "mantar-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Mantar Yetiştiriciliği",
-    "code": "CERT-1173",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
-    "description": "Mantar yetiştiriciliği kursu, mantar üretim teknikleri, bakım, verim artırma, hastalık kontrolü ve hasat yöntemleri hakkında eğitim sunar."
-  },
-  {
-    "id": "endustri-bitkileri-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Endüstri Bitkileri Yetiştiriciliği",
-    "code": "CERT-1174",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Endüstri bitkileri yetiştiriciliği kursu, sanayi bitkilerinin yetiştirilmesi, toprak düzenlemesi, bakım ve verim artırma yöntemlerini kapsar."
-  },
-  {
-    "id": "seracilik",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Seracılık",
-    "code": "CERT-1175",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=600&h=400&fit=crop",
-    "description": "Seracılık kursu, sera türleri, bitki yetiştirme teknikleri, sulama, sıcaklık kontrolü ve verim artırma stratejileri üzerine kapsamlıdır."
-  },
-  {
-    "id": "sebze-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Sebze Yetiştiriciliği",
-    "code": "CERT-1176",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
-    "description": "Sebze yetiştiriciliği kursu, sebze türlerinin yetiştirilmesi, bakım, sulama, gübreleme, zararlılarla mücadele ve verim artırma tekniklerini kapsar."
-  },
-  {
-    "id": "sus-bitkileri",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Süs Bitkileri",
-    "code": "CERT-1177",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
-    "description": "Süs bitkileri yetiştiriciliği kursu, estetik bitkilerin yetiştirilmesi, bakımı, sulama, gübreleme ve zararlılarla mücadele yöntemlerine odaklanır."
-  },
-  {
-    "id": "tarla-bitkileri-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Tarla Bitkileri Yetiştiriciliği",
-    "code": "CERT-1178",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
-    "description": "Tarla bitkileri yetiştiriciliği kursu, hububat, baklagil ve yağlı tohumlar gibi tarla bitkilerinin üretim ve bakımını öğretir."
-  },
-  {
-    "id": "tibbi-aromatik-bitkiler-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Tıbbi Aromatik Bitkiler Yetiştiriciliği",
-    "code": "CERT-1179",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&h=400&fit=crop",
-    "description": "Tıbbi aromatik bitkiler yetiştiriciliği kursu, şifalı bitkilerin yetiştirilmesi, bakımı ve üretim yöntemlerine odaklanır, ticaret için uygundur."
-  },
-  {
-    "id": "peyzaj",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Peyzaj",
-    "code": "CERT-1180",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Peyzaj tasarımı ve düzenlemesi eğitimi, çevreyi estetik ve işlevsel şekilde düzenlemek için gerekli bilgi ve becerileri kazandırır."
-  },
-  {
-    "id": "tarla-bitkileri",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Tarla Bitkileri",
-    "code": "CERT-1181",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
-    "description": "Tarla bitkileri yetiştiriciliği kursu, buğday, mısır, arpa gibi ürünlerin doğru yetiştirilmesi ve verim artırma yöntemlerini sunar."
-  },
-  {
-    "id": "tarim-alet-ve-makineleri",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Tarım Alet Ve Makineleri",
-    "code": "CERT-1182",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
-    "description": "Tarım alet ve makineleri kursu, modern tarım teknolojileri, ekipman kullanımı, bakım ve onarım süreçlerini öğrenmek isteyenler için idealdir."
-  },
-  {
-    "id": "bahce-bitkileri",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bahçe Bitkileri",
-    "code": "CERT-1183",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
-    "description": "Bahçe bitkileri yetiştiriciliği kursu, sebze, meyve ve süs bitkilerinin yetiştirilmesi, bakımı ve verim artırma tekniklerini öğretir."
-  },
-  {
-    "id": "iplik-uretim-teknolojisi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "İplik Üretim Teknolojisi",
-    "code": "CERT-1184",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=600&h=400&fit=crop",
-    "description": "İplik üretim teknolojisi eğitimiyle modern iplik üretim teknikleri, makine kullanımı, kalite kontrol ve verimli üretim yöntemlerini öğrenin."
-  },
-  {
-    "id": "orman-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Orman Yetiştiriciliği",
-    "code": "CERT-1185",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Orman yetiştiriciliği kursu, orman yönetimi, ağaçlandırma ve biyolojik çeşitliliği koruma teknikleri ile doğa dostu orman yetiştiriciliği öğretir."
-  },
-  {
-    "id": "tekstil-boyaciligi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Tekstil Boyacılığı",
-    "code": "CERT-1186",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&h=400&fit=crop",
-    "description": "Tekstil boyacılığı kursu ile kumaş boyama tekniklerini öğrenin, renk ve kumaş uyumunu keşfedin, tekstil sektöründe kariyer fırsatları yaratın."
-  },
-  {
-    "id": "dokuma-operatorlugu",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
-    "title": "Dokuma Operatörlüğü",
-    "code": "CERT-1189",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
-    "description": "Dokuma operatörlüğü kursuyla dokuma makineleri, üretim teknikleri, iplik kullanımı ve kalite kontrol süreçlerinde uzmanlaşın."
-  },
-  {
-    "id": "gaz-yakici-cihazlar-ve-servis",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Gaz Yakıcı Cihazlar Ve Servis",
-    "code": "CERT-1192",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
-    "description": "Gaz yakıcı cihazlar ve servisi eğitimi, cihazların bakımı ve onarımı hakkında bilgi vererek, güvenli kullanım için gerekli beceriler kazandırır."
-  },
-  {
-    "id": "gaz-tesisat-sistemleri",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Gaz Tesisat Sistemleri",
-    "code": "CERT-1193",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&h=400&fit=crop",
-    "description": "Gaz tesisat sistemleri eğitimi, doğalgaz altyapısı ve güvenliği hakkında bilgi verir. Güvenli tesisat kurulumuna yönelik beceriler kazandırır."
-  },
-  {
-    "id": "sogutma-sistemleri",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Soğutma Sistemleri",
-    "code": "CERT-1197",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&h=400&fit=crop",
-    "description": "Soğutma sistemleri eğitimi, sıcaklık kontrolü sağlayan sistemlerin kurulumu, bakımı ve arıza tespiti hakkında bilgi verir."
-  },
-  {
-    "id": "kazan-yakma-ve-bakimi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Kazan Yakma Ve Bakımı",
-    "code": "CERT-1198",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
-    "description": "Kazan yakma ve bakımı eğitimi, kazanların verimli kullanımı için gerekli bakım ve yakma teknikleri hakkında bilgi sağlar."
-  },
-  {
-    "id": "isitma-ve-sihhi-tesisat-sistemleri",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Isıtma ve Sıhhi Tesisat Sistemleri",
-    "code": "CERT-1199",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Isıtma ve Sıhhi Tesisat Katılımcılar, inşaat firmalarında, bağımsız tesisatçı olarak veya kamu hizmeti sağlayan kuruluşlarda görev alabilirler."
-  },
-  {
-    "id": "su-aritma-sistemleri",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Su Arıtma Sistemleri",
-    "code": "CERT-1200",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop",
-    "description": "Su arıtma sistemleri eğitimi, kirli suyu arıtma yöntemlerini, teknolojilerini ve bakımını öğreten bir eğitim programıdır."
-  },
-  {
-    "id": "iklimlendirme-sistemleri",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "İklimlendirme Sistemleri",
-    "code": "CERT-1201",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
-    "description": "İklimlendirme sistemleri eğitimi, enerji verimliliği sağlamak, hava kalitesini artırmak ve sistem kurulumu hakkında bilgi sunar."
-  },
-  {
-    "id": "yapi-tesisat-sistemleri",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Yapı Tesisat Sistemleri",
-    "code": "CERT-1202",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494891848038-7bd202a2afeb?w=600&h=400&fit=crop",
-    "description": "Yapı tesisat sistemleri eğitimi, binalarda su, elektrik, ısıtma, soğutma ve havalandırma sistemlerinin kurulumu ve bakımı konusunda bilgi sağlar."
-  },
-  {
-    "id": "lojistik",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Lojistik",
-    "code": "CERT-1203",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
-    "description": "Lojistik eğitimi, tedarik zinciri yönetimi, nakliye, depolama ve dağıtım süreçlerini öğrenerek sektörde uzmanlaşmanıza yardımcı olur."
   },
   {
     "id": "ascilik",
@@ -1850,16 +1050,6 @@ export const sertifikaCards = [
     "description": "Kasaplık eğitimi, et kesimi, işleme ve hijyen kurallarını öğrenerek profesyonel bir kasap olmanızı sağlayacak beceriler kazandırır."
   },
   {
-    "id": "elektrikli-ekskavator-operatorlugu",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
-    "title": "Elektrikli Ekskavatör Operatörlüğü",
-    "code": "CERT-1210",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1650551182991-b07558247564?w=600&h=400&fit=crop",
-    "description": "Elektrikli ekskavatör operatörlüğü sertifikası alarak sektörde profesyonelleşin. Üniversite onaylı, e-Devlet’te sorgulanabilir dijital sertifikanızı hemen alın!"
-  },
-  {
     "id": "ahsap-caticiligi",
     "category": "insaat-teknolojisi",
     "categoryName": "İnşaat Teknolojisi",
@@ -1868,16 +1058,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
     "description": "Ahşap çatıcılığı sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile mesleğinizi belgeleyin!"
-  },
-  {
-    "id": "ahsap-iskelet-imalati",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Ahşap İskelet İmalatı",
-    "code": "CERT-1212",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
-    "description": "Ahşap iskelet imalatı sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikanızı hemen alın!"
   },
   {
     "id": "ahsap-ust-yuzey-islemcisi",
@@ -1890,26 +1070,6 @@ export const sertifikaCards = [
     "description": "Ahşap üst yüzey işlemcisi sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikanızı hemen alın!"
   },
   {
-    "id": "aku-imalati",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Akü İmalatı",
-    "code": "CERT-1214",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-    "description": "Akü imalatı sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikanızı hemen alarak mesleğinize yön verin!"
-  },
-  {
-    "id": "acik-ocak-madenciligi",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Açık Ocak Madenciliği",
-    "code": "CERT-1215",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
-    "description": "Açık ocak madenciliği manevracı-harmancı sertifikası ile sektörde profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika alın!"
-  },
-  {
     "id": "aritma-tesisi-operatorlugu",
     "category": "makine-teknolojisi",
     "categoryName": "Makine Teknolojisi",
@@ -1918,16 +1078,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
     "description": "Arıtma tesisi operatörlüğü sertifikası ile su ve atık su arıtma alanında uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika alın!"
-  },
-  {
-    "id": "ayakkabi-uretimi-tehlikeli-isler",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Ayakkabı Üretimi (Tehlikeli İşler)",
-    "code": "CERT-1217",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop",
-    "description": "Ayakkabı üretimi sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikanızı hemen alın!"
   },
   {
     "id": "baski-oncesi-tehlikeli-isler",
@@ -1970,26 +1120,6 @@ export const sertifikaCards = [
     "description": "Beton pompa operatörlüğü sertifikası ile sektörde profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
   },
   {
-    "id": "beton-santral-isleri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Beton Santral İşleri",
-    "code": "CERT-1222",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Beton santral işleri sertifikası ile sektörde profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
-  },
-  {
-    "id": "beton-transmiksir-operatorlugu",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Beton Transmiksir Operatörlüğü",
-    "code": "CERT-1223",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430263055-54c323a46d14?w=600&h=400&fit=crop",
-    "description": "Beton Transmiksir Operatörlüğü sertifikası ile sektörde profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
-  },
-  {
     "id": "demir-kalipcilik-ve-caticilik",
     "category": "insaat-teknolojisi-tehlikeli-isler",
     "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
@@ -1998,16 +1128,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
     "description": "Betonarme demir kalıpçılık ve çatıcılık sertifikası ile inşaat sektöründe profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika alın!"
-  },
-  {
-    "id": "soguk-metal-kesme-ve-taslama",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Soğuk Metal Kesme Ve Taşlama",
-    "code": "CERT-1225",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Beton, betonarme ve soğuk metal kesme-taşlama sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika alın!"
   },
   {
     "id": "bilgisayarli-makine-cnc-operatoru",
@@ -2020,19 +1140,9 @@ export const sertifikaCards = [
     "description": "Bilgisayarlı Makine (CNC) Operatörü sertifikası ile üretim sektöründe profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
   },
   {
-    "id": "bireysel-ve-ticari-klima-sistemleri",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Bireysel Ve Ticari Klima Sistemleri",
-    "code": "CERT-1227",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
-    "description": "Bireysel Ve Ticari Klima Sistemleri sertifikası ile iklimlendirme sektöründe profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
-  },
-  {
     "id": "bitki-koruma-ve-besleme-urunleri",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
+    "category": "kimya-teknolojisi-tehlikeli-isler",
+    "categoryName": "Kimya Teknolojisi (Tehlikeli İşler)",
     "title": "Bitki Koruma ve Besleme Ürünleri",
     "code": "CERT-1228",
     "duration": "120 Saat",
@@ -2040,44 +1150,14 @@ export const sertifikaCards = [
     "description": "Bitki Koruma Ve Besleme Ürünlerinde Paketleme sertifikası ile tarım sektöründe profesyonelleşin. Üniversite onaylı dijital sertifikayı alın!"
   },
   {
-    "id": "bitkisel-ve-hayvansal-yag-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Bitkisel Ve Hayvansal Yağ Üretimi",
-    "code": "CERT-1229",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop",
-    "description": "Bitkisel ve hayvansal yağ üretimi sertifikası ile gıda sektöründe profesyonelleşin. Üniversite onaylı dijital sertifika ile kariyerinize yön verin!"
-  },
-  {
     "id": "bobinajci-tehlikeli-isler",
     "category": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Tehlikeli İşler)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)",
     "title": "Bobinajcı (Tehlikeli İşler)",
     "code": "CERT-1230",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
     "description": "Bobinajcı sertifikası ile elektrikli cihazların bakım ve onarımında uzmanlaşın. Üniversite onaylı dijital sertifika ile sektörde fırsatlar yaratın!"
-  },
-  {
-    "id": "boya-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Boya Üretimi",
-    "code": "CERT-1231",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
-    "description": "Boya üretimi sertifikası ile kimya sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
-  },
-  {
-    "id": "cevher-hazirlama-zenginlestirme",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Cevher Hazırlama – Zenginleştirme",
-    "code": "CERT-1233",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
-    "description": "Cevher Hazırlama Ve Zenginleştirme Operatör Bakımcılığı sertifikası ile madencilik sektöründe uzmanlaşın. Üniversite onaylı dijital sertifika ile kariyer yapın!"
   },
   {
     "id": "celik-yapilandiricisi",
@@ -2101,8 +1181,8 @@ export const sertifikaCards = [
   },
   {
     "id": "cimento-elektrik-bakimci",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
+    "category": "insaat-teknolojisi-tehlikeli-isler",
+    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
     "title": "Çimento Elektrik Bakımcı",
     "code": "CERT-1237",
     "duration": "120 Saat",
@@ -2130,99 +1210,9 @@ export const sertifikaCards = [
     "description": "Çimento mekanik bakımcı sertifikası ile çimento tesislerinde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyer fırsatlarını yakalayın!"
   },
   {
-    "id": "cimento-uretim-operatorlugu",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Çimento Üretim Operatörlüğü",
-    "code": "CERT-1240",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop",
-    "description": "Çimento üretim operatörlüğü sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinize yön verin!"
-  },
-  {
-    "id": "darphane-metal-ve-alasim-isleri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Darphane Metal Ve Alaşım İşleri",
-    "code": "CERT-1241",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Darphane metal ve alaşım işleri sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
-  },
-  {
-    "id": "derikmenlik",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Derikmenlik",
-    "code": "CERT-1243",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
-    "description": "Derikmenlik sertifikası ile orman ürünlerini işleyin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile sektördeki yerinizi alın!"
-  },
-  {
-    "id": "derinkuyu-ekip-basi-kursu",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Derinkuyu Ekip Başı Kursu",
-    "code": "CERT-1244",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&h=400&fit=crop",
-    "description": "Derinkuyu ekip başı kursu ile yer altı madenlerinde liderlik becerileri kazanın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika!"
-  },
-  {
-    "id": "derinkuyu-elektrikli-motor-ve-pompa",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
-    "title": "Derinkuyu Elektrikli Motor ve Pompa",
-    "code": "CERT-1245",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1529269421632-e9253d14d3a9?w=600&h=400&fit=crop",
-    "description": "Derinkuyu Elektrikli Motor ve Pompa Bakım Onarımcısı sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika fırsatı!"
-  },
-  {
-    "id": "derinkuyu-su-pompalari-montaj",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Derinkuyu Su Pompaları Montaj",
-    "code": "CERT-1246",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
-    "description": "Derinkuyu Su Pompaları Montaj, Bakım Ve Onarım sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika fırsatı!"
-  },
-  {
-    "id": "dik-ve-meyilli-kuyularda-vinc",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Dik ve Meyilli Kuyularda Vinç",
-    "code": "CERT-1247",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&h=400&fit=crop",
-    "description": "Dik ve meyilli kuyularda vinç operatörlüğü sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika fırsatı!"
-  },
-  {
-    "id": "dokuma-desinatorlugu",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
-    "title": "Dokuma Desinatörlüğü",
-    "code": "CERT-1248",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Dokuma desinatörlüğü sertifikası ile tekstil sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi geliştirin!"
-  },
-  {
-    "id": "dokum-isleri",
-    "category": "metal-teknolojisi-tehlikeli-isler",
-    "categoryName": "Metal Teknolojisi (Tehlikeli İşler)",
-    "title": "Döküm İşleri",
-    "code": "CERT-1251",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=600&h=400&fit=crop",
-    "description": "Döküm işleri sertifikası ile metal sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi geliştirin!"
-  },
-  {
     "id": "elektrik-tesisat-ve-pano-ti",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
+    "category": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)",
     "title": "Elektrik Tesisat ve Pano (T.İ)",
     "code": "CERT-1252",
     "duration": "120 Saat",
@@ -2230,19 +1220,9 @@ export const sertifikaCards = [
     "description": "Elektrik tesisat ve pano montörlüğü sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
   },
   {
-    "id": "elektrik-nezaretciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Elektrik Nezaretçiliği",
-    "code": "CERT-1253",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
-    "description": "Elektrik nezaretçiliği sertifikası ile enerji sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
-  },
-  {
     "id": "elektrik-tesisleri-yapim-isleri",
     "category": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Tehlikeli İşler)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)",
     "title": "Elektrik Tesisleri Yapım İşleri",
     "code": "CERT-1254",
     "duration": "120 Saat",
@@ -2250,19 +1230,9 @@ export const sertifikaCards = [
     "description": "Elektrik tesisleri yapım işleri sertifikası ile enerji sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika fırsatı!"
   },
   {
-    "id": "elektrikli-ev-aletleri-teknik-servis",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Elektrikli Ev Aletleri Teknik Servis",
-    "code": "CERT-1255",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Elektrikli ev aletleri teknik servis sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
-  },
-  {
     "id": "elektromekanik-tasiyicilar",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
+    "category": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)",
     "title": "Elektromekanik Taşıyıcılar",
     "code": "CERT-1256",
     "duration": "120 Saat",
@@ -2281,8 +1251,8 @@ export const sertifikaCards = [
   },
   {
     "id": "flekso-baski-ti",
-    "category": "yabanci-diller-ozel-egitim",
-    "categoryName": "Yabancı Diller (Özel Eğitim)",
+    "category": "matbaa-tehlikeli-isler",
+    "categoryName": "Matbaa (Tehlikeli İşler)",
     "title": "Flekso Baskı (T.İ)",
     "code": "CERT-1263",
     "duration": "120 Saat",
@@ -2291,8 +1261,8 @@ export const sertifikaCards = [
   },
   {
     "id": "enerjik-malzemeler-riskli-operasyon",
-    "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "category": "kimya-teknolojisi-tehlikeli-isler",
+    "categoryName": "Kimya Teknolojisi (Tehlikeli İşler)",
     "title": "Enerjik Malzemeler Riskli Operasyon",
     "code": "CERT-1264",
     "duration": "120 Saat",
@@ -2300,49 +1270,9 @@ export const sertifikaCards = [
     "description": "Enerjik Malzemeler Riskli Operasyon ile güvenliği artırın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika!"
   },
   {
-    "id": "galeri-acma-makinesi-bakim",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Galeri Açma Makinesi Bakım",
-    "code": "CERT-1266",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=600&h=400&fit=crop",
-    "description": "Galeri açma makinesi bakım ve operatörlüğü sertifikası ile makineleri etkin bir şekilde yönetin. Üniversite onaylı dijital sertifika!"
-  },
-  {
-    "id": "fiber-optik-kablo-uretim-elemani",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Fiber Optik Kablo Üretim Elemanı",
-    "code": "CERT-1267",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
-    "description": "Fiber Optik Kablo Üretim Elemanı sertifikası ile yüksek kaliteli kabloları üretebilirsiniz. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika!"
-  },
-  {
-    "id": "et-ve-et-urunleri-islemeciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Et ve Et Ürünleri İşlemeciliği",
-    "code": "CERT-1268",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-    "description": "Et ve et ürünleri işlemeciliği sertifikası ile et işleme süreçlerini öğrenin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika!"
-  },
-  {
-    "id": "gazbeton-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Gazbeton Üretimi",
-    "code": "CERT-1269",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Tehlikeli ve Çok Tehlikeli İşlerde Gazbeton Üretimi Eğitimi, gazbeton üretiminde iş güvenliği, sağlık ve teknik bilgi kazandırmayı hedefleyen bir eğitim programıdır."
-  },
-  {
     "id": "goruntu-ses-sistemleri",
     "category": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Tehlikeli İşler)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)",
     "title": "Görüntü Ses Sistemleri",
     "code": "CERT-1272",
     "duration": "120 Saat",
@@ -2350,64 +1280,14 @@ export const sertifikaCards = [
     "description": "Görüntü ses sistemleri kursu ile ses ve görüntü sistemlerini profesyonelce yönetin. Üniversite onaylı dijital sertifika kazanın!"
   },
   {
-    "id": "hasil-makinesi-operatoru",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Haşıl Makinesi Operatörü",
-    "code": "CERT-1273",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=400&fit=crop",
-    "description": "Haşıl makinesi operatörü kursu ile tekstil sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika kazanın!"
-  },
-  {
     "id": "halatli-ekskavator-operatorlugu",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
+    "category": "makine-teknolojisi-tehlikeli-isler",
+    "categoryName": "Makine Teknolojisi (Tehlikeli İşler)",
     "title": "Halatlı Ekskavatör Operatörlüğü",
     "code": "CERT-1274",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
     "description": "Tehlikeli ve Çok Tehlikeli İşlerde Eğitimler Halatlı ekskavatör (dragline) operatörlüğü kursuyla profesyonel kazı yapma becerisi kazanın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile uzmanlaşın!"
-  },
-  {
-    "id": "hazir-kuru-toz-gida-karisimlar",
-    "category": "gida-teknolojisi-tehlikeli-isler",
-    "categoryName": "Gıda Teknolojisi (Tehlikeli İşler)",
-    "title": "Hazır Kuru Toz Gıda Karışımlar",
-    "code": "CERT-1275",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
-    "description": "Hazır kuru toz gıda karışımlarında dolum ve paketleme kursu ile gıda sektöründe uzmanlaşın. Üniversite onaylı dijital sertifika kazanın!"
-  },
-  {
-    "id": "hava-araci-govde-yapisal-ve-kaporta",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Hava Aracı Gövde Yapısal ve Kaporta",
-    "code": "CERT-1276",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Hava aracı gövde yapısal ve kaporta bakım ve onarımcısı kursu ile havacılık sektöründe uzmanlaşın. Üniversite onaylı dijital sertifika kazanın!"
-  },
-  {
-    "id": "isitma-ve-dogal-gaz-tesisatciligi",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
-    "title": "Isıtma ve Doğal Gaz Tesisatçılığı",
-    "code": "CERT-1277",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
-    "description": "Isıtma ve doğal gaz tesisatçılığı eğitimiyle uzman olun. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika kazanın!"
-  },
-  {
-    "id": "isitma-tesisati",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
-    "title": "Isıtma Tesisatı",
-    "code": "CERT-1278",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
-    "description": "Isıtma tesisatı kursu ile kombi, kalorifer ve merkezi ısıtma sistemleri uzmanı olun. Üniversite onaylı dijital sertifika kazanın!"
   },
   {
     "id": "isil-islemci",
@@ -2430,96 +1310,6 @@ export const sertifikaCards = [
     "description": "Helezon yay dizgi elemanı kursu ile yay üretimi ve montajında uzmanlaşın. Üniversite onaylı dijital sertifika kazanın!"
   },
   {
-    "id": "hazir-kuru-toz-gida-recete",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Hazır Kuru Toz Gıda Reçete",
-    "code": "CERT-1282",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
-    "description": "Hazır kuru toz gıda reçete uygulaması kursu ile gıda sektöründe uzmanlaşın. Üniversite onaylı dijital sertifika kazanın!"
-  },
-  {
-    "id": "is-makineleri-bakim-onarim",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "İş Makineleri Bakım Onarım",
-    "code": "CERT-1284",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=400&fit=crop",
-    "description": "İş makineleri bakım onarım eğitimiyle mesleki uzmanlık kazanın! Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin."
-  },
-  {
-    "id": "is-makineleri-ve-ekipmanlari",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "İş Makineleri ve Ekipmanları",
-    "code": "CERT-1285",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&h=400&fit=crop",
-    "description": "İş makineleri ve ekipmanları kullanımı eğitimiyle profesyonel olun! Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin."
-  },
-  {
-    "id": "isaretci-ve-sapanci-egitimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "İşaretçi ve Sapancı Eğitimi",
-    "code": "CERT-1286",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?w=600&h=400&fit=crop",
-    "description": "İşaretçi ve sapancı eğitimiyle güvenli yük taşıma tekniklerini öğrenin! Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile mesleğinizi belgeleyin."
-  },
-  {
-    "id": "motorlu-araclarda-imalat-bakim",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Motorlu Araçlarda İmalat Bakım",
-    "code": "CERT-1289",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=600&h=400&fit=crop",
-    "description": "Motorlu Araçlarda imalat Bakım ve Onarım eğitimiyle otomotiv sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika kazanın!"
-  },
-  {
-    "id": "insaat-boyaciligi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "İnşaat Boyacılığı",
-    "code": "CERT-1290",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
-    "description": "İnşaat boyacılığı eğitimiyle profesyonel olun! Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile iş fırsatlarınızı artırın. İnşaat boyacılığı eğitimiyle profesyonel olun! Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile iş fırsatlarınızı artırın."
-  },
-  {
-    "id": "jeoloji-maden-ve-enerji",
-    "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
-    "title": "Jeoloji Maden ve Enerji",
-    "code": "CERT-1291",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
-    "description": "Jeoloji Maden ve Enerji Hammadde Etüt İşçiliği Jeoloji maden ve enerji hammadde etüt işçiliği eğitimi ile yer altı kaynaklarını analiz etmeyi öğrenin! Dijital sertifika alın."
-  },
-  {
-    "id": "jeofizik-etut-isciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Jeofizik Etüt İşçiliği",
-    "code": "CERT-1292",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
-    "description": "Jeofizik etüt işçiliği eğitimi ile yer altı analizleri yapmayı öğrenin! Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi geliştirin."
-  },
-  {
-    "id": "jeoteknik-sondorlugu",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Jeoteknik Sondörlüğü",
-    "code": "CERT-1293",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
-    "description": "Jeoteknik sondörlüğü eğitimi ile zemin etütleri ve sondaj tekniklerinde uzmanlaşın! Üniversite onaylı dijital sertifika ile kariyerinizi geliştirin."
-  },
-  {
     "id": "kablo-izolasyon-elemani",
     "category": "makine-teknolojisi-tehlikeli-isler",
     "categoryName": "Makine Teknolojisi (Tehlikeli İşler)",
@@ -2530,19 +1320,9 @@ export const sertifikaCards = [
     "description": "Kablo izolasyon elemanı eğitimi alın, elektrik kabloları izolasyon tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
-    "id": "kagit-uretim-otomasyonu-proses",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kağıt Üretim Otomasyonu Proses",
-    "code": "CERT-1295",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600&h=400&fit=crop",
-    "description": "Kağıt üretim otomasyonu proses elemanı eğitimi alın, otomasyon sistemlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
     "id": "kalite-kontrol-elemani",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
+    "category": "metal-teknolojisi-tehlikeli-isler",
+    "categoryName": "Metal Teknolojisi (Tehlikeli İşler)",
     "title": "Kalite Kontrol Elemanı",
     "code": "CERT-1296",
     "duration": "120 Saat",
@@ -2570,16 +1350,6 @@ export const sertifikaCards = [
     "description": "Karayolu Yapım Bakım Onarım işleri eğitimi alın, yol inşa ve bakım tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
-    "id": "kaucuk-esasli-uretim",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kauçuk Esaslı Üretim",
-    "code": "CERT-1299",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Kauçuk esaslı üretim eğitimi alın, kauçuk malzemelerin üretim süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
     "id": "kaya-mekanigi-isleri",
     "category": "insaat-teknolojisi-tehlikeli-isler",
     "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
@@ -2591,43 +1361,13 @@ export const sertifikaCards = [
   },
   {
     "id": "kaynakci",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
+    "category": "metal-teknolojisi-tehlikeli-isler",
+    "categoryName": "Metal Teknolojisi (Tehlikeli İşler)",
     "title": "Kaynakçı",
     "code": "CERT-1301",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1761213230327-d89a8cc9cc63?w=600&h=400&fit=crop",
     "description": "Kaynakçı eğitimi alın, metal birleştirme tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "kaynakcilik",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Kaynakçılık",
-    "code": "CERT-1302",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
-    "description": "Kaynakçılık eğitimi alın, metal birleştirme tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "kazi-tahkimat-sokum-isleri",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Kazı Tahkimat Söküm İşleri",
-    "code": "CERT-1303",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
-    "description": "Kazı tahkimat söküm işleri eğitimi alın, inşaat alanlarında güvenli çalışma tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "rayli-sistem-araclari-mekanik",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Raylı Sistem Araçları Mekanik",
-    "code": "CERT-1305",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Kent içi raylı sistem araçları mekanik bakım ve onarımcısı eğitimi alın, toplu taşıma araçlarının mekanik bakımını öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
     "id": "kimya-laboratuvari",
@@ -2660,99 +1400,9 @@ export const sertifikaCards = [
     "description": "Kimya prosesi (soda külü ve kostik) eğitimi alın, endüstriyel kimyasal üretim süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
-    "id": "kirec-uretimi-ve-proses-bakimciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kireç Üretimi Ve Proses Bakımcılığı",
-    "code": "CERT-1310",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&h=400&fit=crop",
-    "description": "Kireç üretimi ve proses bakımcılığı eğitimi alın, kireç üretim süreçlerini ve bakım tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "klasik-uzun-ayak-uretim-isleri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Klasik Uzun Ayak Üretim İşleri",
-    "code": "CERT-1311",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&h=400&fit=crop",
-    "description": "Klasik uzun ayak üretim işleri eğitimi alın, madencilikte kömür üretim tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "kompresorcu",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Kompresörcü",
-    "code": "CERT-1312",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-    "description": "Kompresörcü eğitimi alın, hava kompresörlerinin bakım ve onarımını öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "kord-bezi-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kord Bezi Üretimi",
-    "code": "CERT-1313",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&h=400&fit=crop",
-    "description": "Kord bezi üretimi eğitimi alın, kord bezi üretim süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "kuvars-esasli-kompoze-tas-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kuvars Esaslı Kompoze Taş Üretimi",
-    "code": "CERT-1314",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=600&h=400&fit=crop",
-    "description": "Kuvars esaslı kompoze taş üretimi eğitimi alın, dekoratif yüzey malzemelerinin üretim süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "kuyu-bakim-isleri",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Kuyu Bakım İşleri",
-    "code": "CERT-1315",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
-    "description": "Kuyu bakım işleri eğitimi alın, su kuyularının bakım ve onarım tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "lastik-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Lastik Üretimi",
-    "code": "CERT-1316",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop",
-    "description": "Tehlikeli ve Çok Tehlikeli İşlerde Eğitimler Lastik üretimi eğitimi ile lastik üretim süreçlerini öğrenin. İnci İSG’den sertifikalı eğitim alarak kariyerinize yön verin."
-  },
-  {
-    "id": "liman-isletme-saha-calisani",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Liman İşletme Saha Çalışanı",
-    "code": "CERT-1317",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
-    "description": "Liman işletme saha çalışanı eğitimi alın, liman operasyonlarını öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "lojistik-elemani",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Lojistik Elemanı",
-    "code": "CERT-1318",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=600&h=400&fit=crop",
-    "description": "Lojistik elemanı eğitimi alın, lojistik süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
     "id": "maden-kimya-laboratuvarlari",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
+    "category": "kimya-teknolojisi-tehlikeli-isler",
+    "categoryName": "Kimya Teknolojisi (Tehlikeli İşler)",
     "title": "Maden Kimya Laboratuvarları",
     "code": "CERT-1319",
     "duration": "120 Saat",
@@ -2760,74 +1410,14 @@ export const sertifikaCards = [
     "description": "Maden kimya laboratuvarlarında analiz öncesi hazırlıklar ve ön işlemler eğitimi alın, laboratuvar süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
-    "id": "maden-nezaretciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Maden Nezaretçiliği",
-    "code": "CERT-1320",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Maden nezaretçiliği eğitimi alın, maden sahalarının güvenli ve verimli yönetimini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "mekanik-nezaretciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Mekanik Nezaretçiliği",
-    "code": "CERT-1321",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&h=400&fit=crop",
-    "description": "Mekanik nezaretçiliği eğitimi alın, endüstriyel tesislerde mekanik sistemlerin denetimini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
-  },
-  {
-    "id": "maden-sondorlugu",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Maden Sondörlüğü",
-    "code": "CERT-1323",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Maden sondörlüğü eğitimi ile sondaj tekniklerini öğrenin, madencilik sektöründe uzmanlaşın. Üniversite onaylı sertifika ile kariyerinizi geliştirin!"
-  },
-  {
     "id": "makine-bakim-ve-onarim",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
+    "category": "makine-teknolojisi-tehlikeli-isler",
+    "categoryName": "Makine Teknolojisi (Tehlikeli İşler)",
     "title": "Makine Bakım ve Onarım",
     "code": "CERT-1324",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=400&fit=crop",
     "description": "Makine bakım ve onarım eğitimi ile endüstriyel makinelerin bakımını öğrenin. Üniversite onaylı dijital sertifika ile kariyerinizi güçlendirin!"
-  },
-  {
-    "id": "metal-dogramaci",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Metal Doğramacı",
-    "code": "CERT-1326",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Metal doğramacı eğitimi ile kesme, bükme ve kaynak tekniklerini öğrenin. Üniversite onaylı sertifika ile kariyerinizi geliştirin!"
-  },
-  {
-    "id": "metal-yuzey-kaplamaciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Metal Yüzey Kaplamacılığı",
-    "code": "CERT-1327",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
-    "description": "Metal yüzey kaplamacılığı eğitimi ile korozyona dayanıklı kaplamalar yapmayı öğrenin. Üniversite onaylı sertifika ile kariyerinizi geliştirin!"
-  },
-  {
-    "id": "metal-yuzeylerde-boyama",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Metal Yüzeylerde Boyama",
-    "code": "CERT-1328",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Metal yüzeylerde boyama eğitimi ile pas ve korozyona karşı koruma sağlayan boyama tekniklerini öğrenin. Sertifikanızla kariyerinizi geliştirin!"
   },
   {
     "id": "mobilya-doseme-imalatcisi",
@@ -2841,8 +1431,8 @@ export const sertifikaCards = [
   },
   {
     "id": "mobilya-imalatcisi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
+    "category": "ahsap-teknolojisi",
+    "categoryName": "Ahşap Teknolojisi",
     "title": "Mobilya İmalatçısı",
     "code": "CERT-1330",
     "duration": "120 Saat",
@@ -2851,93 +1441,13 @@ export const sertifikaCards = [
   },
   {
     "id": "montaj",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
+    "category": "makine-teknolojisi-tehlikeli-isler",
+    "categoryName": "Makine Teknolojisi (Tehlikeli İşler)",
     "title": "Montaj",
     "code": "CERT-1331",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
     "description": "Montaj eğitimi ile ürün montajını öğrenin. Üniversite onaylı sertifika ile sektördeki fırsatlara adım atın!"
-  },
-  {
-    "id": "nakliyat-uniteleri-calistiricisi",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
-    "title": "Nakliyat Üniteleri Çalıştırıcısı",
-    "code": "CERT-1332",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=600&h=400&fit=crop",
-    "description": "Nakliyat üniteleri çalıştırıcısı eğitimi ile taşıma makinelerini güvenle kullanmayı öğrenin. Sertifikayla sektördeki fırsatları keşfedin!"
-  },
-  {
-    "id": "otomotiv-boyacisi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Otomotiv Boyacısı",
-    "code": "CERT-1333",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600&h=400&fit=crop",
-    "description": "Otomotiv boyacısı eğitimi ile araç boyama tekniklerini öğrenin. Sertifika ile sektördeki iş fırsatlarını keşfedin!"
-  },
-  {
-    "id": "otomotiv-elektromekanigi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Otomotiv Elektromekaniği",
-    "code": "CERT-1334",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
-    "description": "Otomotiv elektromekaniği eğitimi ile araçların elektrik ve mekanik sistemlerini onarmayı öğrenin. Sertifika ile iş fırsatlarına sahip olun!"
-  },
-  {
-    "id": "otomotiv-govdecisi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Otomotiv Gövdecisi",
-    "code": "CERT-1335",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-    "description": "Otomotiv gövdecisi eğitimi ile araç gövdesi onarımı ve şekillendirme konularında uzmanlaşın. Sertifika ile sektördeki fırsatlar!"
-  },
-  {
-    "id": "paleosismoloji-etut-isciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Paleosismoloji Etüt İşçiliği",
-    "code": "CERT-1336",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Paleosismoloji etüt işçiliği eğitimi ile depremlerin izlerini inceleyin ve yer yapısı hakkında bilgi sahibi olun."
-  },
-  {
-    "id": "monoray-kulikar-operatorlugu",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Monoray-Kulikar Operatörlüğü",
-    "code": "CERT-1337",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=600&h=400&fit=crop",
-    "description": "Monoray-Kulikar operatörlüğü eğitimi ile taşıma sistemlerini güvenli şekilde kullanmayı öğrenin. Sertifikayla kariyerinize yön verin!"
-  },
-  {
-    "id": "pirometalurji-uretim-isleri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Pirometalurji Üretim İşleri",
-    "code": "CERT-1338",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
-    "description": "Pirometalurji üretim işleri süreçlerini öğrenin, yüksek sıcaklık işlemleriyle kaliteli üretim yaparak kariyerinizi ileri taşıyın. Pirometalurji teknolojisi ile metal üretim süreçlerini öğrenin, yüksek sıcaklık işlemleriyle kaliteli üretim yaparak kariyerinizi ileri taşıyın. Pirometalurji teknolojisi ile metal üretim süreçlerini öğrenin, yüksek sıcaklık işlemleriyle kaliteli üretim yaparak kariyerinizi ileri taşıyın."
-  },
-  {
-    "id": "plastik-isleme-ti",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik İşleme (T.İ)",
-    "code": "CERT-1339",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop",
-    "description": "Plastik işleme tekniklerini öğrenin, enjeksiyon ve ekstrüzyon süreçleriyle uzmanlaşarak üretim sektöründe kariyer fırsatlarını değerlendirin."
   },
   {
     "id": "patlayici-madde-ve-muhimmat",
@@ -2950,39 +1460,9 @@ export const sertifikaCards = [
     "description": "Patlayıcı madde ve mühimmat üretimi, depolama güvenliği ve endüstriyel uygulamalar hakkında bilgi sahibi olun, sertifika ile kariyerinizi güçlendirin."
   },
   {
-    "id": "plastik-isleme-ve-uygulama",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik İşleme ve Uygulama",
-    "code": "CERT-1342",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-    "description": "Plastik işleme ve uygulama tekniklerini öğrenin, altyapı projelerinde uzmanlaşarak mühendislik sektöründe kariyer fırsatlarını değerlendirin."
-  },
-  {
-    "id": "islerde-pompaci",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "İşlerde Pompacı",
-    "code": "CERT-1343",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
-    "description": "İşlerde pompacı makinelerinin bakım ve onarımını öğrenin, sektördeki geniş kariyer fırsatlarını değerlendirin."
-  },
-  {
-    "id": "pres-isleri",
+    "id": "pvc-dograma-imalat-ve-montaj",
     "category": "insaat-teknolojisi-tehlikeli-isler",
     "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Pres İşleri",
-    "code": "CERT-1344",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&h=400&fit=crop",
-    "description": "Pres işleri metal işleme ve şekillendirme becerileri kazanarak sanayi sektöründe başarılı bir kariyer inşa edin."
-  },
-  {
-    "id": "pvc-dograma-imalat-ve-montaj",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
     "title": "PVC Doğrama İmalat ve Montaj",
     "code": "CERT-1345",
     "duration": "120 Saat",
@@ -2990,74 +1470,14 @@ export const sertifikaCards = [
     "description": "PVC doğrama imalat ve montaj uzmanlaşarak, dayanıklı ve estetik yapı elemanları üretimi için gerekli becerileri kazanın."
   },
   {
-    "id": "ramble-tamir-bakimci",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Ramble Tamir-Bakımcı",
-    "code": "CERT-1346",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600&h=400&fit=crop",
-    "description": "Ramble tamir-bakımcı yaparak makinelerin verimli çalışmasını sağlamak için gerekli becerileri kazanın."
-  },
-  {
-    "id": "rayli-sistemlerde-isletme",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Raylı Sistemlerde İşletme",
-    "code": "CERT-1347",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&h=400&fit=crop",
-    "description": "Raylı sistemlerde işletme eğitimi alarak, tren işletmeciliği, güvenlik ve bakım konularında profesyonel beceriler kazanın."
-  },
-  {
-    "id": "serbest-seramik-sekillendirme-ti",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Serbest Seramik Şekillendirme (T.İ)",
-    "code": "CERT-1348",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=600&h=400&fit=crop",
-    "description": "Serbest seramik şekillendirme eğitimi ile el becerilerinizi geliştirin ve özgün sanatsal seramik eserler tasarlayın."
-  },
-  {
     "id": "serigrafi-ve-tampon-baski-ti",
-    "category": "matbaa-teknolojisi",
-    "categoryName": "Matbaa Teknolojisi",
+    "category": "matbaa-tehlikeli-isler",
+    "categoryName": "Matbaa (Tehlikeli İşler)",
     "title": "Serigrafi ve Tampon Baskı (T.İ)",
     "code": "CERT-1349",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
     "description": "Serigrafi ve tampon baskı tekniklerini öğrenerek, farklı yüzeylere yüksek kaliteli baskılar yapmayı keşfedin."
-  },
-  {
-    "id": "sicak-metal-sekillendirme",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Sıcak Metal Şekillendirme",
-    "code": "CERT-1350",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Sıcak metal şekillendirme teknikleriyle güçlü ve dayanıklı metal ürünler üreterek, endüstriyel verimliliği artırmayı keşfedin."
-  },
-  {
-    "id": "sihhi-tesisat",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
-    "title": "Sıhhi Tesisat",
-    "code": "CERT-1351",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisat hizmetleri ile su, gaz ve atık su sistemlerini güvenli ve verimli şekilde kurarak yaşam alanlarınızı destekleyin."
-  },
-  {
-    "id": "sina-ve-tibbi-gazlar-uretim",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Sınaî ve Tıbbi Gazlar Üretim",
-    "code": "CERT-1352",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=600&h=400&fit=crop",
-    "description": "Sınaî ve tıbbi gazlar üretim süreçleriyle endüstriyel ve sağlık sektörlerinde kullanılan gazların güvenli işlenmesini sağlar."
   },
   {
     "id": "sivaci",
@@ -3070,26 +1490,6 @@ export const sertifikaCards = [
     "description": "Sıvacı eğitimi ile yapıların iç ve dış yüzeylerine düzgün ve dayanıklı sıva uygulamayı öğrenin, üniversite onaylı sertifika alın."
   },
   {
-    "id": "sivi-aluminyum-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Sıvı Alüminyum Üretimi",
-    "code": "CERT-1354",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
-    "description": "Sıvı alüminyum üretimi eğitimi ile metal üretim süreçlerini öğrenin, üniversite onaylı sertifika alarak sektörde uzmanlaşın."
-  },
-  {
-    "id": "sivi-ve-kati-madeni-yag-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Sıvı ve Katı Madeni Yağ Üretimi",
-    "code": "CERT-1355",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop",
-    "description": "sıvı ve katı madeni yağ üretimi eğitimi ile sıvı ve katı yağ üretim süreçlerini öğrenin, üniversite onaylı sertifika sahibi olun."
-  },
-  {
     "id": "soguk-tel-haddeleme",
     "category": "metal-teknolojisi-tehlikeli-isler",
     "categoryName": "Metal Teknolojisi (Tehlikeli İşler)",
@@ -3100,56 +1500,6 @@ export const sertifikaCards = [
     "description": "Soğuk tel haddeleme eğitimi ile metal şekillendirme tekniklerini öğrenin, üniversite onaylı sertifika sahibi olun ve mesleğinizde uzmanlaşın."
   },
   {
-    "id": "sondaj-isciligi",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Sondaj İşçiliği",
-    "code": "CERT-1358",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=400&fit=crop",
-    "description": "Sondaj işçiliği eğitimi ile sektörde uzmanlaşın, üniversite onaylı dijital sertifika alın ve e-Devlet üzerinden doğrulayın."
-  },
-  {
-    "id": "sondaj-makineleri-bakim-ve-onarim",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Sondaj Makineleri Bakım ve Onarım",
-    "code": "CERT-1359",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=600&h=400&fit=crop",
-    "description": "Sondaj makineleri bakım ve onarım eğitimi ile makinelerin verimli çalışmasını sağlayın, üniversite onaylı dijital sertifika kazanın."
-  },
-  {
-    "id": "tahlisiye-ve-gaz-olcum-cihazlari",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Tahlisiye ve Gaz Ölçüm Cihazları",
-    "code": "CERT-1360",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&h=400&fit=crop",
-    "description": "Tahlisiye ve Gaz Ölçüm Cihazları Bakımcısı eğitimi ile gaz algılama ve güvenlik cihazlarının bakımı konusunda uzmanlaşın, sertifika kazanın."
-  },
-  {
-    "id": "su-urunlerinin-uretimi-ve-islenmesi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Su Ürünlerinin Üretimi ve İşlenmesi",
-    "code": "CERT-1361",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop",
-    "description": "Su ürünlerinin üretimi ve işlenmesi eğitimi ile balıkçılık, işleme ve sürdürülebilir üretim tekniklerini öğrenin, sertifika sahibi olun."
-  },
-  {
-    "id": "tabaka-ofset-baski",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Tabaka Ofset Baskı",
-    "code": "CERT-1363",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&h=400&fit=crop",
-    "description": "Tabaka ofset baskı eğitimi ile baskı makineleri ve mürekkep kullanımı hakkında bilgi edinin, üniversite onaylı sertifika kazanın."
-  },
-  {
     "id": "su-analizleri",
     "category": "kimya-teknolojisi-tehlikeli-isler",
     "categoryName": "Kimya Teknolojisi (Tehlikeli İşler)",
@@ -3158,16 +1508,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
     "description": "Su analizleri eğitimi ile suyun kalitesini ölçmeyi öğrenin, laboratuvar tekniklerini keşfedin ve üniversite onaylı sertifika alın."
-  },
-  {
-    "id": "tahlisiyecilik",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Tahlisiyecilik",
-    "code": "CERT-1366",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
-    "description": "Tahlisiyecilik eğitimi ile deniz kazalarında kurtarma, ilk yardım ve güvenlik yöntemleri öğrenin, üniversite onaylı sertifika kazanın."
   },
   {
     "id": "taslamaci",
@@ -3190,56 +1530,6 @@ export const sertifikaCards = [
     "description": "Tamburlu kesici yükleyici bakımcısı eğitimiyle bakım, onarım ve güvenli çalışma becerileri kazanın. Sertifika almak için başvurun."
   },
   {
-    "id": "tanker-vagon-dolum-ve-tahliyeci",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
-    "title": "Tanker Vagon Dolum ve Tahliyeci",
-    "code": "CERT-1370",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Tanker vagon dolum ve tahliyeci eğitimi ile üniversite onaylı dijital sertifika kazanın. Güvenli ve verimli sıvı taşımacılığı sağlanır."
-  },
-  {
-    "id": "tamburlu-kesici-yukleyici",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Tamburlu Kesici Yükleyici",
-    "code": "CERT-1371",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
-    "description": "Tamburlu kesici yükleyici operatörlüğü olmak için eğitim alarak üniversite onaylı sertifika kazanın. Güvenli ve verimli çalışma sağlanır."
-  },
-  {
-    "id": "talasli-imalat",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Talaşlı İmalat",
-    "code": "CERT-1372",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
-    "description": "Talaşlı imalat eğitimi ile yüksek hassasiyetle üretim yapın, tornalama, frezeleme gibi yöntemler öğrenin ve sertifika kazanın."
-  },
-  {
-    "id": "tekstil-boyaciligi-ti",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Tekstil Boyacılığı (T.İ)",
-    "code": "CERT-1375",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
-    "description": "Tekstil boyacılığı ile kumaşlara renk kazandırın, estetik görünümler oluşturun ve dayanıklılığı artırarak kalıcı sonuçlar elde edin."
-  },
-  {
-    "id": "tekstil-bobin-boyaciligi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
-    "title": "Tekstil Bobin Boyacılığı",
-    "code": "CERT-1376",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
-    "description": "Tekstil bobin boyacılığı eğitimi ile iplik ve kumaşlara kalıcı renk kazandırarak, estetik ve işlevsel özellikleri artırın."
-  },
-  {
     "id": "tel-bukum-elemani",
     "category": "metal-teknolojisi-tehlikeli-isler",
     "categoryName": "Metal Teknolojisi (Tehlikeli İşler)",
@@ -3251,8 +1541,8 @@ export const sertifikaCards = [
   },
   {
     "id": "tel-tavlama-ve-yuzey-kaplama",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
+    "category": "metal-teknolojisi-tehlikeli-isler",
+    "categoryName": "Metal Teknolojisi (Tehlikeli İşler)",
     "title": "Tel Tavlama ve Yüzey Kaplama",
     "code": "CERT-1382",
     "duration": "120 Saat",
@@ -3291,8 +1581,8 @@ export const sertifikaCards = [
   },
   {
     "id": "termik-santral-dis-tesis-tamir",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
+    "category": "elektrik-ve-enerji-tehlikeli-isler",
+    "categoryName": "Elektrik ve Enerji (Tehlikeli İşler)",
     "title": "Termik Santral Dış Tesis Tamir",
     "code": "CERT-1387",
     "duration": "120 Saat",
@@ -3301,8 +1591,8 @@ export const sertifikaCards = [
   },
   {
     "id": "termik-santral-dis-tesisler",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
+    "category": "elektrik-ve-enerji-tehlikeli-isler",
+    "categoryName": "Elektrik ve Enerji (Tehlikeli İşler)",
     "title": "Termik Santral Dış Tesisler",
     "code": "CERT-1388",
     "duration": "120 Saat",
@@ -3311,23 +1601,13 @@ export const sertifikaCards = [
   },
   {
     "id": "termik-santral-elektrik-bakimci",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
+    "category": "elektrik-ve-enerji-tehlikeli-isler",
+    "categoryName": "Elektrik ve Enerji (Tehlikeli İşler)",
     "title": "Termik Santral Elektrik Bakımcı",
     "code": "CERT-1389",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
     "description": "Termik santral elektrik bakımcı yapmak isteyenler için üniversite onaylı, e-Devlet üzerinden sorgulanabilir sertifikalı eğitim programı."
-  },
-  {
-    "id": "termik-santral-elektrik-isletmeci",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Termik Santral Elektrik İşletmeci",
-    "code": "CERT-1390",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-    "description": "Termik santral elektrik işletmeci yönetmek isteyenler için üniversite onaylı, e-Devlet üzerinden sorgulanabilir sertifikalı eğitim."
   },
   {
     "id": "termik-santral-kazan-bakimci",
@@ -3340,19 +1620,9 @@ export const sertifikaCards = [
     "description": "Termik santral kazan bakımcı ve onarımı için üniversite onaylı, e-Devlet üzerinden sorgulanabilir dijital sertifikalı eğitim programı."
   },
   {
-    "id": "termik-santral-kazan-isletmeci",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Termik Santral Kazan İşletmeci",
-    "code": "CERT-1392",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Termik santral kazan işletmeci üzerine üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika alabileceğiniz eğitim programı."
-  },
-  {
     "id": "termik-santral-kul-curuf",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
+    "category": "elektrik-ve-enerji-tehlikeli-isler",
+    "categoryName": "Elektrik ve Enerji (Tehlikeli İşler)",
     "title": "Termik Santral Kül Cüruf",
     "code": "CERT-1393",
     "duration": "120 Saat",
@@ -3381,8 +1651,8 @@ export const sertifikaCards = [
   },
   {
     "id": "termik-santral-mekanik-tesisat",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
+    "category": "elektrik-ve-enerji-tehlikeli-isler",
+    "categoryName": "Elektrik ve Enerji (Tehlikeli İşler)",
     "title": "Termik Santral Mekanik Tesisat",
     "code": "CERT-1396",
     "duration": "120 Saat",
@@ -3391,8 +1661,8 @@ export const sertifikaCards = [
   },
   {
     "id": "termik-santral-su-tasfiyeciligi",
-    "category": "kuyumculuk",
-    "categoryName": "Kuyumculuk",
+    "category": "elektrik-ve-enerji-tehlikeli-isler",
+    "categoryName": "Elektrik ve Enerji (Tehlikeli İşler)",
     "title": "Termik Santral Su Tasfiyeciliği",
     "code": "CERT-1397",
     "duration": "120 Saat",
@@ -3420,19 +1690,9 @@ export const sertifikaCards = [
     "description": "Termik santral türbin bakımcılığı eğitimi ile türbin bakımı ve onarımı öğrenin. Üniversite onaylı dijital sertifika verilmektedir."
   },
   {
-    "id": "termik-santral-turbin-isletmeciligi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Termik Santral Türbin İşletmeciliği",
-    "code": "CERT-1400",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=600&h=400&fit=crop",
-    "description": "Termik santral türbin işletmeciliği eğitimi ile türbin sistemlerinin yönetimini öğrenin. Üniversite onaylı dijital sertifika verilmektedir."
-  },
-  {
     "id": "tifdruk-baski-ti",
-    "category": "matbaa-teknolojisi",
-    "categoryName": "Matbaa Teknolojisi",
+    "category": "matbaa-tehlikeli-isler",
+    "categoryName": "Matbaa (Tehlikeli İşler)",
     "title": "Tifdruk Baskı (T.İ)",
     "code": "CERT-1401",
     "duration": "120 Saat",
@@ -3440,89 +1700,9 @@ export const sertifikaCards = [
     "description": "Tifdruk baskı eğitimi ile baskı teknolojilerini öğrenin. Üniversite onaylı, e-Devlet üzerinden sorgulanabilir dijital sertifika fırsatı!"
   },
   {
-    "id": "tohum-hazirlama-ilaclama",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Tohum Hazırlama İlaçlama",
-    "code": "CERT-1402",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&h=400&fit=crop",
-    "description": "Tohum hazırlama ilaçlama ve paketleme eğitimiyle tarımsal tesis işletme ve bakım becerilerini kazanın. Dijital sertifika ile kariyerinizi güçlendirin!"
-  },
-  {
-    "id": "topografya-hizmetleri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Topoğrafya Hizmetleri",
-    "code": "CERT-1403",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&h=400&fit=crop",
-    "description": "Topoğrafya hizmetleri eğitimi, arazi ölçümü, haritalama ve jeodezik hesaplamalar üzerine uzmanlaşmak isteyenler için profesyonel bir sertifika programıdır."
-  },
-  {
-    "id": "tugla-ve-kiremit-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Tuğla ve Kiremit Üretimi",
-    "code": "CERT-1404",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
-    "description": "Tuğla ve kiremit üretimi eğitimi, inşaat sektöründe kullanılan dayanıklı yapı malzemelerinin üretim süreçlerini öğrenmek isteyenler için ideal."
-  },
-  {
-    "id": "tulumbaci",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Tulumbacı",
-    "code": "CERT-1405",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
-    "description": "Tulumbacı eğitimi ile yangın söndürme sistemleri, tulumba bakımı ve acil müdahale teknikleri konusunda uzmanlaşarak iş fırsatlarınızı artırın."
-  },
-  {
-    "id": "tutun-isleme",
-    "category": "gida-teknolojisi-tehlikeli-isler",
-    "categoryName": "Gıda Teknolojisi (Tehlikeli İşler)",
-    "title": "Tütün İşleme",
-    "code": "CERT-1406",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
-    "description": "Tütün işleme eğitimi ile kurutma, fermantasyon ve paketleme süreçlerini öğrenerek kaliteli üretim yapabilir, sektörde uzmanlaşabilirsiniz."
-  },
-  {
-    "id": "ucak-yakitlari-depolama",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Uçak Yakıtları Depolama",
-    "code": "CERT-1407",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
-    "description": "Uçak yakıtları depolama elleme ve ikmal eğitimi ile havacılık sektöründe güvenli yakıt yönetimi konusunda uzmanlaşabilirsiniz."
-  },
-  {
-    "id": "web-ofset-baski",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Web Ofset Baskı",
-    "code": "CERT-1408",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=400&fit=crop",
-    "description": "Web ofset baskı, hızlı ve ekonomik üretim sağlayan bir baskı teknolojisidir. Gazete, dergi ve reklam baskıları için idealdir."
-  },
-  {
-    "id": "yakit-olcu-elemani",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
-    "title": "Yakit Ölçü Elemanı",
-    "code": "CERT-1409",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
-    "description": "Yakıt ölçü elemanı, yakıt akışını ve tüketimini denetleyen uzmanlardır. Enerji sektöründe hassas ölçümler ve güvenli kullanım sağlarlar."
-  },
-  {
     "id": "yangin-yalitimi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
+    "category": "insaat-teknolojisi-tehlikeli-isler",
+    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
     "title": "Yangın Yalıtımı",
     "code": "CERT-1410",
     "duration": "120 Saat",
@@ -3531,8 +1711,8 @@ export const sertifikaCards = [
   },
   {
     "id": "yapi-dekorasyon",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
+    "category": "insaat-teknolojisi-tehlikeli-isler",
+    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
     "title": "Yapı Dekorasyon",
     "code": "CERT-1411",
     "duration": "120 Saat",
@@ -3541,8 +1721,8 @@ export const sertifikaCards = [
   },
   {
     "id": "yapi-duvarciligi",
-    "category": "insaat-teknolojisi",
-    "categoryName": "İnşaat Teknolojisi",
+    "category": "insaat-teknolojisi-tehlikeli-isler",
+    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
     "title": "Yapı Duvarcılığı",
     "code": "CERT-1412",
     "duration": "120 Saat",
@@ -3550,19 +1730,9 @@ export const sertifikaCards = [
     "description": "Yapı duvarcılığı, yapıların duvarlarını inşa etme, tamir etme ve yenileme işlemleri ile dayanıklı yapılar oluşturur."
   },
   {
-    "id": "yapi-kimyasallari-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yapı Kimyasalları Üretimi",
-    "code": "CERT-1413",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-    "description": "Yapı kimyasalları üretimi, inşaat alanında kullanılan kimyasal ürünlerin üretimi ve kalitesini artırma süreçlerini kapsar."
-  },
-  {
     "id": "yapi-yalitimciligi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
+    "category": "insaat-teknolojisi-tehlikeli-isler",
+    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
     "title": "Yapı Yalıtımcılığı",
     "code": "CERT-1414",
     "duration": "120 Saat",
@@ -3580,109 +1750,9 @@ export const sertifikaCards = [
     "description": "Yapı malzemelerinin analizi, malzemelerin kalite kontrolünü sağlayarak binaların güvenliğini ve dayanıklılığını artıran önemli bir süreçtir."
   },
   {
-    "id": "yas-boya-uretimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yaş Boya Üretimi",
-    "code": "CERT-1417",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
-    "description": "Yaş boya üretimi, yapıların estetik ve koruyucu özelliklerini artırarak dayanıklı ve kaliteli boyalar üretir."
-  },
-  {
-    "id": "yem-hazirlama-ve-paketleme",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yem Hazırlama ve Paketleme",
-    "code": "CERT-1418",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
-    "description": "Yem hazırlama ve paketleme onarımcısı ile verimli üretim ve düzenli bakım sağlanır, tesisler verimli çalışır."
-  },
-  {
-    "id": "yer-alti-demiryolu-bakim-ve-beton",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yer Altı Demiryolu Bakım ve Beton",
-    "code": "CERT-1419",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
-    "description": "Yer altı demiryolu bakım ve betonlama işleri, güvenli ulaşım sağlamak için altyapı düzenlemeleri ve beton uygulamaları gerektirir."
-  },
-  {
-    "id": "yer-alti-elektrik-isleri",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
-    "title": "Yer Altı Elektrik İşleri",
-    "code": "CERT-1420",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-    "description": "Yer altı elektrik işleri, elektrik altyapılarının güvenli ve verimli bir şekilde kurulmasını ve bakımını sağlar, enerji verimliliğini artırır."
-  },
-  {
-    "id": "yer-alti-mekanize-komur-madeni",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Yer Altı Mekanize Kömür Madeni",
-    "code": "CERT-1421",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Yer altı mekanize kömür madeni bakımcılığı, verimli çalışma sağlamak için uzman ekiplerce gerçekleştirilmektedir."
-  },
-  {
-    "id": "yer-alti-mekanize-metal-madeni",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yer Altı Mekanize Metal Madeni",
-    "code": "CERT-1422",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Yer altı mekanize metal madeni makinelerinin bakımı ve operatörlüğü, güvenli ve verimli çalışma için önemlidir. Uzman hizmetler sunulmaktadır."
-  },
-  {
-    "id": "yer-alti-nakliyat-bakimci",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Yer Altı Nakliyat Bakımcı",
-    "code": "CERT-1423",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
-    "description": "Yer altı nakliyat bakımcı, madencilik makinelerinin verimli çalışması için bakım ve onarım hizmetleri sunar. Uzman ekipler, güvenliği artırır."
-  },
-  {
-    "id": "yer-alti-sinyalizasyon-isleri",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Yer Altı Sinyalizasyon İşleri",
-    "code": "CERT-1424",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
-    "description": "Yer altı sinyalizasyon (Haberleşme) işleri, madenlerde güvenli iletişim için bakım, kurulum ve onarım işlemleriyle kritik öneme sahiptir."
-  },
-  {
-    "id": "yuksek-basincli-dogal-gaz-isletme",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yüksek Basınçlı Doğal Gaz İşletme",
-    "code": "CERT-1425",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
-    "description": "Yüksek basınçlı doğal gaz işletme operatörü, gaz sistemlerinin güvenliği ve verimliliği için bakım, izleme ve kontrol sağlar"
-  },
-  {
-    "id": "yuksek-basincli-petrol-isletme",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yüksek Basınçlı Petrol İşletme",
-    "code": "CERT-1426",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?w=600&h=400&fit=crop",
-    "description": "Yüksek basınçlı petrol işletme operatörü, petrol sahalarının güvenliği ve verimliliğini artırmak için operasyonel denetim ve bakım yapar."
-  },
-  {
     "id": "yuksek-gerilim-sistemleri-ti",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
+    "category": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)",
     "title": "Yüksek Gerilim Sistemleri (T.İ)",
     "code": "CERT-1427",
     "duration": "120 Saat",
@@ -3691,43 +1761,13 @@ export const sertifikaCards = [
   },
   {
     "id": "yuksekte-calisanlarin-egitimi",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
+    "category": "insaat-teknolojisi-tehlikeli-isler",
+    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
     "title": "Yüksekte Çalışanların Eğitimi",
     "code": "CERT-1428",
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=600&h=400&fit=crop",
     "description": "Yüksekte çalışanların eğitimi, iş güvenliği ve sağlığı için kritik öneme sahiptir. Çalışanlar, güvenli çalışma yöntemlerini öğrenir."
-  },
-  {
-    "id": "yuruyen-tahkimat-hidrolik",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Yürüyen Tahkimat Hidrolik",
-    "code": "CERT-1430",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?w=600&h=400&fit=crop",
-    "description": "Yürüyen tahkimat hidrolik bakımcılığı, sistemlerin hidrolik bileşenlerinin bakımı ve onarımını yaparak güvenli ve verimli çalışmasını sağlar."
-  },
-  {
-    "id": "yuruyen-tahkimat-suruculugu",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Yürüyen Tahkimat Sürücülüğü",
-    "code": "CERT-1431",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=400&fit=crop",
-    "description": "Yürüyen tahkimat sürücülüğü, madenlerde taşımacılık işlemleri için kullanılan makineleri güvenli ve verimli şekilde yönetir, iş verimliliğini artırır."
-  },
-  {
-    "id": "pilates-egitimi",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
-    "title": "Pilates Eğitimi",
-    "code": "CERT-1432",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
-    "description": "Pilates eğitimiyle sağlıklı yaşama adım atın. Sertifika alarak CV’nizi güçlendirin, bedeninizi esnetin ve formda kalın!"
   },
   {
     "id": "cocuk-bakim-elemani",
@@ -3738,16 +1778,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
     "description": "Çocuk Bakım Elemanı kimdir, nasıl olunur, sınav şartları nelerdir? E Devlet onaylı sertifika ile çalışma alanları ve iş yeri açma hakkı hakkında detaylı bilgiler burada!"
-  },
-  {
-    "id": "ev-ve-kurum-temizligi",
-    "category": "aile-ve-tuketici-bilimleri-ozel-egitimler",
-    "categoryName": "Aile Ve Tüketici Bilimleri (Özel Eğitimler)",
-    "title": "Ev ve Kurum Temizliği",
-    "code": "CERT-1434",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
-    "description": "Ev ve kurum temizliği eğitimi ile 233 saatlik uzaktan kurs sonunda üniversite onaylı sertifika alın. E-Devlet kayıtlı, yurtiçi ve yurtdışı geçerli."
   },
   {
     "id": "yuzey-temizleme",
@@ -3770,26 +1800,6 @@ export const sertifikaCards = [
     "description": "Zemin mekaniği işleri, yapıların sağlamlığı için zemin analizi, taşıma kapasitesi hesaplamaları ve güçlendirme teknikleriyle güvenli projeler sunar."
   },
   {
-    "id": "zincirli-konveyor-bakimcisi",
-    "category": "insaat-teknolojisi-tehlikeli-isler",
-    "categoryName": "İnşaat Teknolojisi (Tehlikeli İşler)",
-    "title": "Zincirli Konveyör Bakımcısı",
-    "code": "CERT-1438",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
-    "description": "Zincirli konveyör bakımcısı, üretim hatlarında taşıma sistemlerinin arızalarını giderir, periyodik bakımları yapar ve verimliliği artırır."
-  },
-  {
-    "id": "depo-ellecleme-personel-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Depo Elleçleme Personel Eğitimi",
-    "code": "CERT-1439",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
-    "description": "Depo elleçleme personel eğitimiyle 88 saatte sertifika alın. Üniversite onaylı, E-Devlet kayıtlı sertifika ile lojistik, depo ve nakliye alanlarında iş fırsatı yakalayın."
-  },
-  {
     "id": "sut-sigiri-yetistiricisi",
     "category": "hayvan-yetistiriciligi-ve-sagligi",
     "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
@@ -3798,16 +1808,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&h=400&fit=crop",
     "description": "Süt Sığırı Yetiştiricisi Sertifika Programı ile sektörde uzmanlaşın, uluslararası geçerli sertifika ile kariyer fırsatlarını yakalayın!"
-  },
-  {
-    "id": "emlak-danismanligi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Emlak Danışmanlığı",
-    "code": "CERT-1441",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
-    "description": "Emlak Danışmanlığı Sertifika Programı ile 120 saatlik uzaktan eğitim alarak e-Devlet onaylı, üniversite destekli belge sahibi olun. Kariyerinizde fark yaratın!"
   },
   {
     "id": "bilgisayar-destekli-mobilya-tasarimcisi",
@@ -3852,7 +1852,7 @@ export const sertifikaCards = [
   {
     "id": "cocuk-beslenmesi",
     "category": "aile-ve-tuketici-bilimleri-ozel-egitimler",
-    "categoryName": "Aile Ve Tüketici Bilimleri (Özel Eğitimler)",
+    "categoryName": "Aile ve Tüketici Bilimleri (Özel Eğitimler)",
     "title": "Çocuk Beslenmesi",
     "code": "CERT-1447",
     "duration": "120 Saat",
@@ -3862,7 +1862,7 @@ export const sertifikaCards = [
   {
     "id": "ev-ve-kurum-temizligiozel-egitim",
     "category": "aile-ve-tuketici-bilimleri-ozel-egitimler",
-    "categoryName": "Aile Ve Tüketici Bilimleri (Özel Eğitimler)",
+    "categoryName": "Aile ve Tüketici Bilimleri (Özel Eğitimler)",
     "title": "Ev Ve Kurum Temizliği(Özel Eğitim)",
     "code": "CERT-1448",
     "duration": "120 Saat",
@@ -3872,7 +1872,7 @@ export const sertifikaCards = [
   {
     "id": "geri-donusum-ambalajlari",
     "category": "aile-ve-tuketici-bilimleri-ozel-egitimler",
-    "categoryName": "Aile Ve Tüketici Bilimleri (Özel Eğitimler)",
+    "categoryName": "Aile ve Tüketici Bilimleri (Özel Eğitimler)",
     "title": "Geri Dönüşüm Ambalajları",
     "code": "CERT-1449",
     "duration": "120 Saat",
@@ -3882,7 +1882,7 @@ export const sertifikaCards = [
   {
     "id": "tibbi-atiklar",
     "category": "aile-ve-tuketici-bilimleri-ozel-egitimler",
-    "categoryName": "Aile Ve Tüketici Bilimleri (Özel Eğitimler)",
+    "categoryName": "Aile ve Tüketici Bilimleri (Özel Eğitimler)",
     "title": "Tıbbi Atıklar",
     "code": "CERT-1450",
     "duration": "120 Saat",
@@ -3892,7 +1892,7 @@ export const sertifikaCards = [
   {
     "id": "yenilenebilir-kaynaklar",
     "category": "aile-ve-tuketici-bilimleri-ozel-egitimler",
-    "categoryName": "Aile Ve Tüketici Bilimleri (Özel Eğitimler)",
+    "categoryName": "Aile ve Tüketici Bilimleri (Özel Eğitimler)",
     "title": "Yenilenebilir Kaynaklar",
     "code": "CERT-1451",
     "duration": "120 Saat",
@@ -3960,46 +1960,6 @@ export const sertifikaCards = [
     "description": "Saraciye montajcısı eğitimiyle montaj tekniklerini öğrenin, geçerli belge ve sertifika ile sektörde iş fırsatı yakalayın."
   },
   {
-    "id": "bahce-bakimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bahçe Bakımı",
-    "code": "CERT-1458",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1642797735471-3e90055c5ff9?w=600&h=400&fit=crop",
-    "description": "Bahçe bakımı eğitimiyle bitki yetiştiriciliği öğrenin, e-Devlet’ten sorgulanabilir belge ve sertifika ile uzmanlaşın."
-  },
-  {
-    "id": "bahcivan",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bahçıvan",
-    "code": "CERT-1459",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1529269421632-e9253d14d3a9?w=600&h=400&fit=crop",
-    "description": "Bahçıvan eğitimiyle bitki ve bahçe bakımını öğrenin, geçerli belge ve sertifika ile sektörel iş fırsatlarını yakalayın."
-  },
-  {
-    "id": "bahcivanlik-egitimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bahçıvanlık Eğitimi",
-    "code": "CERT-1460",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&h=400&fit=crop",
-    "description": "Bahçıvanlık eğitimiyle bitki ve çevre düzenleme becerileri kazanarak sertifika ve belgeyle mesleki fırsatlar yakalayın."
-  },
-  {
-    "id": "dis-mekan-bitkileri-yetistiricisi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Dış Mekan Bitkileri Yetiştiricisi",
-    "code": "CERT-1461",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1642797735471-3e90055c5ff9?w=600&h=400&fit=crop",
-    "description": "Dış mekan bitkileri yetiştiricisi eğitimiyle bitki üretimi ve peyzaj uygulamalarında uzmanlaşarak geçerli belge ve sertifika alın."
-  },
-  {
     "id": "bilgisayar-sistem-bakim-onarim",
     "category": "bilisim-teknolojileri-ozel-egitim",
     "categoryName": "Bilişim Teknolojileri (Özel Eğitim)",
@@ -4008,16 +1968,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1650551182991-b07558247564?w=600&h=400&fit=crop",
     "description": "Bilgisayar sistem bakım onarım eğitimiyle donanım ve arıza çözümünde uzmanlaşın, geçerli sertifika ve belgeyle iş fırsatları yakalayın."
-  },
-  {
-    "id": "ilaclamaci",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "İlaçlamacı",
-    "code": "CERT-1463",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&h=400&fit=crop",
-    "description": "İlaçlamacı eğitimiyle zararlı kontrolü alanında uzmanlaşın, geçerli sertifika ve belgeyle iş fırsatlarını değerlendirin."
   },
   {
     "id": "bilgisayar-isletmenligi-operatorlugu",
@@ -4068,136 +2018,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
     "description": "Biyomedikal teknik servis destek elemanı eğitimiyle cihaz onarımı öğrenin, sertifika ve belgeyle sağlık sektöründe çalışın."
-  },
-  {
-    "id": "bilgi-ve-belge-yonetimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Bilgi Ve Belge Yönetimi",
-    "code": "CERT-1469",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=600&h=400&fit=crop",
-    "description": "Bilgi ve belge yönetimi eğitimiyle arşivleme ve kayıt düzenleme öğrenin, geçerli sertifika ve belgeyle kariyerinize yön verin."
-  },
-  {
-    "id": "bilgisayarda-hizli-klvye-kullanimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Bilgisayarda Hızlı Klâvye Kullanımı",
-    "code": "CERT-1470",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-    "description": "Bilgisayarda Hızlı Klâvye Kullanımı eğitimiyle yazım hızınızı artırın, geçerli sertifika ve belgeyle iş ve sınav avantajı kazanın."
-  },
-  {
-    "id": "danisma-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Danışma Görevlisi",
-    "code": "CERT-1471",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
-    "description": "Danışma görevlisi eğitimiyle iletişim becerisi kazanıp geçerli sertifika ve belgeyle kurumsal alanlarda görev alabilirsiniz."
-  },
-  {
-    "id": "dosyalama-ve-arsivleme-gelistirme-ve-uyum-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Dosyalama Ve Arşivleme Geliştirme Ve Uyum Eğitimi",
-    "code": "CERT-1472",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
-    "description": "Dosyalama Ve Arşivleme Geliştirme Ve Uyum Eğitimi evrak yönetimi öğrenin, geçerli sertifika ve belgeyle kurumsal işlerde yer alın."
-  },
-  {
-    "id": "hukuk-sekreteri",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Hukuk Sekreteri",
-    "code": "CERT-1473",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
-    "description": "Hukuk sekreteri eğitimiyle adli yazışma ve belge yönetimini öğrenin, geçerli sertifika ve belgeyle sektörde yer alın."
-  },
-  {
-    "id": "klavye-teknikleri",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Klavye Teknikleri",
-    "code": "CERT-1474",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
-    "description": "Klavye teknikleri eğitimiyle on parmak yazım öğrenin, geçerli sertifika ve belgeyle mesleki avantaj elde edin."
-  },
-  {
-    "id": "sekreterlik",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Sekreterlik",
-    "code": "CERT-1475",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
-    "description": "Sekreterlik eğitimiyle ofis becerileri öğrenin, geçerli sertifika ve belge ile profesyonel iş hayatına adım atın."
-  },
-  {
-    "id": "temel-sekreterlik-hizmetleri",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Temel Sekreterlik Hizmetleri",
-    "code": "CERT-1476",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
-    "description": "Temel sekreterlik hizmetleri eğitimiyle ofis yönetimi becerisi kazanarak geçerli sertifika ve belge sahibi olun."
-  },
-  {
-    "id": "ticaret-sekreteri",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Ticaret Sekreteri",
-    "code": "CERT-1477",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
-    "description": "Ticaret sekreteri eğitimiyle dış ticaret becerileri kazanın, geçerli sertifika ve belgeyle sektörde fark yaratın."
-  },
-  {
-    "id": "yonetici-asistani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Yönetici Asistanı",
-    "code": "CERT-1478",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=600&h=400&fit=crop",
-    "description": "Yönetici asistanı eğitimiyle iletişim ve planlama becerileri kazanarak geçerli sertifika ve belgeyle kariyerinize yön verin."
-  },
-  {
-    "id": "yonetici-sekreteri",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Yönetici Sekreteri",
-    "code": "CERT-1479",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-    "description": "Yönetici sekreteri eğitimiyle iletişim, organizasyon ve yazışma becerileri kazanarak geçerli sertifika ve belge alın."
-  },
-  {
-    "id": "afet-bilinci-egitimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Afet Bilinci Eğitimi",
-    "code": "CERT-1480",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
-    "description": "Afet bilinci eğitimiyle afetlere hazırlıklı olun, doğru davranışları öğrenin, sertifika ve belgeyle farkındalığınızı belgelendirin."
-  },
-  {
-    "id": "yerel-yonetimlerde-zabita-ve-destek-hizmetleri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Yerel Yönetimlerde Zabıta Ve Destek Hizmetleri",
-    "code": "CERT-1482",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&h=400&fit=crop",
-    "description": "Yerel Yönetimlerde Zabıta Ve Destek Hizmetleri eğitimiyle yerel yönetim görevlerine hazırlanın, sertifika ve belgeyle kamu sektöründe avantaj kazanın."
   },
   {
     "id": "cop-toplama-personel-egitimi",
@@ -4292,7 +2112,7 @@ export const sertifikaCards = [
   {
     "id": "anne-ve-cocuk-sagligi",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Anne Ve Çocuk Sağlığı",
     "code": "CERT-1492",
     "duration": "120 Saat",
@@ -4302,7 +2122,7 @@ export const sertifikaCards = [
   {
     "id": "bilincli-hamilelik-ve-bebek-bakimi",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Bilinçli Hamilelik ve Bebek Bakımı",
     "code": "CERT-1493",
     "duration": "120 Saat",
@@ -4312,7 +2132,7 @@ export const sertifikaCards = [
   {
     "id": "cocuk-bakim-elemanioe",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Çocuk Bakım Elemanı(Ö.E)",
     "code": "CERT-1494",
     "duration": "120 Saat",
@@ -4322,7 +2142,7 @@ export const sertifikaCards = [
   {
     "id": "cocuk-destek-egitimi",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Çocuk Destek Eğitimi",
     "code": "CERT-1495",
     "duration": "120 Saat",
@@ -4342,7 +2162,7 @@ export const sertifikaCards = [
   {
     "id": "cocuklarda-duygu-ve-davranis",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Çocuklarda Duygu Ve Davranış",
     "code": "CERT-1497",
     "duration": "120 Saat",
@@ -4352,7 +2172,7 @@ export const sertifikaCards = [
   {
     "id": "cocuklarda-uyum-problemleri",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Çocuklarda Uyum Problemleri",
     "code": "CERT-1498",
     "duration": "120 Saat",
@@ -4362,7 +2182,7 @@ export const sertifikaCards = [
   {
     "id": "cocukta-temel-ihtiyaclar",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Çocukta Temel İhtiyaçlar",
     "code": "CERT-1499",
     "duration": "120 Saat",
@@ -4372,7 +2192,7 @@ export const sertifikaCards = [
   {
     "id": "ebeveyn-destek-egitimi",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Ebeveyn Destek Eğitimi",
     "code": "CERT-1500",
     "duration": "120 Saat",
@@ -4382,7 +2202,7 @@ export const sertifikaCards = [
   {
     "id": "egitimde-oyun-etkinlikleri",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Eğitimde Oyun Etkinlikleri",
     "code": "CERT-1501",
     "duration": "120 Saat",
@@ -4392,7 +2212,7 @@ export const sertifikaCards = [
   {
     "id": "ergenlik-doneminde-beslenme",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Ergenlik Döneminde Beslenme",
     "code": "CERT-1502",
     "duration": "120 Saat",
@@ -4402,7 +2222,7 @@ export const sertifikaCards = [
   {
     "id": "erken-cocukluk-doneminde-aerobik",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Erken Çocukluk Döneminde Aerobik",
     "code": "CERT-1503",
     "duration": "120 Saat",
@@ -4412,7 +2232,7 @@ export const sertifikaCards = [
   {
     "id": "erken-cocukluk-doneminde-beden-dili-egitimi",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Erken Çocukluk Döneminde Beden Dili Eğitimi",
     "code": "CERT-1504",
     "duration": "120 Saat",
@@ -4422,7 +2242,7 @@ export const sertifikaCards = [
   {
     "id": "erken-cocukluk-doneminde-duygu-ve-davranislar",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Erken Çocukluk Döneminde Duygu Ve Davranışlar",
     "code": "CERT-1505",
     "duration": "120 Saat",
@@ -4442,7 +2262,7 @@ export const sertifikaCards = [
   {
     "id": "ozel-egitim-elemani",
     "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
+    "categoryName": "Çocuk Gelişimi ve Eğitimi (Özel Eğitim)",
     "title": "Özel Eğitim Elemanı",
     "code": "CERT-1507",
     "duration": "120 Saat",
@@ -4580,69 +2400,9 @@ export const sertifikaCards = [
     "description": "Tatlı su balıkları üreticisi eğitimiyle balık yetiştiriciliği becerisi kazanın, sertifikanızla sektörde profesyonel olun."
   },
   {
-    "id": "kuran-i-kerim-tilaveti-ve-tashih-i-huruf-egitimi-1",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kuran-ı Kerim Tilaveti Ve Tashih-i Huruf Eğitimi-1",
-    "code": "CERT-1522",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop",
-    "description": "Kuran-ı Kerim Tilaveti Ve Tashih-i Huruf Eğitimi-1 doğru okuma becerisi kazanın, sertifikanızla bilginizi belgeleyin."
-  },
-  {
-    "id": "kuran-i-kerim-tilaveti-ve-tashih-i-huruf-egitimi-2",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kuran-ı Kerim Tilaveti Ve Tashih-i Huruf Eğitimi-2",
-    "code": "CERT-1523",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
-    "description": "Kuran-ı Kerim Tilaveti Ve Tashih-i Huruf Eğitimi-2 tecvid bilginizi geliştirin, sertifikanızla okuma becerinizi belgeleyin."
-  },
-  {
-    "id": "kuran-i-kerim-tilaveti-ve-tashih-i-huruf-egitimi-3",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Kuran-ı Kerim Tilaveti Ve Tashih-i Huruf Eğitimi-3",
-    "code": "CERT-1524",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop",
-    "description": "Kuran-ı Kerim Tilaveti Ve Tashih-i Huruf Eğitimi-3 uzmanlaşmak isteyenler için hazırlanan bu eğitimle kıraat bilgisini belgeleyin, ileri düzey okuma yetkinliği kazanın."
-  },
-  {
-    "id": "tasavvuf-msiksi",
-    "category": "kuyumculuk",
-    "categoryName": "Kuyumculuk",
-    "title": "Tasavvuf Mûsikîsi",
-    "code": "CERT-1525",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&h=400&fit=crop",
-    "description": "Tasavvuf mûsikîsi eğitimiyle ilahileri, makamları ve geleneksel ses kültürünü öğrenin, belgenizle müziğin maneviyatını taşıyın."
-  },
-  {
-    "id": "hali-dokuma",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
-    "title": "Halı Dokuma",
-    "code": "CERT-1528",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
-    "description": "Halı dokuma eğitimiyle geleneksel teknikleri öğrenin, sertifikayla el sanatlarında usta olarak kariyer yapın."
-  },
-  {
-    "id": "ipek-el-dokumaciligi",
-    "category": "metal-teknolojisi",
-    "categoryName": "Metal Teknolojisi",
-    "title": "İpek El Dokumacılığı",
-    "code": "CERT-1530",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
-    "description": "İpek el dokumacılığı eğitimi ile zarif ürünler tasarlayın, sertifikayla tekstil alanında usta olarak kariyer yapın."
-  },
-  {
     "id": "akilli-bina-otomasyon-sistemleri",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Akıllı Bina Otomasyon Sistemleri",
     "code": "CERT-1531",
     "duration": "120 Saat",
@@ -4652,7 +2412,7 @@ export const sertifikaCards = [
   {
     "id": "akilli-role-ve-mikro-seviye-plc-gelistirme-ve-uyum-egitimi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Akıllı Röle Ve Mikro Seviye Plc Geliştirme Ve Uyum Eğitimi",
     "code": "CERT-1532",
     "duration": "120 Saat",
@@ -4662,7 +2422,7 @@ export const sertifikaCards = [
   {
     "id": "anten-sistemleri-kurulumcusu",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Anten Sistemleri Kurulumcusu",
     "code": "CERT-1533",
     "duration": "120 Saat",
@@ -4672,7 +2432,7 @@ export const sertifikaCards = [
   {
     "id": "bilgisayar-yazicilari-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Bilgisayar Yazıcıları Bakım Onarımcısı",
     "code": "CERT-1534",
     "duration": "120 Saat",
@@ -4682,7 +2442,7 @@ export const sertifikaCards = [
   {
     "id": "buro-makineleri-teknik-servis-elemani",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Büro Makineleri Teknik Servis Elemanı",
     "code": "CERT-1535",
     "duration": "120 Saat",
@@ -4692,7 +2452,7 @@ export const sertifikaCards = [
   {
     "id": "elektrik-pano-montoru",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Elektrik Pano Montörü",
     "code": "CERT-1536",
     "duration": "120 Saat",
@@ -4702,7 +2462,7 @@ export const sertifikaCards = [
   {
     "id": "elektrik-tesisat-ve-pano-montorlugu",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Elektrik Tesisat ve Pano Montörlüğü",
     "code": "CERT-1537",
     "duration": "120 Saat",
@@ -4712,7 +2472,7 @@ export const sertifikaCards = [
   {
     "id": "elektrik-tesisatcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Elektrik Tesisatçısı",
     "code": "CERT-1538",
     "duration": "120 Saat",
@@ -4722,7 +2482,7 @@ export const sertifikaCards = [
   {
     "id": "elektrikli-ev-aletleri-teknik-servis-elemani",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Elektrikli Ev Aletleri Teknik Servis Elemanı",
     "code": "CERT-1539",
     "duration": "120 Saat",
@@ -4732,7 +2492,7 @@ export const sertifikaCards = [
   {
     "id": "enerji-dagitim-tesisleri-bakim-onarim",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Enerji Dağıtım Tesisleri Bakım Onarım",
     "code": "CERT-1540",
     "duration": "120 Saat",
@@ -4742,7 +2502,7 @@ export const sertifikaCards = [
   {
     "id": "fotokopi-ve-baski-makineleri-priport-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Fotokopi Ve Baskı Makineleri (Priport) Bakım Onarımcısı",
     "code": "CERT-1541",
     "duration": "120 Saat",
@@ -4752,7 +2512,7 @@ export const sertifikaCards = [
   {
     "id": "goruntu-ve-ses-sistemleri-elemani",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Görüntü ve Ses Sistemleri Elemanı",
     "code": "CERT-1542",
     "duration": "120 Saat",
@@ -4762,7 +2522,7 @@ export const sertifikaCards = [
   {
     "id": "guvenlik-sistemleri-elemani",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Güvenlik Sistemleri Elemanı",
     "code": "CERT-1543",
     "duration": "120 Saat",
@@ -4772,7 +2532,7 @@ export const sertifikaCards = [
   {
     "id": "haberlesme-sistemleri-elemani",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Haberleşme Sistemleri Elemanı",
     "code": "CERT-1544",
     "duration": "120 Saat",
@@ -4782,7 +2542,7 @@ export const sertifikaCards = [
   {
     "id": "haberlesme-tesisati-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Haberleşme Tesisatı Bakım Onarımcısı",
     "code": "CERT-1545",
     "duration": "120 Saat",
@@ -4792,7 +2552,7 @@ export const sertifikaCards = [
   {
     "id": "isitici-ev-aletleri-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Isıtıcı Ev Aletleri Bakım Onarımcısı",
     "code": "CERT-1546",
     "duration": "120 Saat",
@@ -4812,7 +2572,7 @@ export const sertifikaCards = [
   {
     "id": "kapali-devre-kamera-sistemleri-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Kapalı Devre Kamera Sistemleri Bakım Onarımcısı",
     "code": "CERT-1548",
     "duration": "120 Saat",
@@ -4822,7 +2582,7 @@ export const sertifikaCards = [
   {
     "id": "kuvvetli-akim-tesisatcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Kuvvetli Akım Tesisatçısı",
     "code": "CERT-1549",
     "duration": "120 Saat",
@@ -4832,7 +2592,7 @@ export const sertifikaCards = [
   {
     "id": "mikrodenetleyiciler",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Mikrodenetleyiciler",
     "code": "CERT-1550",
     "duration": "120 Saat",
@@ -4842,7 +2602,7 @@ export const sertifikaCards = [
   {
     "id": "mobil-iletisim-cihazlari-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Mobil İletişim Cihazları Bakım Onarımcısı",
     "code": "CERT-1551",
     "duration": "120 Saat",
@@ -4852,7 +2612,7 @@ export const sertifikaCards = [
   {
     "id": "oto-seslendirme-ve-goruntu-sistemleri-kurulumcusu",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Oto Seslendirme Ve Görüntü Sistemleri Kurulumcusu",
     "code": "CERT-1552",
     "duration": "120 Saat",
@@ -4862,7 +2622,7 @@ export const sertifikaCards = [
   {
     "id": "pisirici-ev-aletleri-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Pişirici Ev Aletleri Bakım Onarımcısı",
     "code": "CERT-1553",
     "duration": "120 Saat",
@@ -4872,7 +2632,7 @@ export const sertifikaCards = [
   {
     "id": "santral-isletmeciligi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Santral İşletmeciliği",
     "code": "CERT-1554",
     "duration": "120 Saat",
@@ -4882,7 +2642,7 @@ export const sertifikaCards = [
   {
     "id": "sogutucu-ev-aletleri-ve-klimalar-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Soğutucu Ev Aletleri Ve Klimalar Bakım Onarımcısı",
     "code": "CERT-1555",
     "duration": "120 Saat",
@@ -4892,7 +2652,7 @@ export const sertifikaCards = [
   {
     "id": "televizyon-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Televizyon Bakım Onarımcısı",
     "code": "CERT-1556",
     "duration": "120 Saat",
@@ -4902,7 +2662,7 @@ export const sertifikaCards = [
   {
     "id": "temizleyici-ve-yikayici-ev-aletleri-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Temizleyici Ve Yıkayıcı Ev Aletleri Bakım Onarımcısı",
     "code": "CERT-1557",
     "duration": "120 Saat",
@@ -4912,7 +2672,7 @@ export const sertifikaCards = [
   {
     "id": "tv-anten-sistemleri-kurulum-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Tv Anten Sistemleri Kurulum Onarımcısı",
     "code": "CERT-1558",
     "duration": "120 Saat",
@@ -4922,7 +2682,7 @@ export const sertifikaCards = [
   {
     "id": "yangin-algilama-soygun-alarm-sistemleri-bakim-onarimcisi",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Yangın Algılama-Soygun Alarm Sistemleri Bakım Onarımcısı",
     "code": "CERT-1559",
     "duration": "120 Saat",
@@ -4932,7 +2692,7 @@ export const sertifikaCards = [
   {
     "id": "yuruyen-merdivenyol-sistemleri-bakim-onarim",
     "category": "elektrik-elektronik-teknolojisi-ozel-egitim",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Özel Eğitim)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Özel Eğitim)",
     "title": "Yürüyen Merdiven/Yol Sistemleri Bakım Onarım",
     "code": "CERT-1560",
     "duration": "120 Saat",
@@ -4942,7 +2702,7 @@ export const sertifikaCards = [
   {
     "id": "zayif-akim-tesisatcisi",
     "category": "elektrik-elektronik-teknolojisi-tehlikeli-isler",
-    "categoryName": "Elektrik-Elektronik Teknolojisi (Tehlikeli İşler)",
+    "categoryName": "Elektrik Elektronik Teknolojisi (Tehlikeli İşler)",
     "title": "Zayıf Akım Tesisatçısı",
     "code": "CERT-1561",
     "duration": "120 Saat",
@@ -4988,26 +2748,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=400&fit=crop",
     "description": "Otomasyon Sistemleri Destek Elemanı eğitimiyle üretim teknolojilerine destek olun, sertifikayla teknik alanda iş fırsatları yakalayın."
-  },
-  {
-    "id": "dijital-fotografcilik",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
-    "title": "Dijital Fotoğrafçılık",
-    "code": "CERT-1566",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=400&fit=crop",
-    "description": "Dijital fotoğrafçılık eğitimiyle teknik çekim becerileri kazanıp, sertifikayla görsel içerik üretiminde profesyonelleşin."
-  },
-  {
-    "id": "sayfa-sekreteri",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Sayfa Sekreteri",
-    "code": "CERT-1568",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
-    "description": "Sayfa sekreteri eğitimiyle yayıncılık alanında uzmanlaşın, sertifikayla medya sektöründe profesyonel düzenleme becerileri kazanın."
   },
   {
     "id": "gemi-blok-montaj",
@@ -5218,126 +2958,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
     "description": "Zeytinyağı Üretim Elemanı eğitimiyle sıkım süreçlerini öğrenin, sertifikayla gıda sektöründe profesyonel olarak çalışın."
-  },
-  {
-    "id": "deri-duz-dikis-makineci",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Deri Düz Dikiş Makineci",
-    "code": "CERT-1594",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "description": "Deri düz dikiş makineci eğitimiyle profesyonel dikiş teknikleri öğrenin, sertifikayla deri sektöründe uzmanlaşın."
-  },
-  {
-    "id": "deri-kesimci",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Deri Kesimci",
-    "code": "CERT-1596",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&h=400&fit=crop",
-    "description": "Deri kesimci eğitimiyle doğru kesim tekniklerini öğrenin, sertifikayla deri sektöründe nitelikli uzman olun."
-  },
-  {
-    "id": "deri-konfeksiyon-makineci",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Deri Konfeksiyon Makineci",
-    "code": "CERT-1598",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
-    "description": "Deri konfeksiyon makineci eğitimiyle dikiş tekniklerini öğrenin, sertifikayla deri giyim sektöründe uzmanlaşın."
-  },
-  {
-    "id": "dokuma-yuzey-makineciligi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Dokuma Yüzey Makineciliği",
-    "code": "CERT-1599",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=600&h=400&fit=crop",
-    "description": "Dokuma yüzey makineciliği eğitimiyle kumaş üretim tekniklerini öğrenin, sertifikayla tekstil sektöründe profesyonelleşin."
-  },
-  {
-    "id": "duz-dikis-makineci",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Düz Dikiş Makineci",
-    "code": "CERT-1600",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
-    "description": "Düz dikiş makineci eğitimiyle dikiş tekniklerini öğrenin, sertifikayla tekstil sektöründe profesyonel bir kariyere başlayın."
-  },
-  {
-    "id": "duz-dikis-sanayi-makinesi-kurulum-ve-bakimi",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Düz Dikiş (Sanayi) Makinesi Kurulum ve Bakımı",
-    "code": "CERT-1601",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=600&h=400&fit=crop",
-    "description": "Düz Dikiş (Sanayi) Makinesi Kurulum ve Bakımı eğitimini tamamlayarak sertifikalı teknik uzman olun."
-  },
-  {
-    "id": "hazir-giyim-makinelerinde-gelistirme-ve-uyum-kursu",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Hazır Giyim Makinelerinde Geliştirme ve Uyum Kursu",
-    "code": "CERT-1604",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600&h=400&fit=crop",
-    "description": "Hazır Giyim Makinelerinde Geliştirme ve Uyum Kursu eğitiminde pratik beceri kazanarak sertifika alın, sektörde profesyonel olarak öne çıkın."
-  },
-  {
-    "id": "hazir-giyim-model-makineci",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Hazır Giyim Model Makineci",
-    "code": "CERT-1605",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600&h=400&fit=crop",
-    "description": "Hazır Giyim Model Makineci eğitimiyle özel dikim tekniklerini öğrenin, sertifikayla hazır giyim sektöründe uzmanlaşarak öne çıkın."
-  },
-  {
-    "id": "ic-giyim-konfeksiyon-makineci",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "İç Giyim Konfeksiyon Makineci",
-    "code": "CERT-1606",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
-    "description": "İç Giyim Konfeksiyon Makineci eğitimiyle dikiş becerilerinizi geliştirin, sertifikayla iç giyim üretiminde uzmanlaşın ve sektöre adım atın."
-  },
-  {
-    "id": "bilgisayar-destekli-reklam-ve-tasarim",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
-    "title": "Bilgisayar Destekli Reklam Ve Tasarım",
-    "code": "CERT-1610",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=400&fit=crop",
-    "description": "Bilgisayar Destekli Reklam Ve Tasarım eğitimiyle grafik programlarını öğrenin, sertifikayla reklamcılık ve dijital tasarım alanında öne çıkın."
-  },
-  {
-    "id": "fotograf-baski-operatoru",
-    "category": "matbaa-teknolojisi",
-    "categoryName": "Matbaa Teknolojisi",
-    "title": "Fotoğraf Baskı Operatörü",
-    "code": "CERT-1611",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop",
-    "description": "Fotoğraf baskı operatörü eğitimiyle dijital baskı tekniklerini öğrenin, e-Devlet onaylı sertifikayla profesyonelleşin."
-  },
-  {
-    "id": "grafiker",
-    "category": "matbaa-teknolojisi",
-    "categoryName": "Matbaa Teknolojisi",
-    "title": "Grafiker",
-    "code": "CERT-1613",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&h=400&fit=crop",
-    "description": "Grafiker eğitimiyle Adobe programlarını öğrenin, dijital tasarım alanında sertifikayla profesyonel bir kariyere başlayın."
   },
   {
     "id": "cilt-bakimi-hizmetleri",
@@ -5650,106 +3270,6 @@ export const sertifikaCards = [
     "description": "Yüz ve vücut masajı eğitimiyle rahatlatıcı teknikleri öğrenin, sertifikanızla spa ve güzellik sektöründe yerinizi alın."
   },
   {
-    "id": "alo-170-cagri-iskur-csgb-hizmetleri",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Alo 170 Çağrı (İŞKUR-ÇSGB) Hizmetleri",
-    "code": "CERT-1645",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&h=400&fit=crop",
-    "description": "Alo 170 Çağrı (İŞKUR-ÇSGB) Hizmetleri çalışacak uzman personeller yetiştirilir, sertifikalı meslek imkânı sunar."
-  },
-  {
-    "id": "fuar-hosthostesi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Fuar Host/Hostesi",
-    "code": "CERT-1646",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&h=400&fit=crop",
-    "description": "Fuar host/hostesi eğitimiyle temsil ve iletişim becerilerinizi geliştirerek dijital sertifika ile organizasyonlarda profesyonel görev alın."
-  },
-  {
-    "id": "fuar-organizasyon-sorumlusu",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Fuar Organizasyon Sorumlusu",
-    "code": "CERT-1647",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
-    "description": "Fuar organizasyon sorumlusu eğitimiyle etkinlik planlama becerisi kazanın, e-Devlet onaylı sertifikayla sektörde profesyonel olun."
-  },
-  {
-    "id": "fuar-stand-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Fuar Stand Elemanı",
-    "code": "CERT-1648",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop",
-    "description": "Fuar stand elemanı eğitimiyle temsil ve tanıtım becerilerinizi geliştirin, sertifikalı görevli olarak fuarlarda yer alın."
-  },
-  {
-    "id": "halkla-iliskiler-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Halkla İlişkiler Elemanı",
-    "code": "CERT-1649",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
-    "description": "Halkla ilişkiler elemanı eğitimiyle kurumsal iletişim ve tanıtım becerileri kazanarak dijital sertifikalı profesyonel olun."
-  },
-  {
-    "id": "halkla-iliskiler-ve-organizasyon",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Halkla İlişkiler Ve Organizasyon",
-    "code": "CERT-1650",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&h=400&fit=crop",
-    "description": "Halkla ilişkiler ve organizasyon eğitimiyle iletişim ve etkinlik yönetimi becerileri kazanıp dijital sertifikayla profesyonelleşin."
-  },
-  {
-    "id": "manken",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Manken",
-    "code": "CERT-1651",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=600&h=400&fit=crop",
-    "description": "Mankenlik eğitimiyle özgüven ve yürüyüş teknikleri kazanarak sertifikalı profesyonel model olarak sektöre adım atın."
-  },
-  {
-    "id": "musteri-hizmetleri-satis-ve-hizmet-yetkilisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Müşteri Hizmetleri Satış Ve Hizmet Yetkilisi",
-    "code": "CERT-1652",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
-    "description": "Müşteri hizmetleri satış ve hizmet yetkilisi eğitimi ile iletişim ve satış becerileri kazanarak sertifikalı profesyonel olun."
-  },
-  {
-    "id": "musteri-temsilcisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Müşteri Temsilcisi",
-    "code": "CERT-1653",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
-    "description": "Müşteri temsilcisi eğitimiyle iletişim ve problem çözme becerileri kazanarak sertifikalı profesyonel müşteri temsilcisi olun."
-  },
-  {
-    "id": "organizasyon-sorumlusu",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Organizasyon Sorumlusu",
-    "code": "CERT-1654",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
-    "description": "Organizasyon sorumlusu eğitimi ile etkinlik yönetimi ve koordinasyon becerileri kazanarak sertifikalı profesyonel olun."
-  },
-  {
     "id": "bilgisayar-destekli-harita-cizimi",
     "category": "harita-tapu-kadastro-ozel-egitim",
     "categoryName": "Harita-Tapu-Kadastro (Özel Eğitim)",
@@ -5762,7 +3282,7 @@ export const sertifikaCards = [
   {
     "id": "hasta-ve-yasli-oz-bakimina-destek-olacaklarin-egitimi",
     "category": "hasta-ve-yasli-hizmetleri-ozel-egitim",
-    "categoryName": "Hasta Ve Yaşlı Hizmetleri (Özel Eğitim)",
+    "categoryName": "Hasta ve Yaşlı Hizmetleri (Özel Eğitim)",
     "title": "Hasta ve Yaşlı Öz Bakımına Destek Olacakların Eğitimi",
     "code": "CERT-1656",
     "duration": "120 Saat",
@@ -5772,7 +3292,7 @@ export const sertifikaCards = [
   {
     "id": "oz-bakima-destek-elemani-egitimi",
     "category": "hasta-ve-yasli-hizmetleri-ozel-egitim",
-    "categoryName": "Hasta Ve Yaşlı Hizmetleri (Özel Eğitim)",
+    "categoryName": "Hasta ve Yaşlı Hizmetleri (Özel Eğitim)",
     "title": "Öz Bakıma Destek Elemanı Eğitimi",
     "code": "CERT-1657",
     "duration": "120 Saat",
@@ -6350,166 +3870,6 @@ export const sertifikaCards = [
     "description": "Yapı Sektöründe Çalışanlara Yönelik Yangın Yalıtımcısı yapı güvenliğinde uzmanlaşın, geçerli sertifika ile sektörde kariyerinize yön verin."
   },
   {
-    "id": "bagaj-tasiyici",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Bagaj Taşıyıcı",
-    "code": "CERT-1715",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
-    "description": "Bagaj taşıyıcı eğitimi ile hizmet sektöründe profesyonelleşin, sertifikanızla turizm ve ulaşım alanında öne çıkın."
-  },
-  {
-    "id": "camasirhane-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Çamaşırhane Görevlisi",
-    "code": "CERT-1716",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&h=400&fit=crop",
-    "description": "Çamaşırhane görevlisi eğitimi ile hijyen bilgisi kazanın, sertifikanızla temizlik ve sağlık sektöründe iş fırsatlarını yakalayın."
-  },
-  {
-    "id": "danisma-ve-bagaj-hizmetleri-sefi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Danışma Ve Bagaj Hizmetleri Sefi",
-    "code": "CERT-1717",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430263055-54c323a46d14?w=600&h=400&fit=crop",
-    "description": "Danışma ve bagaj hizmetleri şefi eğitimiyle yönetici olun, sertifikanızla turizm sektöründe liderlik fırsatlarını değerlendirin."
-  },
-  {
-    "id": "isimiz-temiz-projesi-konaklama-sektorundeki-mikro-isletmeler-icin-hijyen-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "İşimiz Temiz Projesi Konaklama Sektöründeki Mikro İşletmeler İçin Hijyen Eğitimi",
-    "code": "CERT-1718",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&h=400&fit=crop",
-    "description": "İşimiz Temiz Projesi Konaklama Sektöründeki Mikro İşletmeler İçin Hijyen Eğitimi ile temizlik standartlarını yükseltin, belgelendirme ile güven kazanın."
-  },
-  {
-    "id": "kapi-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Kapı Görevlisi",
-    "code": "CERT-1719",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-    "description": "Kapı görevlisi eğitimiyle misafir karşılama, güvenlik ve protokol becerileri kazanın; sertifikanızla sektörde fark yaratın."
-  },
-  {
-    "id": "kat-hizmetleri-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Kat Hizmetleri Elemanı",
-    "code": "CERT-1720",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&h=400&fit=crop",
-    "description": "Kat hizmetleri eğitimi ile temizlik ve müşteri hizmetlerinde uzmanlaşın, sertifikanızla profesyonel iş fırsatları yakalayın."
-  },
-  {
-    "id": "kat-hizmetleri-personeli-gelistirme-ve-uyum-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Kat hizmetleri Personeli Geliştirme ve Uyum Eğitimi",
-    "code": "CERT-1721",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop",
-    "description": "Kat hizmetleri personeli geliştirme ve uyum eğitimi ile temizlik ve iletişim becerilerinizi artırın, e-Devlet onaylı sertifika ile öne çıkın."
-  },
-  {
-    "id": "malzeme-tasiyici",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Malzeme Taşıyıcı",
-    "code": "CERT-1722",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
-    "description": "Malzeme taşıyıcı becerilerinizi geliştirerek iş güvenliğiyle uyumlu çalışın, sertifikanızla sektörde fark yaratın."
-  },
-  {
-    "id": "meydanci",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Meydancı",
-    "code": "CERT-1723",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&h=400&fit=crop",
-    "description": "Meydancı eğitimiyle hijyen ve düzen kurallarını öğrenin, e-Devlet onaylı sertifikayla mesleki yeterliliğinizi belgeleyin."
-  },
-  {
-    "id": "oda-temizleyicisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Oda Temizleyicisi",
-    "code": "CERT-1724",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop",
-    "description": "Oda temizleyicisi eğitimiyle hijyen ve temizlik becerileri kazanın, e-Devlet onaylı sertifika ile iş fırsatlarını değerlendirin."
-  },
-  {
-    "id": "on-buro-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Ön Büro Elemanı",
-    "code": "CERT-1725",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
-    "description": "Ön büro elemanı eğitimiyle rezervasyon, iletişim ve sistem becerileri kazanın, e-Devlet onaylı sertifika ile işe hazırlanın."
-  },
-  {
-    "id": "on-kasa-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Ön Kasa Elemanı",
-    "code": "CERT-1726",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&h=400&fit=crop",
-    "description": "Ön kasa elemanı eğitimiyle satış ve tahsilat becerileri kazanın, belgeyle market ve mağazalarda işe başlayın."
-  },
-  {
-    "id": "rezervasyon-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Rezervasyon Elemanı",
-    "code": "CERT-1727",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
-    "description": "Rezervasyon elemanı eğitimiyle turizmde iş fırsatları yakalayın, belgeyle otel ve seyahat acentelerinde çalışmaya başlayın."
-  },
-  {
-    "id": "santralist",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Santralist",
-    "code": "CERT-1728",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
-    "description": "Santralist eğitimiyle iletişim becerilerinizi geliştirip belge alın, kamu ve özel sektör santral birimlerinde çalışın."
-  },
-  {
-    "id": "seyahat-isletmeciligi-gelistirme-ve-uyum-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Seyahat İşletmeciliği Geliştirme Ve Uyum Eğitimi",
-    "code": "CERT-1729",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=600&h=400&fit=crop",
-    "description": "Seyahat işletmeciliği geliştirme ve uyum eğitimi turizm sektöründe kariyer yapın, sertifika alarak iş fırsatlarını değerlendirin."
-  },
-  {
-    "id": "transfermen-ve-tur-animatoru",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Transfermen ve Tur Animatörü",
-    "code": "CERT-1730",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=600&h=400&fit=crop",
-    "description": "Transfermen ve tur animatörü eğitimiyle turizmde uzmanlaşın, e-Devlet onaylı belgeyle sektörde fark yaratın."
-  },
-  {
     "id": "taki-imalatcisi",
     "category": "kuyumculuk-teknolojisi-ozel-egitim",
     "categoryName": "Kuyumculuk Teknolojisi (Özel Eğitim)",
@@ -6528,36 +3888,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=600&h=400&fit=crop",
     "description": "Takı tasarımcısı eğitimi ile yaratıcı yönünüzü geliştirin, sertifikanızla profesyonel takı tasarım sektöründe fark yaratın."
-  },
-  {
-    "id": "sondaj-iscisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sondaj İşçisi",
-    "code": "CERT-1733",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=600&h=400&fit=crop",
-    "description": "Sondaj işçisi eğitimiyle yer altı kaynaklarını keşfetmeyi öğrenin, e-Devlet onaylı sertifika ile kariyerinize yön verin."
-  },
-  {
-    "id": "sondorluk",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sondörlük",
-    "code": "CERT-1734",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&h=400&fit=crop",
-    "description": "Sondörlük eğitimiyle sondaj tekniklerini öğrenin, e-Devlet onaylı sertifika ile yer altı keşif projelerinde yer alın."
-  },
-  {
-    "id": "tehlikeli-ve-cok-tehlikeli-islerde-elektrik-nezaretciligi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Tehlikeli ve Çok Tehlikeli İşlerde Elektrik Nezaretçiliği",
-    "code": "CERT-1735",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1642797735471-3e90055c5ff9?w=600&h=400&fit=crop",
-    "description": "Tehlikeli ve Çok Tehlikeli İşlerde Elektrik Nezaretçiliği güvenli çalışmayı öğrenin, üniversite onaylı sertifika sahibi olun."
   },
   {
     "id": "aluminyum-haddeci",
@@ -6908,1406 +4238,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
     "description": "TIG kaynakçılığı eğitimiyle sertifika alın, İnci İSG ile yüksek hassasiyetli kaynak uzmanı olarak kariyer yapın."
-  },
-  {
-    "id": "dokum-kalipcisi",
-    "category": "metal-teknolojisi-ozel-egitim",
-    "categoryName": "Metal Teknolojisi (Özel Eğitim)",
-    "title": "Döküm Kalıpçısı",
-    "code": "CERT-1774",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
-    "description": "Döküm kalıpçısı eğitimiyle sertifika alın, İnci İSG ile kalıp tasarımı ve üretiminde uzmanlaşarak kariyer yapın."
-  },
-  {
-    "id": "haddeleme-elemani",
-    "category": "metal-teknolojisi-ozel-egitim",
-    "categoryName": "Metal Teknolojisi (Özel Eğitim)",
-    "title": "Haddeleme Elemanı",
-    "code": "CERT-1775",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
-    "description": "Haddeleme elemanı eğitimiyle sertifika alın, İnci İSG ile metal sektöründe uzmanlaşarak iş fırsatlarını yakalayın."
-  },
-  {
-    "id": "benzinli-otomotiv-mekanikeri",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Benzinli Otomotiv Mekanikeri",
-    "code": "CERT-1776",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&h=400&fit=crop",
-    "description": "Benzinli otomotiv mekanikeri eğitimiyle sertifika alın, İnci İSG ile otomotiv sektöründe uzmanlaşarak iş imkanı kazanın."
-  },
-  {
-    "id": "boyasiz-gocuk-duzeltme",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Boyasız Göçük Düzeltme",
-    "code": "CERT-1777",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
-    "description": "Boyasız göçük düzeltme eğitimiyle sertifika alın, İnci İSG ile otomotiv sektöründe profesyonel olarak çalışmaya başlayın."
-  },
-  {
-    "id": "dizel-otomotiv-mekanikeri",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Dizel Otomotiv Mekanikeri",
-    "code": "CERT-1778",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
-    "description": "Dizel otomotiv mekanikeri eğitimiyle sertifika alın, İnci İSG ile otomotiv sektöründe uzmanlaşarak iş imkanı kazanın."
-  },
-  {
-    "id": "dizel-pompa-ve-enjektor-ayarcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Dizel Pompa ve Enjektör Ayarcısı",
-    "code": "CERT-1779",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
-    "description": "Dizel pompa ve enjektör ayarcısı eğitimiyle sertifika alın, İnci İSG ile dizel sistemlerde uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "egzoz-emisyon-olcum-elemani",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Egzoz Emisyon Ölçüm Elemanı",
-    "code": "CERT-1780",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&h=400&fit=crop",
-    "description": "Egzoz emisyon ölçüm elemanı eğitimiyle sertifika alın, İnci İSG ile çevreye duyarlı otomotiv teknisyeni olun."
-  },
-  {
-    "id": "is-makineleri-bakim-ve-onarimcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "İş Makineleri Bakım ve Onarımcısı",
-    "code": "CERT-1781",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
-    "description": "İş makineleri bakım ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile ağır araç sektöründe uzmanlaşın."
-  },
-  {
-    "id": "is-makineleri-elektrik-elektronik-sistemler-bakim-ve-onarimcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "İş Makineleri Elektrik-Elektronik Sistemler Bakım Ve Onarımcısı",
-    "code": "CERT-1782",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
-    "description": "İş Makineleri Elektrik-Elektronik Sistemler Bakım Ve Onarımcısı eğitimiyle sertifika alın, İnci İSG ile teknik bakım alanında uzman olun."
-  },
-  {
-    "id": "is-makineleri-hidrolik-sistemler-bakim-ve-onarimcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "İş Makineleri Hidrolik Sistemler Bakım ve Onarımcısı",
-    "code": "CERT-1783",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&h=400&fit=crop",
-    "description": "İş Makineleri Hidrolik Sistemler Bakım ve Onarımcısı eğitimiyle sertifika alın, İnci İSG ile sektörde teknik uzmanlık kazanın."
-  },
-  {
-    "id": "is-makineleri-motor-ve-aktarma-organlari-bakim-ve-onarimcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "İş Makineleri Motor Ve Aktarma Organları Bakım ve Onarımcısı",
-    "code": "CERT-1784",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&h=400&fit=crop",
-    "description": "İş Makineleri Motor Ve Aktarma Organları Bakım ve Onarımcısı eğitimiyle sertifika alın, İnci İSG ile sektörde uzmanlaşın."
-  },
-  {
-    "id": "motor-periyodik-bakimi-gelistirme-ve-uyum-egitimi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Motor Periyodik Bakımı Geliştirme ve Uyum Eğitimi",
-    "code": "CERT-1785",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-    "description": "Motor Periyodik Bakımı Geliştirme ve Uyum Eğitimi sertifika alın, İnci İSG ile motor bakımında profesyonel bilgi ve beceri kazanın."
-  },
-  {
-    "id": "otomotiv-camcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Camcısı",
-    "code": "CERT-1787",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=600&h=400&fit=crop",
-    "description": "Otomotiv camcısı eğitimiyle sertifika alın, İnci İSG ile araç cam tamir ve montajında uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "otomotiv-egzozcusu",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Egzozcusu",
-    "code": "CERT-1788",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
-    "description": "Otomotiv egzozcusu eğitimiyle sertifika alın, İnci İSG ile egzoz sistemlerinde uzmanlaşarak iş fırsatları yakalayın."
-  },
-  {
-    "id": "otomotiv-elektrikcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Elektrikçisi",
-    "code": "CERT-1789",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
-    "description": "Otomotiv elektrikçisi eğitimiyle sertifika alın, İnci İSG ile araç elektrik sistemlerinde uzmanlaşarak kariyer yapın."
-  },
-  {
-    "id": "otomotiv-elektromekanikeri",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Elektromekanikeri",
-    "code": "CERT-1790",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=400&fit=crop",
-    "description": "Otomotiv elektromekanikeri eğitimiyle sertifika alın, İnci İSG ile araç elektrik-mekanik sistemlerinde uzman olarak kariyer yapın."
-  },
-  {
-    "id": "otomotiv-kaportacisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Kaportacısı",
-    "code": "CERT-1792",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
-    "description": "Otomotiv kaportacısı eğitimiyle sertifika alın, İnci İSG ile araç gövde onarımında uzmanlaşarak iş fırsatı yakalayın."
-  },
-  {
-    "id": "otomotiv-kilitcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Kilitçisi",
-    "code": "CERT-1793",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
-    "description": "Otomotiv kilitçisi eğitimiyle sertifika alın, İnci İSG ile araç güvenlik sistemlerinde uzmanlaşarak mesleki fırsatlar yakalayın."
-  },
-  {
-    "id": "otomotiv-lastik-onarimcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Lastik Onarımcısı",
-    "code": "CERT-1794",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=600&h=400&fit=crop",
-    "description": "Otomotiv lastik onarımcısı eğitimiyle sertifika alın, İnci İSG ile araç lastik bakımında uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "otomotiv-lastik-satis-ve-servis-elemani",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Lastik Satış ve Servis Elemanı",
-    "code": "CERT-1795",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=600&h=400&fit=crop",
-    "description": "Otomotiv Lastik Satış ve Servis Elemanı eğitimiyle sertifika alın, İnci İSG ile teknik ve satış alanında uzmanlaşın."
-  },
-  {
-    "id": "otomotiv-lpg-montaj-bakim-ve-onarimcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Lpg Montaj Bakım ve Onarımcısı",
-    "code": "CERT-1796",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
-    "description": "Otomotiv LPG montaj bakım ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile LPG sistemlerinde uzman olun."
-  },
-  {
-    "id": "otomotiv-radyatorcusu",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Radyatörcüsü",
-    "code": "CERT-1797",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&h=400&fit=crop",
-    "description": "Otomotiv radyatörcüsü eğitimiyle sertifika alın, İnci İSG ile araç soğutma sistemlerinde uzmanlaşarak iş fırsatı yakalayın."
-  },
-  {
-    "id": "otomotiv-sustacisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Sustacısı",
-    "code": "CERT-1798",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Otomotiv sustacısı eğitimiyle sertifika alın, İnci İSG ile egzoz sistemlerinde uzmanlaşarak iş fırsatları yakalayın."
-  },
-  {
-    "id": "otomotiv-test-ve-ayarcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Otomotiv Test ve Ayarcısı",
-    "code": "CERT-1799",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=600&h=400&fit=crop",
-    "description": "Otomotiv test ve ayarcısı eğitimiyle sertifika alın, İnci İSG ile araç sistemlerinde profesyonel test ve ayar yapın."
-  },
-  {
-    "id": "on-duzen-ve-balans-ayarcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Ön Düzen ve Balans Ayarcısı",
-    "code": "CERT-1800",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
-    "description": "Ön düzen ve balans ayarcısı eğitimiyle sertifika alın, İnci İSG ile araç denge ayarlarında uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "tarim-makineleri-bakim-ve-onarimcisi",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Tarım Makineleri Bakım ve Onarımcısı",
-    "code": "CERT-1801",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
-    "description": "Tarım makineleri bakım ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile tarım sektöründe uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "tehlikeli-ve-cok-tehlikeli-islerde-is-makineleri-bakim-onarim",
-    "category": "makine-teknolojisi-ozel-egitim",
-    "categoryName": "Makine Teknolojisi (Özel Eğitim)",
-    "title": "Tehlikeli Ve Çok Tehlikeli İşlerde İş Makineleri Bakım Onarım",
-    "code": "CERT-1802",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=600&h=400&fit=crop",
-    "description": "Tehlikeli Ve Çok Tehlikeli İşlerde İş Makineleri Bakım Onarım eğitimiyle sertifika alın, İnci İSG ile güvenli uzmanlık kazanın."
-  },
-  {
-    "id": "bilgisayar-destekli-muhasebe",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Bilgisayar Destekli Muhasebe",
-    "code": "CERT-1803",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=600&h=400&fit=crop",
-    "description": "Bilgisayar destekli muhasebe eğitimiyle sertifika alın, İnci İSG ile finans ve muhasebe alanında uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "bilgisayarli-muhasebe-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Bilgisayarlı Muhasebe Elemanı",
-    "code": "CERT-1804",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
-    "description": "Bilgisayarlı muhasebe elemanı eğitimiyle sertifika alın, İnci İSG ile dijital muhasebe alanında uzmanlık kazanın."
-  },
-  {
-    "id": "genel-muhasebe",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Genel Muhasebe",
-    "code": "CERT-1805",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
-    "description": "Genel muhasebe eğitimiyle sertifika alın, İnci İSG ile mali işlemleri doğru yöneterek muhasebe alanında uzmanlaşın."
-  },
-  {
-    "id": "insan-kaynaklari-elemani-gelistirme-ve-uyum-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "İnsan Kaynakları Elemanı Geliştirme Ve Uyum Eğitimi",
-    "code": "CERT-1806",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1761213230327-d89a8cc9cc63?w=600&h=400&fit=crop",
-    "description": "İnsan Kaynakları Elemanı Geliştirme Ve Uyum Eğitimi eğitimiyle sertifika alın, İnci İSG ile personel yönetiminde uzmanlaşarak kariyerinize yön verin."
-  },
-  {
-    "id": "kooperatif-buro-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Kooperatif Büro Elemanı",
-    "code": "CERT-1807",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=600&h=400&fit=crop",
-    "description": "Kooperatif büro elemanı eğitimiyle sertifika alın, İnci İSG ile kooperatif ofis işlerinde uzmanlaşarak istihdam şansı yakalayın."
-  },
-  {
-    "id": "muhasebe-yardimcisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Muhasebe Yardımcısı",
-    "code": "CERT-1808",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
-    "description": "Muhasebe yardımcısı eğitimiyle sertifika alın, İnci İSG ile muhasebe alanında destek elemanı olarak kariyerinize yön verin."
-  },
-  {
-    "id": "on-muhasebe",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Ön Muhasebe",
-    "code": "CERT-1809",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=400&fit=crop",
-    "description": "Ön muhasebe eğitimiyle sertifika alın, İnci İSG ile muhasebe alanında temel bilgi ve pratik becerilerle iş bulun."
-  },
-  {
-    "id": "agac-kesme-ve-boylama",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Ağaç Kesme Ve Boylama",
-    "code": "CERT-1810",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
-    "description": "Ağaç kesme ve boylama eğitimiyle sertifika alın, İnci İSG ile ormancılık sektöründe güvenli ve uzman çalışmalar yapın."
-  },
-  {
-    "id": "aile-danismani",
-    "category": "cocuk-gelisimi-ve-egitimi-ozel-egitim",
-    "categoryName": "Çocuk Gelişimi Ve Eğitimi (Özel Eğitim)",
-    "title": "Aile Danışmanı",
-    "code": "CERT-1811",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop",
-    "description": "Aile danışmanı eğitimiyle sertifika alın, İnci İSG ile aile içi iletişimde uzmanlaşarak profesyonel destek olun."
-  },
-  {
-    "id": "egiticinin-egitimi-kurs-programi",
-    "category": "bilisim-teknolojileri",
-    "categoryName": "Bilişim Teknolojileri",
-    "title": "Eğiticinin Eğitimi Kurs Programı",
-    "code": "CERT-1812",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
-    "description": "Eğiticinin Eğitimi Kurs Programı sertifika alın, İnci İSG ile yetişkin eğitiminde profesyonel sunum ve öğretim becerileri kazanın."
-  },
-  {
-    "id": "depo-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Depo Görevlisi",
-    "code": "CERT-1813",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
-    "description": "Depo görevlisi eğitimiyle sertifika alın, İnci İSG ile stok ve ürün yönetiminde uzmanlaşarak iş fırsatı yakalayın."
-  },
-  {
-    "id": "emlak-komisyoncusu",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Emlak komisyoncusu",
-    "code": "CERT-1815",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
-    "description": "Emlak komisyoncusu eğitimiyle sertifika alın, İnci İSG ile gayrimenkul sektöründe uzmanlaşarak profesyonel satış yapın."
-  },
-  {
-    "id": "kasa-sefi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Kasa Şefi",
-    "code": "CERT-1816",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
-    "description": "Kasa şefi eğitimiyle sertifika alın, İnci İSG ile finansal nakit yönetimi ve raporlama becerilerinde uzmanlaşın."
-  },
-  {
-    "id": "kasiyer",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Kasiyer",
-    "code": "CERT-1817",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
-    "description": "Kasiyer eğitimiyle sertifika alın, İnci İSG ile perakende sektöründe ödeme işlemleri ve müşteri hizmetlerinde uzmanlaşın."
-  },
-  {
-    "id": "perakende-gida-reyon-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Perakende Gıda Reyon Görevlisi",
-    "code": "CERT-1818",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&h=400&fit=crop",
-    "description": "Perakende gıda reyon görevlisi eğitimiyle sertifika alın, İnci İSG ile ürün düzenleme ve müşteri hizmetlerinde uzmanlaşın."
-  },
-  {
-    "id": "perakende-gida-satis-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Perakende Gıda Satış Elemanı",
-    "code": "CERT-1819",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&h=400&fit=crop",
-    "description": "Perakende gıda satış elemanı eğitimiyle sertifika alın, İnci İSG ile satış ve müşteri hizmetlerinde uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "reyon-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Reyon Görevlisi",
-    "code": "CERT-1820",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop",
-    "description": "Reyon görevlisi eğitimiyle sertifika alın, İnci İSG ile ürün düzenleme ve stok yönetiminde profesyonel uzmanlık kazanın."
-  },
-  {
-    "id": "reyon-sefi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Reyon Şefi",
-    "code": "CERT-1821",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&h=400&fit=crop",
-    "description": "Reyon şefi eğitimiyle sertifika alın, İnci İSG ile perakende yönetiminde liderlik ve stok kontrolü becerisi kazanın."
-  },
-  {
-    "id": "satin-alma-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Satın Alma Görevlisi",
-    "code": "CERT-1822",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
-    "description": "Satın alma görevlisi eğitimiyle sertifika alın, İnci İSG ile tedarik süreçlerinde profesyonel yetkinlik kazanarak iş bulun."
-  },
-  {
-    "id": "satis-elemani",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Satış Elemanı",
-    "code": "CERT-1823",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&h=400&fit=crop",
-    "description": "Satış elemanı eğitimiyle sertifika alın, İnci İSG ile satış becerileri kazanarak perakende ve hizmet sektöründe iş bulun."
-  },
-  {
-    "id": "satis-gorevlisi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Satış Görevlisi",
-    "code": "CERT-1824",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&h=400&fit=crop",
-    "description": "Satış görevlisi eğitimiyle sertifika alın, İnci İSG ile satış tekniklerinde uzmanlaşarak perakende sektöründe iş fırsatları yakalayın."
-  },
-  {
-    "id": "sigortaci",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Sigortacı",
-    "code": "CERT-1825",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?w=600&h=400&fit=crop",
-    "description": "Sigortacı eğitimiyle sertifika alın, İnci İSG ile poliçe düzenleme ve müşteri yönetimi alanında uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "enjeksiyon-kalipcisi",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Enjeksiyon Kalıpçısı",
-    "code": "CERT-1826",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1761213230327-d89a8cc9cc63?w=600&h=400&fit=crop",
-    "description": "Enjeksiyon kalıpçısı eğitimiyle sertifika alın, İnci İSG ile plastik üretim ve kalıplama alanında profesyonel olun."
-  },
-  {
-    "id": "plastik-ekstruzyon-kalipciligi",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Ekstrüzyon Kalıpçılığı",
-    "code": "CERT-1827",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
-    "description": "Plastik ekstrüzyon kalıpçılığı eğitimiyle sertifika alın, İnci İSG ile plastik profil üretimi ve kalıpçılıkta uzmanlaşın."
-  },
-  {
-    "id": "plastik-film-isleme-operatoru",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Film İşleme Operatörü",
-    "code": "CERT-1828",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
-    "description": "Plastik film işleme operatörü eğitimiyle sertifika alın, İnci İSG ile plastik üretim süreçlerinde uzmanlaşarak iş bulun."
-  },
-  {
-    "id": "plastik-geri-donusum-makineleri-operatoru",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Geri Dönüşüm Makineleri Operatörü",
-    "code": "CERT-1829",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600&h=400&fit=crop",
-    "description": "Plastik geri dönüşüm makineleri operatörü eğitimiyle sertifika alın, İnci İSG ile çevre dostu üretimde profesyonel olun."
-  },
-  {
-    "id": "plastik-profil-ekstruzyon-operatoru",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Profil Ekstrüzyon Operatörü",
-    "code": "CERT-1830",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-    "description": "Plastik profil ekstrüzyon operatörü eğitimiyle sertifika alın, İnci İSG ile üretim süreçlerinde uzmanlık kazanın."
-  },
-  {
-    "id": "plastik-rotasyon-kalipcisi",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Rotasyon Kalıpçısı",
-    "code": "CERT-1831",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&h=400&fit=crop",
-    "description": "Plastik rotasyon kalıpçısı eğitimiyle sertifika alın, İnci İSG ile büyük plastik ürün üretiminde profesyonel uzmanlık kazanın."
-  },
-  {
-    "id": "plastik-rotasyonel-kaliplama-operatoru",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Rotasyonel Kalıplama Operatörü",
-    "code": "CERT-1832",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1771868453049-b7b4a4680b5c?w=600&h=400&fit=crop",
-    "description": "Plastik rotasyonel kalıplama operatörü eğitimiyle sertifika alın, İnci İSG ile üretim süreçlerinde profesyonel yetkinlik kazanın."
-  },
-  {
-    "id": "plastik-sisirme-kaliplama-operatoru",
-    "category": "kimya-petrol-lastik-ve-plastik-sektoru",
-    "categoryName": "Kimya, Petrol, Lastik ve Plastik Sektörü",
-    "title": "Plastik Şişirme Kalıplama Operatörü",
-    "code": "CERT-1833",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
-    "description": "Plastik şişirme kalıplama operatörü eğitimiyle sertifika alın, İnci İSG ile plastik ambalaj üretiminde uzmanlık kazanın."
-  },
-  {
-    "id": "vatman-tramvay-metro-surucusu",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Vatman (Tramvay Metro Sürücüsü)",
-    "code": "CERT-1835",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=600&h=400&fit=crop",
-    "description": "Vatman (Tramvay Metro Sürücüsü) eğitimiyle sertifika alın, İnci İSG ile metro ve tramvay sürücülüğünde güvenli ve profesyonel kariyere başlayın."
-  },
-  {
-    "id": "guzellik-ve-sac-bakim-hizmetlerinde-calisanlar-icin-hijyen-egitimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Güzellik Ve Saç Bakım Hizmetlerinde Çalışanlar İçin Hijyen Eğitimi",
-    "code": "CERT-1836",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=600&h=400&fit=crop",
-    "description": "Güzellik Ve Saç Bakım Hizmetlerinde Çalışanlar İçin Hijyen Eğitimi eğitimiyle sertifika alın, İnci İSG ile güvenli hizmet sunun."
-  },
-  {
-    "id": "gida-uretim-ve-perakende-is-yerleri-ile-su-sektorunde-calisanlar-icin-kisisel-hijyen-egitimi",
-    "category": "gida-teknolojisi",
-    "categoryName": "Gıda Teknolojisi",
-    "title": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi",
-    "code": "CERT-1837",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
-    "description": "Gıda Üretim Ve Perakende İş Yerleri İle Su Sektöründe Çalışanlar İçin Kişisel Hijyen Eğitimi sertifika alın, İnci İSG ile sağlıklı çalışma ortamı sağlayın."
-  },
-  {
-    "id": "cini-islemeci-cinici",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Çini İşlemeci Çinici",
-    "code": "CERT-1838",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=600&h=400&fit=crop",
-    "description": "Çini işlemeci çinici eğitimiyle sertifika alın, İnci İSG ile geleneksel sanatlarda uzmanlaşarak meslek veya hobi edinin."
-  },
-  {
-    "id": "antep-fistigi-isleme-tesisi-isletme-bakim-ve-onarimcisi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Antep Fıstığı İşleme Tesisi İşletme Bakım Ve Onarımcısı",
-    "code": "CERT-1839",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&h=400&fit=crop",
-    "description": "Antep Fıstığı İşleme Tesisi İşletme Bakım Ve Onarımcısı eğitimiyle sertifika alın, İnci İSG ile sektöre teknik uzman olarak girin."
-  },
-  {
-    "id": "asili-ve-duz-sebze-fide-yetistiricisi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Aşılı Ve Düz Sebze Fide Yetiştiricisi",
-    "code": "CERT-1840",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-    "description": "Aşılı ve düz sebze fide yetiştiricisi eğitimiyle sertifika alın, İnci İSG ile tarımsal üretimde uzmanlaşın."
-  },
-  {
-    "id": "atolye-ekipbasi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Atölye Ekipbaşı",
-    "code": "CERT-1841",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600&h=400&fit=crop",
-    "description": "Atölye ekipbaşı eğitimiyle sertifika alın, İnci İSG ile üretim yönetimi ve ekip liderliği alanında uzmanlaşın."
-  },
-  {
-    "id": "aycicegi-ve-hashas-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Ayçiçeği ve Haşhaş Yetiştiriciliği",
-    "code": "CERT-1842",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
-    "description": "Ayçiçeği ve haşhaş yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile profesyonel ve verimli tarıma adım atın."
-  },
-  {
-    "id": "bag-asilama",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bağ Aşılama",
-    "code": "CERT-1843",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
-    "description": "Bağ aşılama eğitimiyle sertifika alın, İnci İSG ile üzüm bağlarınızı verimli ve kaliteli üretime dönüştürün."
-  },
-  {
-    "id": "bag-budama",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bağ Budama",
-    "code": "CERT-1844",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=400&fit=crop",
-    "description": "Bağ budama eğitimiyle sertifika alın, İnci İSG ile üzüm bağlarınızın verimini artırarak kaliteli üretim sağlayın."
-  },
-  {
-    "id": "bag-fidani-uretimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bağ Fidanı Üretimi",
-    "code": "CERT-1845",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=600&h=400&fit=crop",
-    "description": "Bağ fidanı üretimi eğitimiyle sertifika alın, İnci İSG ile kaliteli fidan yetiştirerek tarımda uzmanlaşın."
-  },
-  {
-    "id": "bahce-ekip-basi-kursu",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bahçe Ekip Başı Kursu",
-    "code": "CERT-1846",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&h=400&fit=crop",
-    "description": "Bahçe ekip başı kursu eğitimiyle sertifika alın, İnci İSG ile tarımsal üretim süreçlerini yönetme becerisi kazanın."
-  },
-  {
-    "id": "baklagil-yem-bitkileri-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Baklagil Yem Bitkileri Yetiştiriciliği",
-    "code": "CERT-1847",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
-    "description": "Baklagil yem bitkileri yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile hayvancılık için verimli üretime başlayın."
-  },
-  {
-    "id": "basincli-sulama-sistemleri",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Basınçlı Sulama Sistemleri",
-    "code": "CERT-1848",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&h=400&fit=crop",
-    "description": "Basınçlı sulama sistemleri eğitimiyle sertifika alın, İnci İSG ile modern tarımda su tasarrufu ve verimlilik sağlayın."
-  },
-  {
-    "id": "bicerdover-bakim-ve-onarim",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Biçerdöver Bakım ve Onarım",
-    "code": "CERT-1849",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
-    "description": "Biçerdöver bakım ve onarım eğitimiyle sertifika alın, İnci İSG ile tarım makinelerinde teknik bilgi ve uzmanlık kazanın."
-  },
-  {
-    "id": "bitki-bakim-ve-koruma-makineleri-bakim-ve-onarim",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bitki Bakım ve Koruma Makineleri Bakım ve Onarım",
-    "code": "CERT-1850",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
-    "description": "Bitki Bakım ve Koruma Makineleri Bakım ve Onarım eğitimiyle sertifika alın, İnci İSG ile tarım makinelerinde teknik uzmanlık kazanın."
-  },
-  {
-    "id": "bitki-zararlilari-ile-mucadele",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bitki Zararlıları ile Mücadele",
-    "code": "CERT-1851",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&h=400&fit=crop",
-    "description": "Bitki zararlıları ile mücadele eğitimiyle sertifika alın, İnci İSG ile tarımda bilinçli ve etkili koruma sağlayın."
-  },
-  {
-    "id": "bitkisel-uretimde-iyi-tarim-uygulamalari",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Bitkisel Üretimde İyi Tarım Uygulamaları",
-    "code": "CERT-1852",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&h=400&fit=crop",
-    "description": "Bitkisel Üretimde İyi Tarım Uygulamaları eğitimiyle sertifika alın, İnci İSG ile çevre dostu ve güvenli tarımsal üretim yapın."
-  },
-  {
-    "id": "bugdaygil-yem-bitkileri-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Buğdaygil Yem Bitkileri Yetiştiriciliği",
-    "code": "CERT-1853",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
-    "description": "Buğdaygil yem bitkileri yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile hayvancılığa yönelik verimli üretim sağlayın."
-  },
-  {
-    "id": "cayir-mera-ve-yem-bitkileri-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Çayır Mera ve Yem Bitkileri Yetiştiriciliği",
-    "code": "CERT-1854",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=600&h=400&fit=crop",
-    "description": "Çayır Mera ve Yem Bitkileri Yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile hayvancılıkta verimi artırın."
-  },
-  {
-    "id": "caylik-olusturma-ve-hasat",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Çaylık Oluşturma ve Hasat",
-    "code": "CERT-1855",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop",
-    "description": "Çaylık oluşturma ve hasat eğitimiyle sertifika alın, İnci İSG ile verimli ve kaliteli çay üretimi sağlayın."
-  },
-  {
-    "id": "celik-asi-ve-doku-kulturu-yontemiyle-kesme-cicek-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Çelik Aşı ve Doku Kültürü Yöntemiyle Kesme Çiçek Yetiştiriciliği",
-    "code": "CERT-1856",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop",
-    "description": "Çelik Aşı ve Doku Kültürü Yöntemiyle Kesme Çiçek Yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile çelik, aşı ve doku kültüründe uzmanlaşın."
-  },
-  {
-    "id": "ciceklerinden-faydalanilan-ilac-ve-baharat-bitkileri-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Çiçeklerinden Faydalanılan İlaç ve Baharat Bitkileri Yetiştiriciliği",
-    "code": "CERT-1857",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop",
-    "description": "Çiçeklerinden Faydalanılan İlaç ve Baharat Bitkileri Yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile doğal ve sağlıklı üretim yapın."
-  },
-  {
-    "id": "cok-yillik-ciceklerin-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Çok Yıllık Çiçeklerin Yetiştiriciliği",
-    "code": "CERT-1858",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop",
-    "description": "Çok Yıllık Çiçeklerin Yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile dayanıklı süs bitkilerinde uzmanlaşın."
-  },
-  {
-    "id": "damlama-center-lateral-pivot-ve-yagmurlama-sulama-tesisi-isletme-bakim-ve-onarimcisi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Damlama Center Lateral Pivot Ve Yağmurlama Sulama Tesisi İşletme Bakım Ve Onarımcısı",
-    "code": "CERT-1859",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
-    "description": "Damlama Center Lateral Pivot Ve Yağmurlama Sulama Tesisi İşletme Bakım Ve Onarımcısı eğitimiyle sertifika alın, İnci İSG ile uzmanlaşın."
-  },
-  {
-    "id": "dekoratif-yaprakli-ic-mekn-sus-bitkileri-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Dekoratif Yapraklı İç Mekân Süs Bitkileri Yetiştiriciliği",
-    "code": "CERT-1860",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?w=600&h=400&fit=crop",
-    "description": "Dekoratif yapraklı iç mekân süs bitkileri yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile profesyonelleşin."
-  },
-  {
-    "id": "ekim-dikim-ve-gubreleme-makineleri-bakim-ve-onarim",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Ekim Dikim ve Gübreleme Makineleri Bakım ve Onarım",
-    "code": "CERT-1861",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
-    "description": "Ekim dikim ve gübreleme makineleri bakım ve onarım eğitimiyle sertifika alın, İnci İSG ile teknik uzmanlık kazanın."
-  },
-  {
-    "id": "etkin-ve-verimli-sulama-sistemleri-egitimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Etkin Ve Verimli Sulama Sistemleri Eğitimi",
-    "code": "CERT-1863",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
-    "description": "Etkin ve verimli sulama sistemleri eğitimi sertifika alın, İnci İSG ile su tasarrufu sağlayan üretim yapın."
-  },
-  {
-    "id": "fasulye-ve-borulce-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Fasulye ve Börülce Yetiştiriciliği",
-    "code": "CERT-1864",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
-    "description": "Fasulye ve börülce yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile verimli ve sağlıklı üretime başlayın."
-  },
-  {
-    "id": "findik-budama",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Fındık Budama",
-    "code": "CERT-1865",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=600&h=400&fit=crop",
-    "description": "Fındık budama eğitimiyle sertifika alın, İnci İSG ile kaliteli ve verimli fındık üretim tekniklerini öğrenin."
-  },
-  {
-    "id": "fidan-uretimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Fidan Üretimi",
-    "code": "CERT-1866",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
-    "description": "Fidan üretimi eğitimiyle sertifika alın, İnci İSG ile kaliteli fidan yetiştirme tekniklerinde profesyonelleşin."
-  },
-  {
-    "id": "meyve-fidan-uretimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Meyve Fidan Üretimi",
-    "code": "CERT-1867",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1768321902691-082df3e874cf?w=600&h=400&fit=crop",
-    "description": "Meyve fidan üretimi eğitimiyle sertifika alın, İnci İSG ile kaliteli meyve fidanı yetiştirme tekniklerini öğrenin."
-  },
-  {
-    "id": "organik-tarim",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Organik Tarım",
-    "code": "CERT-1868",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop",
-    "description": "Organik tarım eğitimiyle sertifika alın, İnci İSG ile doğal, sağlıklı ve sürdürülebilir tarımda uzmanlaşın."
-  },
-  {
-    "id": "park-bahce-ve-korularin-bakimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Park Bahçe Ve Koruların Bakımı",
-    "code": "CERT-1869",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&h=400&fit=crop",
-    "description": "Park bahçe ve koruların bakımı eğitimiyle sertifika alın, İnci İSG ile yeşil alanlarda uzmanlaşarak kariyer yapın."
-  },
-  {
-    "id": "park-ve-bahce-bitkileri-yetistiricisi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Park ve Bahçe Bitkileri Yetiştiricisi",
-    "code": "CERT-1870",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&h=400&fit=crop",
-    "description": "Park Ve Bahçe Bitkileri Yetiştiricisi eğitimiyle sertifika alın, İnci İSG ile süs bitkileri üretiminde uzmanlaşın."
-  },
-  {
-    "id": "safran-bitkisi-yetistiriciligi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Safran Bitkisi Yetiştiriciliği",
-    "code": "CERT-1871",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&h=400&fit=crop",
-    "description": "Safran bitkisi yetiştiriciliği eğitimiyle sertifika alın, İnci İSG ile kazançlı ve profesyonel üretime adım atın."
-  },
-  {
-    "id": "sebze-fidesi-uretimi",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Sebze Fidesi Üretimi",
-    "code": "CERT-1872",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=400&fit=crop",
-    "description": "Sebze fidesi üretimi eğitimiyle sertifika alın, İnci İSG ile sağlıklı ve verimli fide üretiminde uzmanlaşın."
-  },
-  {
-    "id": "seraci",
-    "category": "hayvan-yetistiriciligi-ve-sagligi",
-    "categoryName": "Hayvan Yetiştiriciliği ve Sağlığı",
-    "title": "Seracı",
-    "code": "CERT-1873",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600&h=400&fit=crop",
-    "description": "Seracı eğitimiyle sertifika alın, İnci İSG ile dört mevsim üretim sağlayan modern sera tekniklerini öğrenin."
-  },
-  {
-    "id": "bakir-ve-aluminyum-boru-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Bakır Ve Alüminyum Boru Tesisatçısı",
-    "code": "CERT-1874",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=600&h=400&fit=crop",
-    "description": "Bakır ve alüminyum boru tesisatçısı eğitimiyle sertifika alın, İnci İSG ile teknik uzmanlık alanında öne çıkın."
-  },
-  {
-    "id": "boru-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Boru tesisatçısı",
-    "code": "CERT-1875",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&h=400&fit=crop",
-    "description": "Boru tesisatçısı eğitimiyle sertifika alın, İnci İSG ile su ve gaz tesisat sistemlerinde profesyonel olun."
-  },
-  {
-    "id": "celik-boru-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Çelik Boru Tesisatçısı",
-    "code": "CERT-1876",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&h=400&fit=crop",
-    "description": "Çelik boru tesisatçısı eğitimiyle sertifika alın, İnci İSG ile endüstriyel tesisatlarda profesyonel uygulama becerileri kazanın."
-  },
-  {
-    "id": "dogal-gaz-ic-tesisati-boru-doseyicisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Doğal Gaz İç Tesisatı Boru Döşeyicisi",
-    "code": "CERT-1877",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=600&h=400&fit=crop",
-    "description": "Doğal gaz iç tesisatı boru döşeyicisi eğitimiyle sertifika alın, İnci İSG ile güvenli gaz tesisatı uygulamaları öğrenin."
-  },
-  {
-    "id": "dogal-gaz-ic-tesisati-cihaz-montajcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Doğal Gaz İç Tesisatı Cihaz Montajcısı",
-    "code": "CERT-1878",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
-    "description": "Doğal gaz iç tesisatı cihaz montajcısı eğitimiyle sertifika alın, İnci İSG ile güvenli ve profesyonel kurulum yapın."
-  },
-  {
-    "id": "dogal-gaz-tesisati-cizim-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Doğal Gaz Tesisatı Çizim Elemanı",
-    "code": "CERT-1879",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&h=400&fit=crop",
-    "description": "Doğal gaz tesisatı çizim elemanı eğitimiyle sertifika alın, İnci İSG ile profesyonel proje çizim bilgisi kazanın."
-  },
-  {
-    "id": "dogalgaz-ic-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Doğalgaz İç Tesisatçısı",
-    "code": "CERT-1880",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
-    "description": "Doğalgaz iç tesisatçısı eğitimiyle sertifika alın, İnci İSG ile güvenli ve yönetmeliğe uygun tesisat kurulumunu öğrenin."
-  },
-  {
-    "id": "dogalgaz-yakici-cihaz-sistemleri-gelistirme",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Doğalgaz Yakıcı Cihaz Sistemleri Geliştirme",
-    "code": "CERT-1881",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
-    "description": "Doğalgaz yakıcı cihaz sistemleri geliştirme eğitimiyle sertifika alın, İnci İSG ile teknik uzmanlık ve verimlilik sağlayın."
-  },
-  {
-    "id": "dogalgaz-yakitli-kalorifer-atescisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Doğalgaz Yakıtlı Kalorifer Ateşçisi",
-    "code": "CERT-1882",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&h=400&fit=crop",
-    "description": "Doğalgaz yakıtlı kalorifer ateşçisi eğitimiyle sertifika alın, İnci İSG ile güvenli ve verimli kazan kullanımı öğrenin."
-  },
-  {
-    "id": "elektrik-ark-boru-kaynakcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Elektrik Ark Boru Kaynakçısı",
-    "code": "CERT-1883",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&h=400&fit=crop",
-    "description": "Elektrik ark boru kaynakçısı eğitimiyle sertifika alın, İnci İSG ile sanayide geçerli kaynak becerileri kazanın."
-  },
-  {
-    "id": "ev-tipi-klima-sistemleri-montaj-bakim-ve-onarimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Ev Tipi Klima Sistemleri Montaj Bakım ve Onarımcısı",
-    "code": "CERT-1884",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
-    "description": "Ev tipi klima sistemleri montaj bakım ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile teknik servis uzmanı olun."
-  },
-  {
-    "id": "ev-tipi-klima-sistemleri-montaji",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Ev Tipi Klima Sistemleri Montajı",
-    "code": "CERT-1885",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
-    "description": "Ev tipi klima sistemleri montajı eğitimiyle sertifika alın, İnci İSG ile profesyonel klima kurulum becerileri kazanın."
-  },
-  {
-    "id": "ev-tipi-sogutma-cihazlari-bakim-ve-onarimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Ev tipi soğutma cihazları bakım ve onarımcısı",
-    "code": "CERT-1886",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
-    "description": "Ev tipi soğutma cihazları bakım ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile teknik servis uzmanı olun."
-  },
-  {
-    "id": "frigorifik-arac-ve-arac-klima-bakimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Frigorifik araç ve araç klima bakımcısı",
-    "code": "CERT-1887",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=600&h=400&fit=crop",
-    "description": "Frigorifik araç ve araç klima bakımcısı eğitimiyle sertifika alın, İnci İSG ile araç soğutma sistemlerinde uzmanlaşın."
-  },
-  {
-    "id": "gaz-yakici-cihazlar-bakim-ve-onarimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Gaz Yakıcı Cihazlar Bakım ve Onarımcısı",
-    "code": "CERT-1888",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop",
-    "description": "Gaz yakıcı cihazlar bakım ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile teknik servis alanında uzmanlaşın."
-  },
-  {
-    "id": "gaz-yakici-cihazlar-servis-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Gaz yakıcı cihazlar servis elemanı",
-    "code": "CERT-1889",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&h=400&fit=crop",
-    "description": "Gaz yakıcı cihazlar servis elemanı eğitimiyle sertifika alın, İnci İSG ile kurulum ve bakım alanında uzman olun."
-  },
-  {
-    "id": "havalandirma-kanali-imalat-montaj-ve-bakimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Havalandırma kanalı imalat montaj ve bakımcısı",
-    "code": "CERT-1890",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&h=400&fit=crop",
-    "description": "Havalandırma kanalı imalat montaj ve bakımcısı eğitimiyle sertifika alın, İnci İSG ile teknik iklimlendirme uzmanı olun."
-  },
-  {
-    "id": "isitma-tesisati-cizim-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Isıtma Tesisatı Çizim Elemanı",
-    "code": "CERT-1891",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
-    "description": "Isıtma tesisatı çizim elemanı eğitimiyle sertifika alın, İnci İSG ile teknik çizim alanında mesleki uzmanlık kazanın."
-  },
-  {
-    "id": "isitma-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Isıtma Tesisatçısı",
-    "code": "CERT-1892",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop",
-    "description": "Isıtma tesisatçısı eğitimiyle sertifika alın, İnci İSG ile güvenli ve verimli ısıtma sistemi kurulumunu öğrenin."
-  },
-  {
-    "id": "isitma-ve-dogal-gaz-ic-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Isıtma ve Doğal Gaz İç Tesisatçısı",
-    "code": "CERT-1893",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
-    "description": "Isıtma ve doğal gaz iç tesisatçısı eğitimiyle sertifika alın, İnci İSG ile teknik kurulum ve güvenlik bilgisi kazanın."
-  },
-  {
-    "id": "isitma-ve-gaz-yakici-cihazlar-servis-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Isıtma ve Gaz Yakıcı Cihazlar Servis Elemanı",
-    "code": "CERT-1894",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
-    "description": "Isıtma ve gaz yakıcı cihazlar servis elemanı eğitimiyle sertifika alın, İnci İSG ile teknik uzmanlık kazanın."
-  },
-  {
-    "id": "isitma-ve-sihhi-tesisatci",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Isıtma ve Sıhhi Tesisatçı",
-    "code": "CERT-1895",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
-    "description": "Isıtma ve sıhhi tesisatçı eğitimiyle sertifika alın, İnci İSG ile su ve ısıtma tesisatı kurulumunda uzmanlaşın."
-  },
-  {
-    "id": "kaloriferci",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Kaloriferci",
-    "code": "CERT-1896",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?w=600&h=400&fit=crop",
-    "description": "Kaloriferci eğitimiyle sertifika alın, İnci İSG ile kazan sistemlerini güvenli ve verimli şekilde kullanmayı öğrenin."
-  },
-  {
-    "id": "kati-ve-sivi-yakitli-kalorifer-atescisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Katı Ve Sıvı Yakıtlı Kalorifer Ateşçisi",
-    "code": "CERT-1897",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
-    "description": "Katı ve sıvı yakıtlı kalorifer ateşçisi eğitimiyle sertifika alın, İnci İSG ile kazan kullanımı ve güvenliğini öğrenin."
-  },
-  {
-    "id": "klima-sistemleri-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Klima Sistemleri Elemanı",
-    "code": "CERT-1898",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
-    "description": "Klima sistemleri elemanı eğitimiyle sertifika alın, İnci İSG ile klima montaj, bakım ve onarımında uzmanlık kazanın."
-  },
-  {
-    "id": "kati-yakitli-kalorifer-atescisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Katı Yakıtlı Kalorifer Ateşçisi",
-    "code": "CERT-1899",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop",
-    "description": "Katı yakıtlı kalorifer ateşçisi eğitimiyle sertifika alın, İnci İSG ile kömür ve odun kazanlarını güvenle kullanmayı öğrenin."
-  },
-  {
-    "id": "klima-sistemleri-gelistirme-ve-uyum-egitimi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Klima Sistemleri Geliştirme Ve Uyum Eğitimi",
-    "code": "CERT-1900",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=600&h=400&fit=crop",
-    "description": "Klima sistemleri geliştirme ve uyum eğitimi sertifika alın, İnci İSG ile teknik yetkinliğinizi güncelleyin ve geliştirin."
-  },
-  {
-    "id": "merkezi-iklimlendirme-sistemleri-bakimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Merkezi iklimlendirme sistemleri bakımcısı",
-    "code": "CERT-1901",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=600&h=400&fit=crop",
-    "description": "Merkezi iklimlendirme sistemleri bakımcısı eğitimiyle sertifika alın, İnci İSG ile profesyonel HVAC bakım uzmanı olun."
-  },
-  {
-    "id": "merkezi-iklimlendirme-sistemleri-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Merkezi İklimlendirme Sistemleri Elemanı",
-    "code": "CERT-1902",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
-    "description": "Merkezi iklimlendirme sistemleri elemanı eğitimiyle sertifika alın, İnci İSG ile büyük ölçekli sistemlerde uzmanlaşın."
-  },
-  {
-    "id": "oksi-asetilen-boru-kaynakcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Oksi-Asetilen Boru Kaynakçısı",
-    "code": "CERT-1903",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430267658-6d281d8bbc33?w=600&h=400&fit=crop",
-    "description": "Oksi-asetilen boru kaynakçısı eğitimiyle sertifika alın, İnci İSG ile gaz kaynağı alanında uzmanlık kazanın."
-  },
-  {
-    "id": "plastik-boru-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Plastik Boru Tesisatçısı",
-    "code": "CERT-1904",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&h=400&fit=crop",
-    "description": "Plastik boru tesisatçısı eğitimiyle sertifika alın, İnci İSG ile modern tesisat sistemlerinde uzmanlık kazanın."
-  },
-  {
-    "id": "sanayi-tipi-buhar-kazani-yakma",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sanayi Tipi Buhar Kazanı Yakma",
-    "code": "CERT-1905",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
-    "description": "Sanayi tipi buhar kazanı yakma eğitimiyle sertifika alın, İnci İSG ile güvenli ve verimli kazan işletmeciliği öğrenin."
-  },
-  {
-    "id": "sihhi-tesisat-armatur-montajcisi-ve-onarimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıhhi Tesisat Armatür Montajcısı Ve Onarımcısı",
-    "code": "CERT-1906",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisat armatür montajcısı ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile montaj ve bakım uzmanı olun."
-  },
-  {
-    "id": "sihhi-tesisat-cizim-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıhhi Tesisat Çizim Elemanı",
-    "code": "CERT-1907",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisat çizim elemanı eğitimiyle sertifika alın, İnci İSG ile teknik projelendirme ve çizim uzmanı olun."
-  },
-  {
-    "id": "sihhi-tesisat-gelistirme-ve-uyum-egitimi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıhhi Tesisat Geliştirme Ve Uyum Eğitimi",
-    "code": "CERT-1908",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisat geliştirme ve uyum eğitimiyle sertifika alın, İnci İSG ile güncel teknik ve standartlarda uzmanlaşın."
-  },
-  {
-    "id": "sihhi-tesisat-gunes-kollektoru-montaj-bakim-ve-onarimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıhhi Tesisat Güneş Kollektörü Montaj Bakım ve Onarımcısı",
-    "code": "CERT-1909",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisat güneş kollektörü montaj bakım ve onarımcısı eğitimiyle sertifika alın, İnci İSG ile yenilenebilir enerji uzmanı olun."
-  },
-  {
-    "id": "sihhi-tesisat-vitrifiye-montajcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıhhi Tesisat Vitrifiye Montajcısı",
-    "code": "CERT-1910",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisat vitrifiye montajcısı eğitimiyle sertifika alın, İnci İSG ile vitrifiye ürün montajında uzmanlık kazanın."
-  },
-  {
-    "id": "sihhi-tesisat-yangin-tesisatcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıhhi Tesisat Yangın Tesisatçısı",
-    "code": "CERT-1911",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisat yangın tesisatçısı eğitimiyle sertifika alın, İnci İSG ile güvenli yangın sistemlerinde profesyonel olun."
-  },
-  {
-    "id": "sihhi-tesisatci",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıhhi Tesisatçı",
-    "code": "CERT-1912",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&h=400&fit=crop",
-    "description": "Sıhhi tesisatçı eğitimiyle sertifika alın, İnci İSG ile su ve atık su sistemlerinde mesleki yeterliliğinizi belgeleyin."
-  },
-  {
-    "id": "sivi-yakitli-kalorifer-atescisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıvı Yakıtlı Kalorifer Ateşçisi",
-    "code": "CERT-1913",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=600&h=400&fit=crop",
-    "description": "Sıvı yakıtlı kalorifer ateşçisi eğitimiyle sertifika alın, İnci İSG ile kazan güvenliği ve işletme bilgisi kazanın."
-  },
-  {
-    "id": "sivi-yakitli-ve-dogalgaz-yakitli-kalorifer-atescisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Sıvı Yakıtlı Ve Doğalgaz Yakıtlı Kalorifer Ateşçisi",
-    "code": "CERT-1914",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&h=400&fit=crop",
-    "description": "Sıvı Yakıtlı Ve Doğalgaz Yakıtlı Kalorifer Ateşçisi eğitimiyle sertifika alın, İnci İSG ile güvenli işletme bilgisi edinin."
-  },
-  {
-    "id": "soguk-oda-montaj-ve-bakimcisi",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Soğuk oda montaj ve bakımcısı",
-    "code": "CERT-1915",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
-    "description": "Soğuk oda montaj ve bakımcısı eğitimiyle sertifika alın, İnci İSG ile soğutma sistemlerinde profesyonel olun."
-  },
-  {
-    "id": "sogutma-sistemleri-elemani",
-    "category": "insaat-teknolojisi-ozel-egitim",
-    "categoryName": "İnşaat Teknolojisi (Özel Eğitim)",
-    "title": "Soğutma Sistemleri Elemanı",
-    "code": "CERT-1916",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?w=600&h=400&fit=crop",
-    "description": "Soğutma sistemleri elemanı eğitimiyle sertifika alın, İnci İSG ile klima ve soğutma cihazlarında profesyonel olun."
-  },
-  {
-    "id": "okul-servis-arac-suruculeri-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Okul Servis Araç Sürücüleri Eğitimi",
-    "code": "CERT-1917",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=600&h=400&fit=crop",
-    "description": "Okul servis araç sürücüleri eğitimiyle sertifika alın, İnci İSG ile güvenli sürüş ve öğrenci taşımacılığında uzmanlaşın."
-  },
-  {
-    "id": "okul-tasitlari-rehber-personel-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Okul Taşıtları Rehber Personel Eğitimi",
-    "code": "CERT-1918",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
-    "description": "Okul taşıtları rehber personel eğitimiyle sertifika alın, İnci İSG ile öğrenci güvenliği ve iletişim becerilerinde uzmanlaşın."
   },
   {
     "id": "almanca-a1-seviyesi",
@@ -9081,8 +5011,8 @@ export const sertifikaCards = [
   },
   {
     "id": "teknik-ingilizce-gemi-yapimi",
-    "category": "gemi-yapimi",
-    "categoryName": "Gemi Yapımı",
+    "category": "yabanci-diller-ozel-egitim",
+    "categoryName": "Yabancı Diller (Özel Eğitim)",
     "title": "Teknik İngilizce (Gemi Yapımı)",
     "code": "CERT-1996",
     "duration": "120 Saat",
@@ -9520,36 +5450,6 @@ export const sertifikaCards = [
     "description": "İnci İSG Yaş Pasta Yapımı kursuyla profesyonel pasta tekniklerini öğrenin, uzaktan eğitimle belge ve sertifika kazanın."
   },
   {
-    "id": "bina-ve-site-yoneticiligi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Bina ve Site Yöneticiliği",
-    "code": "CERT-2040",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&h=400&fit=crop",
-    "description": "İnci İSG Bina ve Site Yöneticiliği kursuyla yönetim becerileri öğrenin, uzaktan eğitimle belge ve sertifika alın."
-  },
-  {
-    "id": "avukat-katipligi-egitimi",
-    "category": "konaklama-ve-seyahat-hizmetleri",
-    "categoryName": "Konaklama ve Seyahat Hizmetleri",
-    "title": "Avukat Katipliği Eğitimi",
-    "code": "CERT-2041",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&h=400&fit=crop",
-    "description": "Avukat katipliği nedir, nasıl olunur? İnci İSG’nin 2026 Avukat Katipliği Eğitimiyle UYAP/UETS ve icra uygulamalarını öğrenin; sertifika, portföy ve mülakat desteği alın."
-  },
-  {
-    "id": "isitma-ve-dogal-gaz-ic-tesisat-yapim-personeli-seviye-3",
-    "category": "elektrik-elektronik-teknolojisi",
-    "categoryName": "Elektrik Elektronik Teknolojisi",
-    "title": "Isıtma ve Doğal Gaz İç Tesisat Yapım Personeli Seviye 3",
-    "code": "CERT-2042",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=600&h=400&fit=crop",
-    "description": "İnci İSG, Isıtma ve Doğal Gaz İç Tesisat Yapım Personeli Seviye 3 belgesi ile enerji sektöründe profesyonel yeterlilik sağlar."
-  },
-  {
     "id": "su-yalitimcisi-seviye-3",
     "category": "insaat-sektoru",
     "categoryName": "İnşaat Sektörü",
@@ -9598,16 +5498,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
     "description": "İnci İSG Plastik Profil Üretim Operatörü (Ekstrüzyon) Seviye 3belgesi, adayların bilgi ve mesleki yeterliliklerini sınavla resmi olarak belgelendirir."
-  },
-  {
-    "id": "plastik-kaynakcisi-seviye-3",
-    "category": "makine-teknolojisi",
-    "categoryName": "Makine Teknolojisi",
-    "title": "Plastik Kaynakçısı Seviye 3",
-    "code": "CERT-2048",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
-    "description": "İnci İSG Plastik Kaynakçısı Seviye 3 belgesi, adayların bilgi, beceri ve yetkinliklerini ölçerek resmi olarak belgelendirir."
   },
   {
     "id": "plastik-enjeksiyon-uretim-elemani-seviye-4",
@@ -9760,16 +5650,6 @@ export const sertifikaCards = [
     "description": "İnci İSG, Makine Bakımcı Seviye 3 belgesi ile makine bakım-onarım alanında yetkin, profesyonel ve güvenilir personel yetiştirir."
   },
   {
-    "id": "koprulu-vinc-operatoru-seviye-3",
-    "category": "metal-sektoru",
-    "categoryName": "Metal Sektörü",
-    "title": "Köprülü Vinç Operatörü Seviye 3",
-    "code": "CERT-2064",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
-    "description": "İnci İSG, Köprülü Vinç Operatörü Seviye 3 belgesi ile vinç kullanımında güvenli, yetkin ve profesyonel operatör yetiştirir."
-  },
-  {
     "id": "kaynak-operatoru-seviye-4",
     "category": "metal-sektoru",
     "categoryName": "Metal Sektörü",
@@ -9888,26 +5768,6 @@ export const sertifikaCards = [
     "duration": "120 Saat",
     "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
     "description": "İnci İSG, Çelik Kaynakçısı Seviye 3 belgelendirme programıyla kaynakçıların bilgi, beceri ve yeterliliklerini resmi olarak belgelemektedir."
-  },
-  {
-    "id": "cagri-merkezi-takim-lideri-seviye-5",
-    "category": "metal-sektoru",
-    "categoryName": "Metal Sektörü",
-    "title": "Çağrı Merkezi Takım Lideri Seviye 5",
-    "code": "CERT-2077",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
-    "description": "İnci İSG, Çağrı Merkezi Takım Lideri Seviye 5 programıyla liderlik becerilerini geliştiren güvenilir belgelendirme hizmeti sunmaktadır."
-  },
-  {
-    "id": "cagri-merkezi-musteri-temsilcisi-seviye-4",
-    "category": "metal-sektoru",
-    "categoryName": "Metal Sektörü",
-    "title": "Çağrı Merkezi Müşteri Temsilcisi Seviye 4",
-    "code": "CERT-2078",
-    "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&h=400&fit=crop",
-    "description": "İnci İSG, Çağrı Merkezi Müşteri Temsilcisi Seviye 4 belgesiyle iletişim becerilerini ölçen güvenilir belgelendirme hizmeti sunmaktadır."
   },
   {
     "id": "betoncu-seviye-3",
