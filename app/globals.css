@@ -1,5 +1,10 @@
 @import 'tailwindcss';
 
+/* Tailwind v4: dark: varyantını prefers-color-scheme yerine
+   <html data-theme="dark"> seçicisine bağla (tailwind.config.js darkMode v4'te okunmaz) */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+
 /* CSS Değişkenlerini kaldırmanıza gerek yok ama bunları
    dark mod için özelleştirelim */
 :root {

@@ -134,18 +134,11 @@ const Header = () => {
 
                         {/* Alt */}
                         <div>
-                          <div className="flex items-center justify-between">
+                          <div className="flex items-center justify-end">
                             <span className="text-xs text-muted-foreground">
                               <span className="font-semibold text-foreground">{MEGA_MENU_CATEGORIES.length}</span> kategoride{' '}
                               <span className="font-semibold text-foreground">{SERTIFIKA_SAYISI.toLocaleString('tr-TR')}</span> eğitim
                             </span>
-                            <Link
-                              href="/sertifikalar"
-                              onClick={() => setIsMegaMenuOpen(false)}
-                              className="text-xs text-muted-foreground hover:text-foreground transition-colors"
-                            >
-                              Aradığınız kategoriyi bulamadınız mı?
-                            </Link>
                           </div>
                         </div>
                       </div>
