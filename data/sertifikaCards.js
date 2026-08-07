@@ -46,7 +46,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Teknik Servisi",
     "code": "CERT-1009",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
     "description": "\"Bilgisayar teknik servisi, donanım ve yazılım sorunlarını çözerek bilgisayarların verimli çalışmasını sağlamak için profesyonel hizmet sunar.\""
   },
   {
@@ -66,7 +66,7 @@ export const sertifikaCards = [
     "title": "Veri Tabanı Programcılığı",
     "code": "CERT-1011",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=400&fit=crop",
     "description": "\"Veri tabanı programcılığı, verilerin düzenli bir şekilde saklanması, işlenmesi ve sorgulanmasını sağlayan yazılım geliştirme uzmanlığıdır.\""
   },
   {
@@ -86,7 +86,7 @@ export const sertifikaCards = [
     "title": "Asansör Sistemleri",
     "code": "CERT-1020",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
     "description": "Asansör sistemleri, güvenli ve verimli taşıma çözümleri sunar. Sertifikalı ürünler ile modern binalarda konfor ve güvenlik sağlar."
   },
   {
@@ -96,7 +96,7 @@ export const sertifikaCards = [
     "title": "Bobinaj",
     "code": "CERT-1021",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545193329-4a052e14eb8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
     "description": "Bobinajcı, elektrik motorlarının bakım ve onarımıyla birlikte transformatörlerin üretimini gerçekleştirme becerilerini kazandırmayı hedefleyen bir eğitim ve öğretim alanıdır."
   },
   {
@@ -106,7 +106,7 @@ export const sertifikaCards = [
     "title": "Büro Makineleri Teknik Servisi",
     "code": "CERT-1022",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
     "description": "Büro makineleri teknik servisi, fotokopi, yazıcı, tarayıcı gibi cihazların bakım, onarım ve kurulum işlemlerini profesyonel olarak sağlar."
   },
   {
@@ -116,7 +116,7 @@ export const sertifikaCards = [
     "title": "Elektrik Tesisatı ve Pano",
     "code": "CERT-1023",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
     "description": "Elektrik Tesisatı ve Pano Montörlüğü, elektrik sistemlerinin kurulumu, onarımı ve pano montajı için uzmanlık gerektiren bir alandır."
   },
   {
@@ -126,7 +126,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Bakım Onarım",
     "code": "CERT-1025",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
     "description": "Endüstriyel bakım onarım, tesis ve makinelerin düzenli çalışmasını sağlamak için yapılan profesyonel bakım ve onarım hizmetleridir."
   },
   {
@@ -146,7 +146,7 @@ export const sertifikaCards = [
     "title": "Güvenlik Sistemleri",
     "code": "CERT-1027",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=600&h=400&fit=crop",
     "description": "Güvenlik sistemleri, hırsızlık, yangın gibi tehlikelere karşı koruma sağlayan, kamera ve alarm sistemleri içeren güvenlik çözümleridir."
   },
   {
@@ -166,7 +166,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Kontrol",
     "code": "CERT-1029",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
     "description": "Endüstriyel kontrol sistemleri, otomasyon süreçlerini optimize eden, sertifikalı ekipmanlarla desteklenen, güvenilir ve verimli çözümler sunar."
   },
   {
@@ -186,7 +186,7 @@ export const sertifikaCards = [
     "title": "Gemi İnşa",
     "code": "CERT-1031",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&h=400&fit=crop",
     "description": "Gemi inşa, deniz araçlarının tasarımı, yapımı ve bakımını kapsayan mühendislik ve el işçiliği gerektiren bir sektördür"
   },
   {
@@ -196,7 +196,7 @@ export const sertifikaCards = [
     "title": "Yat İnşa",
     "code": "CERT-1032",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=600&h=400&fit=crop",
     "description": "Yat inşa, lüks deniz araçlarının tasarımı, üretimi ve bakımını içeren, estetik ve mühendislik odaklı bir sektördür."
   },
   {
@@ -206,7 +206,7 @@ export const sertifikaCards = [
     "title": "Gemi Donatım",
     "code": "CERT-1033",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1605745341112-85968b19335b?w=600&h=400&fit=crop",
     "description": "Gemi donatım, deniz araçlarının seyir, güvenlik ve konfor için gerekli ekipmanlarla donatılmasını ve bakımını içerir."
   },
   {
@@ -226,7 +226,7 @@ export const sertifikaCards = [
     "title": "Bitkisel Yağ Üretimi",
     "code": "CERT-1035",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&h=400&fit=crop",
     "description": "Bitkisel yağ üretimi sertifikası, bitkisel yağ üretimi sürecine dair teknik bilgileri ve kalite standartlarını belgeleyen bir eğitim programıdır."
   },
   {
@@ -236,7 +236,7 @@ export const sertifikaCards = [
     "title": "Çay İşleme",
     "code": "CERT-1036",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1593335663758-4da70281a917?w=600&h=400&fit=crop",
     "description": "Çay işleme, çay yapraklarının hasat edilmesinden paketlenmesine kadar olan süreçleri kapsayan, kaliteyi artırmaya yönelik bir işlemdir."
   },
   {
@@ -246,7 +246,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Et İşleme",
     "code": "CERT-1037",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&h=400&fit=crop",
     "description": "Kasaplık Belgesi, hayvanların kesiminden et ürünlerinin hazırlanması, işlenmesi ve paketlenmesine kadar tüm süreçleri iş sağlığı ve güvenliği kurallarına uygun şekilde gerçekleştiren bireylere verilen bir yetkinlik belgesidir."
   },
   {
@@ -256,7 +256,7 @@ export const sertifikaCards = [
     "title": "Hububat İşleme",
     "code": "CERT-1038",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop",
     "description": "Hububat işleme, tahılların temizlenmesi, ayrıştırılması ve son tüketiciye uygun hale getirilmesi için yapılan endüstriyel işlemleri kapsar."
   },
   {
@@ -266,7 +266,7 @@ export const sertifikaCards = [
     "title": "Sebze ve Meyve İşleme",
     "code": "CERT-1039",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&h=400&fit=crop",
     "description": "Sebze ve Meyve İşleme , taze ürünlerin işlenerek saklanması, ambalajlanması ve tüketiciye sunulması sürecini kapsar."
   },
   {
@@ -276,7 +276,7 @@ export const sertifikaCards = [
     "title": "Su Ürünleri İşleme",
     "code": "CERT-1040",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop",
     "description": "Su ürünleri işleme, balık ve deniz ürünlerinin işlenmesi, saklanması ve tüketiciye sunulması işlemlerini kapsar."
   },
   {
@@ -286,7 +286,7 @@ export const sertifikaCards = [
     "title": "Süt İşleme",
     "code": "CERT-1041",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1763685805275-1845419c01a1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&h=400&fit=crop",
     "description": "Süt işleme, taze sütün sağlıklı ve uzun süre saklanabilmesi için çeşitli işleme yöntemleriyle dönüştürülmesidir."
   },
   {
@@ -296,7 +296,7 @@ export const sertifikaCards = [
     "title": "Şekerleme ve Çikolata Üretim",
     "code": "CERT-1042",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=600&h=400&fit=crop",
     "description": "Şekerleme ve çikolata üretimi, kaliteli malzemelerle tatlı ve çikolatalı ürünlerin hijyenik koşullarda üretilmesini sağlar."
   },
   {
@@ -306,7 +306,7 @@ export const sertifikaCards = [
     "title": "Zeytin İşleme",
     "code": "CERT-1043",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1502741224143-90386d7f8c82?w=600&h=400&fit=crop",
     "description": "Zeytin işleme, zeytinlerin hasattan sofraya gelene kadar temizleme, fermantasyon, paketleme süreçlerini içeren bir üretim yöntemidir."
   },
   {
@@ -316,7 +316,7 @@ export const sertifikaCards = [
     "title": "Gıda İşleme",
     "code": "CERT-1044",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&h=400&fit=crop",
     "description": "Gıda sertifikası, gıda ürünlerinin belirlenen hijyen koşullarına ve saklama standartlarına uygunluğunu belgelendiren resmi bir evraktır. Bu belge, ürünlerin market raflarına çıkmadan önce gerekli düzenlemelere uygun şekilde denetlendiğini ve güvenli bir şekilde sunulduğunu kanıtlar."
   },
   {
@@ -326,7 +326,7 @@ export const sertifikaCards = [
     "title": "Harita Kadastro",
     "code": "CERT-1051",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=600&h=400&fit=crop",
     "description": "Harita kadastro ustalık ve kalfalık belgesi almak, harita mühendisliği ve kadastro alanında yetkinliğinizi artırır. Meslek hayatınızda önemli bir adım atmanızı sağlar."
   },
   {
@@ -336,7 +336,7 @@ export const sertifikaCards = [
     "title": "Haritacılık",
     "code": "CERT-1052",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=600&h=400&fit=crop",
     "description": "Haritacılık ustalık ve kalfalık belgesi almak, harita mühendisliği alanında mesleki yeterlilik ve uzmanlık sağlar. Bu belgelerle kariyerinizi daha profesyonel bir şekilde yönetebilirsiniz."
   },
   {
@@ -356,7 +356,7 @@ export const sertifikaCards = [
     "title": "Tıbbi Sekreterlik",
     "code": "CERT-1054",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
     "description": "Tıbbi sekreterlik sertifikası nasıl alınır? Tıbbi sekreterlik maaşları ne kadar? Tıbbi sekreter olmak için gereken şartlar neler. Hemen Başvuru Yap"
   },
   {
@@ -366,7 +366,7 @@ export const sertifikaCards = [
     "title": "Kadastroculuk",
     "code": "CERT-1055",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=600&h=400&fit=crop",
     "description": "Kadastroculuk ustalık ve kalfalık belgesi almak, kadastro mühendisliği alanındaki profesyonelliğinizi artırır. Mesleki kariyerinizi şekillendirmek için bu belgeleri edinmek önemlidir."
   },
   {
@@ -376,7 +376,7 @@ export const sertifikaCards = [
     "title": "Arıcılık",
     "code": "CERT-1056",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1586779161164-d89795b07b71?w=600&h=400&fit=crop",
     "description": "Arıcılık ustalık ve kalfalık belgesi almak, arıcılık alanında profesyonel çalışabilmenizi sağlar. Bu belgeler, sektördeki kariyerinizi güçlendiren önemli belgelerdir."
   },
   {
@@ -386,7 +386,7 @@ export const sertifikaCards = [
     "title": "Büyükbaş Hayvan Yetiştiriciliği",
     "code": "CERT-1057",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
     "description": "Büyükbaş hayvan yetiştiriciliği ustalık ve kalfalık belgesi almak, sektörde uzmanlaşmanızı sağlar. Bu belgeler, kariyerinizi ileriye taşıyacak önemli adımlardır."
   },
   {
@@ -396,7 +396,7 @@ export const sertifikaCards = [
     "title": "Hasta Bakıcı ve Yaşlı Bakımı",
     "code": "CERT-1058",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1571772996211-2f02c9727629?w=600&h=400&fit=crop",
     "description": "Hasta Bakıcı ve Yaşlı Bakımı sertifikasıyla kariyerinizi şekillendirin! Online kurs ile yaşlı ve hasta bakımı alanında uzmanlaşın, sertifikanızı alın."
   },
   {
@@ -406,7 +406,7 @@ export const sertifikaCards = [
     "title": "Hasta Kayıt Kabul",
     "code": "CERT-1059",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
     "description": "Hasta Kayıt Kabul Sertifikası ile tıbbi sekreter olabilirsiniz. Online eğitim fırsatıyla devlet ve özel hastanelerde çalışabilirsiniz. Hemen Başvuru Yap"
   },
   {
@@ -416,7 +416,7 @@ export const sertifikaCards = [
     "title": "Küçükbaş Hayvan Yetiştiriciliği",
     "code": "CERT-1061",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1527153818091-1a9638521e2a?w=600&h=400&fit=crop",
     "description": "Küçükbaş Hayvan Yetiştiriciliği : Mera yönetimi ve küçükbaş hayvancılık eğitimi ile sertifikalı üretici olun. Verimli otlak yönetimiyle koyun ve keçi yetiştiriciliğinde uzmanlaşın."
   },
   {
@@ -426,7 +426,7 @@ export const sertifikaCards = [
     "title": "Kanatlı Hayvan Yetiştiriciliği",
     "code": "CERT-1062",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&h=400&fit=crop",
     "description": "Kanatlı hayvan yetiştiriciliği eğitimi ile doğal üretim tekniklerini öğrenin. Verimli mera yönetimiyle organik yumurta ve et üretimini keşfedin."
   },
   {
@@ -436,7 +436,7 @@ export const sertifikaCards = [
     "title": "Ev ve Süs Hayvanları",
     "code": "CERT-1063",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600&h=400&fit=crop",
     "description": "Ev ve süs hayvanları yetiştiriciliği eğitimi ile profesyonel bakım ve besleme tekniklerini öğrenin. Sağlıklı ve mutlu evcil hayvanlar yetiştirin."
   },
   {
@@ -446,7 +446,7 @@ export const sertifikaCards = [
     "title": "Evcil Hayvan Kuaförlüğü",
     "code": "CERT-1064",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?w=600&h=400&fit=crop",
     "description": "Evcil hayvan kuaförlüğü kursu ile tıraş, tırnak bakımı, banyo ve stil tekniklerini öğrenerek sertifikalı pet kuaförü olun. Hemen Kayıt Olmak için Tıklayınız."
   },
   {
@@ -456,7 +456,7 @@ export const sertifikaCards = [
     "title": "Beton Çimento Ve Zemin Teknolojisi",
     "code": "CERT-1066",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=600&h=400&fit=crop",
     "description": "Beton Çimento Ve Zemin Teknolojisi kursu ile inşaat sektörüne yönelik dayanıklı, uzun ömürlü ve güvenli yapı tekniklerini keşfedin."
   },
   {
@@ -466,7 +466,7 @@ export const sertifikaCards = [
     "title": "Betonarme Kalıp Sistemleri",
     "code": "CERT-1067",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&h=400&fit=crop",
     "description": "Betonarme Kalıp Sistemleri kursu ile dayanıklı, güvenli yapıların temel unsurlarını öğrenerek profesyonel inşaat projelerinde uzmanlaşın."
   },
   {
@@ -476,7 +476,7 @@ export const sertifikaCards = [
     "title": "Cephe Sistemleri Ve Pvc Doğrama",
     "code": "CERT-1068",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
     "description": "Cephe sistemleri ve PVC doğrama kursu ile bina yalıtımı, pencere ve kapı montajı konusunda profesyonel bilgi edinin."
   },
   {
@@ -486,7 +486,7 @@ export const sertifikaCards = [
     "title": "Çatı Sistemleri",
     "code": "CERT-1069",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430267658-6d281d8bbc33?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
     "description": "Çatı sistemleri kursu ile su yalıtımı, izolasyon ve dayanıklı çatı yapım tekniklerini öğrenerek sektörde uzmanlaşabilirsiniz."
   },
   {
@@ -496,7 +496,7 @@ export const sertifikaCards = [
     "title": "Çelik Yapı Teknik Ressamlığı",
     "code": "CERT-1070",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
     "description": "Çelik yapı teknik ressamlığı kursu ile Autocad ve BIM tabanlı çizim tekniklerini öğrenerek çelik konstrüksiyon projelerinde profesyonel olabilirsiniz."
   },
   {
@@ -506,7 +506,7 @@ export const sertifikaCards = [
     "title": "İç Mekân Teknik Ressamlığı",
     "code": "CERT-1071",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=600&h=400&fit=crop",
     "description": "İç mekân teknik ressamlığı kursu ile iç mimari projelerde teknik çizim yapmayı öğrenerek kariyerinizde uzmanlaşabilirsiniz."
   },
   {
@@ -516,7 +516,7 @@ export const sertifikaCards = [
     "title": "Mimari Restorasyon",
     "code": "CERT-1072",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=600&h=400&fit=crop",
     "description": "Mimari restorasyon kursu ile tarihi yapıların restorasyon tekniklerini öğrenerek kültürel mirasın korunmasına katkıda bulunabilirsiniz."
   },
   {
@@ -526,7 +526,7 @@ export const sertifikaCards = [
     "title": "Mimari Yapı Teknik Ressamlığı",
     "code": "CERT-1073",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=600&h=400&fit=crop",
     "description": "Mimari yapı teknik ressamlığı kursu ile bina projeleri, teknik çizimler ve inşaat detayları hakkında profesyonel bilgi edinin."
   },
   {
@@ -536,7 +536,7 @@ export const sertifikaCards = [
     "title": "Statik Yapı Teknik Ressamlığı",
     "code": "CERT-1074",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
     "description": "Statik yapı teknik ressamlığı kursu ile yapıların güvenliği için gerekli hesaplamalar ve çizim tekniklerini öğrenebilirsiniz."
   },
   {
@@ -546,7 +546,7 @@ export const sertifikaCards = [
     "title": "Yapı Dekorasyonu",
     "code": "CERT-1075",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&h=400&fit=crop",
     "description": "Yapı dekorasyonu kursu ile iç ve dış mekanlarda tasarım, renk seçimi ve malzeme kullanımını öğrenerek uzmanlaşabilirsiniz."
   },
   {
@@ -556,7 +556,7 @@ export const sertifikaCards = [
     "title": "Yapı Duvar ve Sıva Sistemleri",
     "code": "CERT-1076",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
     "description": "Yapı duvar ve sıva sistemleri kursu ile duvar yapımı, sıva teknikleri ve malzeme seçimlerini öğrenerek uzmanlaşabilirsiniz."
   },
   {
@@ -566,7 +566,7 @@ export const sertifikaCards = [
     "title": "Yapı Yalıtımı",
     "code": "CERT-1077",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&h=400&fit=crop",
     "description": "Yapı yalıtımı eğitimi ile binaların ısı, su ve ses yalıtımını sağlayarak enerji verimliliği ve konforu artırabilirsiniz."
   },
   {
@@ -576,7 +576,7 @@ export const sertifikaCards = [
     "title": "Yapı Yüzey Kaplama",
     "code": "CERT-1078",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1599031628962-1f6755a3b1b5?w=600&h=400&fit=crop",
     "description": "Yapı yüzey kaplama kursu ile duvar ve zemin kaplamaları, malzeme seçimleri ve uygulama tekniklerini öğrenerek uzmanlaşabilirsiniz."
   },
   {
@@ -586,7 +586,7 @@ export const sertifikaCards = [
     "title": "Betonarme Yapı Sistemleri",
     "code": "CERT-1079",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1669170930713-f7c778496177?w=600&h=400&fit=crop",
     "description": "Betonarme yapı sistemleri kursu ile taşıyıcı sistemler, betonarme uygulamaları ve inşaat tekniklerini öğrenerek sektörde uzmanlaşabilirsiniz."
   },
   {
@@ -596,7 +596,7 @@ export const sertifikaCards = [
     "title": "Restorasyon",
     "code": "CERT-1080",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=600&h=400&fit=crop",
     "description": "Restorasyon kursu ile tarihi yapıları koruma, onarma ve restore etme teknikleri ile kültürel mirası yaşatabilirsiniz."
   },
   {
@@ -606,7 +606,7 @@ export const sertifikaCards = [
     "title": "Yapı İç Mekân Dekorasyonu",
     "code": "CERT-1081",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=600&h=400&fit=crop",
     "description": "İç mekan dekorasyonu kursu ile tasarım, renk, malzeme seçimi ve düzenleme teknikleriyle modern ve şık mekanlar yaratabilirsiniz."
   },
   {
@@ -616,7 +616,7 @@ export const sertifikaCards = [
     "title": "Ön Büro",
     "code": "CERT-1087",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
     "description": "Ön Büro kursu, otelcilik sektöründe müşteri karşılamadan faturalamaya kadar tüm süreçleri yönetme yetkinliği sağlar."
   },
   {
@@ -626,7 +626,7 @@ export const sertifikaCards = [
     "title": "Kat Hizmetleri",
     "code": "CERT-1088",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=600&h=400&fit=crop",
     "description": "Kat hizmetleri kursu, temizlik, düzen, odaların bakımı ve müşteri memnuniyetini sağlama süreçleri hakkında uzmanlık kazandırır."
   },
   {
@@ -636,7 +636,7 @@ export const sertifikaCards = [
     "title": "Operasyon",
     "code": "CERT-1089",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=600&h=400&fit=crop",
     "description": "Operasyon kursu, otelcilik sektöründe hizmetlerin yönetimi, verimlilik, süreçlerin iyileştirilmesi ve takım çalışması konularında uzmanlık kazandırır."
   },
   {
@@ -646,7 +646,7 @@ export const sertifikaCards = [
     "title": "Rezervasyon",
     "code": "CERT-1090",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558959357-685f9c7ace7b?w=600&h=400&fit=crop",
     "description": "Rezervasyon kursu, otelcilik sektöründe rezervasyon yönetimi, sistem kullanımı ve müşteri memnuniyetini artırma konularında uzmanlık kazandırır."
   },
   {
@@ -656,7 +656,7 @@ export const sertifikaCards = [
     "title": "Kuru Temizleme",
     "code": "CERT-1091",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1528747045269-390fe33c19f2?w=600&h=400&fit=crop",
     "description": "Kuru temizleme kursu, giysi ve tekstil ürünlerini temizleme, bakım yapma ve onarma konularında profesyonel bilgi sağlar."
   },
   {
@@ -666,7 +666,7 @@ export const sertifikaCards = [
     "title": "Halı Temizleme Ve Bakım",
     "code": "CERT-1092",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=600&h=400&fit=crop",
     "description": "Halı temizleme ve bakım kursu, halıların temizlenmesi, bakım teknikleri ve uzun ömürlü kullanımı için gerekli becerileri kazandırır."
   },
   {
@@ -676,7 +676,7 @@ export const sertifikaCards = [
     "title": "Takı İmalatı",
     "code": "CERT-1093",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&h=400&fit=crop",
     "description": "Takı imalatı kursu, takı tasarımı, üretim teknikleri, malzeme kullanımı ve takıların bakımı konusunda profesyonel bilgi sağlar."
   },
   {
@@ -686,7 +686,7 @@ export const sertifikaCards = [
     "title": "Vitrin Kuyumculuğu",
     "code": "CERT-1094",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=600&h=400&fit=crop",
     "description": "Vitrin kuyumculuğu kursu, mücevherat vitrinlerinin etkili şekilde düzenlenmesi, estetik sunum ve müşteri çekme tekniklerini öğretir."
   },
   {
@@ -696,7 +696,7 @@ export const sertifikaCards = [
     "title": "Değerli Yarı Değerli Taş",
     "code": "CERT-1095",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&h=400&fit=crop",
     "description": "Değerli yarı değerli taş işleme kursu, taşları işleme, şekillendirme ve takıya dönüştürme konusunda uzmanlık kazandırır."
   },
   {
@@ -706,7 +706,7 @@ export const sertifikaCards = [
     "title": "Bilgisayarlı Makine İmalatı",
     "code": "CERT-1096",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1550850839-8dc894ed385a?w=600&h=400&fit=crop",
     "description": "Bilgisayarlı makine imalatı kursu, CNC tezgahları, CAD/CAM yazılımları ve otomasyon teknolojileri ile hassas üretim tekniklerini öğretir."
   },
   {
@@ -716,7 +716,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Kalıp",
     "code": "CERT-1097",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
     "description": "Endüstriyel kalıp kursu, plastik, metal ve kompozit malzemeler için kalıp üretimi, CNC işleme ve tasarım süreçlerini öğretir."
   },
   {
@@ -726,7 +726,7 @@ export const sertifikaCards = [
     "title": "Makine Bakım Onarım",
     "code": "CERT-1098",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
     "description": "Makine bakım onarım kursu, üretim tesislerinde makinelerin verimli çalışmasını sağlamak için bakım, arıza analizi ve tamir süreçlerini öğretir."
   },
   {
@@ -736,7 +736,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Destekli Makine",
     "code": "CERT-1099",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
     "description": "Bilgisayar destekli makine ressamlığı kursu, CAD/CAM programlarıyla teknik resim, makine tasarımı ve mühendislik çizimleri hazırlamayı sağlar."
   },
   {
@@ -746,7 +746,7 @@ export const sertifikaCards = [
     "title": "Mermer İşleme",
     "code": "CERT-1100",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=600&h=400&fit=crop",
     "description": "Mermer işleme kursu, mermer ve doğal taşların kesimi, cilalanması, yüzey işlemleri ve dekoratif uygulamaları konusunda uzmanlık kazandırır."
   },
   {
@@ -756,7 +756,7 @@ export const sertifikaCards = [
     "title": "Bilgisayarlı Endüstriyel Modelleme",
     "code": "CERT-1101",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&h=400&fit=crop",
     "description": "Bilgisayarlı Endüstriyel Modelleme kursu, üretim ve tasarım sektörlerinde kullanılan 3D modelleme ve mühendislik simülasyonları üzerine uzmanlık sağlar."
   },
   {
@@ -766,7 +766,7 @@ export const sertifikaCards = [
     "title": "Değirmencilik",
     "code": "CERT-1102",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=600&h=400&fit=crop",
     "description": "Değirmencilik kursu, un ve yem üretimi için tahıl işleme, öğütme teknikleri ve modern değirmen teknolojilerini kapsar."
   },
   {
@@ -776,7 +776,7 @@ export const sertifikaCards = [
     "title": "Anahtarcılık ve Çilingirlik",
     "code": "CERT-1103",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=600&h=400&fit=crop",
     "description": "Anahtarcılık ve çilingirlik kursu, kilit açma teknikleri, anahtar yapımı, güvenlik sistemleri kurulumu ve bakımını kapsar."
   },
   {
@@ -786,7 +786,7 @@ export const sertifikaCards = [
     "title": "Saat Tamirciliği",
     "code": "CERT-1104",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=600&h=400&fit=crop",
     "description": "Saat tamirciliği kursu, analog ve dijital saatlerin onarımı, bakım teknikleri ve mekanik sistemlerin tamiri üzerine uzmanlık sağlar."
   },
   {
@@ -796,7 +796,7 @@ export const sertifikaCards = [
     "title": "Baskı Öncesi",
     "code": "CERT-1105",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1642480532034-362360552ccb?w=600&h=400&fit=crop",
     "description": "Baskı öncesi kursu, grafik tasarım, renk yönetimi, dosya düzenleme ve basım için hazırlık aşamalarını kapsar."
   },
   {
@@ -806,7 +806,7 @@ export const sertifikaCards = [
     "title": "Ofset Baskı",
     "code": "CERT-1106",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?w=600&h=400&fit=crop",
     "description": "Ofset baskı kursu, baskı makineleri, renk yönetimi ve kaliteli baskı üretimi konularında uzmanlık sağlar ve uygulamalı eğitim sunar."
   },
   {
@@ -816,7 +816,7 @@ export const sertifikaCards = [
     "title": "Flekso Baskı",
     "code": "CERT-1107",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1503694978374-8a2fa686963a?w=600&h=400&fit=crop",
     "description": "Flekso baskı kursu, baskı makineleri, mürekkep yönetimi, renk kontrolü ve yüksek verimli baskı üretimi konularında eğitim verir."
   },
   {
@@ -826,7 +826,7 @@ export const sertifikaCards = [
     "title": "Tifdruk Baskı",
     "code": "CERT-1108",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1693031630369-bd429a57f115?w=600&h=400&fit=crop",
     "description": "Tifdruk baskı kursu, tifdruk baskı makineleri, renk yönetimi ve yüksek kaliteli baskı üretimi konularında uzmanlık kazandırır."
   },
   {
@@ -836,7 +836,7 @@ export const sertifikaCards = [
     "title": "Serigrafi Baskı",
     "code": "CERT-1109",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=600&h=400&fit=crop",
     "description": "Serigrafi baskı kursu, farklı yüzeylerde mürekkep transferi, şablon hazırlama ve baskı teknikleri hakkında derinlemesine bilgi sağlar."
   },
   {
@@ -846,7 +846,7 @@ export const sertifikaCards = [
     "title": "Tampon Baskı",
     "code": "CERT-1110",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
     "description": "Tampon baskı kursu, küçük yüzeylerde renkli ve detaylı baskı yapmak için tampon baskı makinelerinin kullanımını öğretir."
   },
   {
@@ -856,7 +856,7 @@ export const sertifikaCards = [
     "title": "Dijital Baskı",
     "code": "CERT-1111",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1706895040634-62055892cbbb?w=600&h=400&fit=crop",
     "description": "Dijital baskı kursu, dijital baskı makineleriyle hızlı, kaliteli ve verimli baskılar üretmeyi öğreten kapsamlı bir eğitim sunar."
   },
   {
@@ -866,7 +866,7 @@ export const sertifikaCards = [
     "title": "Baskı Sonrası",
     "code": "CERT-1112",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581079289196-67865ea83118?w=600&h=400&fit=crop",
     "description": "Baskı sonrası eğitimi, baskı sonrası işlemleri öğrenmeyi ve kaliteli baskı sonuçları elde etmeyi sağlayan kapsamlı bir eğitimdir."
   },
   {
@@ -876,7 +876,7 @@ export const sertifikaCards = [
     "title": "Serigrafi Ve Tampon Baskı",
     "code": "CERT-1113",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1663433567177-9f94be0bff4c?w=600&h=400&fit=crop",
     "description": "Serigrafi ve tampon baskı eğitimi, farklı yüzeylerde yüksek kaliteli baskılar yapmak için kullanılan teknikleri öğretir."
   },
   {
@@ -886,7 +886,7 @@ export const sertifikaCards = [
     "title": "Kaynaçılık",
     "code": "CERT-1114",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop",
     "description": "Kaynaçılık eğitimi, kaynak makineleri ve tekniklerini kullanarak metal birleştirme işlemlerini doğru ve güvenli şekilde yapmayı öğretir."
   },
   {
@@ -896,7 +896,7 @@ export const sertifikaCards = [
     "title": "Metal Doğrama",
     "code": "CERT-1115",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
     "description": "Metal doğrama eğitimi, metal şekillendirme ve işleme tekniklerini öğretir. Endüstriyel uygulamalarda kaliteli üretim için gereklidir."
   },
   {
@@ -906,7 +906,7 @@ export const sertifikaCards = [
     "title": "Çelik Konstrüksiyon",
     "code": "CERT-1116",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1609627016501-b862497c7294?w=600&h=400&fit=crop",
     "description": "Çelik konstrüksiyon eğitimi, çelik yapılar tasarlama, montaj ve güvenlik standartlarını öğretir. Endüstriyel ve mimari projelerde kullanılır."
   },
   {
@@ -916,7 +916,7 @@ export const sertifikaCards = [
     "title": "Isıl İşlem",
     "code": "CERT-1117",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&h=400&fit=crop",
     "description": "Isıl işlem eğitimi, metal sertleştirme, yumuşatma, dayanıklılık ve yüzey özelliklerini geliştirmek için uygulanan teknikleri öğretir."
   },
   {
@@ -926,7 +926,7 @@ export const sertifikaCards = [
     "title": "Avizecilik",
     "code": "CERT-1118",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=600&h=400&fit=crop",
     "description": "Avizecilik eğitimi, avize tasarımı, üretim teknikleri, elektrik bağlantıları ve dekoratif aydınlatma trendleri hakkında bilgi sunar."
   },
   {
@@ -936,7 +936,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Reklam Tabelacılığı",
     "code": "CERT-1119",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1721761961411-8d9a578eb246?w=600&h=400&fit=crop",
     "description": "Endüstriyel reklam tabelacılığı eğitimi, tabela tasarımı, üretim teknikleri, dijital baskı ve montaj süreçlerini öğretir."
   },
   {
@@ -946,7 +946,7 @@ export const sertifikaCards = [
     "title": "Karosercilik",
     "code": "CERT-1120",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
     "description": "Karosercilik eğitimi, araç karoserlerinin onarımı, bakımı, yeni karoser montajı ve boyama işlemleri konusunda beceri kazandırır."
   },
   {
@@ -956,7 +956,7 @@ export const sertifikaCards = [
     "title": "Metal Levha İşlemeciliği",
     "code": "CERT-1121",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1697698532634-ea59b636ccea?w=600&h=400&fit=crop",
     "description": "Metal levha işlemeciliği eğitimi, metal işleme teknikleri, kesim, delik açma, kaynak ve montaj becerilerini kazandırır."
   },
   {
@@ -966,7 +966,7 @@ export const sertifikaCards = [
     "title": "Metal Yüzey Boyama",
     "code": "CERT-1122",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=600&h=400&fit=crop",
     "description": "Metal yüzey boyama eğitimi, metal yüzey hazırlama, boyama teknikleri, koruyucu kaplamalar ve kaliteli boya uygulama becerisi kazandırır."
   },
   {
@@ -976,7 +976,7 @@ export const sertifikaCards = [
     "title": "Sac İşleri",
     "code": "CERT-1123",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=600&h=400&fit=crop",
     "description": "Sac işleri eğitimi, sac levha kesme, bükme, şekillendirme ve montaj tekniklerini öğrenmek isteyenler için kapsamlı bir eğitim sunar."
   },
   {
@@ -986,7 +986,7 @@ export const sertifikaCards = [
     "title": "Otomotiv Boya",
     "code": "CERT-1145",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=600&h=400&fit=crop",
     "description": "Otomotiv boya kursu ile araç boyama, renk düzenleme, kaplama teknikleri ve yüzey hazırlığı konularında uzmanlık kazanın."
   },
   {
@@ -996,7 +996,7 @@ export const sertifikaCards = [
     "title": "Aşçılık",
     "code": "CERT-1204",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&h=400&fit=crop",
     "description": "Aşçılık eğitimi, mutfak becerilerinizi geliştirmeyi, yemek yapmayı ve menü planlamayı öğrenerek profesyonel bir aşçı olmanızı sağlar."
   },
   {
@@ -1006,7 +1006,7 @@ export const sertifikaCards = [
     "title": "Pasta ve Tatlı Yapımı",
     "code": "CERT-1205",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1481391319762-47dff72954d9?w=600&h=400&fit=crop",
     "description": "Pasta ve tatlı yapımı eğitimi, tatlıların pişirilmesi, dekorasyonu ve sunumu üzerine uzmanlık kazandırır ve mutfak becerilerini geliştirir."
   },
   {
@@ -1016,7 +1016,7 @@ export const sertifikaCards = [
     "title": "Servis",
     "code": "CERT-1206",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
     "description": "Servis eğitimi, restoran ve otel sektöründe profesyonel servis becerileri kazandırarak müşteri memnuniyetini artırır ve iş bulma fırsatlarını geliştirir."
   },
   {
@@ -1026,7 +1026,7 @@ export const sertifikaCards = [
     "title": "Fırıncılık",
     "code": "CERT-1207",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=600&h=400&fit=crop",
     "description": "Fırıncılık eğitimi, unlu mamuller üretme teknikleri ve fırıncılık sektöründe çalışabilmek için gerekli beceri ve bilgileri kazandırır."
   },
   {
@@ -1036,7 +1036,7 @@ export const sertifikaCards = [
     "title": "Kantin İşletmeciliği",
     "code": "CERT-1208",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&h=400&fit=crop",
     "description": "Kantin işletmeciliği eğitimi, yiyecek ve içecek servisi sunan işletmelerin yönetimi ve organizasyonu üzerine gerekli bilgileri öğretir."
   },
   {
@@ -1046,7 +1046,7 @@ export const sertifikaCards = [
     "title": "Kasaplık",
     "code": "CERT-1209",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=600&h=400&fit=crop",
     "description": "Kasaplık eğitimi, et kesimi, işleme ve hijyen kurallarını öğrenerek profesyonel bir kasap olmanızı sağlayacak beceriler kazandırır."
   },
   {
@@ -1056,7 +1056,7 @@ export const sertifikaCards = [
     "title": "Ahşap Çatıcılığı",
     "code": "CERT-1211",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1635424824849-1b09bdcc55b1?w=600&h=400&fit=crop",
     "description": "Ahşap çatıcılığı sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile mesleğinizi belgeleyin!"
   },
   {
@@ -1066,7 +1066,7 @@ export const sertifikaCards = [
     "title": "Ahşap Üst Yüzey İşlemcisi",
     "code": "CERT-1213",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=600&h=400&fit=crop",
     "description": "Ahşap üst yüzey işlemcisi sertifikası ile sektörde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikanızı hemen alın!"
   },
   {
@@ -1076,7 +1076,7 @@ export const sertifikaCards = [
     "title": "Arıtma Tesisi Operatörlüğü",
     "code": "CERT-1216",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=600&h=400&fit=crop",
     "description": "Arıtma tesisi operatörlüğü sertifikası ile su ve atık su arıtma alanında uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika alın!"
   },
   {
@@ -1086,7 +1086,7 @@ export const sertifikaCards = [
     "title": "Baskı Öncesi (Tehlikeli İşler)",
     "code": "CERT-1218",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1510511336377-1a9caa095849?w=600&h=400&fit=crop",
     "description": "Baskı öncesi sertifikası ile baskı süreçlerine hakim olun. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
   },
   {
@@ -1096,7 +1096,7 @@ export const sertifikaCards = [
     "title": "Baskı Sonrası (Tehlikeli İşler)",
     "code": "CERT-1219",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1693031630146-568e2f72db0e?w=600&h=400&fit=crop",
     "description": "Baskı sonrası sertifikası ile baskı üretim süreçlerine hakim olun. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
   },
   {
@@ -1106,7 +1106,7 @@ export const sertifikaCards = [
     "title": "Bayrakçı İşaretçi Eğitimi",
     "code": "CERT-1220",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=600&h=400&fit=crop",
     "description": "Bayrakçı işaretçi eğitimi sertifikası ile güvenliği sağlayın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
   },
   {
@@ -1116,7 +1116,7 @@ export const sertifikaCards = [
     "title": "Beton Pompa Operatörlüğü",
     "code": "CERT-1221",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1517153295259-74eb0b416cee?w=600&h=400&fit=crop",
     "description": "Beton pompa operatörlüğü sertifikası ile sektörde profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
   },
   {
@@ -1126,7 +1126,7 @@ export const sertifikaCards = [
     "title": "Demir Kalıpçılık ve Çatıcılık",
     "code": "CERT-1224",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1635424709845-3a85ad5e1f5e?w=600&h=400&fit=crop",
     "description": "Betonarme demir kalıpçılık ve çatıcılık sertifikası ile inşaat sektöründe profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika alın!"
   },
   {
@@ -1136,7 +1136,7 @@ export const sertifikaCards = [
     "title": "Bilgisayarlı Makine (CNC) Operatörü",
     "code": "CERT-1226",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1595535873420-a599195b3f4a?w=600&h=400&fit=crop",
     "description": "Bilgisayarlı Makine (CNC) Operatörü sertifikası ile üretim sektöründe profesyonelleşin. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifikayı hemen alın!"
   },
   {
@@ -1146,7 +1146,7 @@ export const sertifikaCards = [
     "title": "Bitki Koruma ve Besleme Ürünleri",
     "code": "CERT-1228",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1768321902691-082df3e874cf?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1711900177627-1182b446bc8f?w=600&h=400&fit=crop",
     "description": "Bitki Koruma Ve Besleme Ürünlerinde Paketleme sertifikası ile tarım sektöründe profesyonelleşin. Üniversite onaylı dijital sertifikayı alın!"
   },
   {
@@ -1156,7 +1156,7 @@ export const sertifikaCards = [
     "title": "Bobinajcı (Tehlikeli İşler)",
     "code": "CERT-1230",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1692719094491-2746e82a8595?w=600&h=400&fit=crop",
     "description": "Bobinajcı sertifikası ile elektrikli cihazların bakım ve onarımında uzmanlaşın. Üniversite onaylı dijital sertifika ile sektörde fırsatlar yaratın!"
   },
   {
@@ -1166,7 +1166,7 @@ export const sertifikaCards = [
     "title": "Çelik Yapılandırıcısı",
     "code": "CERT-1235",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1493476523860-a6de6ce1b0c3?w=600&h=400&fit=crop",
     "description": "Çelik yapılandırıcısı sertifikası ile inşaat sektöründe uzmanlaşın. Üniversite onaylı dijital sertifikayı hemen alın ve kariyerinizi güçlendirin!"
   },
   {
@@ -1176,7 +1176,7 @@ export const sertifikaCards = [
     "title": "Çimento Analizi",
     "code": "CERT-1236",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&h=400&fit=crop",
     "description": "Çimento analizi sertifikası ile inşaat sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
   },
   {
@@ -1186,7 +1186,7 @@ export const sertifikaCards = [
     "title": "Çimento Elektrik Bakımcı",
     "code": "CERT-1237",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
     "description": "Çimento elektrik bakımcı sertifikası ile çimento tesislerinde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
   },
   {
@@ -1196,7 +1196,7 @@ export const sertifikaCards = [
     "title": "Çimento Laboratuvar Görevlisi",
     "code": "CERT-1238",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=600&h=400&fit=crop",
     "description": "Çimento laboratuvar görevlisi sertifikası ile kalite kontrol uzmanı olun. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
   },
   {
@@ -1206,7 +1206,7 @@ export const sertifikaCards = [
     "title": "Çimento Mekanik Bakımcı",
     "code": "CERT-1239",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581092335397-9583eb92d232?w=600&h=400&fit=crop",
     "description": "Çimento mekanik bakımcı sertifikası ile çimento tesislerinde uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyer fırsatlarını yakalayın!"
   },
   {
@@ -1216,7 +1216,7 @@ export const sertifikaCards = [
     "title": "Elektrik Tesisat ve Pano (T.İ)",
     "code": "CERT-1252",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&h=400&fit=crop",
     "description": "Elektrik tesisat ve pano montörlüğü sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile kariyerinizi güçlendirin!"
   },
   {
@@ -1226,7 +1226,7 @@ export const sertifikaCards = [
     "title": "Elektrik Tesisleri Yapım İşleri",
     "code": "CERT-1254",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1635335874521-7987db781153?w=600&h=400&fit=crop",
     "description": "Elektrik tesisleri yapım işleri sertifikası ile enerji sektöründe uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika fırsatı!"
   },
   {
@@ -1236,7 +1236,7 @@ export const sertifikaCards = [
     "title": "Elektromekanik Taşıyıcılar",
     "code": "CERT-1256",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1582043568773-a7a2b57239f5?w=600&h=400&fit=crop",
     "description": "Elektromekanik Taşıyıcılar Bakım Onarım sertifikası ile uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika fırsatını kaçırmayın!"
   },
   {
@@ -1246,7 +1246,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Kalıpçı",
     "code": "CERT-1257",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1625465838283-36cec8a78e01?w=600&h=400&fit=crop",
     "description": "Endüstriyel kalıpçı sertifikası ile kalıp üretimi ve tasarımı konularında uzmanlaşın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika!"
   },
   {
@@ -1256,7 +1256,7 @@ export const sertifikaCards = [
     "title": "Flekso Baskı (T.İ)",
     "code": "CERT-1263",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1610891015188-5369212db097?w=600&h=400&fit=crop",
     "description": "Flekso baskı sertifikası ile esnek yüzeylere kaliteli baskılar yapın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika!"
   },
   {
@@ -1266,7 +1266,7 @@ export const sertifikaCards = [
     "title": "Enerjik Malzemeler Riskli Operasyon",
     "code": "CERT-1264",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1681812508281-7589b75b2e46?w=600&h=400&fit=crop",
     "description": "Enerjik Malzemeler Riskli Operasyon ile güvenliği artırın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika!"
   },
   {
@@ -1276,7 +1276,7 @@ export const sertifikaCards = [
     "title": "Görüntü Ses Sistemleri",
     "code": "CERT-1272",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&h=400&fit=crop",
     "description": "Görüntü ses sistemleri kursu ile ses ve görüntü sistemlerini profesyonelce yönetin. Üniversite onaylı dijital sertifika kazanın!"
   },
   {
@@ -1286,7 +1286,7 @@ export const sertifikaCards = [
     "title": "Halatlı Ekskavatör Operatörlüğü",
     "code": "CERT-1274",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop",
     "description": "Tehlikeli ve Çok Tehlikeli İşlerde Eğitimler Halatlı ekskavatör (dragline) operatörlüğü kursuyla profesyonel kazı yapma becerisi kazanın. Üniversite onaylı, e-Devlet sorgulanabilir dijital sertifika ile uzmanlaşın!"
   },
   {
@@ -1296,7 +1296,7 @@ export const sertifikaCards = [
     "title": "Isıl İşlemci",
     "code": "CERT-1279",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
     "description": "Isıl işlemci kursu ile metallerin sertlik ve dayanıklılığını artırmayı öğrenin. Üniversite onaylı dijital sertifika kazanın!"
   },
   {
@@ -1306,7 +1306,7 @@ export const sertifikaCards = [
     "title": "Helezon Yay Dizgi Elemanı",
     "code": "CERT-1281",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1563743157646-b34fce2a89bb?w=600&h=400&fit=crop",
     "description": "Helezon yay dizgi elemanı kursu ile yay üretimi ve montajında uzmanlaşın. Üniversite onaylı dijital sertifika kazanın!"
   },
   {
@@ -1316,7 +1316,7 @@ export const sertifikaCards = [
     "title": "Kablo İzolasyon Elemanı",
     "code": "CERT-1294",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1606340671662-27ee685dd111?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1518181835702-6eef8b4b2113?w=600&h=400&fit=crop",
     "description": "Kablo izolasyon elemanı eğitimi alın, elektrik kabloları izolasyon tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1326,7 +1326,7 @@ export const sertifikaCards = [
     "title": "Kalite Kontrol Elemanı",
     "code": "CERT-1296",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=400&fit=crop",
     "description": "Kalite kontrol elemanı eğitimi alın, üretim süreçlerinde kalite standartlarını öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1336,7 +1336,7 @@ export const sertifikaCards = [
     "title": "Kar Küreme Aracı Operatörlüğü",
     "code": "CERT-1297",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop",
     "description": "Kar küreme aracı operatörlüğü eğitimi alın, kış şartlarında güvenli çalışma tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1346,7 +1346,7 @@ export const sertifikaCards = [
     "title": "Karayolu Yapım Bakım Onarım",
     "code": "CERT-1298",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=600&h=400&fit=crop",
     "description": "Karayolu Yapım Bakım Onarım işleri eğitimi alın, yol inşa ve bakım tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1356,7 +1356,7 @@ export const sertifikaCards = [
     "title": "Kaya Mekaniği İşleri",
     "code": "CERT-1300",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1523848309072-c199db53f137?w=600&h=400&fit=crop",
     "description": "Kaya mekaniği işleri eğitimi alın, kayaçların fiziksel özelliklerini ve mühendislik uygulamalarını öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1366,7 +1366,7 @@ export const sertifikaCards = [
     "title": "Kaynakçı",
     "code": "CERT-1301",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1761213230327-d89a8cc9cc63?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
     "description": "Kaynakçı eğitimi alın, metal birleştirme tekniklerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1376,7 +1376,7 @@ export const sertifikaCards = [
     "title": "Kimya Laboratuvarı",
     "code": "CERT-1307",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494891848038-7bd202a2afeb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=600&h=400&fit=crop",
     "description": "Kimya laboratuvarı eğitimi alın, kozmetik ürünlerin üretim süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1386,7 +1386,7 @@ export const sertifikaCards = [
     "title": "Kimya Prosesi",
     "code": "CERT-1308",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1636747423727-2d39d0aa9796?w=600&h=400&fit=crop",
     "description": "Kimya prosesi eğitimi alın, kimyasal üretim süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1396,7 +1396,7 @@ export const sertifikaCards = [
     "title": "Kimya Prosesi (Soda Külü Ve Kostik)",
     "code": "CERT-1309",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1697282354839-66aaa7d3ca33?w=600&h=400&fit=crop",
     "description": "Kimya prosesi (soda külü ve kostik) eğitimi alın, endüstriyel kimyasal üretim süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1406,7 +1406,7 @@ export const sertifikaCards = [
     "title": "Maden Kimya Laboratuvarları",
     "code": "CERT-1319",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&h=400&fit=crop",
     "description": "Maden kimya laboratuvarlarında analiz öncesi hazırlıklar ve ön işlemler eğitimi alın, laboratuvar süreçlerini öğrenin. İnci İSG ile sertifikalı eğitim fırsatını kaçırmayın!"
   },
   {
@@ -1416,7 +1416,7 @@ export const sertifikaCards = [
     "title": "Makine Bakım ve Onarım",
     "code": "CERT-1324",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1565377167263-d29b5ac85479?w=600&h=400&fit=crop",
     "description": "Makine bakım ve onarım eğitimi ile endüstriyel makinelerin bakımını öğrenin. Üniversite onaylı dijital sertifika ile kariyerinizi güçlendirin!"
   },
   {
@@ -1426,7 +1426,7 @@ export const sertifikaCards = [
     "title": "Mobilya Döşeme İmalatçısı",
     "code": "CERT-1329",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1504593811423-6dd665756598?w=600&h=400&fit=crop",
     "description": "Mobilya döşeme imalatçısı eğitimi ile estetik ve kaliteli döşemeler yapmayı öğrenin. Sertifikanızla kariyerinizi geliştirin!"
   },
   {
@@ -1436,7 +1436,7 @@ export const sertifikaCards = [
     "title": "Mobilya İmalatçısı",
     "code": "CERT-1330",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=600&h=400&fit=crop",
     "description": "Mobilya imalatçısı eğitimi ile mobilya üretim sürecini öğrenin. Üniversite onaylı sertifikanızla sektörde kariyer fırsatları yaratın!"
   },
   {
@@ -1446,7 +1446,7 @@ export const sertifikaCards = [
     "title": "Montaj",
     "code": "CERT-1331",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1717386255773-1e3037c81788?w=600&h=400&fit=crop",
     "description": "Montaj eğitimi ile ürün montajını öğrenin. Üniversite onaylı sertifika ile sektördeki fırsatlara adım atın!"
   },
   {
@@ -1456,7 +1456,7 @@ export const sertifikaCards = [
     "title": "Patlayıcı Madde ve Mühimmat",
     "code": "CERT-1341",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1588281345136-9893252095bd?w=600&h=400&fit=crop",
     "description": "Patlayıcı madde ve mühimmat üretimi, depolama güvenliği ve endüstriyel uygulamalar hakkında bilgi sahibi olun, sertifika ile kariyerinizi güçlendirin."
   },
   {
@@ -1466,7 +1466,7 @@ export const sertifikaCards = [
     "title": "PVC Doğrama İmalat ve Montaj",
     "code": "CERT-1345",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544164560-adac3045edb2?w=600&h=400&fit=crop",
     "description": "PVC doğrama imalat ve montaj uzmanlaşarak, dayanıklı ve estetik yapı elemanları üretimi için gerekli becerileri kazanın."
   },
   {
@@ -1476,7 +1476,7 @@ export const sertifikaCards = [
     "title": "Serigrafi ve Tampon Baskı (T.İ)",
     "code": "CERT-1349",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1614494731690-53925976ea29?w=600&h=400&fit=crop",
     "description": "Serigrafi ve tampon baskı tekniklerini öğrenerek, farklı yüzeylere yüksek kaliteli baskılar yapmayı keşfedin."
   },
   {
@@ -1486,7 +1486,7 @@ export const sertifikaCards = [
     "title": "Sıvacı",
     "code": "CERT-1353",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=600&h=400&fit=crop",
     "description": "Sıvacı eğitimi ile yapıların iç ve dış yüzeylerine düzgün ve dayanıklı sıva uygulamayı öğrenin, üniversite onaylı sertifika alın."
   },
   {
@@ -1496,7 +1496,7 @@ export const sertifikaCards = [
     "title": "Soğuk Tel Haddeleme",
     "code": "CERT-1356",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1697698532602-ccf880036281?w=600&h=400&fit=crop",
     "description": "Soğuk tel haddeleme eğitimi ile metal şekillendirme tekniklerini öğrenin, üniversite onaylı sertifika sahibi olun ve mesleğinizde uzmanlaşın."
   },
   {
@@ -1506,7 +1506,7 @@ export const sertifikaCards = [
     "title": "Su Analizleri",
     "code": "CERT-1365",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=400&fit=crop",
     "description": "Su analizleri eğitimi ile suyun kalitesini ölçmeyi öğrenin, laboratuvar tekniklerini keşfedin ve üniversite onaylı sertifika alın."
   },
   {
@@ -1516,7 +1516,7 @@ export const sertifikaCards = [
     "title": "Taşlamacı",
     "code": "CERT-1368",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1598302936625-6075fbd98dd7?w=600&h=400&fit=crop",
     "description": "Taşlamacı eğitimi ile metal yüzeyleri hassas şekilde işleyin. Üniversite onaylı dijital sertifika ile profesyonel olun."
   },
   {
@@ -1526,7 +1526,7 @@ export const sertifikaCards = [
     "title": "Tamburlu Kesici Yükleyici Bakımcısı",
     "code": "CERT-1369",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1563456021008-5cd6ac7c005d?w=600&h=400&fit=crop",
     "description": "Tamburlu kesici yükleyici bakımcısı eğitimiyle bakım, onarım ve güvenli çalışma becerileri kazanın. Sertifika almak için başvurun."
   },
   {
@@ -1536,7 +1536,7 @@ export const sertifikaCards = [
     "title": "Tel Büküm Elemanı",
     "code": "CERT-1377",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1644238017851-21f15062c213?w=600&h=400&fit=crop",
     "description": "Tel büküm elemanı, genellikle çeşitli metal teller kullanarak ürünlerin bükülmesini ve şekillendirilmesini sağlar."
   },
   {
@@ -1546,7 +1546,7 @@ export const sertifikaCards = [
     "title": "Tel Tavlama ve Yüzey Kaplama",
     "code": "CERT-1382",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1518994255497-c5f17690567f?w=600&h=400&fit=crop",
     "description": "Tel tavlama ve yüzey kaplama elemanı, metalin dayanıklılığını artıran ısıl işlemler ve koruyucu kaplama uygulamaları sağlar."
   },
   {
@@ -1556,7 +1556,7 @@ export const sertifikaCards = [
     "title": "Termik Santral BGKA Bakımcı",
     "code": "CERT-1384",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=400&fit=crop",
     "description": "Termik santral BGKA bakımcı, termik santrallerde baca gazı kükürt arıtma sistemlerinin bakım ve onarımını yaparak çevreyi korur."
   },
   {
@@ -1566,7 +1566,7 @@ export const sertifikaCards = [
     "title": "Termik Santral BGKA İşletmeciliği",
     "code": "CERT-1385",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&h=400&fit=crop",
     "description": "Termik santral BGKA işletmeciliği, termik santrallerde baca gazı kükürt arıtma sistemlerini işletip çevreye duyarlı enerji üretimini yönetir."
   },
   {
@@ -1576,7 +1576,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Değirmen Bakımcı",
     "code": "CERT-1386",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?w=600&h=400&fit=crop",
     "description": "Termik santral değirmen bakımcı sistemlerinin bakımı ve onarımı konusunda uzmanlaşmak isteyenler için üniversite onaylı ve e-Devlet sorgulanabilir eğitim."
   },
   {
@@ -1586,7 +1586,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Dış Tesis Tamir",
     "code": "CERT-1387",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=600&h=400&fit=crop",
     "description": "Termik Santral Dış Tesis Tamir Bakımcılığı alanında uzmanlaşmak isteyenler için üniversite onaylı ve e-Devlet sorgulanabilir eğitim."
   },
   {
@@ -1596,7 +1596,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Dış Tesisler",
     "code": "CERT-1388",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1768321902691-082df3e874cf?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1508791290064-c27cc1ef7a9a?w=600&h=400&fit=crop",
     "description": "Termik Santral Dış Tesisler İşletmeciliği yönetmek isteyenler için üniversite onaylı ve e-Devlet sorgulanabilir sertifikalı profesyonel eğitim programı."
   },
   {
@@ -1606,7 +1606,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Elektrik Bakımcı",
     "code": "CERT-1389",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1660330589693-99889d60181e?w=600&h=400&fit=crop",
     "description": "Termik santral elektrik bakımcı yapmak isteyenler için üniversite onaylı, e-Devlet üzerinden sorgulanabilir sertifikalı eğitim programı."
   },
   {
@@ -1616,7 +1616,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Kazan Bakımcı",
     "code": "CERT-1391",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1578776349090-de61da00ff1a?w=600&h=400&fit=crop",
     "description": "Termik santral kazan bakımcı ve onarımı için üniversite onaylı, e-Devlet üzerinden sorgulanabilir dijital sertifikalı eğitim programı."
   },
   {
@@ -1626,7 +1626,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Kül Cüruf",
     "code": "CERT-1393",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1515344905723-babc01aac23d?w=600&h=400&fit=crop",
     "description": "Termik Santral Kül Cüruf İşletmeciliği üzerine kapsamlı eğitim, üniversite onaylı ve e-Devlet sorgulanabilir sertifika."
   },
   {
@@ -1636,7 +1636,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Laboratuarcılığı",
     "code": "CERT-1394",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1443866451220-8377d57c426a?w=600&h=400&fit=crop",
     "description": "Termik santral laboratuarcılığı çalışmaları, analiz teknikleri ve kalite kontrol eğitimi; üniversite onaylı dijital sertifika verilir."
   },
   {
@@ -1646,7 +1646,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Lavarcı",
     "code": "CERT-1395",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1587127831640-7423ae037873?w=600&h=400&fit=crop",
     "description": "Termik santral lavarcı eğitimi, su arıtma, kimyasal analiz ve bakım süreçlerini kapsar. Üniversite onaylı dijital sertifika verilir."
   },
   {
@@ -1656,7 +1656,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Mekanik Tesisat",
     "code": "CERT-1396",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1593062037896-764e9f52029e?w=600&h=400&fit=crop",
     "description": "Termik santral mekanik tesisat izolasyoncusu eğitimi, enerji verimliliği sağlamak için izolasyon teknikleri öğretir. Üniversite onaylı sertifika verilir."
   },
   {
@@ -1666,7 +1666,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Su Tasfiyeciliği",
     "code": "CERT-1397",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1643472018814-d9981b44162d?w=600&h=400&fit=crop",
     "description": "Termik santral su tasfiyeciliği eğitimi, su arıtma ve tasfiye işlemleri konusunda uzmanlaşmak isteyenler için üniversite onaylı sertifika sağlar."
   },
   {
@@ -1676,7 +1676,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Ölçü Kontrolcülüğü",
     "code": "CERT-1398",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1655767834395-f848b94b928c?w=600&h=400&fit=crop",
     "description": "Termik santral ölçü kontrolcülüğü eğitimi ile ölçüm cihazlarının kontrolünü öğrenin. Üniversite onaylı dijital sertifika verilmektedir."
   },
   {
@@ -1686,7 +1686,7 @@ export const sertifikaCards = [
     "title": "Termik Santral Türbin Bakımcılığı",
     "code": "CERT-1399",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1638204573933-1b970d855378?w=600&h=400&fit=crop",
     "description": "Termik santral türbin bakımcılığı eğitimi ile türbin bakımı ve onarımı öğrenin. Üniversite onaylı dijital sertifika verilmektedir."
   },
   {
@@ -1696,7 +1696,7 @@ export const sertifikaCards = [
     "title": "Tifdruk Baskı (T.İ)",
     "code": "CERT-1401",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1676474506722-4bf98059b74a?w=600&h=400&fit=crop",
     "description": "Tifdruk baskı eğitimi ile baskı teknolojilerini öğrenin. Üniversite onaylı, e-Devlet üzerinden sorgulanabilir dijital sertifika fırsatı!"
   },
   {
@@ -1706,7 +1706,7 @@ export const sertifikaCards = [
     "title": "Yangın Yalıtımı",
     "code": "CERT-1410",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1576707995936-a6cffe26ef7b?w=600&h=400&fit=crop",
     "description": "Yangın yalıtımı, binalarda yangın riskini azaltarak güvenliği artırır. Profesyonel yalıtım çözümleri ile yangın dayanıklılığı sağlanır."
   },
   {
@@ -1716,7 +1716,7 @@ export const sertifikaCards = [
     "title": "Yapı Dekorasyon",
     "code": "CERT-1411",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&h=400&fit=crop",
     "description": "Yapı dekorasyon, yaşam alanlarını estetik ve fonksiyonel hale getiren profesyonel çözümler sunar. İç ve dış mekan tasarımında modern dokunuşlar sağlar."
   },
   {
@@ -1726,7 +1726,7 @@ export const sertifikaCards = [
     "title": "Yapı Duvarcılığı",
     "code": "CERT-1412",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1585750629386-33bdc1431574?w=600&h=400&fit=crop",
     "description": "Yapı duvarcılığı, yapıların duvarlarını inşa etme, tamir etme ve yenileme işlemleri ile dayanıklı yapılar oluşturur."
   },
   {
@@ -1736,7 +1736,7 @@ export const sertifikaCards = [
     "title": "Yapı Yalıtımcılığı",
     "code": "CERT-1414",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?w=600&h=400&fit=crop",
     "description": "Yapı yalıtımcılığı, binaların enerji verimliliğini artırmak ve konfor sağlamak amacıyla ısı, ses ve su yalıtımı yapar."
   },
   {
@@ -1746,7 +1746,7 @@ export const sertifikaCards = [
     "title": "Yapı Malzemelerinin Analizi",
     "code": "CERT-1415",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581093577421-f561a654a353?w=600&h=400&fit=crop",
     "description": "Yapı malzemelerinin analizi, malzemelerin kalite kontrolünü sağlayarak binaların güvenliğini ve dayanıklılığını artıran önemli bir süreçtir."
   },
   {
@@ -1756,7 +1756,7 @@ export const sertifikaCards = [
     "title": "Yüksek Gerilim Sistemleri (T.İ)",
     "code": "CERT-1427",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?w=600&h=400&fit=crop",
     "description": "Yüksek gerilim sistemleri, elektrik enerjisinin uzun mesafelerde verimli ve güvenli bir şekilde iletilmesini sağlayan altyapıdır."
   },
   {
@@ -1766,7 +1766,7 @@ export const sertifikaCards = [
     "title": "Yüksekte Çalışanların Eğitimi",
     "code": "CERT-1428",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1603239564387-c5b5ea6f635e?w=600&h=400&fit=crop",
     "description": "Yüksekte çalışanların eğitimi, iş güvenliği ve sağlığı için kritik öneme sahiptir. Çalışanlar, güvenli çalışma yöntemlerini öğrenir."
   },
   {
@@ -1776,7 +1776,7 @@ export const sertifikaCards = [
     "title": "Çocuk Bakım Elemanı",
     "code": "CERT-1433",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?w=600&h=400&fit=crop",
     "description": "Çocuk Bakım Elemanı kimdir, nasıl olunur, sınav şartları nelerdir? E Devlet onaylı sertifika ile çalışma alanları ve iş yeri açma hakkı hakkında detaylı bilgiler burada!"
   },
   {
@@ -1786,7 +1786,7 @@ export const sertifikaCards = [
     "title": "Yüzey Temizleme",
     "code": "CERT-1435",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
     "description": "Yüzey temizleme işlemi, hijyen sağlamak ve yüzeyleri korumak için kullanılan profesyonel yöntemler ve kimyasallarla uygulanır."
   },
   {
@@ -1796,7 +1796,7 @@ export const sertifikaCards = [
     "title": "Zemin Mekaniği İşleri",
     "code": "CERT-1437",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1624574470112-46944be68409?w=600&h=400&fit=crop",
     "description": "Zemin mekaniği işleri, yapıların sağlamlığı için zemin analizi, taşıma kapasitesi hesaplamaları ve güçlendirme teknikleriyle güvenli projeler sunar."
   },
   {
@@ -1806,7 +1806,7 @@ export const sertifikaCards = [
     "title": "Süt Sığırı Yetiştiricisi",
     "code": "CERT-1440",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
     "description": "Süt Sığırı Yetiştiricisi Sertifika Programı ile sektörde uzmanlaşın, uluslararası geçerli sertifika ile kariyer fırsatlarını yakalayın!"
   },
   {
@@ -1816,7 +1816,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Destekli Mobilya Tasarımcısı",
     "code": "CERT-1443",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545193329-4a052e14eb8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
     "description": "Bilgisayar destekli mobilya tasarımcısı olup dijital çizim becerileriyle mobilya sektöründe öne çıkmak ve uzmanlaşmak için hemen bilgi alın!"
   },
   {
@@ -1826,7 +1826,7 @@ export const sertifikaCards = [
     "title": "Bilgisayarlı Mobilya İç Mekân Tasarımı(Özel Eğitim)",
     "code": "CERT-1444",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?w=600&h=400&fit=crop",
     "description": "Bilgisayarlı mobilya iç mekân tasarımı eğitimleri, sertifika ve belge avantajlarıyla dijital tasarımda kariyer fırsatları sunar."
   },
   {
@@ -1836,7 +1836,7 @@ export const sertifikaCards = [
     "title": "Mobilya Döşeme İmalatçısı( Özel Eğitim)",
     "code": "CERT-1445",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1659930087003-2d64e33181f7?w=600&h=400&fit=crop",
     "description": "Mobilya döşeme imalatçısı olmak isteyenler için eğitim, belge ve sertifika ile mesleki yetkinlik kazanma fırsatı sunar."
   },
   {
@@ -1846,7 +1846,7 @@ export const sertifikaCards = [
     "title": "Mobilya İmalatçısı( Özel Eğitim)",
     "code": "CERT-1446",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1497219055242-93359eeed651?w=600&h=400&fit=crop",
     "description": "Mobilya imalatçısı olmak için uygulamalı eğitimler, sertifika ve belge ile mesleki yeterliliğinizi belgelendirin."
   },
   {
@@ -1856,7 +1856,7 @@ export const sertifikaCards = [
     "title": "Çocuk Beslenmesi",
     "code": "CERT-1447",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&h=400&fit=crop",
     "description": "Çocuk beslenmesi eğitimiyle sağlıklı gelişim bilgisi edinin, sertifika ve belgeyle mesleki yeterliliğinizi belgeleyin."
   },
   {
@@ -1866,7 +1866,7 @@ export const sertifikaCards = [
     "title": "Ev Ve Kurum Temizliği(Özel Eğitim)",
     "code": "CERT-1448",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600&h=400&fit=crop",
     "description": "Ev ve kurum temizliği eğitimiyle mesleki bilgi kazanın, sertifika ve belge ile hijyen alanında uzmanlaşın."
   },
   {
@@ -1876,7 +1876,7 @@ export const sertifikaCards = [
     "title": "Geri Dönüşüm Ambalajları",
     "code": "CERT-1449",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1606340671662-27ee685dd111?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
     "description": "Geri dönüşüm ambalajları eğitimiyle çevreye katkı sağlayın, belge ve sertifika ile mesleki yeterlilik kazanın."
   },
   {
@@ -1896,7 +1896,7 @@ export const sertifikaCards = [
     "title": "Yenilenebilir Kaynaklar",
     "code": "CERT-1451",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1761213230327-d89a8cc9cc63?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?w=600&h=400&fit=crop",
     "description": "Yenilenebilir kaynaklar eğitimiyle enerji alanında bilgi sahibi olun, sertifika ve belge ile sektörde yerinizi alın."
   },
   {
@@ -1906,7 +1906,7 @@ export const sertifikaCards = [
     "title": "Ayakkabı Modelisti",
     "code": "CERT-1452",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=400&fit=crop",
     "description": "Ayakkabı modelisti eğitimiyle kalıp ve tasarım öğrenin, geçerli sertifika ve belgeyle sektöre profesyonel adım atın."
   },
   {
@@ -1916,7 +1916,7 @@ export const sertifikaCards = [
     "title": "Ayakkabı Üretim Elemanı",
     "code": "CERT-1453",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=600&h=400&fit=crop",
     "description": "Ayakkabı üretim elemanı eğitimiyle üretim süreçlerini öğrenin, sertifika ve belgeyle mesleki yetkinlik kazanın."
   },
   {
@@ -1926,7 +1926,7 @@ export const sertifikaCards = [
     "title": "Ayakkabı ve Saraciye Tamircisi",
     "code": "CERT-1454",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=400&fit=crop",
     "description": "Ayakkabı ve saraciye tamircisi eğitimiyle tamir becerileri kazanarak belge ve sertifika ile mesleki yeterliliğe sahip olun."
   },
   {
@@ -1936,7 +1936,7 @@ export const sertifikaCards = [
     "title": "Saraciye Kesimcisi",
     "code": "CERT-1455",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=400&fit=crop",
     "description": "Saraciye kesimcisi eğitimiyle deri ürün kesimini öğrenin, geçerli belge ve sertifika ile sektörde uzmanlaşın."
   },
   {
@@ -1946,7 +1946,7 @@ export const sertifikaCards = [
     "title": "Saraciye Modelisti",
     "code": "CERT-1456",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773432114474-c1afba22a339?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?w=600&h=400&fit=crop",
     "description": "Saraciye modelisti eğitimiyle deri ürün tasarımı öğrenin, geçerli belge ve sertifika ile sektörel uzmanlık kazanın."
   },
   {
@@ -1956,7 +1956,7 @@ export const sertifikaCards = [
     "title": "Saraciye Montajcısı",
     "code": "CERT-1457",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1644258676710-ffb99d7d7a1b?w=600&h=400&fit=crop",
     "description": "Saraciye montajcısı eğitimiyle montaj tekniklerini öğrenin, geçerli belge ve sertifika ile sektörde iş fırsatı yakalayın."
   },
   {
@@ -1966,7 +1966,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Sistem Bakım Onarım",
     "code": "CERT-1462",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1650551182991-b07558247564?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
     "description": "Bilgisayar sistem bakım onarım eğitimiyle donanım ve arıza çözümünde uzmanlaşın, geçerli sertifika ve belgeyle iş fırsatları yakalayın."
   },
   {
@@ -1986,7 +1986,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Bakım Onarım Ve Arıza Giderme",
     "code": "CERT-1465",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
     "description": "Bilgisayar bakım onarım ve arıza giderme eğitimiyle teknik bilgi kazanın, sertifika ve belge ile kariyerinize yön verin."
   },
   {
@@ -1996,7 +1996,7 @@ export const sertifikaCards = [
     "title": "Ofis Programları Kullanımı",
     "code": "CERT-1466",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430267658-6d281d8bbc33?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
     "description": "Ofis programları kullanımı eğitiminde Word, Excel, PowerPoint öğrenin; geçerli sertifika ve belge ile iş hayatına avantajlı başlayın."
   },
   {
@@ -2006,7 +2006,7 @@ export const sertifikaCards = [
     "title": "Temel Robotik Ve Kodlama",
     "code": "CERT-1467",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773432114474-c1afba22a339?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
     "description": "Temel robotik ve kodlama eğitimiyle programlama öğrenin, geçerli sertifika ve belgeyle teknolojiye dayalı kariyerinize yön verin."
   },
   {
@@ -2016,7 +2016,7 @@ export const sertifikaCards = [
     "title": "Biyomedikal Teknik Servis Destek Elemanı",
     "code": "CERT-1468",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=600&h=400&fit=crop",
     "description": "Biyomedikal teknik servis destek elemanı eğitimiyle cihaz onarımı öğrenin, sertifika ve belgeyle sağlık sektöründe çalışın."
   },
   {
@@ -2026,7 +2026,7 @@ export const sertifikaCards = [
     "title": "Çöp Toplama Personel Eğitimi",
     "code": "CERT-1483",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=600&h=400&fit=crop",
     "description": "Çöp toplama personel eğitimiyle hijyenik ve güvenli çalışma becerileri kazanarak geçerli sertifika ve belge sahibi olun."
   },
   {
@@ -2036,7 +2036,7 @@ export const sertifikaCards = [
     "title": "Geri Dönüşüm Ve Sıfır Atık",
     "code": "CERT-1484",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?w=600&h=400&fit=crop",
     "description": "Geri dönüşüm ve sıfır atık eğitimiyle çevre bilinci kazanarak sürdürülebilir yaşama katkı sağlayın, geçerli sertifika ve belge alın."
   },
   {
@@ -2046,7 +2046,7 @@ export const sertifikaCards = [
     "title": "Güneş Enerjisi Kullanımı Ve Farkındalık",
     "code": "CERT-1485",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=600&h=400&fit=crop",
     "description": "Güneş Enerjisi Kullanımı Ve Farkındalık eğitimiyle yenilenebilir enerji bilinci kazanarak sertifika ve belge sahibi olun, çevreci projelere yönelin."
   },
   {
@@ -2056,7 +2056,7 @@ export const sertifikaCards = [
     "title": "İklim Değişikliği Ve Sürdürülebilirlik Lideri",
     "code": "CERT-1486",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop",
     "description": "İklim değişikliği ve sürdürülebilirlik lideri eğitimiyle çevre farkındalığı kazanarak geçerli sertifika ve belge alın, geleceğe yön verin."
   },
   {
@@ -2066,7 +2066,7 @@ export const sertifikaCards = [
     "title": "Küresel İklim Değişikliği İle Mücadele",
     "code": "CERT-1487",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
     "description": "Küresel İklim Değişikliği İle Mücadele eğitimiyle çevre bilinci kazanarak e-Devlet onaylı sertifika ve belge sahibi olun."
   },
   {
@@ -2076,7 +2076,7 @@ export const sertifikaCards = [
     "title": "Orman Yangınları İle Mücadele Yöntemleri",
     "code": "CERT-1488",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1771868453049-b7b4a4680b5c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&h=400&fit=crop",
     "description": "Orman Yangınları İle Mücadele Yöntemleri eğitimiyle bilinçli müdahale yöntemlerini öğrenerek geçerli sertifika ve belge kazanın."
   },
   {
@@ -2086,7 +2086,7 @@ export const sertifikaCards = [
     "title": "Solucan Gübresi Üretimi",
     "code": "CERT-1489",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
     "description": "Solucan gübresi üretimi eğitimiyle doğal tarım yöntemlerini öğrenerek geçerli sertifika ve belge sahibi olun."
   },
   {
@@ -2096,7 +2096,7 @@ export const sertifikaCards = [
     "title": "Su Okuryazarlığı",
     "code": "CERT-1490",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&h=400&fit=crop",
     "description": "Su okuryazarlığı eğitimiyle bilinçli su kullanımı hakkında bilgi edinin, geçerli sertifika ve belge kazanın."
   },
   {
@@ -2106,7 +2106,7 @@ export const sertifikaCards = [
     "title": "Yangınla Mücadele Yöntemleri",
     "code": "CERT-1491",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1633092228879-d6a88c22e7bc?w=600&h=400&fit=crop",
     "description": "Yangınla Mücadele Yöntemleri eğitimiyle etkili müdahaleyi öğrenin, geçerli sertifika ve belge ile güvenliğinizi güçlendirin."
   },
   {
@@ -2116,7 +2116,7 @@ export const sertifikaCards = [
     "title": "Anne Ve Çocuk Sağlığı",
     "code": "CERT-1492",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430263055-54c323a46d14?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?w=600&h=400&fit=crop",
     "description": "Anne ve çocuk sağlığı eğitimiyle doğru bakım uygulamalarını öğrenin, sertifika ve belge sahibi olarak bilinçli hareket edin."
   },
   {
@@ -2126,7 +2126,7 @@ export const sertifikaCards = [
     "title": "Bilinçli Hamilelik ve Bebek Bakımı",
     "code": "CERT-1493",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1545241047-6083a3684587?w=600&h=400&fit=crop",
     "description": "Bilinçli hamilelik ve bebek bakımı eğitimiyle sağlıklı süreçler yönetin, sertifika ve belgeyle bilginizi belgeleyin."
   },
   {
@@ -2136,7 +2136,7 @@ export const sertifikaCards = [
     "title": "Çocuk Bakım Elemanı(Ö.E)",
     "code": "CERT-1494",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600&h=400&fit=crop",
     "description": "Çocuk bakım elemanı eğitimi ile güvenli bakım uygulamalarını öğrenin, geçerli sertifika ve belge sahibi olun."
   },
   {
@@ -2146,7 +2146,7 @@ export const sertifikaCards = [
     "title": "Çocuk Destek Eğitimi",
     "code": "CERT-1495",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=600&h=400&fit=crop",
     "description": "Çocuk destek eğitimi ile çocuk gelişimini bilinçli destekleyin, geçerli sertifika ve belgeyle kariyerinize değer katın."
   },
   {
@@ -2156,7 +2156,7 @@ export const sertifikaCards = [
     "title": "Çocukla İletişim",
     "code": "CERT-1496",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
     "description": "Çocukla iletişim eğitimiyle sağlıklı bağlar kurun, etkili iletişim teknikleri öğrenin ve geçerli sertifika kazanın."
   },
   {
@@ -2166,7 +2166,7 @@ export const sertifikaCards = [
     "title": "Çocuklarda Duygu Ve Davranış",
     "code": "CERT-1497",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=600&h=400&fit=crop",
     "description": "Çocuklarda duygu ve davranış eğitimini tamamlayarak sağlıklı gelişim ve etkili destek için sertifika kazanın."
   },
   {
@@ -2176,7 +2176,7 @@ export const sertifikaCards = [
     "title": "Çocuklarda Uyum Problemleri",
     "code": "CERT-1498",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1761213230327-d89a8cc9cc63?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1605814573621-0513c34a0d58?w=600&h=400&fit=crop",
     "description": "Çocuklarda uyum problemlerini tanıyın, çözüm yöntemleri öğrenin ve sertifika ile profesyonel destek sağlayın."
   },
   {
@@ -2186,7 +2186,7 @@ export const sertifikaCards = [
     "title": "Çocukta Temel İhtiyaçlar",
     "code": "CERT-1499",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=600&h=400&fit=crop",
     "description": "Çocukta temel ihtiyaçlarını tanıyarak gelişimini destekleyin, uzman eğitimiyle belgelendirilmiş sertifika kazanın."
   },
   {
@@ -2196,7 +2196,7 @@ export const sertifikaCards = [
     "title": "Ebeveyn Destek Eğitimi",
     "code": "CERT-1500",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1627764940620-90393d0e8c34?w=600&h=400&fit=crop",
     "description": "Ebeveyn Destek Eğitimi iletişim, disiplin ve gelişim destekli eğitimle, sertifika sahibi olun ve çocuklara doğru yaklaşın."
   },
   {
@@ -2206,7 +2206,7 @@ export const sertifikaCards = [
     "title": "Eğitimde Oyun Etkinlikleri",
     "code": "CERT-1501",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1529269421632-e9253d14d3a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=600&h=400&fit=crop",
     "description": "Eğitimde Oyun Etkinlikleri Oyun eğitimiyle çocuk gelişimini destekleyin, sertifika alarak mesleki yeterliliğinizi artırın."
   },
   {
@@ -2216,7 +2216,7 @@ export const sertifikaCards = [
     "title": "Ergenlik Döneminde Beslenme",
     "code": "CERT-1502",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1569617084133-26942bb441f2?w=600&h=400&fit=crop",
     "description": "Ergenlik Döneminde Beslenme eğitimiyle gençlerin sağlıklı gelişimini destekleyin, sertifika alarak uzmanlık kazanın."
   },
   {
@@ -2226,7 +2226,7 @@ export const sertifikaCards = [
     "title": "Erken Çocukluk Döneminde Aerobik",
     "code": "CERT-1503",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&h=400&fit=crop",
     "description": "Erken Çocukluk Döneminde Aerobik eğitimiyle sağlıklı gelişimi destekleyin, sertifika alın, hareketli bir gelecek inşa edin."
   },
   {
@@ -2236,7 +2236,7 @@ export const sertifikaCards = [
     "title": "Erken Çocukluk Döneminde Beden Dili Eğitimi",
     "code": "CERT-1504",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&h=400&fit=crop",
     "description": "Erken Çocukluk Döneminde Beden Dili Eğitimi etkili iletişim için erken yaşta beden dili eğitimi alın, e-Devlet onaylı sertifikayla uzmanlaşın."
   },
   {
@@ -2246,7 +2246,7 @@ export const sertifikaCards = [
     "title": "Erken Çocukluk Döneminde Duygu Ve Davranışlar",
     "code": "CERT-1505",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1517545084371-4a575dde2a02?w=600&h=400&fit=crop",
     "description": "Erken Çocukluk Döneminde Duygu Ve Davranışlar eğitimini keşfedin, e-Devlet onaylı sertifika ile mesleki uzmanlık kazanın."
   },
   {
@@ -2256,7 +2256,7 @@ export const sertifikaCards = [
     "title": "Erken Çocukluk Döneminde Oyun Etkinlikleri",
     "code": "CERT-1506",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1575783970733-1aaedde1db74?w=600&h=400&fit=crop",
     "description": "Erken Çocukluk Döneminde Oyun Etkinlikleri Oyun temelli erken çocukluk eğitimiyle çocukların gelişimini destekleyin, sertifika alarak mesleki yeterliliğinizi belgeleyin."
   },
   {
@@ -2266,7 +2266,7 @@ export const sertifikaCards = [
     "title": "Özel Eğitim Elemanı",
     "code": "CERT-1507",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1583468991267-3f068b607ae1?w=600&h=400&fit=crop",
     "description": "Özel eğitim elemanı eğitimiyle mesleki bilgi kazan, üniversite onaylı sertifika ile kariyerine güçlü bir adım at."
   },
   {
@@ -2276,7 +2276,7 @@ export const sertifikaCards = [
     "title": "0-72 Ay Çocuk Gelişimi",
     "code": "CERT-1508",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1613794713137-a78aba4be84a?w=600&h=400&fit=crop",
     "description": "0-72 ay çocuk gelişimi eğitimiyle okul öncesi alanında uzmanlaşın, üniversite onaylı sertifikayla mesleki yeterlilik kazanın."
   },
   {
@@ -2286,7 +2286,7 @@ export const sertifikaCards = [
     "title": "Akvaryum Balıkları Yetiştiriciliği",
     "code": "CERT-1509",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1533622597524-a1215e26c0a2?w=600&h=400&fit=crop",
     "description": "Akvaryum balıkları yetiştiriciliği eğitimiyle profesyonel bilgi edinin, sertifika alarak hobi veya mesleğe dönüştürün."
   },
   {
@@ -2296,7 +2296,7 @@ export const sertifikaCards = [
     "title": "Alabalık Yetiştiriciliği",
     "code": "CERT-1510",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1510130387422-82bed34b37e9?w=600&h=400&fit=crop",
     "description": "Alabalık yetiştiriciliği eğitimiyle su ürünlerinde uzmanlaşın, belge alın ve sürdürülebilir üretimle sektörde yerinizi alın."
   },
   {
@@ -2306,7 +2306,7 @@ export const sertifikaCards = [
     "title": "Deniz Balıkları Üreticisi",
     "code": "CERT-1511",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=600&h=400&fit=crop",
     "description": "Deniz balıkları üreticisi eğitimiyle üretim tekniklerini öğrenin, belgenizle sektörde uzmanlaşarak iş fırsatlarını değerlendirin."
   },
   {
@@ -2316,7 +2316,7 @@ export const sertifikaCards = [
     "title": "Gemici Eğitimi",
     "code": "CERT-1512",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1463567517034-628c51048aa2?w=600&h=400&fit=crop",
     "description": "Gemici eğitimiyle denizcilik becerileri kazanın, e-Devlet onaylı belgenizle sektörde profesyonel olarak yer alın."
   },
   {
@@ -2326,7 +2326,7 @@ export const sertifikaCards = [
     "title": "Gırgır Ağı Donatımı Ve Avcılığı",
     "code": "CERT-1513",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1475776408506-9a5371e7a068?w=600&h=400&fit=crop",
     "description": "Gırgır ağı donatımı ve avcılığı eğitimiyle profesyonel balıkçılık becerileri kazanıp sertifikalı uzman olarak sektöre katılın."
   },
   {
@@ -2336,7 +2336,7 @@ export const sertifikaCards = [
     "title": "İç Su Canlıları Balıkları Yetiştiriciliği",
     "code": "CERT-1514",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=600&h=400&fit=crop",
     "description": "İç Su Canlıları Balıkları Yetiştiriciliği eğitimiyle tatlı su üretiminde uzmanlaşın, sertifikanızla sektörel avantaj elde edin."
   },
   {
@@ -2346,7 +2346,7 @@ export const sertifikaCards = [
     "title": "Olta Donamı Ve Avcılığı",
     "code": "CERT-1515",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1541742425281-c1d3fc8aff96?w=600&h=400&fit=crop",
     "description": "Olta donamı ve avcılığı eğitimiyle bilinçli balıkçılık yapın, belgenizle sportif ve sürdürülebilir avcılığa adım atın."
   },
   {
@@ -2356,7 +2356,7 @@ export const sertifikaCards = [
     "title": "Serpme Ağı Donatımı Ve Avcılığı",
     "code": "CERT-1516",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1507124441518-c9584b9dc520?w=600&h=400&fit=crop",
     "description": "Serpme ağı donatımı ve avcılığı eğitimiyle geleneksel balıkçılığı öğrenin, belgenizle yasal ve verimli avcılığa başlayın."
   },
   {
@@ -2366,7 +2366,7 @@ export const sertifikaCards = [
     "title": "Su Ürünleri İşlemecisi",
     "code": "CERT-1517",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1507991426709-5bbee2c6a189?w=600&h=400&fit=crop",
     "description": "Su ürünleri işlemecisi eğitimiyle gıda güvenliği ve işleme tekniklerini öğrenin, belgenizle sektörde çalışmaya hazır olun."
   },
   {
@@ -2376,7 +2376,7 @@ export const sertifikaCards = [
     "title": "Su Ürünleri Üreticisi",
     "code": "CERT-1518",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1713804708016-e1f61ea2c0ca?w=600&h=400&fit=crop",
     "description": "Su ürünleri üreticisi eğitimiyle balık yetiştiriciliğini öğrenin, sertifikanızla sürdürülebilir üretimde profesyonel olarak yer alın."
   },
   {
@@ -2386,7 +2386,7 @@ export const sertifikaCards = [
     "title": "Suda Canlı Kalma Teknikleri",
     "code": "CERT-1519",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=600&h=400&fit=crop",
     "description": "Suda canlı kalma teknikleri eğitimiyle acil durumlara karşı hazırlıklı olun, belgenizle güvenliğinizi kanıtlayın."
   },
   {
@@ -2396,7 +2396,7 @@ export const sertifikaCards = [
     "title": "Tatlı Su Balıkları Üreticisi",
     "code": "CERT-1520",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1576330383200-2bf325cfec52?w=600&h=400&fit=crop",
     "description": "Tatlı su balıkları üreticisi eğitimiyle balık yetiştiriciliği becerisi kazanın, sertifikanızla sektörde profesyonel olun."
   },
   {
@@ -2406,7 +2406,7 @@ export const sertifikaCards = [
     "title": "Akıllı Bina Otomasyon Sistemleri",
     "code": "CERT-1531",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558537348-c0f8e733989d?w=600&h=400&fit=crop",
     "description": "Akıllı bina otomasyon sistemleri eğitimiyle enerji ve güvenlik yönetimini öğrenin, sertifika ile sektörde uzmanlaşın."
   },
   {
@@ -2416,7 +2416,7 @@ export const sertifikaCards = [
     "title": "Akıllı Röle Ve Mikro Seviye Plc Geliştirme Ve Uyum Eğitimi",
     "code": "CERT-1532",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?w=600&h=400&fit=crop",
     "description": "Akıllı Röle Ve Mikro Seviye Plc Geliştirme Ve Uyum Eğitimi otomasyon sistemlerini öğrenin, sertifikayla endüstride fark yaratın."
   },
   {
@@ -2426,7 +2426,7 @@ export const sertifikaCards = [
     "title": "Anten Sistemleri Kurulumcusu",
     "code": "CERT-1533",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
     "description": "Anten sistemleri kurulumcusu eğitimiyle profesyonel anten montajı öğrenin, sertifika ile sektörde uzmanlaşın."
   },
   {
@@ -2436,7 +2436,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Yazıcıları Bakım Onarımcısı",
     "code": "CERT-1534",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=600&h=400&fit=crop",
     "description": "Bilgisayar Yazıcıları Bakım Onarımcısı eğitimiyle arıza giderin, sertifika ile teknisyenlikte profesyonel olun."
   },
   {
@@ -2446,7 +2446,7 @@ export const sertifikaCards = [
     "title": "Büro Makineleri Teknik Servis Elemanı",
     "code": "CERT-1535",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&h=400&fit=crop",
     "description": "Büro makineleri teknik servis elemanı eğitimi ile bakım ve onarım öğrenin, sertifika ile kariyer fırsatı yakalayın."
   },
   {
@@ -2456,7 +2456,7 @@ export const sertifikaCards = [
     "title": "Elektrik Pano Montörü",
     "code": "CERT-1536",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1576446470246-499c738d1c8e?w=600&h=400&fit=crop",
     "description": "Elektrik pano montörü eğitimiyle elektrik panolarını doğru monte edin, sertifika ile sektörde uzmanlaşın."
   },
   {
@@ -2466,7 +2466,7 @@ export const sertifikaCards = [
     "title": "Elektrik Tesisat ve Pano Montörlüğü",
     "code": "CERT-1537",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1566417110090-6b15a06ec800?w=600&h=400&fit=crop",
     "description": "Elektrik tesisat ve pano montörlüğü eğitimi ile sistem kurulumunu öğrenin, sertifika ile sektörde profesyonel olun."
   },
   {
@@ -2476,7 +2476,7 @@ export const sertifikaCards = [
     "title": "Elektrik Tesisatçısı",
     "code": "CERT-1538",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=600&h=400&fit=crop",
     "description": "Elektrik tesisatçısı eğitimiyle elektrik sistemlerini güvenle kurun, sertifikanızla meslekte uzmanlaşarak fark yaratın."
   },
   {
@@ -2486,7 +2486,7 @@ export const sertifikaCards = [
     "title": "Elektrikli Ev Aletleri Teknik Servis Elemanı",
     "code": "CERT-1539",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545193329-4a052e14eb8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1555941911-2c0c77a44ea4?w=600&h=400&fit=crop",
     "description": "Elektrikli Ev Aletleri Teknik Servis Elemanı eğitimiyle cihaz bakım ve onarımı öğrenin, sertifikanızla sektörde uzmanlaşın."
   },
   {
@@ -2496,7 +2496,7 @@ export const sertifikaCards = [
     "title": "Enerji Dağıtım Tesisleri Bakım Onarım",
     "code": "CERT-1540",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1724041875334-0a6397111c7e?w=600&h=400&fit=crop",
     "description": "Enerji dağıtım tesisleri bakım onarım eğitimiyle şebeke sistemlerinde uzmanlaşın, sertifika ile kariyerinize güç katın."
   },
   {
@@ -2506,7 +2506,7 @@ export const sertifikaCards = [
     "title": "Fotokopi Ve Baskı Makineleri (Priport) Bakım Onarımcısı",
     "code": "CERT-1541",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1715154470884-1c2be0b0129f?w=600&h=400&fit=crop",
     "description": "Fotokopi Ve Baskı Makineleri (Priport) Bakım Onarımcısı eğitimiyle teknik beceriler kazanın, sertifika ile servis alanında uzmanlaşın."
   },
   {
@@ -2516,7 +2516,7 @@ export const sertifikaCards = [
     "title": "Görüntü ve Ses Sistemleri Elemanı",
     "code": "CERT-1542",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=600&h=400&fit=crop",
     "description": "Görüntü ve Ses Sistemleri Elemanı eğitimiyle cihaz kurulumu ve arıza giderme öğrenin, sertifikayla teknik alanda uzmanlaşın."
   },
   {
@@ -2536,7 +2536,7 @@ export const sertifikaCards = [
     "title": "Haberleşme Sistemleri Elemanı",
     "code": "CERT-1544",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1533664488202-6af66d26c44a?w=600&h=400&fit=crop",
     "description": "Haberleşme Sistemleri Elemanı eğitimiyle iletişim altyapılarını kurmayı öğrenin, sertifikayla teknik alanda kariyerinize yön verin."
   },
   {
@@ -2546,7 +2546,7 @@ export const sertifikaCards = [
     "title": "Haberleşme Tesisatı Bakım Onarımcısı",
     "code": "CERT-1545",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1643155193188-38eb08e2b54f?w=600&h=400&fit=crop",
     "description": "Haberleşme tesisatı bakım onarımcısı eğitimiyle altyapı arızalarını giderin, sertifikayla iletişim sektöründe teknik uzman olun."
   },
   {
@@ -2556,7 +2556,7 @@ export const sertifikaCards = [
     "title": "Isıtıcı Ev Aletleri Bakım Onarımcısı",
     "code": "CERT-1546",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1758101755915-462eddc23f57?w=600&h=400&fit=crop",
     "description": "Isıtıcı ev aletleri bakım onarımcısı eğitimiyle teknik servis becerisi kazanın, sertifika ile kariyerinize güçlü bir başlangıç yapın."
   },
   {
@@ -2566,7 +2566,7 @@ export const sertifikaCards = [
     "title": "Jeneratör Bakım Ve Onarımcısı",
     "code": "CERT-1547",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1658260867231-535a1f7c98b9?w=600&h=400&fit=crop",
     "description": "Jeneratör bakım ve onarımcısı eğitimiyle güç sistemlerinde uzmanlaşın, sertifika ile teknik alanda kariyerinize yön verin."
   },
   {
@@ -2576,7 +2576,7 @@ export const sertifikaCards = [
     "title": "Kapalı Devre Kamera Sistemleri Bakım Onarımcısı",
     "code": "CERT-1548",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=600&h=400&fit=crop",
     "description": "Kapalı Devre Kamera Sistemleri Bakım Onarımcısı CCTV sistemleri eğitimiyle kamera kurulum ve arıza onarımı öğrenin, sertifikayla güvenlik teknolojilerinde uzmanlaşın."
   },
   {
@@ -2586,7 +2586,7 @@ export const sertifikaCards = [
     "title": "Kuvvetli Akım Tesisatçısı",
     "code": "CERT-1549",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1601462904263-f2fa0c851cb9?w=600&h=400&fit=crop",
     "description": "Kuvvetli akım tesisatçısı eğitimiyle elektrik sistemlerini öğrenin, uygulamalı eğitim ve sertifikayla teknik kariyerinize yön verin."
   },
   {
@@ -2596,7 +2596,7 @@ export const sertifikaCards = [
     "title": "Mikrodenetleyiciler",
     "code": "CERT-1550",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?w=600&h=400&fit=crop",
     "description": "Mikrodenetleyiciler eğitimiyle gömülü sistemleri programlamayı öğrenin, uygulamalı içerik ve sertifika ile kariyerinizi geliştirin."
   },
   {
@@ -2606,7 +2606,7 @@ export const sertifikaCards = [
     "title": "Mobil İletişim Cihazları Bakım Onarımcısı",
     "code": "CERT-1551",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1607706189992-eae578626c86?w=600&h=400&fit=crop",
     "description": "Mobil İletişim Cihazları Bakım Onarımcısı eğitimiyle teknik beceriler kazanın, uygulamalı içerik ve sertifika ile sektörde fark yaratın."
   },
   {
@@ -2616,7 +2616,7 @@ export const sertifikaCards = [
     "title": "Oto Seslendirme Ve Görüntü Sistemleri Kurulumcusu",
     "code": "CERT-1552",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1618609377864-68609b857e90?w=600&h=400&fit=crop",
     "description": "Oto Seslendirme Ve Görüntü Sistemleri Kurulumcusu eğitimiyle teknik montaj becerisi kazanın, sertifikayla sektörde profesyonel bir adım atın."
   },
   {
@@ -2626,7 +2626,7 @@ export const sertifikaCards = [
     "title": "Pişirici Ev Aletleri Bakım Onarımcısı",
     "code": "CERT-1553",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&h=400&fit=crop",
     "description": "Pişirici Ev Aletleri Bakım Onarımcısı eğitimiyle teknik onarım becerileri kazanın, uygulamalı ders ve sertifikayla servis alanında uzmanlaşın."
   },
   {
@@ -2636,7 +2636,7 @@ export const sertifikaCards = [
     "title": "Santral İşletmeciliği",
     "code": "CERT-1554",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1683632398898-81d7db605188?w=600&h=400&fit=crop",
     "description": "Santral işletmeciliği eğitimiyle çağrı karşılama ve yönlendirme becerileri kazanın, sertifikayla iletişim sektöründe profesyonelleşin."
   },
   {
@@ -2646,7 +2646,7 @@ export const sertifikaCards = [
     "title": "Soğutucu Ev Aletleri Ve Klimalar Bakım Onarımcısı",
     "code": "CERT-1555",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494891848038-7bd202a2afeb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?w=600&h=400&fit=crop",
     "description": "Soğutucu Ev Aletleri Ve Klimalar Bakım Onarımcısı eğitimiyle teknik beceri kazanın, sertifika ile sektörde uzmanlaşın ve iş fırsatlarını değerlendirin."
   },
   {
@@ -2656,7 +2656,7 @@ export const sertifikaCards = [
     "title": "Televizyon Bakım Onarımcısı",
     "code": "CERT-1556",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1497015289639-54688650d173?w=600&h=400&fit=crop",
     "description": "Televizyon bakım onarımcısı eğitimiyle teknik arıza tespiti öğrenin, uygulamalı içerik ve sertifikayla sektörde uzmanlaşın."
   },
   {
@@ -2666,7 +2666,7 @@ export const sertifikaCards = [
     "title": "Temizleyici Ve Yıkayıcı Ev Aletleri Bakım Onarımcısı",
     "code": "CERT-1557",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1568089115315-abad68adda3c?w=600&h=400&fit=crop",
     "description": "Temizleyici Ve Yıkayıcı Ev Aletleri Bakım Onarımcısı eğitimiyle arıza tespiti ve bakım becerileri kazanın, sertifikayla teknik servis alanında uzmanlaşın."
   },
   {
@@ -2676,7 +2676,7 @@ export const sertifikaCards = [
     "title": "Tv Anten Sistemleri Kurulum Onarımcısı",
     "code": "CERT-1558",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1582193607281-dafb7941640f?w=600&h=400&fit=crop",
     "description": "Tv Anten Sistemleri Kurulum Onarımcısı eğitimiyle kurulum, ayar ve arıza giderme becerileri kazanın, sertifikayla yayın teknolojilerinde uzman olun."
   },
   {
@@ -2686,7 +2686,7 @@ export const sertifikaCards = [
     "title": "Yangın Algılama-Soygun Alarm Sistemleri Bakım Onarımcısı",
     "code": "CERT-1559",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1763685805275-1845419c01a1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1665655034446-1536f6de3fe6?w=600&h=400&fit=crop",
     "description": "Yangın Algılama-Soygun Alarm Sistemleri Bakım Onarımcısı eğitimiyle güvenlik cihazlarına hâkim olun, sertifikayla teknik servis alanında uzmanlaşın."
   },
   {
@@ -2696,7 +2696,7 @@ export const sertifikaCards = [
     "title": "Yürüyen Merdiven/Yol Sistemleri Bakım Onarım",
     "code": "CERT-1560",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1672870153035-bc63f75140d4?w=600&h=400&fit=crop",
     "description": "Yürüyen Merdiven/Yol Sistemleri Bakım Onarım eğitimi ile teknik bilgi edinin, sertifikayla sektörde uzmanlaşma fırsatı yakalayın."
   },
   {
@@ -2706,7 +2706,7 @@ export const sertifikaCards = [
     "title": "Zayıf Akım Tesisatçısı",
     "code": "CERT-1561",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581972327480-e3764d31e5e6?w=600&h=400&fit=crop",
     "description": "Zayıf Akım Tesisatçısı eğitimiyle güvenlik ve iletişim sistemlerinde uzmanlaşın, sertifikayla teknik alanda kariyerinizi güçlendirin."
   },
   {
@@ -2716,7 +2716,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Otomasyon Meslek Elemanı Yardımcısı",
     "code": "CERT-1562",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1762792809262-938b146e98bb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1652715564391-38cc4475b7f5?w=600&h=400&fit=crop",
     "description": "Endüstriyel Otomasyon Meslek Elemanı Yardımcısı ğitimiyle üretim hatlarında teknik destek verin, sertifikayla sanayi sektöründe uzmanlaşın."
   },
   {
@@ -2726,7 +2726,7 @@ export const sertifikaCards = [
     "title": "Mekatronik Sistemler Geliştirme Ve Uyum Eğitimi",
     "code": "CERT-1563",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1763685805275-1845419c01a1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=600&h=400&fit=crop",
     "description": "Mekatronik Sistemler Geliştirme Ve Uyum Eğitimi teknolojiye yön verin, üretim ve otomasyon alanında sertifikalı teknik uzmanlık kazanın."
   },
   {
@@ -2736,7 +2736,7 @@ export const sertifikaCards = [
     "title": "Mekatronikçi",
     "code": "CERT-1564",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1518314916381-77a37c2a49ae?w=600&h=400&fit=crop",
     "description": "Mekatronikçi eğitimiyle endüstriyel otomasyonda uzmanlaşın, sertifikayla üretim teknolojilerinde kariyerinizi güçlendirin."
   },
   {
@@ -2746,7 +2746,7 @@ export const sertifikaCards = [
     "title": "Otomasyon Sistemleri Destek Elemanı",
     "code": "CERT-1565",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1753272691001-4d68806ac590?w=600&h=400&fit=crop",
     "description": "Otomasyon Sistemleri Destek Elemanı eğitimiyle üretim teknolojilerine destek olun, sertifikayla teknik alanda iş fırsatları yakalayın."
   },
   {
@@ -2756,7 +2756,7 @@ export const sertifikaCards = [
     "title": "Gemi Blok Montaj",
     "code": "CERT-1571",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&h=400&fit=crop",
     "description": "Gemi blok montaj eğitimiyle tersane sektörüne adım atın, sertifikayla teknik beceri ve mesleki yetkinlik kazanın."
   },
   {
@@ -2766,7 +2766,7 @@ export const sertifikaCards = [
     "title": "Gemi Boru Donatım",
     "code": "CERT-1572",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&h=400&fit=crop",
     "description": "Gemi boru donatım eğitimiyle tersanelerde çalışmak için gerekli becerileri kazanın, sertifikayla mesleki yetkinlik elde edin."
   },
   {
@@ -2776,7 +2776,7 @@ export const sertifikaCards = [
     "title": "Gemi İnşaatında Metal Yüzeyleri Taşlama",
     "code": "CERT-1573",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1564182998523-6923112e7d6b?w=600&h=400&fit=crop",
     "description": "Gemi İnşaatında Metal Yüzeyleri Taşlama eğitimiyle yüzey işlemlerinde yetkinlik kazanın, sertifikayla tersanecilik sektörüne adım atın."
   },
   {
@@ -2786,7 +2786,7 @@ export const sertifikaCards = [
     "title": "Gemi Kaynak Teknikleri",
     "code": "CERT-1574",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1698664683348-f9f35b809821?w=600&h=400&fit=crop",
     "description": "Gemi kaynak teknikleri eğitimiyle tersanecilikte uzmanlaşın, sertifikayla denizcilik sektöründe güvenilir iş fırsatlarına ulaşın."
   },
   {
@@ -2796,7 +2796,7 @@ export const sertifikaCards = [
     "title": "Kompozit Yat Yapımcısı",
     "code": "CERT-1575",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1518378188025-22bd89516ee2?w=600&h=400&fit=crop",
     "description": "Kompozit yat yapımcısı eğitimiyle üretim becerileri kazanın, sertifikayla denizcilik sektöründe profesyonel kariyer fırsatları elde edin."
   },
   {
@@ -2806,7 +2806,7 @@ export const sertifikaCards = [
     "title": "Ön İmalat ve Montaj",
     "code": "CERT-1576",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1716191299980-a6e8827ba10b?w=600&h=400&fit=crop",
     "description": "Ön imalat ve montaj eğitimiyle üretim süreçlerine hazırlanabilir, sertifikayla sanayi sektöründe mesleki yetkinlik kazanabilirsiniz."
   },
   {
@@ -2816,7 +2816,7 @@ export const sertifikaCards = [
     "title": "Tekne Ve Yat Bakım Onarım",
     "code": "CERT-1577",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1540946485063-a40da27545f8?w=600&h=400&fit=crop",
     "description": "Tekne ve yat bakım onarım eğitimiyle teknik beceriler kazanın, sertifikayla marina ve tersane sektöründe istihdam fırsatları yakalayın."
   },
   {
@@ -2826,7 +2826,7 @@ export const sertifikaCards = [
     "title": "Tekne ve Yat İskeletciliği",
     "code": "CERT-1578",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1663674672961-bb3fcdbccd60?w=600&h=400&fit=crop",
     "description": "Tekne ve yat iskeletçiliği eğitimiyle üretim becerileri kazanın, sertifikayla tersane ve denizcilik sektöründe istihdam fırsatları yakalayın."
   },
   {
@@ -2836,7 +2836,7 @@ export const sertifikaCards = [
     "title": "Tekne ve Yat Kamaracılığı",
     "code": "CERT-1579",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
     "description": "Tekne ve yat kamaracılığı eğitimiyle iç donanım becerileri kazanın, sertifikayla denizcilik sektöründe uzman olarak yer alın."
   },
   {
@@ -2846,7 +2846,7 @@ export const sertifikaCards = [
     "title": "Çay Paketleme Elemanı",
     "code": "CERT-1580",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600&h=400&fit=crop",
     "description": "Çay paketleme elamanı eğitimiyle üretim sürecine katılın, sertifikayla gıda sektöründe iş bulma şansınızı artırın."
   },
   {
@@ -2856,7 +2856,7 @@ export const sertifikaCards = [
     "title": "Çay Üretimi ve İşleme Elemanı",
     "code": "CERT-1581",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1762792809262-938b146e98bb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600&h=400&fit=crop",
     "description": "Çay Üretimi ve İşleme Elemanı eğitimiyle tarım-gıda alanında bilgi kazanın, sertifikayla üretim sürecine profesyonel olarak dahil olun."
   },
   {
@@ -2866,7 +2866,7 @@ export const sertifikaCards = [
     "title": "Gıda Hijyeni ve Sanitasyon",
     "code": "CERT-1582",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1584634731339-252c581abfc5?w=600&h=400&fit=crop",
     "description": "Gıda hijyeni ve sanitasyon eğitimiyle güvenli üretim bilgisi kazanın, sertifikayla gıda sektöründe çalışmaya profesyonel başlayın."
   },
   {
@@ -2876,7 +2876,7 @@ export const sertifikaCards = [
     "title": "Gıda Kontrol Elemanı",
     "code": "CERT-1583",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?w=600&h=400&fit=crop",
     "description": "Gıda kontrol elemanı eğitimiyle kalite denetimi ve hijyen uygulamalarını öğrenin, sertifikayla sektörde görev alın."
   },
   {
@@ -2886,7 +2886,7 @@ export const sertifikaCards = [
     "title": "İşletmelerde Hijyen",
     "code": "CERT-1584",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1584030373081-f37b7bb4fa8e?w=600&h=400&fit=crop",
     "description": "İşletmelerde hijyen eğitimiyle temizlik kurallarını öğrenin, sertifikayla iş yerinizde hijyen standartlarını uygulayın."
   },
   {
@@ -2896,7 +2896,7 @@ export const sertifikaCards = [
     "title": "Paketlemeci",
     "code": "CERT-1585",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=600&h=400&fit=crop",
     "description": "Paketlemeci eğitimiyle ambalaj süreçlerini öğrenin, sertifikayla üretim ve lojistik sektöründe iş imkânı yakalayın."
   },
   {
@@ -2906,7 +2906,7 @@ export const sertifikaCards = [
     "title": "Sebze ve Meyve İşleme Elemanı",
     "code": "CERT-1586",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?w=600&h=400&fit=crop",
     "description": "Sebze ve Meyve İşleme Elemanı eğitimiyle gıda üretiminde uzmanlaşın, sertifikayla fabrikalarda ve üretim alanlarında çalışın."
   },
   {
@@ -2916,7 +2916,7 @@ export const sertifikaCards = [
     "title": "Süt Hijyeni",
     "code": "CERT-1587",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600&h=400&fit=crop",
     "description": "Süt hijyeni eğitimiyle hijyenik üretim süreçlerini öğrenin, sertifikayla mandıra ve süt tesislerinde çalışın."
   },
   {
@@ -2926,7 +2926,7 @@ export const sertifikaCards = [
     "title": "Süt İşleme Elemanı",
     "code": "CERT-1588",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=600&h=400&fit=crop",
     "description": "Süt işleme elemanı eğitimiyle süt ürünleri üretimini öğrenin, sertifikayla mandıra ve gıda tesislerinde görev alın."
   },
   {
@@ -2936,7 +2936,7 @@ export const sertifikaCards = [
     "title": "Unlu Mamüller Üretim",
     "code": "CERT-1589",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1763685805275-1845419c01a1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=600&h=400&fit=crop",
     "description": "Unlu mamuller üretim eğitimiyle fırıncılık becerileri kazanın, sertifikayla pastane ve üretim tesislerinde çalışın."
   },
   {
@@ -2956,7 +2956,7 @@ export const sertifikaCards = [
     "title": "Zeytinyağı Üretim Elemanı",
     "code": "CERT-1591",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1610547939489-73202bc6afda?w=600&h=400&fit=crop",
     "description": "Zeytinyağı Üretim Elemanı eğitimiyle sıkım süreçlerini öğrenin, sertifikayla gıda sektöründe profesyonel olarak çalışın."
   },
   {
@@ -2966,7 +2966,7 @@ export const sertifikaCards = [
     "title": "Cilt Bakımı Hizmetleri",
     "code": "CERT-1614",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=600&h=400&fit=crop",
     "description": "Cilt bakımı hizmetleri eğitimiyle profesyonel beceriler kazanın, sertifikayla güzellik sektöründe kariyerinize sağlam adım atın."
   },
   {
@@ -2976,7 +2976,7 @@ export const sertifikaCards = [
     "title": "Cilt Bakımı Teknikleri",
     "code": "CERT-1615",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&h=400&fit=crop",
     "description": "Cilt bakımı teknikleri eğitimiyle doğru bakım yöntemlerini öğrenin, sertifika alarak güzellik sektöründe profesyonel olun."
   },
   {
@@ -2986,7 +2986,7 @@ export const sertifikaCards = [
     "title": "Cilt Bakımı Ve Epilasyon",
     "code": "CERT-1616",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1596178060671-7a80dc8059ea?w=600&h=400&fit=crop",
     "description": "Cilt bakımı ve epilasyon eğitimiyle uygulamalı bilgi edinin, e-Devlet onaylı sertifikayla güzellik sektöründe uzmanlaşın."
   },
   {
@@ -2996,7 +2996,7 @@ export const sertifikaCards = [
     "title": "Cilt Bakımı Ve Temel Makyaj",
     "code": "CERT-1617",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=600&h=400&fit=crop",
     "description": "Cilt bakımı ve temel makyaj eğitimiyle güzellik alanında bilgi ve beceri kazanın, sertifikayla profesyonel kariyere başlayın."
   },
   {
@@ -3006,7 +3006,7 @@ export const sertifikaCards = [
     "title": "El Bakımı",
     "code": "CERT-1618",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=600&h=400&fit=crop",
     "description": "El bakımı eğitimi ile doğru teknikleri öğrenin, sertifikayla güzellik sektöründe profesyonel olarak yerinizi alın."
   },
   {
@@ -3016,7 +3016,7 @@ export const sertifikaCards = [
     "title": "El Ve Ayak Bakımı",
     "code": "CERT-1619",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=600&h=400&fit=crop",
     "description": "El ve ayak bakımı eğitimiyle profesyonel uygulamaları öğrenin, sertifikayla güzellik alanında mesleki yetkinlik kazanın."
   },
   {
@@ -3026,7 +3026,7 @@ export const sertifikaCards = [
     "title": "Epilasyon ve Depilasyon",
     "code": "CERT-1620",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1700760933574-9f0f4ea9aa3b?w=600&h=400&fit=crop",
     "description": "Epilasyon ve depilasyon eğitimiyle uygulamalı bilgi kazanın, üniversite onaylı sertifikayla güzellik sektöründe uzmanlaşın."
   },
   {
@@ -3036,7 +3036,7 @@ export const sertifikaCards = [
     "title": "Foto Epilasyon (Ipl) Uygulama",
     "code": "CERT-1621",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1700760933941-3a06a28fbf47?w=600&h=400&fit=crop",
     "description": "Foto Epilasyon (Ipl) Uygulama eğitimi ile kalıcı tüy alma tekniklerini öğrenin, uygulamalı bilgi ve sertifikayla profesyonel olun."
   },
   {
@@ -3046,7 +3046,7 @@ export const sertifikaCards = [
     "title": "Fön Çekimi",
     "code": "CERT-1622",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=600&h=400&fit=crop",
     "description": "Fön çekimi eğitimiyle saç şekillendirme tekniklerini öğrenin, uygulamalı bilgi ve sertifikayla kuaförlük kariyerinize yön verin."
   },
   {
@@ -3056,7 +3056,7 @@ export const sertifikaCards = [
     "title": "Güzellik Hizmetleri Elemanı",
     "code": "CERT-1623",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&h=400&fit=crop",
     "description": "Güzellik hizmetleri elemanı eğitimi ile bakım alanında uzmanlaşın, uygulamalı bilgi ve sertifika ile mesleğe adım atın."
   },
   {
@@ -3066,7 +3066,7 @@ export const sertifikaCards = [
     "title": "Kalıcı Makyaj",
     "code": "CERT-1624",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=600&h=400&fit=crop",
     "description": "Kalıcı makyaj eğitimiyle kaş, dudak ve eyeliner uygulamalarında uzmanlaşın; sertifika ile profesyonel kariyerinize başlayın."
   },
   {
@@ -3076,7 +3076,7 @@ export const sertifikaCards = [
     "title": "Kese Köpük Masajı",
     "code": "CERT-1625",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=600&h=400&fit=crop",
     "description": "Kese köpük masajı eğitimi ile spa ve hamam sektöründe uzmanlaşın, uygulamalı öğrenin ve geçerli sertifika ile çalışmaya başlayın."
   },
   {
@@ -3086,7 +3086,7 @@ export const sertifikaCards = [
     "title": "Klasik Masaj Teknikleri",
     "code": "CERT-1626",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=600&h=400&fit=crop",
     "description": "Klasik masaj teknikleri eğitimiyle uygulamalı bilgi kazanın, üniversite onaylı sertifikayla profesyonel spa ve wellness alanında çalışın."
   },
   {
@@ -3096,7 +3096,7 @@ export const sertifikaCards = [
     "title": "Kozmetik Ürünleri Tanıtma Ve Uygulama",
     "code": "CERT-1627",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1597931752949-98c74b5b159f?w=600&h=400&fit=crop",
     "description": "Kozmetik ürünleri tanıtma ve uygulama eğitimi ile satış becerilerinizi artırın, sertifikayla sektörde uzmanlaşın."
   },
   {
@@ -3106,7 +3106,7 @@ export const sertifikaCards = [
     "title": "Tehlikeli ve Çok Tehlikeli İşlerde Her Türlü Çöp ve Atık Maddeler",
     "code": "CERT-1628",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1595278069441-2cf29f8005a4?w=600&h=400&fit=crop",
     "description": "Tehlikeli ve Çok Tehlikeli İşlerde Her Türlü Çöp ve Atık Maddeler eğitimi alın, sertifikayla iş sağlığı ve güvenliği alanında uzmanlaşın."
   },
   {
@@ -3116,7 +3116,7 @@ export const sertifikaCards = [
     "title": "Kuaför",
     "code": "CERT-1629",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1567894340315-735d7c361db0?w=600&h=400&fit=crop",
     "description": "Kuaför eğitimi ile saç kesim ve bakım tekniklerini öğrenin, sertifikayla profesyonel kuaför olarak çalışmaya başlayın."
   },
   {
@@ -3126,7 +3126,7 @@ export const sertifikaCards = [
     "title": "Makyaj Elemanı",
     "code": "CERT-1630",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?w=600&h=400&fit=crop",
     "description": "Makyaj elemanı eğitimi ile makyaj tekniklerini öğrenin, sertifikayla profesyonel güzellik sektöründe çalışmaya başlayın."
   },
   {
@@ -3136,7 +3136,7 @@ export const sertifikaCards = [
     "title": "Makyör-Makyöz",
     "code": "CERT-1631",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494891848038-7bd202a2afeb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1620464003286-a5b0d79f32c2?w=600&h=400&fit=crop",
     "description": "Makyör-makyöz eğitimi ile sahne ve özel makyajlarda uzmanlaşın, sertifikayla sanatsal kariyerinizi başlatın."
   },
   {
@@ -3146,7 +3146,7 @@ export const sertifikaCards = [
     "title": "Manikürist",
     "code": "CERT-1632",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=600&h=400&fit=crop",
     "description": "Manikürist eğitimi ile tırnak bakımında uzmanlaşın, e-Devlet onaylı sertifikayla güzellik merkezlerinde çalışın."
   },
   {
@@ -3156,7 +3156,7 @@ export const sertifikaCards = [
     "title": "Masaj Uygulayıcı",
     "code": "CERT-1633",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?w=600&h=400&fit=crop",
     "description": "Masaj uygulayıcı eğitimi ile klasik teknikleri öğrenin, e-Devlet onaylı sertifika ile profesyonel olarak çalışın."
   },
   {
@@ -3166,7 +3166,7 @@ export const sertifikaCards = [
     "title": "Protez Tırnak",
     "code": "CERT-1634",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?w=600&h=400&fit=crop",
     "description": "Protez tırnak eğitimi ile jel ve akrilik uygulamaları öğrenin, e-Devlet onaylı sertifika ile profesyonel olun."
   },
   {
@@ -3176,7 +3176,7 @@ export const sertifikaCards = [
     "title": "Saç Bakımı Ve Yapımı",
     "code": "CERT-1635",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=600&h=400&fit=crop",
     "description": "Saç bakımı ve yapımı eğitimiyle uygulamalı bilgi kazanın, e-Devlet onaylı sertifika ile sektörde profesyonel olun."
   },
   {
@@ -3186,7 +3186,7 @@ export const sertifikaCards = [
     "title": "Saç Renklendirme",
     "code": "CERT-1636",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1501166222995-ff31c7e93cef?w=600&h=400&fit=crop",
     "description": "Saç renklendirme eğitimiyle profesyonel teknikleri öğrenin, e-Devlet onaylı sertifika ile sektörde uzmanlaşın."
   },
   {
@@ -3196,7 +3196,7 @@ export const sertifikaCards = [
     "title": "Saç ve Sakal Kesimi",
     "code": "CERT-1637",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1647140655214-e4a2d914971f?w=600&h=400&fit=crop",
     "description": "Saç ve sakal kesimi eğitimiyle modern berberlik tekniklerini öğrenin, sertifikanızla profesyonel hizmet sunun."
   },
   {
@@ -3206,7 +3206,7 @@ export const sertifikaCards = [
     "title": "Sahne Makyajı",
     "code": "CERT-1638",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=600&h=400&fit=crop",
     "description": "Sahne makyajı eğitimiyle tiyatro ve film sektöründe profesyonel olun, e-Devlet onaylı sertifika ile kariyerinize yön verin."
   },
   {
@@ -3216,7 +3216,7 @@ export const sertifikaCards = [
     "title": "SPA Personel Eğitimi",
     "code": "CERT-1639",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?w=600&h=400&fit=crop",
     "description": "SPA personel eğitimi ile profesyonel bakım tekniklerini öğrenin, dijital sertifika ile güzellik sektöründe kariyer yapın."
   },
   {
@@ -3226,7 +3226,7 @@ export const sertifikaCards = [
     "title": "SPA Yöneticisi",
     "code": "CERT-1640",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1621468644541-deea173bd43e?w=600&h=400&fit=crop",
     "description": "SPA yöneticisi eğitimi ile liderlik ve yönetim becerileri kazanın, dijital sertifika ile sektörde fark yaratın."
   },
   {
@@ -3236,7 +3236,7 @@ export const sertifikaCards = [
     "title": "Temel Makyaj",
     "code": "CERT-1641",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&h=400&fit=crop",
     "description": "Temel makyaj eğitimiyle makyaj tekniklerini öğrenin, sertifikanızla güzellik sektöründe profesyonel olun."
   },
   {
@@ -3246,7 +3246,7 @@ export const sertifikaCards = [
     "title": "Tırnak Süsleme",
     "code": "CERT-1642",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1610992015762-45dca7fa3a85?w=600&h=400&fit=crop",
     "description": "Tırnak süsleme eğitimi ile yaratıcı tasarımlar yapmayı öğrenin, dijital sertifika ile profesyonel olun."
   },
   {
@@ -3256,7 +3256,7 @@ export const sertifikaCards = [
     "title": "Vücut Bakımı ve Masaj Elemanı",
     "code": "CERT-1643",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?w=600&h=400&fit=crop",
     "description": "Vücut bakımı ve masaj elemanı eğitimiyle profesyonel olun, uygulamalı eğitim ve dijital sertifika ile sektöre güvenle adım atın."
   },
   {
@@ -3266,7 +3266,7 @@ export const sertifikaCards = [
     "title": "Yüz ve Vücut Masajı",
     "code": "CERT-1644",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=600&h=400&fit=crop",
     "description": "Yüz ve vücut masajı eğitimiyle rahatlatıcı teknikleri öğrenin, sertifikanızla spa ve güzellik sektöründe yerinizi alın."
   },
   {
@@ -3276,7 +3276,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Destekli Harita Çizimi",
     "code": "CERT-1655",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1532154066703-3973764c81fe?w=600&h=400&fit=crop",
     "description": "Bilgisayar Destekli Harita Çizimi yazılımlarını öğrenerek teknik çizim becerileri kazanın, sertifikalı uzman olarak sektörde yerinizi alın."
   },
   {
@@ -3286,7 +3286,7 @@ export const sertifikaCards = [
     "title": "Hasta ve Yaşlı Öz Bakımına Destek Olacakların Eğitimi",
     "code": "CERT-1656",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1621886292650-520f76c747d6?w=600&h=400&fit=crop",
     "description": "Hasta ve Yaşlı Öz Bakımına Destek Olacakların Eğitimi isteyenler için uygulamalı ve sertifikalı profesyonel eğitim programı."
   },
   {
@@ -3296,7 +3296,7 @@ export const sertifikaCards = [
     "title": "Öz Bakıma Destek Elemanı Eğitimi",
     "code": "CERT-1657",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=600&h=400&fit=crop",
     "description": "Öz Bakıma Destek Elemanı Eğitimi sunmak isteyenler için hijyen, iletişim ve bakım becerilerini içeren sertifikalı eğitim programı."
   },
   {
@@ -3306,7 +3306,7 @@ export const sertifikaCards = [
     "title": "Ahşap Çatıcı",
     "code": "CERT-1658",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581539250439-c96689b516dd?w=600&h=400&fit=crop",
     "description": "Ahşap çatıcı eğitimiyle montaj ve bakım becerileri kazanarak sertifikalı ustalıkla yapı sektöründe uzmanlaşın."
   },
   {
@@ -3316,7 +3316,7 @@ export const sertifikaCards = [
     "title": "Ahşap Doğramacı",
     "code": "CERT-1659",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1601058268499-e52658b8bb88?w=600&h=400&fit=crop",
     "description": "Ahşap doğramacı eğitimi ile kapı, pencere ve mobilya üretiminde uzmanlaşın, sertifikalı ustalıkla sektörde yerinizi alın."
   },
   {
@@ -3326,7 +3326,7 @@ export const sertifikaCards = [
     "title": "Ahşap Kaplamacısı",
     "code": "CERT-1660",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1534503442463-e0ddba45cf4c?w=600&h=400&fit=crop",
     "description": "Ahşap kaplamacısı eğitimiyle yüzey işleme tekniklerini öğrenin, mobilya ve dekorasyonda sertifikalı uzman olarak öne çıkın."
   },
   {
@@ -3336,7 +3336,7 @@ export const sertifikaCards = [
     "title": "Ahşap Restorasyonu Elemanı",
     "code": "CERT-1661",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&h=400&fit=crop",
     "description": "Ahşap Restorasyonu Elemanı eğitimiyle tarihi yapıların onarımında uzmanlaşın, sertifikalı mesleki becerilerle sektörde yerinizi alın."
   },
   {
@@ -3346,7 +3346,7 @@ export const sertifikaCards = [
     "title": "Alçı Plaka Asma Tavan",
     "code": "CERT-1662",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1482731215275-a1f151646268?w=600&h=400&fit=crop",
     "description": "Alçı plaka asma tavan eğitimiyle tavan sistemleri montajında uzmanlaşın, sertifikalı becerilerle inşaat sektöründe yer alın."
   },
   {
@@ -3356,7 +3356,7 @@ export const sertifikaCards = [
     "title": "Alçı Plaka Bölme Duvar",
     "code": "CERT-1663",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1547056961-3c25e9140b05?w=600&h=400&fit=crop",
     "description": "Alçı plaka bölme duvar eğitimiyle yapı içi bölme sistemlerinde uzmanlaşın, sertifikalı becerilerle iş dünyasında fark yaratın."
   },
   {
@@ -3366,7 +3366,7 @@ export const sertifikaCards = [
     "title": "Alçı Plaka Uygulamaları",
     "code": "CERT-1664",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1733431772808-82d878e59000?w=600&h=400&fit=crop",
     "description": "Alçı plaka uygulamaları eğitimiyle montaj becerisi kazanın, e-Devlet onaylı sertifika ile yapı sektöründe öne çıkın."
   },
   {
@@ -3376,7 +3376,7 @@ export const sertifikaCards = [
     "title": "Alçı ve Kartonpiyerci",
     "code": "CERT-1665",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1501622832816-1ea85e83687a?w=600&h=400&fit=crop",
     "description": "Alçı ve kartonpiyerci eğitimiyle iç mekân süslemelerinde uzmanlaşın, uygulamalı becerilerle sertifikalı meslek sahibi olun."
   },
   {
@@ -3386,7 +3386,7 @@ export const sertifikaCards = [
     "title": "Betonarme Demircisi",
     "code": "CERT-1666",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1640101086894-7d70c3e70179?w=600&h=400&fit=crop",
     "description": "Betonarme demircisi eğitimiyle donatı işlerinde uzmanlaşın, sertifikalı uygulamalı eğitimle inşaat sektöründe güvenle çalışın."
   },
   {
@@ -3396,7 +3396,7 @@ export const sertifikaCards = [
     "title": "Betonarme Kalıpçısı",
     "code": "CERT-1667",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1673978483362-7394ef237825?w=600&h=400&fit=crop",
     "description": "Betonarme kalıpçısı eğitimi ile kalıp montajında uzmanlaşın, dijital sertifika ile inşaat sektöründe güçlü kariyer fırsatları yakalayın."
   },
   {
@@ -3406,7 +3406,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Destekli Mimari Modelleme Revit Geliştirme",
     "code": "CERT-1668",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=600&h=400&fit=crop",
     "description": "Bilgisayar Destekli Mimari Modelleme Revit Geliştirme öğrenin, dijital sertifika ile mimarlık sektöründe kariyer fırsatlarını yakalayın."
   },
   {
@@ -3416,7 +3416,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Destekli Yapı Tasarımı ve İDECAD Geliştirme",
     "code": "CERT-1669",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?w=600&h=400&fit=crop",
     "description": "Bilgisayar destekli yapı tasarımı ve İDECAD geliştirme eğitimi ile projelerinizi dijital ortamda tasarlayın, sertifikalı uzman olarak sektörde yer alın."
   },
   {
@@ -3426,7 +3426,7 @@ export const sertifikaCards = [
     "title": "Boyacı",
     "code": "CERT-1670",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1525909002-1b05e0c869d8?w=600&h=400&fit=crop",
     "description": "Boyacı eğitimi ile yüzey hazırlama ve boyama tekniklerini öğrenin, dijital sertifika ile sektörde uzman olun."
   },
   {
@@ -3436,7 +3436,7 @@ export const sertifikaCards = [
     "title": "Dış ve İç Cephe Kaplama Ve Yalıtım",
     "code": "CERT-1671",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1543525324-dc2c9006d03d?w=600&h=400&fit=crop",
     "description": "Dış ve iç cephe kaplama ve yalıtım eğitimi ile yapıların enerji verimliliğini artırın, sertifikalı uzman olun."
   },
   {
@@ -3446,7 +3446,7 @@ export const sertifikaCards = [
     "title": "Duvar Ve Zemin Kaplamaları Geliştirme",
     "code": "CERT-1672",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1573869908170-64b53a60d8da?w=600&h=400&fit=crop",
     "description": "Duvar ve zemin kaplamaları geliştirme eğitimi ile uygulama tekniklerini öğrenin, dijital sertifika ile yapı sektöründe uzmanlaşın."
   },
   {
@@ -3456,7 +3456,7 @@ export const sertifikaCards = [
     "title": "Isı ve Ses Yalıtımcısı",
     "code": "CERT-1673",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1591684080176-bb2b73f9ec68?w=600&h=400&fit=crop",
     "description": "Isı ve ses yalıtımcısı eğitimi ile yapı konforunu artıran teknikleri öğrenin, sertifikalı uzman olarak sektöre adım atın."
   },
   {
@@ -3466,7 +3466,7 @@ export const sertifikaCards = [
     "title": "İç Mekân Dekorasyon Ve Kartonpiyer Geliştirme",
     "code": "CERT-1674",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1705909944158-5325de9bb3a7?w=600&h=400&fit=crop",
     "description": "İç mekân dekorasyon ve kartonpiyer geliştirme eğitimi ile estetik tasarımlar yapın, dijital sertifika ile mesleki yetkinlik kazanın."
   },
   {
@@ -3476,7 +3476,7 @@ export const sertifikaCards = [
     "title": "İnşaat Ekip Başı",
     "code": "CERT-1675",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1622434641406-a158123450f9?w=600&h=400&fit=crop",
     "description": "İnşaat ekip başı eğitimi ile liderlik, organizasyon ve uygulama becerileri kazanarak dijital sertifika sahibi olun."
   },
   {
@@ -3486,7 +3486,7 @@ export const sertifikaCards = [
     "title": "Kagir Restorasyonu Elemanı",
     "code": "CERT-1676",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=600&h=400&fit=crop",
     "description": "Kâgir restorasyonu elamanı eğitimi ile tarihi yapıların onarımında uzmanlaşın, dijital sertifika ile mesleki belgelendirme kazanın."
   },
   {
@@ -3496,7 +3496,7 @@ export const sertifikaCards = [
     "title": "Kanalizasyon Bakım Onarım Elemanı",
     "code": "CERT-1677",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1776623446667-d4766813aad8?w=600&h=400&fit=crop",
     "description": "Kanalizasyon bakım onarım elamanı eğitimiyle altyapı sistemlerinde çalışmak için gerekli becerileri edinip dijital sertifika sahibi olun."
   },
   {
@@ -3516,7 +3516,7 @@ export const sertifikaCards = [
     "title": "Makine ve El İle Alçı ve Çimentolu Sıva",
     "code": "CERT-1679",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1531685250784-7569952593d2?w=600&h=400&fit=crop",
     "description": "Makine ve El İle Alçı ve Çimentolu Sıva eğitimiyle yapı sektöründe uzmanlaşın, uygulamalı tekniklerle beceri kazanıp dijital sertifika sahibi olun."
   },
   {
@@ -3526,7 +3526,7 @@ export const sertifikaCards = [
     "title": "Mermer ve Taş Kaplamacı",
     "code": "CERT-1680",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1563219125-1db796e20ff2?w=600&h=400&fit=crop",
     "description": "Mermer ve taş kaplamacı eğitimiyle doğal taş uygulamalarını öğrenin, yapı sektöründe belgeyle uzmanlaşma fırsatını yakalayın."
   },
   {
@@ -3536,7 +3536,7 @@ export const sertifikaCards = [
     "title": "Nükleer Enerjiyle Çalışan Tesislerde Betonarme Demircilik Eğitimi",
     "code": "CERT-1681",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1773432114391-f85c1674b233?w=600&h=400&fit=crop",
     "description": "Nükleer Enerjiyle Çalışan Tesislerde Betonarme Demircilik Eğitimi yüksek güvenlikli yapılarda görev almak için sertifikalı uzmanlık kazanın."
   },
   {
@@ -3546,7 +3546,7 @@ export const sertifikaCards = [
     "title": "Nükleer Enerjiyle Çalışan Tesislerde Betoncu Eğitimi",
     "code": "CERT-1682",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1630142895963-6996ae6b3a5b?w=600&h=400&fit=crop",
     "description": "Nükleer Enerjiyle Çalışan Tesislerde Betoncu Eğitimi ile uygulamalı teknik bilgi kazanarak, sertifikalı uzman olarak büyük projelerde görev alın."
   },
   {
@@ -3556,7 +3556,7 @@ export const sertifikaCards = [
     "title": "Nükleer Enerjiyle Çalışan Tesislerde Çelik Yapı Montajı",
     "code": "CERT-1683",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1591200834528-4050ce99fe78?w=600&h=400&fit=crop",
     "description": "Nükleer Enerjiyle Çalışan Tesislerde Çelik Yapı Montajı belge sahibi olun, enerji projelerinde görev alacak teknik uzmanlığınızı geliştirin."
   },
   {
@@ -3566,7 +3566,7 @@ export const sertifikaCards = [
     "title": "Nükleer Enerjiyle Çalışan Tesislerde Kalıp Sistemleri Montajı",
     "code": "CERT-1684",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1610720707798-6fe21dc165ba?w=600&h=400&fit=crop",
     "description": "Nükleer Enerjiyle Çalışan Tesislerde Kalıp Sistemleri Montajı eğitimiyle belge kazanın, yüksek güvenlikli yapıların inşasında teknik uzman olarak görev alın."
   },
   {
@@ -3576,7 +3576,7 @@ export const sertifikaCards = [
     "title": "Nükleer Enerjiyle Çalışan Tesislerde Kalıp Ve İskele Montajı",
     "code": "CERT-1685",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1630142896875-d71a6ee6db03?w=600&h=400&fit=crop",
     "description": "Nükleer Enerjiyle Çalışan Tesislerde Kalıp Ve İskele Montajı eğitimi ile belgelendirilmiş uzmanlık kazanarak güvenli yapı projelerinde görev alın."
   },
   {
@@ -3586,7 +3586,7 @@ export const sertifikaCards = [
     "title": "Parke Taşı ve Bordür Kaplamacı",
     "code": "CERT-1686",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1508920052992-6f5a921eba78?w=600&h=400&fit=crop",
     "description": "Parke taşı ve bordür kaplamacı eğitimiyle uygulamalı bilgi ve belge sahibi olun, çevre düzenleme sektöründe uzmanlaşın."
   },
   {
@@ -3596,7 +3596,7 @@ export const sertifikaCards = [
     "title": "PVC Doğramacı",
     "code": "CERT-1687",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1553051021-9f94520a6cad?w=600&h=400&fit=crop",
     "description": "PVC doğramacı eğitimiyle pencere ve kapı üretiminde uzmanlık kazanın, geçerli sertifikayla yapı sektöründe yer alın."
   },
   {
@@ -3606,7 +3606,7 @@ export const sertifikaCards = [
     "title": "Selülozik Boya",
     "code": "CERT-1688",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1595429035839-c99c298ffdde?w=600&h=400&fit=crop",
     "description": "Selülozik boya eğitimiyle profesyonel yüzey boyama tekniklerini öğrenin, uygulamalı bilgi ve geçerli sertifika kazanın."
   },
   {
@@ -3616,7 +3616,7 @@ export const sertifikaCards = [
     "title": "Sentetik Boya",
     "code": "CERT-1689",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=600&h=400&fit=crop",
     "description": "Sentetik boya eğitimiyle yüzey boyama tekniklerini öğrenin, uygulamalı bilgi ve geçerli sertifikayla sektörde uzmanlaşın."
   },
   {
@@ -3626,7 +3626,7 @@ export const sertifikaCards = [
     "title": "Seramik Karo Kaplamacı",
     "code": "CERT-1690",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1523350165414-082d792c4bcc?w=600&h=400&fit=crop",
     "description": "Seramik karo kaplamacı eğitimiyle zemin ve duvar kaplamasında uzmanlaşın, geçerli sertifikayla yapı sektöründe yer alın."
   },
   {
@@ -3636,7 +3636,7 @@ export const sertifikaCards = [
     "title": "Seramik Uygulama",
     "code": "CERT-1691",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1580398562556-d33329a0f29b?w=600&h=400&fit=crop",
     "description": "Seramik uygulama eğitimi ile yüzey kaplama becerisi kazanarak e-Devlet onaylı sertifika sahibi olun ve sektöre adım atın."
   },
   {
@@ -3646,7 +3646,7 @@ export const sertifikaCards = [
     "title": "Sıvacı(Ö.E)",
     "code": "CERT-1692",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1533628635777-112b2239b1c7?w=600&h=400&fit=crop",
     "description": "Sıvacı eğitimiyle duvar ve tavan kaplamasında uzmanlaşın, uygulamalı bilgi ve geçerli sertifikayla yapı sektörüne katılın."
   },
   {
@@ -3656,7 +3656,7 @@ export const sertifikaCards = [
     "title": "Su Bazlı Boya",
     "code": "CERT-1693",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1693985120993-e9b203ce7631?w=600&h=400&fit=crop",
     "description": "Su bazlı boya eğitimiyle çevreci boyama tekniklerini öğrenin, uygulamalı bilgi ve geçerli sertifikayla sektörde yerinizi alın."
   },
   {
@@ -3666,7 +3666,7 @@ export const sertifikaCards = [
     "title": "Su ve Nem Yalıtımcısı",
     "code": "CERT-1694",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1625577815636-d7a61b583799?w=600&h=400&fit=crop",
     "description": "Su ve nem yalıtımcısı eğitimiyle yapı izolasyonu öğrenin, uygulamalı eğitim ve geçerli sertifika ile sektöre adım atın."
   },
   {
@@ -3676,7 +3676,7 @@ export const sertifikaCards = [
     "title": "Süsleme Restorasyonu Elemanı",
     "code": "CERT-1695",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1762507936435-4e9cb401a364?w=600&h=400&fit=crop",
     "description": "Süsleme restorasyonu elemanı eğitimiyle tarihi yapıların estetik değerlerini koruyun, uygulamalı bilgi ve geçerli sertifika ile uzmanlaşın."
   },
   {
@@ -3686,7 +3686,7 @@ export const sertifikaCards = [
     "title": "Taş Restoratörü",
     "code": "CERT-1696",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?w=600&h=400&fit=crop",
     "description": "Taş restoratörü eğitimiyle tarihi taş yapıların onarımını öğrenin, uygulamalı eğitimle uzmanlaşın, geçerli sertifikayla sektöre adım atın."
   },
   {
@@ -3696,7 +3696,7 @@ export const sertifikaCards = [
     "title": "Taş ve Tuğla Duvarcısı",
     "code": "CERT-1697",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1494067329533-4385a4867cd4?w=600&h=400&fit=crop",
     "description": "Taş ve tuğla duvarcısı eğitimiyle inşaatta uzmanlaşın, uygulamalı bilgilerle beceri kazanın, belgenizle iş imkânlarını artırın."
   },
   {
@@ -3706,7 +3706,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Ahşap Kalıpçı",
     "code": "CERT-1698",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1582540730843-f4418d96ccbe?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Ahşap Kalıpçı sektöründe uzmanlaşın, geçerli sertifika kazanın, uygulamalı bilgilerle mesleki yeterliliğinizi belgeleyin."
   },
   {
@@ -3716,7 +3716,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Alçı Levha Uygulayıcısı",
     "code": "CERT-1699",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1767771289106-c9e3db92de7a?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Alçı Levha Uygulayıcısı eğitimiyle inşaat sektöründe uzmanlaşın, belge kazanın, uygulamalı bilgilerle mesleki kariyerinize yön verin."
   },
   {
@@ -3726,7 +3726,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Alçı Sıva Uygulayıcısı",
     "code": "CERT-1700",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1523878288860-7ad281611901?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Alçı Sıva Uygulayıcısı sektöründe uzmanlaşın, uygulamalı öğrenin, sertifika alarak mesleki yeterlilik kazanın ve öne çıkın."
   },
   {
@@ -3736,7 +3736,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Betonarme Demircisi",
     "code": "CERT-1701",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430267658-6d281d8bbc33?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1673978483810-ad14e573eece?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Betonarme Demircisi eğitimiyle yapı sektöründe uzmanlaşın, uygulamalı bilgi edinin, belge alın ve inşaatlarda görev alın."
   },
   {
@@ -3746,7 +3746,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Betoncu",
     "code": "CERT-1702",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1771868453049-b7b4a4680b5c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1690719744562-249937b9c03a?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Betoncu sektöründe uzmanlaşın, uygulamalı beceriler kazanın, sertifikanızla mesleki yeterliliğinizi belgelendirin."
   },
   {
@@ -3756,7 +3756,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Duvarcı",
     "code": "CERT-1703",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1533738630286-f1f4a61705f8?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Duvarcı sektöründe ustalaşın, uygulamalı içeriklerle becerilerinizi artırın, sertifikanızla yetkinliğinizi belgeleyin."
   },
   {
@@ -3766,7 +3766,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Endüstriyel Boru Montajcısı",
     "code": "CERT-1704",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1717386255893-59c0846cdef0?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Endüstriyel Boru Montajcısı eğitimiyle yapı sektöründe uzmanlaşın, sertifikanızla mesleki yeterliliğinizi belgeleyerek iş fırsatlarını artırın."
   },
   {
@@ -3776,7 +3776,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Isı Yalıtımcısı",
     "code": "CERT-1705",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1657195721935-e73e545a2aae?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Isı Yalıtımcısı eğitimiyle yapı sektöründe uzmanlaşın, uygulamalı bilgi ve sertifikayla enerji verimliliği sağlayan işler yapın."
   },
   {
@@ -3786,7 +3786,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik İnşaat Boyacısı",
     "code": "CERT-1706",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1516962080544-eac695c93791?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik İnşaat Boyacısı sektörde uygulamalı bilgi kazanın, üniversite onaylı sertifika ile mesleğinizi resmileştirin."
   },
   {
@@ -3796,7 +3796,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik İskele Kurulum Elemanı",
     "code": "CERT-1707",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1616320999187-3c004dad4f0b?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik İskele Kurulum Elemanı güvenli montaj bilgisi kazanın, sertifikalı uzmanlıkla iş fırsatlarını artırın."
   },
   {
@@ -3806,7 +3806,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Panel Kalıpçı",
     "code": "CERT-1708",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1616179058441-37aa58affac8?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Panel Kalıpçı eğitimiyle yapı sektöründe uzmanlaşın, üniversite onaylı sertifika ile mesleki yeterliliğinizi belgeleyin."
   },
   {
@@ -3816,7 +3816,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Seramik Karo Kaplamacısı",
     "code": "CERT-1709",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1600328604921-300918f36018?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Seramik Karo Kaplamacısı eğitimiyle yapı sektöründe uygulamalı beceri kazanın, sertifika ile mesleki yeterliliğinizi belgeleyin."
   },
   {
@@ -3826,7 +3826,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Ses Yalıtımcısı",
     "code": "CERT-1710",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1768321903410-54961e343b71?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Ses Yalıtımcısı sektöründe uzmanlaşın, sertifika ile mesleki niteliğinizi belgeleyerek iş fırsatlarınızı artırın."
   },
   {
@@ -3836,7 +3836,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Sıvacı",
     "code": "CERT-1711",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Sıvacı , sertifika ile mesleki yeterliliğinizi belgeleyin ve iş olanaklarınızı artırın."
   },
   {
@@ -3846,7 +3846,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Su Yalıtımcısı",
     "code": "CERT-1712",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1768321916340-b05845f26f9e?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Su Yalıtımcısı ile yapı sektöründe uzmanlaşın, geçerli sertifika ile iş fırsatlarınızı güçlendirin ve fark yaratın."
   },
   {
@@ -3856,7 +3856,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Tünel Kalıpçısı",
     "code": "CERT-1713",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1712711649566-16c7cfcf341c?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Tünel Kalıpçısı ile yapı sektöründe nitelikli eleman olun, geçerli sertifika ile iş olanaklarınızı artırın."
   },
   {
@@ -3866,7 +3866,7 @@ export const sertifikaCards = [
     "title": "Yapı Sektöründe Çalışanlara Yönelik Yangın Yalıtımcısı",
     "code": "CERT-1714",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1575867094974-9e16b6f55360?w=600&h=400&fit=crop",
     "description": "Yapı Sektöründe Çalışanlara Yönelik Yangın Yalıtımcısı yapı güvenliğinde uzmanlaşın, geçerli sertifika ile sektörde kariyerinize yön verin."
   },
   {
@@ -3876,7 +3876,7 @@ export const sertifikaCards = [
     "title": "Takı İmalatçısı",
     "code": "CERT-1731",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1512163143273-bde0e3cc7407?w=600&h=400&fit=crop",
     "description": "Takı imalatçısı eğitimiyle el becerinizi geliştirin, sertifikalı mesleki yetkinlik ile kuyumculuk sektörüne adım atın."
   },
   {
@@ -3886,7 +3886,7 @@ export const sertifikaCards = [
     "title": "Takı Tasarımcısı",
     "code": "CERT-1732",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1543294001-f7cd5d7fb516?w=600&h=400&fit=crop",
     "description": "Takı tasarımcısı eğitimi ile yaratıcı yönünüzü geliştirin, sertifikanızla profesyonel takı tasarım sektöründe fark yaratın."
   },
   {
@@ -3896,7 +3896,7 @@ export const sertifikaCards = [
     "title": "Alüminyum Haddeci",
     "code": "CERT-1736",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1699791914755-78826dec1c40?w=600&h=400&fit=crop",
     "description": "Alüminyum haddeci eğitimi ile üretim sektöründe kariyer yapın, dijital sertifika ile mesleki yeterliliğinizi belgeleyin."
   },
   {
@@ -3906,7 +3906,7 @@ export const sertifikaCards = [
     "title": "Bilgisayar Destekli Makine Ressamı",
     "code": "CERT-1737",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542621334-a254cf47733d?w=600&h=400&fit=crop",
     "description": "Bilgisayar destekli makine ressamı eğitimi ile teknik çizim öğrenin, dijital sertifika ile üretim sektöründe yer alın."
   },
   {
@@ -3916,7 +3916,7 @@ export const sertifikaCards = [
     "title": "Bilgisayarlı Makine İmalatçısı",
     "code": "CERT-1738",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?w=600&h=400&fit=crop",
     "description": "Bilgisayarlı makine imalatçısı eğitimiyle CNC teknolojisini öğrenin, dijital sertifikayla sanayi sektöründe meslek sahibi olun."
   },
   {
@@ -3926,7 +3926,7 @@ export const sertifikaCards = [
     "title": "Blok Çıkarma ve Plaka İmalatçısı",
     "code": "CERT-1739",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=600&h=400&fit=crop",
     "description": "Blok çıkarma ve plaka imalatçısı eğitimiyle taş sektörüne adım atın, dijital sertifika ile mesleki yeterlilik kazanın."
   },
   {
@@ -3936,7 +3936,7 @@ export const sertifikaCards = [
     "title": "Cnc Frezeci",
     "code": "CERT-1740",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1740209475472-aa7d280f7452?w=600&h=400&fit=crop",
     "description": "CNC frezeci eğitimi ile üretim teknolojilerinde uzmanlaşın, e-Devlet üzerinden sorgulanabilir sertifika alın."
   },
   {
@@ -3946,7 +3946,7 @@ export const sertifikaCards = [
     "title": "Cnc Tornacı",
     "code": "CERT-1741",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1666634157070-6fd830fb5672?w=600&h=400&fit=crop",
     "description": "CNC tornacı eğitimi ile üretim sektöründe uzmanlaşın, e-Devlet'te doğrulanabilir sertifika ile kariyer fırsatı yakalayın."
   },
   {
@@ -3956,7 +3956,7 @@ export const sertifikaCards = [
     "title": "Eksantrik Pres Operatörlüğü",
     "code": "CERT-1742",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1717386255773-a456c611dc4e?w=600&h=400&fit=crop",
     "description": "Eksantrik pres operatörlüğü eğitimi ile metal şekillendirmede uzmanlaşın, sertifika alarak üretim sektöründe yerinizi alın."
   },
   {
@@ -3966,7 +3966,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Kalıpçı(Ö.E)",
     "code": "CERT-1743",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1562052579-b30d05e1ec93?w=600&h=400&fit=crop",
     "description": "Endüstriyel kalıpçı eğitimiyle üretim sektörüne adım atın, geçerli sertifika ile kalıp tasarımı alanında uzmanlaşın."
   },
   {
@@ -3976,7 +3976,7 @@ export const sertifikaCards = [
     "title": "Frezeci",
     "code": "CERT-1744",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e?w=600&h=400&fit=crop",
     "description": "Frezeci eğitimi ile metal işleme sektöründe uzmanlaşın, geçerli sertifika ile kariyerinize sağlam bir adım atın."
   },
   {
@@ -3986,7 +3986,7 @@ export const sertifikaCards = [
     "title": "Hacim Kalıpçısı",
     "code": "CERT-1745",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773430263055-54c323a46d14?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1676646606766-f8325cac7faf?w=600&h=400&fit=crop",
     "description": "Hacim kalıpçısı eğitimi ile kalıp üretiminde uzmanlaşın, sertifika ile sektörde avantaj elde edin."
   },
   {
@@ -3996,7 +3996,7 @@ export const sertifikaCards = [
     "title": "Hassas Döküm ve Oto İnşaa Elemanı",
     "code": "CERT-1746",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1488900128323-21503983a07e?w=600&h=400&fit=crop",
     "description": "Hassas döküm ve oto inşaa elemanı eğitimiyle sertifika alın, otomotiv ve metal sektöründe uzmanlık kazanarak iş fırsatlarını artırın."
   },
   {
@@ -4006,7 +4006,7 @@ export const sertifikaCards = [
     "title": "Makine Bakım Onarım Yardımcı Elemanı",
     "code": "CERT-1747",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1610259998914-d1b9afe0dc55?w=600&h=400&fit=crop",
     "description": "Makine Bakım Onarım Yardımcı Elemanı eğitimiyle sertifika alın, endüstride bakım ve onarım alanında uzmanlaşın."
   },
   {
@@ -4016,7 +4016,7 @@ export const sertifikaCards = [
     "title": "Makine Bakım ve Onarımcısı",
     "code": "CERT-1748",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1620374142148-15bb477652c1?w=600&h=400&fit=crop",
     "description": "Makine Bakım ve Onarımcısı eğitimiyle uzmanlaşın, sertifikalı olarak endüstride iş fırsatlarını yakalayın."
   },
   {
@@ -4026,7 +4026,7 @@ export const sertifikaCards = [
     "title": "Mekanik Bakımcı",
     "code": "CERT-1749",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1583198432859-635beb4e8600?w=600&h=400&fit=crop",
     "description": "Mekanik Bakımcı eğitimi ile makinelerin bakım ve onarımında uzmanlaşarak sertifikalı kariyer fırsatları yakalayın."
   },
   {
@@ -4036,7 +4036,7 @@ export const sertifikaCards = [
     "title": "Mermer İşlemeci",
     "code": "CERT-1750",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558346648-9757f2fa4474?w=600&h=400&fit=crop",
     "description": "Mermer İşlemeci eğitimi ile kesim, şekillendirme ve yüzey işlemlerinde uzmanlaşarak sertifikalı iş imkanları yakalayın."
   },
   {
@@ -4046,7 +4046,7 @@ export const sertifikaCards = [
     "title": "Plastik Modelleme Elemanı",
     "code": "CERT-1751",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1642969164999-979483e21601?w=600&h=400&fit=crop",
     "description": "Plastik Modelleme Elemanı eğitimi ile kalıp yapımı ve modellemede uzmanlaşarak sertifikalı iş fırsatları yakalayın."
   },
   {
@@ -4056,7 +4056,7 @@ export const sertifikaCards = [
     "title": "Sac Metal Kalıp İmalatı",
     "code": "CERT-1752",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1715433675788-9e0fb059d928?w=600&h=400&fit=crop",
     "description": "Sac metal kalıp imalatı eğitimi ile sertifika alın, mesleki yetkinlik kazanın. İnci İSG ile kariyerinizi geliştirin."
   },
   {
@@ -4066,7 +4066,7 @@ export const sertifikaCards = [
     "title": "Sac Metal Kalıpçısı",
     "code": "CERT-1753",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1773432114474-c1afba22a339?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1769147339214-076740872485?w=600&h=400&fit=crop",
     "description": "Sac metal kalıpçısı eğitimiyle sertifikanızı alın, üretim sektöründe uzmanlaşın. İnci İSG kariyerinize yön verir."
   },
   {
@@ -4076,7 +4076,7 @@ export const sertifikaCards = [
     "title": "Teknik Resim",
     "code": "CERT-1755",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1721244654392-9c912a6eb236?w=600&h=400&fit=crop",
     "description": "Teknik resim eğitimiyle çizim yeteneğinizi geliştirin, İnci İSG sertifikasıyla iş hayatında fark yaratın."
   },
   {
@@ -4086,7 +4086,7 @@ export const sertifikaCards = [
     "title": "Temel İmalat ve Montaj Elemanı",
     "code": "CERT-1756",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1716194583732-0b9874234218?w=600&h=400&fit=crop",
     "description": "Temel imalat ve montaj elemanı eğitimiyle sertifikanızı alın, üretim sektöründe iş fırsatlarını yakalayın. İnci İSG avantajıyla."
   },
   {
@@ -4096,7 +4096,7 @@ export const sertifikaCards = [
     "title": "Tornacı",
     "code": "CERT-1757",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1739879501339-1c5a2bf1eb46?w=600&h=400&fit=crop",
     "description": "Tornacı eğitimiyle torna becerisi kazanın, İnci İSG sertifikasıyla sanayide aranan uzmanlardan biri olun."
   },
   {
@@ -4106,7 +4106,7 @@ export const sertifikaCards = [
     "title": "Tabaka Ofset Baskı Operatörlüğü",
     "code": "CERT-1758",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581508512961-0e3b9524db40?w=600&h=400&fit=crop",
     "description": "Tabaka ofset baskı operatörlüğü sertifikası alın, baskı sektöründe uzmanlaşın. İnci İSG ile kariyerinize yön verin."
   },
   {
@@ -4116,7 +4116,7 @@ export const sertifikaCards = [
     "title": "Alüminyum Doğrama Panjur ve Balkon Sistemleri",
     "code": "CERT-1759",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1458560871784-56d23406c091?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1560846389-956694677531?w=600&h=400&fit=crop",
     "description": "Alüminyum doğrama panjur ve balkon sistemleri eğitimiyle sertifikanızı alın, İnci İSG ile yapı sektöründe öne çıkın."
   },
   {
@@ -4126,7 +4126,7 @@ export const sertifikaCards = [
     "title": "Cnc Lazer Kesim Elemanı Geliştirme",
     "code": "CERT-1760",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1711418235334-8895331a6cf9?w=600&h=400&fit=crop",
     "description": "Cnc Lazer Kesim Elemanı Geliştirme sertifikanızı alın, üretim sektöründe uzmanlaşın. İnci İSG ile kariyerinizi güçlendirin."
   },
   {
@@ -4136,7 +4136,7 @@ export const sertifikaCards = [
     "title": "Çelik Kaynakçısı",
     "code": "CERT-1761",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1609348632802-b952f368fc3a?w=600&h=400&fit=crop",
     "description": "Çelik kaynakçısı eğitimiyle sertifikanızı alın, İnci İSG ile sektörün aranan ustalarından biri olun."
   },
   {
@@ -4146,7 +4146,7 @@ export const sertifikaCards = [
     "title": "Çelik Yapılandırmacı",
     "code": "CERT-1762",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1557143930-d4e7a86a194f?w=600&h=400&fit=crop",
     "description": "Çelik yapılandırmacı eğitimiyle sertifika alın, İnci İSG ile inşaat sektöründe uzmanlaşarak kariyerinizi güçlendirin."
   },
   {
@@ -4156,7 +4156,7 @@ export const sertifikaCards = [
     "title": "Elektrik Ark Kaynağı",
     "code": "CERT-1763",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1650551182991-b07558247564?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1526634140919-468dc3ae3870?w=600&h=400&fit=crop",
     "description": "Elektrik ark kaynağı eğitimiyle sertifikanızı alın, İnci İSG ile kaynak sektöründe profesyonel olun."
   },
   {
@@ -4166,7 +4166,7 @@ export const sertifikaCards = [
     "title": "Gazaltı (Mig-Mag) Kaynağı",
     "code": "CERT-1764",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558611997-dd5b20e08c71?w=600&h=400&fit=crop",
     "description": "Gazaltı (MIG-MAG) kaynağı eğitimiyle sertifika alın, İnci İSG ile kaynak sektöründe profesyonel kariyer yapın."
   },
   {
@@ -4176,7 +4176,7 @@ export const sertifikaCards = [
     "title": "Nükleer Enerjiyle Çalışan Tesislerde Isıl İşlemci",
     "code": "CERT-1767",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1613970351372-9804e380bd09?w=600&h=400&fit=crop",
     "description": "Nükleer Enerjiyle Çalışan Tesislerde Isıl İşlemci eğitimi ile sertifika alın, İnci İSG sayesinde kritik sektörlerde uzmanlaşarak iş fırsatı yakalayın."
   },
   {
@@ -4186,7 +4186,7 @@ export const sertifikaCards = [
     "title": "Oksi Gaz Kaynağı",
     "code": "CERT-1768",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1508465818649-14a170138405?w=600&h=400&fit=crop",
     "description": "Oksi gaz kaynağı eğitimiyle sertifika alın, İnci İSG ile kaynak sektöründe profesyonel olarak kariyer yapın."
   },
   {
@@ -4196,7 +4196,7 @@ export const sertifikaCards = [
     "title": "Sac ve Metal Mobilyacı",
     "code": "CERT-1769",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1584464595532-de3ef71d11e4?w=600&h=400&fit=crop",
     "description": "Sac ve metal mobilyacı eğitimiyle sertifika alın, İnci İSG ile mobilya sektöründe uzmanlaşarak kariyer fırsatları yakalayın."
   },
   {
@@ -4206,7 +4206,7 @@ export const sertifikaCards = [
     "title": "Sıcak Şekillendirmeci",
     "code": "CERT-1770",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1738162837340-da3e7a323a09?w=600&h=400&fit=crop",
     "description": "Sıcak şekillendirmeci eğitimiyle sertifika alın, İnci İSG ile metal şekillendirme sektöründe uzman olarak kariyer yapın."
   },
   {
@@ -4216,7 +4216,7 @@ export const sertifikaCards = [
     "title": "Tel Halat İmalat Elemanı",
     "code": "CERT-1771",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1451195090173-2e0781d7c33e?w=600&h=400&fit=crop",
     "description": "Tel halat imalat elemanı eğitimiyle sertifika alın, İnci İSG ile üretim sektöründe uzmanlaşarak iş imkanları elde edin."
   },
   {
@@ -4226,7 +4226,7 @@ export const sertifikaCards = [
     "title": "Temel Metal Şekillendirme Elemanı",
     "code": "CERT-1772",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1705490899854-2e4b15a0c811?w=600&h=400&fit=crop",
     "description": "Temel metal şekillendirme elemanı eğitimiyle sertifika alın, İnci İSG ile metal sektöründe iş olanaklarını artırın."
   },
   {
@@ -4236,7 +4236,7 @@ export const sertifikaCards = [
     "title": "Tig Kaynakçılığı",
     "code": "CERT-1773",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1668140736531-d23950307b3c?w=600&h=400&fit=crop",
     "description": "TIG kaynakçılığı eğitimiyle sertifika alın, İnci İSG ile yüksek hassasiyetli kaynak uzmanı olarak kariyer yapın."
   },
   {
@@ -4246,7 +4246,7 @@ export const sertifikaCards = [
     "title": "Almanca A1 Seviyesi",
     "code": "CERT-1919",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&h=400&fit=crop",
     "description": "Almanca A1 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Almanca dil becerilerini kazanın ve belgeleyin."
   },
   {
@@ -4256,7 +4256,7 @@ export const sertifikaCards = [
     "title": "Almanca A2 Seviyesi",
     "code": "CERT-1920",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=600&h=400&fit=crop",
     "description": "Almanca A2 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Almanca iletişim becerilerinde ilerleyin ve belgeleyin."
   },
   {
@@ -4266,7 +4266,7 @@ export const sertifikaCards = [
     "title": "Almanca B1 Seviyesi",
     "code": "CERT-1921",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1711701201402-54745024530a?w=600&h=400&fit=crop",
     "description": "Almanca B1 seviyesi eğitimiyle sertifika alın, İnci İSG ile orta düzey Almanca iletişim ve yazma becerileri kazanın."
   },
   {
@@ -4286,7 +4286,7 @@ export const sertifikaCards = [
     "title": "Arapça A2 Seviyesi",
     "code": "CERT-1923",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=600&h=400&fit=crop",
     "description": "Arapça A2 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Arapça iletişim becerilerinde ilerleyin ve belgeleyin."
   },
   {
@@ -4296,7 +4296,7 @@ export const sertifikaCards = [
     "title": "Arapça B1 Seviyesi",
     "code": "CERT-1924",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=600&h=400&fit=crop",
     "description": "Arapça B1 seviyesi eğitimiyle sertifika alın, İnci İSG ile orta düzey Arapça iletişim ve yazma becerileri kazanın."
   },
   {
@@ -4306,7 +4306,7 @@ export const sertifikaCards = [
     "title": "Bulgarca A1 Seviyesi",
     "code": "CERT-1925",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?w=600&h=400&fit=crop",
     "description": "Bulgarca A1 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Bulgarca dil becerilerini kazanın ve belgeleyin."
   },
   {
@@ -4316,7 +4316,7 @@ export const sertifikaCards = [
     "title": "Bulgarca A2 Seviyesi",
     "code": "CERT-1926",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1562790879-dfde82829db0?w=600&h=400&fit=crop",
     "description": "Bulgarca A2 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Bulgarca iletişim becerilerinde ilerleyin ve belgeleyin."
   },
   {
@@ -4326,7 +4326,7 @@ export const sertifikaCards = [
     "title": "Bulgarca B1 Seviyesi",
     "code": "CERT-1927",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1629385701021-fcd568a743e8?w=600&h=400&fit=crop",
     "description": "Bulgarca B1 seviyesi eğitimiyle sertifika alın, İnci İSG ile orta düzey Bulgarca iletişim ve yazma becerileri kazanın."
   },
   {
@@ -4336,7 +4336,7 @@ export const sertifikaCards = [
     "title": "Çince A1 Seviyesi",
     "code": "CERT-1928",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1559703248-dcaaec9fab78?w=600&h=400&fit=crop",
     "description": "Çince A1 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Çince dil becerilerini kazanın ve belgeleyin."
   },
   {
@@ -4346,7 +4346,7 @@ export const sertifikaCards = [
     "title": "Çince A2 Seviyesi",
     "code": "CERT-1929",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=600&h=400&fit=crop",
     "description": "Çince A2 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Çince iletişim becerilerinde ilerleyin ve belgeleyin."
   },
   {
@@ -4356,7 +4356,7 @@ export const sertifikaCards = [
     "title": "Çince B1 Seviyesi",
     "code": "CERT-1930",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1629385697093-57be2cc97fa6?w=600&h=400&fit=crop",
     "description": "Çince B1 seviyesi eğitimiyle sertifika alın, İnci İSG ile orta düzey Çince dil becerilerinde uzmanlaşın ve belgeleyin."
   },
   {
@@ -4366,7 +4366,7 @@ export const sertifikaCards = [
     "title": "Farsça A1 Seviyesi",
     "code": "CERT-1931",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1629385744299-74b9cf013f52?w=600&h=400&fit=crop",
     "description": "Farsça A1 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Farsça dil becerilerini öğrenin ve belgeleyin."
   },
   {
@@ -4376,7 +4376,7 @@ export const sertifikaCards = [
     "title": "Farsça A2 Seviyesi",
     "code": "CERT-1932",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1628815870980-f416105d89b3?w=600&h=400&fit=crop",
     "description": "Farsça A2 seviyesi eğitimiyle sertifika alın, İnci İSG ile günlük Farsça iletişim becerilerinizde gelişim sağlayın ve belgeleyin."
   },
   {
@@ -4386,7 +4386,7 @@ export const sertifikaCards = [
     "title": "Farsça B1 Seviyesi",
     "code": "CERT-1933",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1477505982272-ead89926a577?w=600&h=400&fit=crop",
     "description": "Farsça B1 seviyesi eğitimiyle sertifika alın, İnci İSG ile orta düzey Farsça iletişim ve yazma becerilerinizi geliştirin."
   },
   {
@@ -4396,7 +4396,7 @@ export const sertifikaCards = [
     "title": "Fransızca A1 Seviyesi",
     "code": "CERT-1934",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1534706936160-d5ee67737249?w=600&h=400&fit=crop",
     "description": "Fransızca A1 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Fransızca dil becerilerini öğrenin ve belgeleyin."
   },
   {
@@ -4406,7 +4406,7 @@ export const sertifikaCards = [
     "title": "Fransızca A2 Seviyesi",
     "code": "CERT-1935",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1592413890637-ea80fb4ed093?w=600&h=400&fit=crop",
     "description": "Fransızca A2 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel Fransızca iletişim becerilerinde ilerleyin ve belgeleyin."
   },
   {
@@ -4416,7 +4416,7 @@ export const sertifikaCards = [
     "title": "Fransızca B1 Seviyesi",
     "code": "CERT-1936",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1646321155308-96c1b84e4685?w=600&h=400&fit=crop",
     "description": "Fransızca B1 seviyesi eğitimiyle sertifika alın, İnci İSG ile orta düzey Fransızca iletişim ve yazma becerilerinizi geliştirin."
   },
   {
@@ -4426,7 +4426,7 @@ export const sertifikaCards = [
     "title": "İbranice A2 Seviyesi",
     "code": "CERT-1937",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1625234969503-49c7f28bc6ec?w=600&h=400&fit=crop",
     "description": "İbranice A2 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel İbranice iletişim becerilerinde ilerleyin ve belgeleyin."
   },
   {
@@ -4436,7 +4436,7 @@ export const sertifikaCards = [
     "title": "İbranice B1 Seviyesi",
     "code": "CERT-1938",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1590080962330-747c6aba8028?w=600&h=400&fit=crop",
     "description": "İbranice B1 seviyesi eğitimiyle sertifika alın, İnci İSG ile orta düzey İbranice iletişim ve yazma becerilerinizi geliştirin."
   },
   {
@@ -4446,7 +4446,7 @@ export const sertifikaCards = [
     "title": "İngilizce A1 Seviyesi",
     "code": "CERT-1939",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?w=600&h=400&fit=crop",
     "description": "İngilizce A1 seviyesi eğitimiyle sertifika alın, İnci İSG ile temel İngilizce dil becerilerini öğrenin ve belgeleyin."
   },
   {
@@ -4456,7 +4456,7 @@ export const sertifikaCards = [
     "title": "İngilizce A1 Seviyesi Kurs Programı",
     "code": "CERT-1940",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1543165796-5426273eaab3?w=600&h=400&fit=crop",
     "description": "İnci İSG İngilizce A1 Seviyesi Kurs Programı sertifika verir. Temel İngilizce öğrenin, belge alın, fırsatları yakalayın."
   },
   {
@@ -4466,7 +4466,7 @@ export const sertifikaCards = [
     "title": "İngilizce A2 Seviyesi",
     "code": "CERT-1941",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1583361704493-d4d4d1b1d70a?w=600&h=400&fit=crop",
     "description": "İnci İSG İngilizce A2 seviyesi kursu uzaktan eğitimle sertifika verir. Günlük İngilizceyi öğrenin, belge alın, fırsatları yakalayın."
   },
   {
@@ -4476,7 +4476,7 @@ export const sertifikaCards = [
     "title": "İngilizce B1 Seviyesi",
     "code": "CERT-1942",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1451226428352-cf66bf8a0317?w=600&h=400&fit=crop",
     "description": "İnci İSG İngilizce B1 seviyesi kursu uzaktan eğitimle sertifika verir. Orta düzey İngilizce öğrenin, belge alın, kariyer fırsatları yakalayın."
   },
   {
@@ -4486,7 +4486,7 @@ export const sertifikaCards = [
     "title": "İspanyolca A1 Seviyesi",
     "code": "CERT-1943",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1706795033849-7ca391f007c5?w=600&h=400&fit=crop",
     "description": "İspanyolca A1 seviyesi kursu ile temel dil bilgisi öğrenin. İnci İSG sertifikasıyla başlangıç seviyenizi belgelendirin ve geliştirin."
   },
   {
@@ -4496,7 +4496,7 @@ export const sertifikaCards = [
     "title": "İspanyolca A2 Seviyesi",
     "code": "CERT-1944",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1706795033855-eee02f726868?w=600&h=400&fit=crop",
     "description": "İspanyolca A2 seviyesi eğitimiyle dil becerilerinizi ilerletin. İnci İSG sertifikasıyla seviyenizi belgeleyin, avantaj kazanın."
   },
   {
@@ -4506,7 +4506,7 @@ export const sertifikaCards = [
     "title": "İspanyolca B1 Seviyesi",
     "code": "CERT-1945",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1706795033917-dee116e7cba2?w=600&h=400&fit=crop",
     "description": "İspanyolca B1 seviyesi eğitimiyle orta düzey dil becerisi kazanın, İnci İSG sertifikasıyla seviyenizi resmi olarak belgeleyin."
   },
   {
@@ -4516,7 +4516,7 @@ export const sertifikaCards = [
     "title": "İtalyanca A1 Seviyesi",
     "code": "CERT-1946",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1629385742818-32909d7b45a2?w=600&h=400&fit=crop",
     "description": "İtalyanca A1 seviyesi kursuyla temel dil becerileri kazanın, İnci İSG’den uzaktan eğitimle sertifikanızı alarak öğrenmeye başlayın."
   },
   {
@@ -4526,7 +4526,7 @@ export const sertifikaCards = [
     "title": "İtalyanca A2 Seviyesi",
     "code": "CERT-1947",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1612639267275-7c4ae6a12d84?w=600&h=400&fit=crop",
     "description": "İtalyanca A2 seviyesi eğitimiyle pratik iletişim becerisi kazanın. İnci İSG sertifikasıyla seviyenizi resmi olarak belgeleyin."
   },
   {
@@ -4536,7 +4536,7 @@ export const sertifikaCards = [
     "title": "İtalyanca B1 Seviyesi",
     "code": "CERT-1948",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1501118347049-aba774d9e0a0?w=600&h=400&fit=crop",
     "description": "İtalyanca B1 seviyesi kursuyla orta düzeyde iletişim öğrenin. İnci İSG sertifikasıyla dil seviyenizi resmi olarak belgeleyin."
   },
   {
@@ -4546,7 +4546,7 @@ export const sertifikaCards = [
     "title": "Japonca A1 Seviyesi",
     "code": "CERT-1949",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1689076758310-92b693fe6b8b?w=600&h=400&fit=crop",
     "description": "Japonca A1 seviyesi kursuyla temel dil becerileri kazanın. İnci İSG’den uzaktan eğitimle sertifikanızı alarak öğrenmeye başlayın."
   },
   {
@@ -4556,7 +4556,7 @@ export const sertifikaCards = [
     "title": "Japonca A2 Seviyesi",
     "code": "CERT-1950",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1629385738750-5617b763a80b?w=600&h=400&fit=crop",
     "description": "Japonca A2 seviyesi kursuyla dil becerilerinizi geliştirin. İnci İSG sertifikasıyla seviyenizi belgeleyin, avantaj kazanın."
   },
   {
@@ -4566,7 +4566,7 @@ export const sertifikaCards = [
     "title": "Japonca B1 Seviyesi",
     "code": "CERT-1951",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1636696301991-3e176a6b77dc?w=600&h=400&fit=crop",
     "description": "Japonca B1 seviyesi kursuyla orta düzey iletişim öğrenin. İnci İSG sertifikasıyla dil seviyenizi resmi olarak belgeleyin."
   },
   {
@@ -4576,7 +4576,7 @@ export const sertifikaCards = [
     "title": "Korece A1 Seviyesi",
     "code": "CERT-1952",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1579954115567-dff2eeb6fdeb?w=600&h=400&fit=crop",
     "description": "Korece A1 seviyesi kursuyla temel dil becerileri kazanın. İnci İSG’den uzaktan eğitimle sertifikanızı alarak öğrenmeye başlayın."
   },
   {
@@ -4586,7 +4586,7 @@ export const sertifikaCards = [
     "title": "Korece A2 Seviyesi",
     "code": "CERT-1953",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1657225953401-5f95007fc8e0?w=600&h=400&fit=crop",
     "description": "Korece A2 seviyesi eğitimiyle pratik dil becerilerinizi geliştirin. İnci İSG’den uzaktan eğitim alarak sertifikanızı hemen kazanın."
   },
   {
@@ -4596,7 +4596,7 @@ export const sertifikaCards = [
     "title": "Korece B1 Seviyesi",
     "code": "CERT-1954",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1768321902691-082df3e874cf?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1562812018-e84e725bc968?w=600&h=400&fit=crop",
     "description": "Korece B1 seviyesi eğitimiyle dil yetkinliğinizi artırın. İnci İSG sertifikasıyla resmi belgelendirme avantajı sağlayın."
   },
   {
@@ -4606,7 +4606,7 @@ export const sertifikaCards = [
     "title": "Mesleki Almanca (Konaklama)",
     "code": "CERT-1955",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1458560871784-56d23406c091?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1592503286362-34e28f5a5ff7?w=600&h=400&fit=crop",
     "description": "Mesleki Almanca (Konaklama) sektörüne özel Almanca öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki iletişim becerilerinizi geliştirin ve belgelendirin."
   },
   {
@@ -4616,7 +4616,7 @@ export const sertifikaCards = [
     "title": "Mesleki Almanca (Seyahat)",
     "code": "CERT-1956",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&h=400&fit=crop",
     "description": "Mesleki Almanca (Seyahat) alanında Almanca iletişim öğrenin. İnci İSG sertifikasıyla kariyerinize avantaj kazandırın, resmi belge edinin."
   },
   {
@@ -4626,7 +4626,7 @@ export const sertifikaCards = [
     "title": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Bar)",
     "code": "CERT-1957",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1682357015040-1b45c90b8721?w=600&h=400&fit=crop",
     "description": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Bar) Almanca konuşma öğrenin. İnci İSG sertifikalı uzaktan eğitimle dil bilginizi geliştirin ve belgeleyin."
   },
   {
@@ -4636,7 +4636,7 @@ export const sertifikaCards = [
     "title": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Mutfak)",
     "code": "CERT-1958",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1732304722020-be33345c00c3?w=600&h=400&fit=crop",
     "description": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Mutfak) alanında Almanca öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki iletişim becerilerinizi geliştirin ve belgelendirin."
   },
   {
@@ -4646,7 +4646,7 @@ export const sertifikaCards = [
     "title": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Pastacılık)",
     "code": "CERT-1959",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1676487093282-f6a47e02848f?w=600&h=400&fit=crop",
     "description": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Pastacılık) sektörüne özel Almanca öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki iletişim becerilerinizi geliştirin."
   },
   {
@@ -4656,7 +4656,7 @@ export const sertifikaCards = [
     "title": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Servis)",
     "code": "CERT-1960",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1630620201138-3ede5ee10f48?w=600&h=400&fit=crop",
     "description": "Mesleki Almanca (Yiyecek İçecek Hizmetleri Servis) sektöründe Almanca öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki dil becerilerinizi geliştirin ve belgeleyin."
   },
   {
@@ -4666,7 +4666,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Çevre Hizmetleri)",
     "code": "CERT-1961",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Çevre Hizmetleri) İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki becerilerinizi geliştirin ve belgeleyin."
   },
   {
@@ -4676,7 +4676,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Ev ve Kurum Hizmetleri)",
     "code": "CERT-1962",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1585421514738-01798e348b17?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Ev ve Kurum Hizmetleri) İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki dil becerilerinizi belgelendirin."
   },
   {
@@ -4686,7 +4686,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Sosyal Destek Hizmetleri)",
     "code": "CERT-1963",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Sosyal Destek Hizmetleri) İngilizce öğrenin. İnci İSG uzaktan eğitimle mesleki dil becerilerinizi geliştirin, sertifikanızı alın."
   },
   {
@@ -4696,7 +4696,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Tüketici Hizmetleri)",
     "code": "CERT-1964",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Aile ve Tüketici Hizmetleri Tüketici Hizmetleri) İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle müşteri iletişim becerilerinizi geliştirin ve belgeleyin."
   },
   {
@@ -4706,7 +4706,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Bilişim Teknolojileri)",
     "code": "CERT-1965",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Bilişim Teknolojileri) alanında İngilizce becerilerinizi artırın. İnci İSG sertifikalı eğitimle teknik terimleri öğrenin ve belgeleyin."
   },
   {
@@ -4716,7 +4716,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Büro Yönetimi)",
     "code": "CERT-1966",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Büro Yönetimi) İngilizce becerilerinizi artırın. İnci İSG uzaktan eğitimle sertifikanızı alarak dil yeterliliğinizi belgelendirin."
   },
   {
@@ -4726,7 +4726,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Denizcilik)",
     "code": "CERT-1967",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Denizcilik) sektörüne özel İngilizce öğrenin. İnci İSG uzaktan eğitimle resmi sertifika alın, uluslararası iletişimde öne çıkın."
   },
   {
@@ -4736,7 +4736,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Eğlence Hizmetleri)",
     "code": "CERT-1968",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Eğlence Hizmetleri) İngilizce iletişim öğrenin. İnci İSG sertifikalı eğitimle mesleki dil becerilerinizi geliştirin ve belgeleyin."
   },
   {
@@ -4746,7 +4746,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (El Sanatları)",
     "code": "CERT-1969",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1526045431048-f857369baa09?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (El Sanatları) alanında İngilizce öğrenin. İnci İSG uzaktan eğitimle mesleki iletişiminizi geliştirin, geçerli sertifikanızı alın."
   },
   {
@@ -4756,7 +4756,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Giyim Üretim Teknoloji)",
     "code": "CERT-1970",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Giyim Üretim Teknoloji) İngilizce öğrenin. İnci İSG uzaktan eğitimle mesleki dil bilginizi geliştirin, geçerli sertifika sahibi olun."
   },
   {
@@ -4766,7 +4766,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Güzellik Ve Sac Bakım Hizmetleri)",
     "code": "CERT-1971",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1583209814683-c023dd293cc6?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Güzellik Ve Sac Bakım Hizmetleri) İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki dil becerilerinizi geliştirin."
   },
   {
@@ -4776,7 +4776,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Halkla ilişkiler ve Organizasyon Hizmetleri)",
     "code": "CERT-1972",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Halkla ilişkiler ve Organizasyon Hizmetleri) İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki iletişim becerilerinizi artırın ve belgeleyin."
   },
   {
@@ -4786,7 +4786,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Konaklama)",
     "code": "CERT-1973",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Konaklama) sektöründe İngilizce öğrenin. İnci İSG uzaktan eğitimle sertifikanızı alın, mesleki iletişimde fark yaratın."
   },
   {
@@ -4796,7 +4796,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Kuyumculuk Teknolojisi)",
     "code": "CERT-1974",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1531995811006-35cb42e1a022?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Kuyumculuk Teknolojisi) sektörüne özel İngilizce öğrenin. İnci İSG uzaktan eğitimle mesleki İngilizce sertifikası alarak iletişim gücünüzü artırın."
   },
   {
@@ -4806,7 +4806,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Meteoroloji)",
     "code": "CERT-1975",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Meteoroloji) alanında İngilizce öğrenin. İnci İSG ile uzaktan eğitim alarak teknik dil becerilerinizi geliştirin, sertifika kazanın."
   },
   {
@@ -4816,7 +4816,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Muhasebe ve Finansman Bilgisayarlı Muhasebe)",
     "code": "CERT-1976",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Muhasebe ve Finansman Bilgisayarlı Muhasebe) alanında İngilizce öğrenin. İnci İSG ile bilgisayarlı muhasebede geçerli sertifikayla uzmanlaşın."
   },
   {
@@ -4826,7 +4826,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Muhasebe ve Finansman Dış Ticaret Ofis Hizmetleri)",
     "code": "CERT-1977",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1493409137604-0901c55e4456?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Muhasebe ve Finansman Dış Ticaret Ofis Hizmetleri) İngilizceyi öğrenin. İnci İSG ile uzaktan eğitim alın, sertifikanızla kariyerinize yön verin."
   },
   {
@@ -4836,7 +4836,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Muhasebe ve Finansman Finans ve Borsa Hizmetleri)",
     "code": "CERT-1978",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Muhasebe ve Finansman Finans ve Borsa Hizmetleri) İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki dil bilginizi belgeleyin."
   },
   {
@@ -4846,7 +4846,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Pazarlama ve Perakende)",
     "code": "CERT-1979",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Pazarlama ve Perakende) sektörüne özel İngilizce öğrenin. İnci İSG uzaktan eğitimle sertifika alarak iletişim gücünüzü artırın."
   },
   {
@@ -4856,7 +4856,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Sağlık)",
     "code": "CERT-1980",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Sağlık) sektöründe İngilizce iletişim öğrenin. İnci İSG uzaktan eğitimle mesleki dil becerilerinizi geliştirin, geçerli sertifika alın."
   },
   {
@@ -4866,7 +4866,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Seyahat)",
     "code": "CERT-1981",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542296332-2e4473faf563?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Seyahat) sektöründe İngilizce öğrenin. İnci İSG ile uzaktan eğitim alın, mesleki iletişim becerilerinizi sertifikayla belgeleyin."
   },
   {
@@ -4876,7 +4876,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Tekstil Teknolojisi)",
     "code": "CERT-1982",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Tekstil Teknolojisi) sektörüne özel İngilizce öğrenin. İnci İSG ile uzaktan eğitim alın, meslek İngilizcenizi sertifikayla belgeleyin."
   },
   {
@@ -4886,7 +4886,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Bar)",
     "code": "CERT-1983",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Bar) hizmetlerinde İngilizce iletişim kurun. İnci İSG ile uzaktan eğitim alın, sektörünüze özel geçerli sertifika kazanın."
   },
   {
@@ -4896,7 +4896,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Hosteslik)",
     "code": "CERT-1984",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Hosteslik) hizmetlerinde hosteslik İngilizcesi öğrenin. İnci İSG uzaktan eğitimle geçerli sertifika imkanı sunuyor."
   },
   {
@@ -4906,7 +4906,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Mutfak)",
     "code": "CERT-1985",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1762792809262-938b146e98bb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Mutfak) için İngilizce öğrenin. İnci İSG mutfak İngilizcesi eğitimiyle mesleki gelişiminizi belgeleyin, sertifika alın."
   },
   {
@@ -4916,7 +4916,7 @@ export const sertifikaCards = [
     "title": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Servis)",
     "code": "CERT-1986",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
     "description": "Mesleki İngilizce (Yiyecek İçecek Hizmetleri Servis) İngilizce öğrenin. İnci İSG uzaktan eğitimle sektöre özel sertifika kazanın, iletişim becerinizi artırın."
   },
   {
@@ -4926,7 +4926,7 @@ export const sertifikaCards = [
     "title": "Mesleki İtalyanca (Ayakkabı)",
     "code": "CERT-1987",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&h=400&fit=crop",
     "description": "Mesleki İtalyanca (Ayakkabı) sektöründe mesleki İtalyanca öğrenin. İnci İSG uzaktan eğitimle sertifika alarak mesleki dil bilginizi geliştirin."
   },
   {
@@ -4936,7 +4936,7 @@ export const sertifikaCards = [
     "title": "Mesleki Rusça (Konaklama)",
     "code": "CERT-1988",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=600&h=400&fit=crop",
     "description": "Mesleki Rusça (Konaklama) sektöründe Rusça öğrenin. İnci İSG uzaktan eğitimle sektöre özel sertifika sunar, mesleki dil bilginizi artırır."
   },
   {
@@ -4946,7 +4946,7 @@ export const sertifikaCards = [
     "title": "Mesleki Rusça (Seyahat)",
     "code": "CERT-1989",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
     "description": "Mesleki Rusça (Seyahat) sektöründe Rusça öğrenin. İnci İSG ile uzaktan eğitim alın, mesleki iletişim becerilerinizi sertifikayla belgeleyin."
   },
   {
@@ -4956,7 +4956,7 @@ export const sertifikaCards = [
     "title": "Mesleki Rusça (Yiyecek İçecek Hizmetleri Servis)",
     "code": "CERT-1990",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?w=600&h=400&fit=crop",
     "description": "Mesleki Rusça (Yiyecek İçecek Hizmetleri Servis) Rusça öğrenin. İnci İSG uzaktan eğitimle sertifika kazanın, mesleki dil becerilerinizi geliştirin."
   },
   {
@@ -4966,7 +4966,7 @@ export const sertifikaCards = [
     "title": "Rusça A1 Seviyesi",
     "code": "CERT-1991",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1526578410734-17a617547636?w=600&h=400&fit=crop",
     "description": "Rusça A1 seviyesi öğrenin. İnci İSG uzaktan eğitimle temel Rusça becerilerinizi geliştirin, sertifikanızı alın."
   },
   {
@@ -4976,7 +4976,7 @@ export const sertifikaCards = [
     "title": "Rusça A2 Seviyesi",
     "code": "CERT-1992",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1491736525576-4954bf3e3187?w=600&h=400&fit=crop",
     "description": "Rusça A2 seviyesi günlük iletişiminizi geliştirin. İnci İSG uzaktan eğitimle sertifikanızı alın, pratik yapın."
   },
   {
@@ -4986,7 +4986,7 @@ export const sertifikaCards = [
     "title": "Rusça B1 Seviyesi",
     "code": "CERT-1993",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1723559168336-1a79b1147b13?w=600&h=400&fit=crop",
     "description": "Rusça B1 seviyesi akıcı iletişim kurun. İnci İSG ile uzaktan eğitim alın, geçerli sertifikayla dil seviyenizi belgeleyin."
   },
   {
@@ -4996,7 +4996,7 @@ export const sertifikaCards = [
     "title": "Teknik İngilizce (Denizcilik Gemi Makineleri)",
     "code": "CERT-1994",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1493397212122-2b85dda8106b?w=600&h=400&fit=crop",
     "description": "Teknik İngilizce (Denizcilik Gemi Makineleri) İngilizce iletişim kurun. Gemi makinelerine özel teknik terimleri öğrenin, İnci İSG sertifikasıyla yetkinliğinizi belgeleyin."
   },
   {
@@ -5006,7 +5006,7 @@ export const sertifikaCards = [
     "title": "Teknik İngilizce (Endüstriyel Otomasyon Teknolojileri)",
     "code": "CERT-1995",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558054665-fbe00cd7d920?w=600&h=400&fit=crop",
     "description": "Teknik İngilizce (Endüstriyel Otomasyon Teknolojileri) için teknik İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki dil yetkinliğinizi geliştirin."
   },
   {
@@ -5016,7 +5016,7 @@ export const sertifikaCards = [
     "title": "Teknik İngilizce (Gemi Yapımı)",
     "code": "CERT-1996",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494891848038-7bd202a2afeb?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1636892909247-8357a029ce91?w=600&h=400&fit=crop",
     "description": "Teknik İngilizce (Gemi Yapımı) kullanılan İngilizceyi öğrenin. İnci İSG uzaktan eğitimle sertifika veriyor, mesleki dil bilginizi güçlendirin."
   },
   {
@@ -5026,7 +5026,7 @@ export const sertifikaCards = [
     "title": "Teknik İngilizce (Makine Teknolojisi)",
     "code": "CERT-1997",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?w=600&h=400&fit=crop",
     "description": "Teknik İngilizce (Makine Teknolojisi) özel İngilizce öğrenin. İnci İSG uzaktan eğitimle teknik terimleri kavrayın, sertifikanızı e-Devlet’te görün."
   },
   {
@@ -5036,7 +5036,7 @@ export const sertifikaCards = [
     "title": "Teknik İngilizce (Metal Teknolojisi)",
     "code": "CERT-1998",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1714504904786-b6732390b206?w=600&h=400&fit=crop",
     "description": "Teknik İngilizce (Metal Teknolojisi) için teknik İngilizce öğrenin. İnci İSG uzaktan eğitimle sertifika veriyor, mesleki dil bilginizi güçlendiriyor."
   },
   {
@@ -5046,7 +5046,7 @@ export const sertifikaCards = [
     "title": "Teknik İngilizce (Metalurji Teknolojisi)",
     "code": "CERT-1999",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1697281679321-a9ce55ce0a8f?w=600&h=400&fit=crop",
     "description": "Teknik İngilizce (Metalurji Teknolojisi) teknik İngilizce öğrenin. İnci İSG uzaktan eğitimle sertifika verir, mesleki dil bilginizi artırır."
   },
   {
@@ -5056,7 +5056,7 @@ export const sertifikaCards = [
     "title": "Teknik İngilizce (Motorlu Araçlar Teknolojisi)",
     "code": "CERT-2000",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
     "description": "Teknik İngilizce (Motorlu Araçlar Teknolojisi) için teknik İngilizce öğrenin. İnci İSG sertifikalı uzaktan eğitimle mesleki becerilerinizi geliştirin."
   },
   {
@@ -5066,7 +5066,7 @@ export const sertifikaCards = [
     "title": "Türkçe A1 Seviyesi Harmanlanmış Model Kurs Programı",
     "code": "CERT-2001",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1715017245474-5533582014a3?w=600&h=400&fit=crop",
     "description": "Türkçe A1 Seviyesi Harmanlanmış Model Kurs Programı temel dil becerileri öğrenin. İnci İSG yüz yüze ve online sertifika verir."
   },
   {
@@ -5076,7 +5076,7 @@ export const sertifikaCards = [
     "title": "Türkçe A2 Seviyesi Harmanlanmış Model Kurs Programı",
     "code": "CERT-2002",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1715017245338-8fcf99ec025a?w=600&h=400&fit=crop",
     "description": "Türkçe A2 Seviyesi Harmanlanmış Model Kurs Programı iletişiminizi geliştirin. İnci İSG yüz yüze ve online eğitimle sertifika sunar."
   },
   {
@@ -5086,7 +5086,7 @@ export const sertifikaCards = [
     "title": "Türkçe B1 Seviyesi Harmanlanmış Model Kurs Programı",
     "code": "CERT-2003",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1715017245371-0cd8c6c56a80?w=600&h=400&fit=crop",
     "description": "Türkçe B1 Seviyesi Harmanlanmış Model Kurs Programı orta seviyede iletişim öğrenin. İnci İSG sertifikalı yüz yüze ve online eğitim."
   },
   {
@@ -5096,7 +5096,7 @@ export const sertifikaCards = [
     "title": "Urduca A1 Seviyesi",
     "code": "CERT-2004",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1515037028865-0a2a82603f7c?w=600&h=400&fit=crop",
     "description": "Urduca A1 Seviyesi temel dil bilgisi öğrenin. İnci İSG uzaktan eğitimle sertifika veriyor, başlangıç için ideal kurs."
   },
   {
@@ -5106,7 +5106,7 @@ export const sertifikaCards = [
     "title": "Urduca A2 Seviyesi",
     "code": "CERT-2005",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1516559828984-fb3b99548b21?w=600&h=400&fit=crop",
     "description": "Urduca A2 Seviyesi kursuyla temel konuşma becerilerinizi artırın. İnci İSG uzaktan eğitimle sertifika sunuyor, iletişiminizi güçlendirin."
   },
   {
@@ -5116,7 +5116,7 @@ export const sertifikaCards = [
     "title": "Uygur Türkçesi A1",
     "code": "CERT-2006",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1592312797411-492bdfdedd88?w=600&h=400&fit=crop",
     "description": "Uygur Türkçesi A1 seviyesi temel dil becerileri kazanın. İnci İSG uzaktan eğitimle sertifika imkânı sunar."
   },
   {
@@ -5126,7 +5126,7 @@ export const sertifikaCards = [
     "title": "Uygur Türkçesi A2",
     "code": "CERT-2007",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1669745283125-abd02f1299fa?w=600&h=400&fit=crop",
     "description": "Uygur Türkçesi A2 seviyesiyle iletişim becerilerinizi geliştirin. İnci İSG uzaktan eğitimle sertifika imkânı sağlar."
   },
   {
@@ -5136,7 +5136,7 @@ export const sertifikaCards = [
     "title": "Yabancılar İçin Türkçe Seviye A1",
     "code": "CERT-2008",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1744995380735-3742027e5c32?w=600&h=400&fit=crop",
     "description": "Yabancılar İçin Türkçe Seviye A1 kursuyla temel dil öğrenin. İnci İSG uzaktan eğitimle sertifika sağlar, resmi geçerlidir."
   },
   {
@@ -5146,7 +5146,7 @@ export const sertifikaCards = [
     "title": "Yabancılar İçin Türkçe Seviye A2",
     "code": "CERT-2009",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1610561719462-803de32516b1?w=600&h=400&fit=crop",
     "description": "Yabancılar İçin Türkçe Seviye A2 kursuyla temel iletişiminizi güçlendirin. İnci İSG sertifikalı uzaktan eğitim imkânı sunar."
   },
   {
@@ -5156,7 +5156,7 @@ export const sertifikaCards = [
     "title": "Yabancılar İçin Türkçe Seviye B1",
     "code": "CERT-2010",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1661887182985-585e9094f3c1?w=600&h=400&fit=crop",
     "description": "Yabancılar İçin Türkçe Seviye B1kursuyla orta seviyede iletişim öğrenin. İnci İSG uzaktan eğitimle sertifika verir."
   },
   {
@@ -5166,7 +5166,7 @@ export const sertifikaCards = [
     "title": "Yabancılara Türkçe Öğretimi (13-17 Yaş)1 Seviye",
     "code": "CERT-2011",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=600&h=400&fit=crop",
     "description": "Yabancılara Türkçe Öğretimi (13-17 Yaş)1 Seviye kursuyla temel beceriler kazanın. İnci İSG sertifika sunar."
   },
   {
@@ -5176,7 +5176,7 @@ export const sertifikaCards = [
     "title": "Yabancılara Türkçe Öğretimi (13-17 Yaş) 2 Seviye",
     "code": "CERT-2012",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581726707445-75cbe4efc586?w=600&h=400&fit=crop",
     "description": "Yabancılara Türkçe Öğretimi (13-17 Yaş)2 Seviye kursuyla iletişimi geliştirin. İnci İSG sertifika sunar."
   },
   {
@@ -5186,7 +5186,7 @@ export const sertifikaCards = [
     "title": "Yabancılara Türkçe Öğretimi (13-17 Yaş)3 Seviye",
     "code": "CERT-2013",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
     "description": "Yabancılara Türkçe Öğretimi (13-17 Yaş)3 Seviye kursuyla orta düzey iletişim kurun. İnci İSG sertifika sunar."
   },
   {
@@ -5196,7 +5196,7 @@ export const sertifikaCards = [
     "title": "Yabancılara Türkçe Öğretimi (6-12 Yaş)1 Seviye",
     "code": "CERT-2014",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=600&h=400&fit=crop",
     "description": "Yabancılara Türkçe Öğretimi (6-12 Yaş)1 Seviye eğitimi. İnci İSG uzaktan eğitimle sertifika imkânı sunar."
   },
   {
@@ -5206,7 +5206,7 @@ export const sertifikaCards = [
     "title": "Yabancılara Türkçe Öğretimi (6-12 Yaş)2 Seviye",
     "code": "CERT-2015",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1664382953518-4a664ab8a8c9?w=600&h=400&fit=crop",
     "description": "Yabancılara Türkçe Öğretimi (6-12 Yaş)2 Seviye kursu. İnci İSG sertifikalı uzaktan eğitim programı sunar."
   },
   {
@@ -5216,7 +5216,7 @@ export const sertifikaCards = [
     "title": "Yabancılara Türkçe Öğretimi (6-12 Yaş)3 Seviye",
     "code": "CERT-2016",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1561089489-f13d5e730d72?w=600&h=400&fit=crop",
     "description": "Yabancılara Türkçe Öğretimi (6-12 Yaş)3 Seviye kursu. İnci İSG sertifikalı uzaktan eğitim fırsatı sunar."
   },
   {
@@ -5226,7 +5226,7 @@ export const sertifikaCards = [
     "title": "Yunanca A1 Seviyesi",
     "code": "CERT-2017",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1627373717559-17b8b84b2c84?w=600&h=400&fit=crop",
     "description": "Yunanca A1 seviyesi kursuyla temel Yunanca öğrenin. İnci İSG uzaktan eğitimle sertifika sunar, resmi geçerlidir."
   },
   {
@@ -5236,7 +5236,7 @@ export const sertifikaCards = [
     "title": "Yunanca A2 Seviyesi",
     "code": "CERT-2018",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1709378518343-f8f6516395f4?w=600&h=400&fit=crop",
     "description": "Yunanca A2 Seviyesi kursuyla günlük iletişim becerilerinizi geliştirin. İnci İSG sertifikalı uzaktan eğitim fırsatı sunar."
   },
   {
@@ -5246,7 +5246,7 @@ export const sertifikaCards = [
     "title": "Yunanca B1 Seviyesi",
     "code": "CERT-2019",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1650419741906-1cdead9c9b4f?w=600&h=400&fit=crop",
     "description": "Yunanca B1 seviyesi kursuyla orta düzeyde iletişim becerilerinizi geliştirin. İnci İSG sertifikalı uzaktan eğitim sunar."
   },
   {
@@ -5256,7 +5256,7 @@ export const sertifikaCards = [
     "title": "Aşçı",
     "code": "CERT-2020",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?w=600&h=400&fit=crop",
     "description": "İnci İSG Aşçı kursu ile mutfak becerilerinizi geliştirin, uzaktan eğitim ve resmi sertifika fırsatıyla belge alın."
   },
   {
@@ -5266,7 +5266,7 @@ export const sertifikaCards = [
     "title": "Aşçı Yardımcısı",
     "code": "CERT-2021",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?w=600&h=400&fit=crop",
     "description": "İnci İSG Aşçı Yardımcısı kursu ile temel mutfak becerileri öğrenin, uzaktan eğitim ve sertifika alın."
   },
   {
@@ -5276,7 +5276,7 @@ export const sertifikaCards = [
     "title": "Bar Komisi",
     "code": "CERT-2022",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=600&h=400&fit=crop",
     "description": "İnci İSG Bar Komisi kursu ile bar hizmetlerini öğrenin, uzaktan eğitimle sertifika alıp mesleğe sağlam adım atın."
   },
   {
@@ -5286,7 +5286,7 @@ export const sertifikaCards = [
     "title": "Bar Servis Elemanı",
     "code": "CERT-2023",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=600&h=400&fit=crop",
     "description": "İnci İSG Bar Servis Elemanı kursuyla profesyonel servis becerileri kazanın, uzaktan eğitim ve resmi sertifika alın."
   },
   {
@@ -5296,7 +5296,7 @@ export const sertifikaCards = [
     "title": "Barista",
     "code": "CERT-2024",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&h=400&fit=crop",
     "description": "İnci İSG Barista kursuyla kahve sanatını öğrenin, uzaktan eğitimle belge alın, kariyerinize profesyonel adım atın."
   },
   {
@@ -5306,7 +5306,7 @@ export const sertifikaCards = [
     "title": "Barmen",
     "code": "CERT-2025",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03?w=600&h=400&fit=crop",
     "description": "İnci İSG Barmen kursuyla bar becerilerinizi geliştirin, uzaktan eğitimle sertifika alın, içecek hizmetinde profesyonelleşin."
   },
   {
@@ -5316,7 +5316,7 @@ export const sertifikaCards = [
     "title": "Bulaşıkçı-Meydancı",
     "code": "CERT-2026",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1574482620811-1aa16ffe3c82?w=600&h=400&fit=crop",
     "description": "Bulaşıkçı-Meydancı kursuyla hijyen ve temizlik bilgisi edinin, uzaktan eğitimle geçerli sertifika sahibi olun."
   },
   {
@@ -5326,7 +5326,7 @@ export const sertifikaCards = [
     "title": "Bulaşıkhane Görevlisi",
     "code": "CERT-2027",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1584744646898-40ff0404e767?w=600&h=400&fit=crop",
     "description": "İnci İSG Bulaşıkhane Görevlisi kursuyla hijyen eğitimi alın, uzaktan eğitimle belge ve resmi sertifika sahibi olun."
   },
   {
@@ -5336,7 +5336,7 @@ export const sertifikaCards = [
     "title": "Döner Hazırlama",
     "code": "CERT-2028",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1558030006-450675393462?w=600&h=400&fit=crop",
     "description": "İnci İSG Döner Hazırlama kursuyla döner yapımını öğrenin, uzaktan eğitimle belge alın, profesyonel sertifika sahibi olun."
   },
   {
@@ -5346,7 +5346,7 @@ export const sertifikaCards = [
     "title": "Kantin İşletmecisi",
     "code": "CERT-2029",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?w=600&h=400&fit=crop",
     "description": "İnci İSG Kantin İşletmecisi kursuyla hijyen ve işletme bilgisi öğrenin, uzaktan eğitimle resmi sertifika sahibi olun."
   },
   {
@@ -5356,7 +5356,7 @@ export const sertifikaCards = [
     "title": "Mutfak Elemanı",
     "code": "CERT-2030",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1588416820614-f8d6ac6cea56?w=600&h=400&fit=crop",
     "description": "İnci İSG Mutfak Elemanı kursuyla mutfak becerileri kazanın, uzaktan eğitimle belge ve resmi sertifika sahibi olun."
   },
   {
@@ -5366,7 +5366,7 @@ export const sertifikaCards = [
     "title": "Pastacı",
     "code": "CERT-2031",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=600&h=400&fit=crop",
     "description": "İnci İSG Pastacı kursuyla pasta yapımını öğrenin, uzaktan eğitimle belge alın, profesyonel sertifikayla mutfakta uzmanlaşın."
   },
   {
@@ -5376,7 +5376,7 @@ export const sertifikaCards = [
     "title": "Pastane Elemanı",
     "code": "CERT-2032",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&h=400&fit=crop",
     "description": "İnci İSG Pastane Elemanı kursuyla temel pastane becerilerini öğrenin, uzaktan eğitimle belge ve resmi sertifika alın."
   },
   {
@@ -5386,7 +5386,7 @@ export const sertifikaCards = [
     "title": "Pide Yapımı",
     "code": "CERT-2033",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1628281161295-269ade51d28d?w=600&h=400&fit=crop",
     "description": "İnci İSG Pide Yapımı kursuyla pide ustalığını öğrenin, uzaktan eğitimle belge alın, sektörde sertifika sahibi olun."
   },
   {
@@ -5396,7 +5396,7 @@ export const sertifikaCards = [
     "title": "Pizza Yapımı",
     "code": "CERT-2034",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600&h=400&fit=crop",
     "description": "İnci İSG Pizza Yapımı kursuyla pizza ustalığını öğrenin, uzaktan eğitimle belge alın, resmi sertifikayla mesleğinizi geliştirin."
   },
   {
@@ -5406,7 +5406,7 @@ export const sertifikaCards = [
     "title": "Servis Elemanı (Garson)",
     "code": "CERT-2035",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=600&h=400&fit=crop",
     "description": "İnci İSG Servis Elemanı (Garson) kursuyla garsonluk eğitimi alın, uzaktan eğitimle belge sahibi olun, sektöre profesyonel adım atın."
   },
   {
@@ -5416,7 +5416,7 @@ export const sertifikaCards = [
     "title": "Servis Görevlisi",
     "code": "CERT-2036",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1566670735914-b2038696981d?w=600&h=400&fit=crop",
     "description": "İnci İSG Servis Görevlisi kursuyla profesyonel servis becerileri öğrenin, uzaktan eğitimle belge ve geçerli sertifika kazanın."
   },
   {
@@ -5426,7 +5426,7 @@ export const sertifikaCards = [
     "title": "Servis Komisi",
     "code": "CERT-2037",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1744793981680-1914b08bf994?w=600&h=400&fit=crop",
     "description": "İnci İSG Servis Komisi kursuyla destek servis becerileri kazanın, uzaktan eğitimle belge ve geçerli sertifika sahibi olun."
   },
   {
@@ -5436,7 +5436,7 @@ export const sertifikaCards = [
     "title": "Türk Mutfağı",
     "code": "CERT-2038",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1503453776591-b4548af666a2?w=600&h=400&fit=crop",
     "description": "İnci İSG Türk Mutfağı kursuyla geleneksel lezzetleri öğrenin, uzaktan eğitimle sertifika alın, mesleki mutfak becerisi kazanın."
   },
   {
@@ -5446,7 +5446,7 @@ export const sertifikaCards = [
     "title": "Yaş Pasta Yapımı",
     "code": "CERT-2039",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1583338917451-face2751d8d5?w=600&h=400&fit=crop",
     "description": "İnci İSG Yaş Pasta Yapımı kursuyla profesyonel pasta tekniklerini öğrenin, uzaktan eğitimle belge ve sertifika kazanın."
   },
   {
@@ -5456,7 +5456,7 @@ export const sertifikaCards = [
     "title": "Su Yalıtımcısı Seviye 3",
     "code": "CERT-2043",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1768321902399-61e58a35413c?w=600&h=400&fit=crop",
     "description": "İnci İSG Su Yalıtımcısı Seviye 3 belgesi, adayların mesleki bilgi, beceri ve yetkinliklerini sınavla güvenilir şekilde belgelendirir."
   },
   {
@@ -5466,7 +5466,7 @@ export const sertifikaCards = [
     "title": "Sıvacı Seviye 3",
     "code": "CERT-2044",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519806870789-d65fc19601fa?w=600&h=400&fit=crop",
     "description": "İnci İSG Sıvacı Seviye 3 belgesi, adayların mesleki bilgi, beceri ve yetkinliklerini güvenilir şekilde sınavla belgelendirir."
   },
   {
@@ -5476,7 +5476,7 @@ export const sertifikaCards = [
     "title": "Seramik Karo Kaplamacısı Seviye 3",
     "code": "CERT-2045",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1541320779116-ec4a3d4692bc?w=600&h=400&fit=crop",
     "description": "İnci İSG Seramik Karo Kaplamacısı Seviye 3 belgesi, adayların mesleki bilgi, beceri ve yetkinliklerini resmi sınavla belgelendirir."
   },
   {
@@ -5486,7 +5486,7 @@ export const sertifikaCards = [
     "title": "PVC Doğrama Montajcısı Seviye 3",
     "code": "CERT-2046",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1631396328093-e5941f59cf7b?w=600&h=400&fit=crop",
     "description": "İnci İSG PVC Doğrama Montajcısı Seviye 3 belgesi, adayların mesleki bilgi, beceri ve yeterliliklerini resmi olarak sınavla belgelendirir."
   },
   {
@@ -5496,7 +5496,7 @@ export const sertifikaCards = [
     "title": "Plastik Profil Üretim Operatörü (Ekstrüzyon) Seviye 3",
     "code": "CERT-2047",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1621664293078-97e3b80711f8?w=600&h=400&fit=crop",
     "description": "İnci İSG Plastik Profil Üretim Operatörü (Ekstrüzyon) Seviye 3belgesi, adayların bilgi ve mesleki yeterliliklerini sınavla resmi olarak belgelendirir."
   },
   {
@@ -5506,7 +5506,7 @@ export const sertifikaCards = [
     "title": "Plastik Enjeksiyon Üretim Elemanı Seviye 4",
     "code": "CERT-2049",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1727292485858-588c7652ad69?w=600&h=400&fit=crop",
     "description": "Plastik Enjeksiyon Üretim Elemanı Seviye 4 belgesi, İnci İSG tarafından verilen 5 yıl geçerli resmi mesleki yeterlilik belgesidir."
   },
   {
@@ -5516,7 +5516,7 @@ export const sertifikaCards = [
     "title": "Plastik Enjeksiyon Üretim Elemanı Seviye 3",
     "code": "CERT-2050",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1581093803931-46e730e7622e?w=600&h=400&fit=crop",
     "description": "Plastik Enjeksiyon Üretim Elemanı Seviye 3 belgesi, İnci İSG tarafından verilen, 5 yıl geçerli resmi mesleki yeterlilik belgesidir."
   },
   {
@@ -5526,7 +5526,7 @@ export const sertifikaCards = [
     "title": "NC/CNC Tezgâh İşçisi Seviye 4",
     "code": "CERT-2051",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1713371398484-cc4e4f6a262a?w=600&h=400&fit=crop",
     "description": "NC/CNC Tezgâh İşçisi Seviye 4 belgesi, İnci İSG tarafından verilen, 5 yıl geçerli resmi mesleki yeterlilik belgesidir."
   },
   {
@@ -5536,7 +5536,7 @@ export const sertifikaCards = [
     "title": "NC/CNC Tezgâh İşçisi Seviye 3",
     "code": "CERT-2052",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1713371398485-7bde1bde9def?w=600&h=400&fit=crop",
     "description": "NC/CNC Tezgâh İşçisi Seviye 3 belgesi, İnci İSG tarafından verilen, 5 yıl geçerli resmi mesleki yeterlilik belgesidir."
   },
   {
@@ -5546,7 +5546,7 @@ export const sertifikaCards = [
     "title": "Metal Sac İşlemeci Seviye 4",
     "code": "CERT-2053",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1667892702884-faa077e80d7b?w=600&h=400&fit=crop",
     "description": "Metal Sac İşlemeci Seviye 4 belgesi, İnci İSG tarafından verilen, 5 yıl geçerli, resmi mesleki yeterlilik ve beceri belgesidir."
   },
   {
@@ -5556,7 +5556,7 @@ export const sertifikaCards = [
     "title": "Metal Sac İşlemeci Seviye 3",
     "code": "CERT-2054",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1612058237353-6213b412a1c4?w=600&h=400&fit=crop",
     "description": "Metal Sac İşlemeci Seviye 3 belgesi, İnci İSG tarafından verilen, 5 yıl geçerli ve resmi mesleki yeterlilik sağlayan belgedir."
   },
   {
@@ -5566,7 +5566,7 @@ export const sertifikaCards = [
     "title": "Metal Levha İşleme Tezgâh Operatörü Seviye 4",
     "code": "CERT-2055",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1606340671662-27ee685dd111?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1724488038316-b67861d88aec?w=600&h=400&fit=crop",
     "description": "Metal Levha İşleme Tezgâh Operatörü Seviye 4 belgesi, İnci İSG’nin sınavlarıyla alınan, 5 yıl geçerli resmi yeterlilik belgesidir."
   },
   {
@@ -5576,7 +5576,7 @@ export const sertifikaCards = [
     "title": "Metal Levha İşleme Tezgâh İşçisi Seviye 3",
     "code": "CERT-2056",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1760291503363-a656fc9cb979?w=600&h=400&fit=crop",
     "description": "Metal Levha İşleme Tezgâh İşçisi Seviye 3 belgesi, İnci İSG tarafından verilen, 5 yıl geçerli mesleki yeterlilik belgesidir."
   },
   {
@@ -5586,7 +5586,7 @@ export const sertifikaCards = [
     "title": "Metal Kesimci Seviye 3",
     "code": "CERT-2057",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1678794792900-5abfe053682e?w=600&h=400&fit=crop",
     "description": "Metal Kesimci Seviye 3 belgesi, İnci İSG’nin sınavlarıyla verilen, beş yıl geçerli resmi mesleki yeterlilik programıdır."
   },
   {
@@ -5596,7 +5596,7 @@ export const sertifikaCards = [
     "title": "Metal Kesim Operatörü Seviye 4",
     "code": "CERT-2058",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1595234200096-f1c7ccdf26a7?w=600&h=400&fit=crop",
     "description": "Metal Kesim Operatörü Seviye 4 belgesi, İnci İSG tarafından yapılan sınavlarla verilen, beş yıl geçerli mesleki yeterlilik programıdır."
   },
   {
@@ -5606,7 +5606,7 @@ export const sertifikaCards = [
     "title": "Makine Montajcısı Seviye 4",
     "code": "CERT-2059",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1621954938124-02e637ba3584?w=600&h=400&fit=crop",
     "description": "Makine Montajcısı Seviye 4 belgesi, İnci İSG tarafından uygulanan sınavlarla verilen, beş yıl geçerliliği olan resmi yeterliliktir."
   },
   {
@@ -5616,7 +5616,7 @@ export const sertifikaCards = [
     "title": "Makine Montajcısı Seviye 3",
     "code": "CERT-2060",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1700727448686-b314cb5f9948?w=600&h=400&fit=crop",
     "description": "Makine Montajcısı Seviye 3 belgesi, İnci İSG tarafından sınav ve değerlendirmelerle verilen, 5 yıl geçerli resmi yeterlilik belgesidir."
   },
   {
@@ -5626,7 +5626,7 @@ export const sertifikaCards = [
     "title": "Makine Bakımcı Seviye 5",
     "code": "CERT-2061",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1780342383919-ec1cc5515953?w=600&h=400&fit=crop",
     "description": "İnci İSG, Makine Bakımcı Seviye 5 belgesi ile ileri seviye bakım-onarım uzmanlığı kazandırarak sektörde profesyonel kariyer fırsatı sunar."
   },
   {
@@ -5636,7 +5636,7 @@ export const sertifikaCards = [
     "title": "Makine Bakımcı Seviye 4",
     "code": "CERT-2062",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1612466120408-ee30d49df4e3?w=600&h=400&fit=crop",
     "description": "İnci İSG, Makine Bakımcı Seviye 4 belgesi ile makine bakımında uzman, güvenilir ve profesyonel personel yetiştirmektedir."
   },
   {
@@ -5646,7 +5646,7 @@ export const sertifikaCards = [
     "title": "Makine Bakımcı Seviye 3",
     "code": "CERT-2063",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1740240993282-6f3b51bd8314?w=600&h=400&fit=crop",
     "description": "İnci İSG, Makine Bakımcı Seviye 3 belgesi ile makine bakım-onarım alanında yetkin, profesyonel ve güvenilir personel yetiştirir."
   },
   {
@@ -5656,7 +5656,7 @@ export const sertifikaCards = [
     "title": "Kaynak Operatörü Seviye 4",
     "code": "CERT-2065",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1466779561253-0a08336ba2ab?w=600&h=400&fit=crop",
     "description": "İnci İSG, Kaynak Operatörü Seviye 4 belgesi ile metalik malzemelerde mekanize ve otomatik kaynak yetkinliğini sağlar."
   },
   {
@@ -5666,7 +5666,7 @@ export const sertifikaCards = [
     "title": "İskele Kurulum Elemanı Seviye 3",
     "code": "CERT-2066",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519143009590-e3800b9df468?w=600&h=400&fit=crop",
     "description": "İnci İSG, İskele Kurulum Elemanı Seviye 3 belgesi ile inşaat sektöründe güvenli yüksekten çalışma yetkinliğini sağlar."
   },
   {
@@ -5676,7 +5676,7 @@ export const sertifikaCards = [
     "title": "Isı Yalıtımcısı Seviye 3",
     "code": "CERT-2067",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1753363562638-398f75158ea9?w=600&h=400&fit=crop",
     "description": "İnci İSG, Isı Yalıtımcısı Seviye 3 belgesi ile yapıların yalıtım işlerini yapan kişilerin mesleki yeterliliklerini belgelendirir."
   },
   {
@@ -5686,7 +5686,7 @@ export const sertifikaCards = [
     "title": "İnşaat İşçisi Seviye 2",
     "code": "CERT-2068",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1524226210521-77ff136cba2d?w=600&h=400&fit=crop",
     "description": "İnci İSG, İnşaat İşçisi Seviye 2 belgesiyle temel inşaat görevlerinde çalışanların mesleki yeterliliklerini ölçerek belgelendirme yapmaktadır."
   },
   {
@@ -5696,7 +5696,7 @@ export const sertifikaCards = [
     "title": "İnşaat Boyacısı Seviye 3",
     "code": "CERT-2069",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1652829069862-87874e119527?w=600&h=400&fit=crop",
     "description": "İnci İSG, İnşaat Boyacısı Seviye 3 belgesiyle yüzey hazırlığı, koruma ve estetik alanında mesleki yeterlilik belgelendirmesi sağlamaktadır."
   },
   {
@@ -5706,7 +5706,7 @@ export const sertifikaCards = [
     "title": "Endüstriyel Boru Montajcısı Seviye 3",
     "code": "CERT-2070",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1735494033576-9c882e80504c?w=600&h=400&fit=crop",
     "description": "İnci İSG, Endüstriyel Boru Montajcısı Seviye 3 belgesiyle metal sektöründe çalışanların mesleki yeterliliklerini değerlendirip belgelendirme yapmaktadır."
   },
   {
@@ -5716,7 +5716,7 @@ export const sertifikaCards = [
     "title": "Duvarcı Seviye 3",
     "code": "CERT-2071",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1592795694703-24f1814cfb0a?w=600&h=400&fit=crop",
     "description": "İnci İSG, Duvarcı Seviye 3 belgesiyle inşaat sektöründe çalışanların mesleki yeterliliklerini ölçerek resmi belgelendirme hizmeti sunmaktadır."
   },
   {
@@ -5726,7 +5726,7 @@ export const sertifikaCards = [
     "title": "Doğal Gaz Polietilen Boru Kaynakçısı Seviye 4",
     "code": "CERT-2072",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1683470156390-703e9313dab6?w=600&h=400&fit=crop",
     "description": "İnci İSG, Doğal Gaz Polietilen Boru Kaynakçısı Seviye 4 belgesiyle adayların yetkinliklerini ölçerek resmi belgelendirme sağlamaktadır."
   },
   {
@@ -5736,7 +5736,7 @@ export const sertifikaCards = [
     "title": "Doğal Gaz Polietilen Boru Kaynakçısı Seviye 3",
     "code": "CERT-2073",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1522322512347-a0e57fd1744c?w=600&h=400&fit=crop",
     "description": "İnci İSG, Doğal Gaz Polietilen Boru Kaynakçısı Seviye 3 belgesiyle adayların yeterliliklerini ölçerek resmi belgelendirme gerçekleştirmektedir."
   },
   {
@@ -5746,7 +5746,7 @@ export const sertifikaCards = [
     "title": "Doğal Gaz Çelik Boru Kaynakçısı Seviye 3",
     "code": "CERT-2074",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1565313842307-7ef5f013b669?w=600&h=400&fit=crop",
     "description": "İnci İSG, Doğal Gaz Çelik Boru Kaynakçısı Seviye 3 belgelendirme programıyla kaynakçıların yeterliliklerini resmi olarak belgelemektedir."
   },
   {
@@ -5756,7 +5756,7 @@ export const sertifikaCards = [
     "title": "Direnç Kaynak Ayarcısı Seviye 4",
     "code": "CERT-2075",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1565383690591-1ee1b6582cef?w=600&h=400&fit=crop",
     "description": "İnci İSG, Direnç Kaynak Ayarcısı Seviye 4 belgelendirme programıyla adayların bilgi, beceri ve yetkinliklerini resmi olarak belgelemektedir."
   },
   {
@@ -5766,7 +5766,7 @@ export const sertifikaCards = [
     "title": "Çelik Kaynakçısı Seviye 3",
     "code": "CERT-2076",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1501880622860-e1be39410ac1?w=600&h=400&fit=crop",
     "description": "İnci İSG, Çelik Kaynakçısı Seviye 3 belgelendirme programıyla kaynakçıların bilgi, beceri ve yeterliliklerini resmi olarak belgelemektedir."
   },
   {
@@ -5776,7 +5776,7 @@ export const sertifikaCards = [
     "title": "Betoncu Seviye 3",
     "code": "CERT-2079",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1705382063926-e26ac23ecf4e?w=600&h=400&fit=crop",
     "description": "İnci İSG, Betoncu Seviye 3 belgesiyle beton uygulamalarında profesyonel yeterlilik ve güvenilir belgelendirme hizmeti sunmaktadır."
   },
   {
@@ -5786,7 +5786,7 @@ export const sertifikaCards = [
     "title": "Betonarme Demircisi Seviye 3",
     "code": "CERT-2080",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1545193329-4a052e14eb8f?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1685464197144-790d716b8649?w=600&h=400&fit=crop",
     "description": "İnci İSG, Betonarme Demircisi Seviye 3 belgesiyle inşaat sektöründe nitelikli iş gücü ve güvenilir belgelendirme hizmeti sunmaktadır."
   },
   {
@@ -5796,7 +5796,7 @@ export const sertifikaCards = [
     "title": "Alçı Sıva Uygulayıcısı Seviye 3",
     "code": "CERT-2081",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1521194263619-39ecc5b55c61?w=600&h=400&fit=crop",
     "description": "İnci İSG, Alçı Sıva Uygulayıcısı Seviye 3 belgesiyle inşaat sektöründe profesyonel yeterlilik ve güvenilir belgelendirme hizmeti sunmaktadır."
   },
   {
@@ -5806,7 +5806,7 @@ export const sertifikaCards = [
     "title": "Alçı Levha Uygulayıcısı Seviye 3",
     "code": "CERT-2082",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1573247373996-cea1f3e6adf6?w=600&h=400&fit=crop",
     "description": "İnci İSG, Alçı Levha Uygulayıcısı Seviye 3 belgesi ile inşaat sektöründe profesyonel belgelendirme ve sınav hizmeti sunmaktadır."
   },
   {
@@ -5816,7 +5816,7 @@ export const sertifikaCards = [
     "title": "Ahşap Kalıpçı Seviye 3",
     "code": "CERT-2083",
     "duration": "120 Saat",
-    "image": "https://images.unsplash.com/photo-1606340671662-27ee685dd111?w=600&h=400&fit=crop",
+    "image": "https://images.unsplash.com/photo-1575971637203-d6255d9947a9?w=600&h=400&fit=crop",
     "description": "Ahşap Kalıpçı Seviye 3 Mesleki Yeterlilik Belgesi, inşaat sektöründe kalıp işlerinde çalışanların sahip oldukları bilgi, beceri ve yetkinlikleri ulusal standartlara uygun olarak belgelendiren resmi bir sertifikadır. İnci İSG aracılığıyla alınabilen bu belge, hem çalışanların mesleki gelişimini destekler hem de işverenler için güvenilir ve nitelikli iş gücü sağlar. Belge sayesinde çalışanlar, iş güvenliği kurallarına uyum ve mesleki kalite açısından avantaj elde ederken, sektörde kariyer fırsatlarını da artırmış olur. Hemen Başvuru Yap"
   }
 ];
